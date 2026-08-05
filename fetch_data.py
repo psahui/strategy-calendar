@@ -204,9 +204,9 @@ def fetch_details(appids, cache):
 def map_groups(names, groups):
     """Map raw Steam publisher/developer names onto configured display groups."""
     matched = set()
-    lookup = {alias.casefold(): group for group, aliases in groups.items() for alias in aliases}
+    lookup = {alias.strip().casefold(): group for group, aliases in groups.items() for alias in aliases}
     for name in names or []:
-        group = lookup.get((name or "").casefold())
+        group = lookup.get((name or "").strip().casefold())
         if group:
             matched.add(group)
     return sorted(matched)
@@ -214,18 +214,19 @@ def map_groups(names, groups):
 
 def watchlist_match(data, config):
     """True if the app genuinely involves a configured publisher/developer."""
-    aliases = {a.casefold() for aliases in config["publisher_groups"].values() for a in aliases}
-    aliases |= {a.casefold() for aliases in config["developer_groups"].values() for a in aliases}
-    aliases |= {s.casefold() for s in config["publisher_searches"] + config["developer_searches"]}
+    aliases = {a.strip().casefold() for aliases in config["publisher_groups"].values() for a in aliases}
+    aliases |= {a.strip().casefold() for aliases in config["developer_groups"].values() for a in aliases}
+    aliases |= {s.strip().casefold() for s in config["publisher_searches"] + config["developer_searches"]}
     names = (data.get("publishers") or []) + (data.get("developers") or [])
-    return any((n or "").casefold() in aliases for n in names)
+    return any((n or "").strip().casefold() in aliases for n in names)
 
 
 def build_items(appids, cache, config, cutoff_key):
     minor_dlc = [re.compile(p, re.I) for p in config["minor_dlc_patterns"]]
     include = set(config["include_appids"])
     exclude = set(config["exclude_appids"])
-    items, skipped = [], {"type": 0, "watchlist": 0, "minor_dlc": 0, "old": 0, "nodata": 0}
+    items, skipped = [], {"type": 0, "watchlist": 0, "old": 0, "nodata": 0}
+    minor_count = 0
 
     for appid in appids:
         entry = cache.get(str(appid)) or {}
@@ -242,10 +243,12 @@ def build_items(appids, cache, config, cutoff_key):
             skipped["watchlist"] += 1
             continue
         name = data.get("name") or f"App {appid}"
-        if (appid not in include and data["type"] == "dlc"
-                and any(p.search(name) for p in minor_dlc)):
-            skipped["minor_dlc"] += 1
-            continue
+        # Minor DLC (soundtracks, cosmetics…) stays in the data, flagged, so the
+        # frontend can expose it as an explicit checkbox rather than hiding it.
+        is_minor = (appid not in include and data["type"] == "dlc"
+                    and any(p.search(name) for p in minor_dlc))
+        if is_minor:
+            minor_count += 1
 
         release = data.get("release_date") or {}
         coming_soon = bool(release.get("coming_soon"))
@@ -269,6 +272,7 @@ def build_items(appids, cache, config, cutoff_key):
             "appid": appid,
             "name": name,
             "type": data["type"],
+            "kind": "minor_dlc" if is_minor else data["type"],
             "status": status,
             "date_string": raw_date or "Coming soon",
             "precision": precision,
@@ -282,7 +286,7 @@ def build_items(appids, cache, config, cutoff_key):
             "parent": {"appid": int(fullgame["appid"]), "name": fullgame["name"]} if fullgame else None,
         })
 
-    print(f"kept {len(items)} items; skipped {skipped}", flush=True)
+    print(f"kept {len(items)} items ({minor_count} flagged minor DLC); skipped {skipped}", flush=True)
     return items
 
 

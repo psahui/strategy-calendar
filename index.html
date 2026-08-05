@@ -130,6 +130,8 @@
 
 const MONTH_NAMES = ["January","February","March","April","May","June","July","August","September","October","November","December"];
 const STATUS_LABEL = { upcoming: "Upcoming", early_access: "Early Access", released: "Released" };
+// Minor DLC (soundtracks, cosmetics, upgrade packs…) is unchecked by default
+// but visible as a checkbox, so nothing is silently hidden.
 const state = { pubs: new Set(), devs: new Set(), types: new Set(["game","dlc"]), statuses: new Set(["upcoming","early_access","released"]) };
 let DATA = null;
 
@@ -148,15 +150,17 @@ function bucketOf(item) {
 function matches(item) {
   return item.pub_groups.some(g => state.pubs.has(g))
       && item.dev_groups.some(g => state.devs.has(g))
-      && state.types.has(item.type)
+      && state.types.has(item.kind || item.type)
       && state.statuses.has(item.status);
 }
 
 function esc(s) { const d = document.createElement("div"); d.textContent = s; return d.innerHTML; }
 
 function cardHTML(it) {
+  const kind = it.kind || it.type;
+  const kindLabel = kind === "game" ? "Game" : (kind === "minor_dlc" ? "Minor DLC" : "DLC");
   const badges = [
-    `<span class="badge b-${it.type}">${it.type === "dlc" ? "DLC" : "Game"}</span>`,
+    `<span class="badge b-${it.type}">${kindLabel}</span>`,
     `<span class="badge b-${it.status}">${STATUS_LABEL[it.status]}</span>`,
   ].join("");
   const devs = it.developers.join(", ");
@@ -227,7 +231,7 @@ function buildFilters() {
   for (const it of DATA.items) {
     it.pub_groups.forEach(g => pubCounts.set(g, (pubCounts.get(g) || 0) + 1));
     it.dev_groups.forEach(g => devCounts.set(g, (devCounts.get(g) || 0) + 1));
-    typeCounts.set(it.type, (typeCounts.get(it.type) || 0) + 1);
+    typeCounts.set(it.kind || it.type, (typeCounts.get(it.kind || it.type) || 0) + 1);
     statusCounts.set(it.status, (statusCounts.get(it.status) || 0) + 1);
   }
   state.pubs = new Set(DATA.publisher_groups);
@@ -238,7 +242,7 @@ function buildFilters() {
     `<div class="shown-note" id="shown-note"></div>`
     + filterGroup("Publishers", DATA.publisher_groups.map(g => [g]), state.pubs, pubCounts, wide)
     + filterGroup("Developers", DATA.developer_groups.map(g => [g]), state.devs, devCounts, wide)
-    + filterGroup("Type", [["game","Games"],["dlc","DLC"]], state.types, typeCounts, wide)
+    + filterGroup("Type", [["game","Games"],["dlc","DLC"],["minor_dlc","Minor DLC (music, cosmetics…)"]], state.types, typeCounts, wide)
     + filterGroup("Status", [["upcoming","Upcoming"],["early_access","Early Access"],["released","Released"]], state.statuses, statusCounts, wide);
 
   const setFor = title => ({ "Publishers": state.pubs, "Developers": state.devs, "Type": state.types, "Status": state.statuses })[title];
