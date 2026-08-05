@@ -1,0 +1,61 @@
+{
+  "publisher_searches": [
+    "Paradox Interactive",
+    "Hooded Horse",
+    "Slitherine Ltd.",
+    "Matrix Games"
+  ],
+  "developer_searches": [
+    "Ubisoft Mainz",
+    "Creative Assembly",
+    "CREATIVE ASSEMBLY",
+    "Firaxis Games",
+    "Illwinter Game Design",
+    "Amplitude Studios",
+    "AMPLITUDE Studios"
+  ],
+  "publisher_groups": {
+    "Paradox Interactive": ["Paradox Interactive"],
+    "Hooded Horse": ["Hooded Horse"],
+    "Slitherine / Matrix": ["Slitherine Ltd.", "Slitherine", "Matrix Games"]
+  },
+  "developer_groups": {
+    "Paradox Development Studio": ["Paradox Development Studio"],
+    "Paradox Tinto": ["Paradox Tinto"],
+    "Amplitude Studios": ["Amplitude Studios", "AMPLITUDE Studios"],
+    "Pavonis Interactive": ["Pavonis Interactive"],
+    "Mohawk Games": ["Mohawk Games"],
+    "Ubisoft Mainz": ["Ubisoft Mainz", "Ubisoft Blue Byte", "Blue Byte"],
+    "Creative Assembly": ["Creative Assembly", "Creative Assembly Sofia"],
+    "Firaxis Games": ["Firaxis Games", "Firaxis"],
+    "Illwinter Game Design": ["Illwinter Game Design"],
+    "VR Designs": ["VR Designs", "VR-Designs"]
+  },
+  "minor_dlc_patterns": [
+    "soundtrack",
+    "\\bost\\b",
+    "music pack",
+    "music of",
+    "art book",
+    "artbook",
+    "art of ",
+    "e-?book",
+    "\\bnovella?\\b",
+    "wallpaper",
+    "expansion pass",
+    "season pass",
+    "content creator pack",
+    "cosmetic",
+    "\\bskins?\\b",
+    "portrait pack",
+    "digital extras?",
+    "bonus content",
+    "twitch",
+    "upgrade pack",
+    "deluxe edition upgrade",
+    "premium edition upgrade"
+  ],
+  "exclude_appids": [],
+  "include_appids": [],
+  "max_age_months": 12
+}
