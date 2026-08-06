@@ -119,7 +119,7 @@
 <header class="site">
   <div class="wrap">
     <h1>Strategy Release Calendar</h1>
-    <p class="tagline">Upcoming and recent (last 12 months) releases from Paradox, Hooded Horse, Slitherine/Matrix, Ubisoft Mainz, Creative Assembly, Firaxis, Illwinter, Amplitude, Mohawk and more. All data sourced from Steam.</p>
+    <p class="tagline">Upcoming and recent (last 12 months) releases from Paradox, Hooded Horse, Slitherine/Matrix, Ubisoft Mainz, Creative Assembly, Firaxis, Illwinter, Amplitude, Mohawk and more. All data sourced from Steam. Click a game title to visit its Steam page.</p>
   </div>
 </header>
 
@@ -260,7 +260,7 @@ function render() {
   const out = shown.filter(it => it.status !== "upcoming");
   document.getElementById("timeline").innerHTML =
     `<h2 class="section-h">Upcoming</h2>
-     <div class="section-sub">Release dates as stated on each game's Steam page.</div>`
+     <div class="section-sub">Release dates per each game's Steam page.</div>`
     + renderSection(upcoming, { ascending: true })
     + `<h2 class="section-h">Recently released</h2>
        <div class="section-sub">Releases since ${esc(DATA.cutoff)}, newest first.</div>`
