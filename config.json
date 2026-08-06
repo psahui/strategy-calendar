@@ -59,5 +59,6 @@
   ],
   "exclude_appids": [],
   "include_appids": [],
+  "blog_links": {},
   "max_age_months": 12
 }

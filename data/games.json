@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T23:19:50+00:00",
+ "generated_at": "2026-08-06T01:05:14+00:00",
  "cutoff": "2025-08-05",
  "publisher_groups": [
   "Paradox Interactive",
@@ -47,6 +47,13 @@
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 75,
+    "total": 162
    }
   },
   {
@@ -75,6 +82,13 @@
    "parent": {
     "appid": 1072040,
     "name": "Panzer Corps 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 73,
+    "total": 15
    }
   },
   {
@@ -103,6 +117,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Overwhelmingly Negative",
+    "pct": 18,
+    "total": 1076
    }
   },
   {
@@ -128,7 +149,14 @@
    ],
    "url": "https://store.steampowered.com/app/3407390/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/9f2ee6ecca69fa997206c328e095d77b431b0501/capsule_231x87.jpg?t=1785942931",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 83,
+    "total": 2741
+   }
   },
   {
    "appid": 3760760,
@@ -156,6 +184,13 @@
    "parent": {
     "appid": 3407390,
     "name": "ENDLESS Legend\u2122 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 83,
+    "total": 12
    }
   },
   {
@@ -185,6 +220,13 @@
    "parent": {
     "appid": 281990,
     "name": "Stellaris"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 43,
+    "total": 385
    }
   },
   {
@@ -213,6 +255,13 @@
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 70,
+    "total": 327
    }
   },
   {
@@ -241,6 +290,13 @@
    "parent": {
     "appid": 255710,
     "name": "Cities: Skylines"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 80,
+    "total": 15
    }
   },
   {
@@ -269,6 +325,13 @@
    "parent": {
     "appid": 255710,
     "name": "Cities: Skylines"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 50,
+    "total": 10
    }
   },
   {
@@ -297,6 +360,13 @@
    "parent": {
     "appid": 255710,
     "name": "Cities: Skylines"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "8 user reviews",
+    "pct": 75,
+    "total": 8
    }
   },
   {
@@ -325,6 +395,13 @@
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 60,
+    "total": 15
    }
   },
   {
@@ -353,6 +430,13 @@
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 89,
+    "total": 62
    }
   },
   {
@@ -378,7 +462,14 @@
    ],
    "url": "https://store.steampowered.com/app/532790/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532790/88ffb5c9f4564c0760c45e6e4de10ebf60b85a5f/capsule_231x87.jpg?t=1782398753",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 56,
+    "total": 12836
+   }
   },
   {
    "appid": 3992600,
@@ -406,6 +497,13 @@
    "parent": {
     "appid": 532790,
     "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "4 user reviews",
+    "pct": 75,
+    "total": 4
    }
   },
   {
@@ -434,6 +532,13 @@
    "parent": {
     "appid": 532790,
     "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Negative",
+    "pct": 11,
+    "total": 118
    }
   },
   {
@@ -459,7 +564,14 @@
    ],
    "url": "https://store.steampowered.com/app/2289750/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289750/1a3a0d403ae0e924f56f5008d4b914e1c0d81343/capsule_231x87.jpg?t=1785511657",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 87,
+    "total": 5895
+   }
   },
   {
    "appid": 3315530,
@@ -487,6 +599,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 68,
+    "total": 2172
    }
   },
   {
@@ -512,7 +631,14 @@
    ],
    "url": "https://store.steampowered.com/app/3450310/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3450310/316b37af2cab006c4a3900117187223711f3e6f5/capsule_231x87_alt_assets_2.jpg?t=1783587668",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 67,
+    "total": 30153
+   }
   },
   {
    "appid": 3698980,
@@ -540,6 +666,13 @@
    "parent": {
     "appid": 3450310,
     "name": "Europa Universalis V"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 50,
+    "total": 16
    }
   },
   {
@@ -568,6 +701,13 @@
    "parent": {
     "appid": 3450310,
     "name": "Europa Universalis V"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 55,
+    "total": 91
    }
   },
   {
@@ -596,6 +736,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "9 user reviews",
+    "pct": 67,
+    "total": 9
    }
   },
   {
@@ -624,6 +771,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "3 user reviews",
+    "pct": 67,
+    "total": 3
    }
   },
   {
@@ -652,6 +806,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "9 user reviews",
+    "pct": 89,
+    "total": 9
    }
   },
   {
@@ -680,6 +841,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 0,
+    "total": 1
    }
   },
   {
@@ -705,7 +873,14 @@
    ],
    "url": "https://store.steampowered.com/app/2489330/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489330/caaa3b4a34615707722863e102e007034eaa036a/capsule_231x87.jpg?t=1785510320",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 93,
+    "total": 3226
+   }
   },
   {
    "appid": 3215050,
@@ -730,7 +905,14 @@
    ],
    "url": "https://store.steampowered.com/app/3215050/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215050/b62e94f90e2cf76c482fdd102f48feb70b76616b/capsule_231x87.jpg?t=1785520700",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 54,
+    "total": 2089
+   }
   },
   {
    "appid": 3889420,
@@ -758,6 +940,13 @@
    "parent": {
     "appid": 3215050,
     "name": "Surviving Mars: Relaunched"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "8 user reviews",
+    "pct": 75,
+    "total": 8
    }
   },
   {
@@ -786,6 +975,13 @@
    "parent": {
     "appid": 3215050,
     "name": "Surviving Mars: Relaunched"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "5 user reviews",
+    "pct": 80,
+    "total": 5
    }
   },
   {
@@ -814,6 +1010,13 @@
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 189
    }
   },
   {
@@ -839,7 +1042,14 @@
    ],
    "url": "https://store.steampowered.com/app/3274580/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274580/2a50b884fd1739a68165fc41af8130197f6c57a4/capsule_231x87.jpg?t=1785862092",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 12531
+   }
   },
   {
    "appid": 3749050,
@@ -867,6 +1077,13 @@
    "parent": {
     "appid": 3274580,
     "name": "Anno 117: Pax Romana"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 34,
+    "total": 239
    }
   },
   {
@@ -895,6 +1112,13 @@
    "parent": {
     "appid": 394360,
     "name": "Hearts of Iron IV"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 32,
+    "total": 1839
    }
   },
   {
@@ -920,7 +1144,14 @@
    ],
    "url": "https://store.steampowered.com/app/3170350/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170350/8db6aa5ca62ca7dadb026d903fd1caa831e74eba/capsule_231x87.jpg?t=1779182634",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 99,
+    "total": 151
+   }
   },
   {
    "appid": 4093750,
@@ -948,6 +1179,13 @@
    "parent": {
     "appid": 1072040,
     "name": "Panzer Corps 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 82,
+    "total": 33
    }
   },
   {
@@ -977,6 +1215,13 @@
    "parent": {
     "appid": 281990,
     "name": "Stellaris"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 42,
+    "total": 260
    }
   },
   {
@@ -1005,6 +1250,13 @@
    "parent": {
     "appid": 1966130,
     "name": "Strategic Command: American Civil War"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "9 user reviews",
+    "pct": 100,
+    "total": 9
    }
   },
   {
@@ -1033,6 +1285,13 @@
    "parent": {
     "appid": 2647680,
     "name": "ICBM: Escalation"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 55,
+    "total": 29
    }
   },
   {
@@ -1062,6 +1321,13 @@
    "parent": {
     "appid": 1385380,
     "name": "Across the Obelisk"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 45,
+    "total": 88
    }
   },
   {
@@ -1090,6 +1356,13 @@
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 14
    }
   },
   {
@@ -1118,6 +1391,13 @@
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 85,
+    "total": 106
    }
   },
   {
@@ -1146,6 +1426,13 @@
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 84,
+    "total": 92
    }
   },
   {
@@ -1174,6 +1461,13 @@
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 86,
+    "total": 14
    }
   },
   {
@@ -1204,6 +1498,13 @@
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 44,
+    "total": 245
    }
   },
   {
@@ -1234,6 +1535,13 @@
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 56,
+    "total": 708
    }
   },
   {
@@ -1264,6 +1572,13 @@
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 60,
+    "total": 439
    }
   },
   {
@@ -1294,6 +1609,13 @@
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 417
    }
   },
   {
@@ -1319,7 +1641,14 @@
    ],
    "url": "https://store.steampowered.com/app/2366500/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366500/e092308b74941888ecd2b6095c87b25b397e708e/capsule_231x87.jpg?t=1785153386",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 74,
+    "total": 95
+   }
   },
   {
    "appid": 3958370,
@@ -1347,6 +1676,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 0,
+    "total": 1
    }
   },
   {
@@ -1375,6 +1711,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 0,
+    "total": 2
    }
   },
   {
@@ -1403,6 +1746,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 0,
+    "total": 1
    }
   },
   {
@@ -1431,6 +1781,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 63,
+    "total": 303
    }
   },
   {
@@ -1459,6 +1816,13 @@
    "parent": {
     "appid": 489630,
     "name": "Warhammer 40,000: Gladius - Relics of War"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 86,
+    "total": 22
    }
   },
   {
@@ -1487,6 +1851,13 @@
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 83,
+    "total": 168
    }
   },
   {
@@ -1512,7 +1883,14 @@
    ],
    "url": "https://store.steampowered.com/app/1176470/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/fce27a17721e0d8f2fff4ee712a497ed66bb1432/capsule_231x87.jpg?t=1785860719",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 80,
+    "total": 9683
+   }
   },
   {
    "appid": 3315560,
@@ -1540,6 +1918,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 77,
+    "total": 69
    }
   },
   {
@@ -1568,6 +1953,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 68,
+    "total": 62
    }
   },
   {
@@ -1596,6 +1988,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 88,
+    "total": 17
    }
   },
   {
@@ -1621,7 +2020,14 @@
    ],
    "url": "https://store.steampowered.com/app/2432860/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432860/f3da7e906c7a3126ad95691f10ee9e8eb8650e09/capsule_231x87.jpg?t=1785511812",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 91,
+    "total": 12786
+   }
   },
   {
    "appid": 3874230,
@@ -1649,6 +2055,13 @@
    "parent": {
     "appid": 3274580,
     "name": "Anno 117: Pax Romana"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 75,
+    "total": 32
    }
   },
   {
@@ -1674,7 +2087,14 @@
    ],
    "url": "https://store.steampowered.com/app/3639330/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639330/609a76e25d1367ae7adc3ff31b50964fdbecf8c5/capsule_231x87.jpg?t=1775660457",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "4 user reviews",
+    "pct": 100,
+    "total": 4
+   }
   },
   {
    "appid": 2001070,
@@ -1699,7 +2119,14 @@
    ],
    "url": "https://store.steampowered.com/app/2001070/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001070/d11da157519436d71fc631aa3e1c5e74e7fcccbb/capsule_231x87.jpg?t=1785513240",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 92,
+    "total": 2089
+   }
   },
   {
    "appid": 3976900,
@@ -1727,6 +2154,13 @@
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 64,
+    "total": 115
    }
   },
   {
@@ -1755,6 +2189,13 @@
    "parent": {
     "appid": 255710,
     "name": "Cities: Skylines"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "7 user reviews",
+    "pct": 57,
+    "total": 7
    }
   },
   {
@@ -1783,6 +2224,13 @@
    "parent": {
     "appid": 255710,
     "name": "Cities: Skylines"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 90,
+    "total": 10
    }
   },
   {
@@ -1811,6 +2259,13 @@
    "parent": {
     "appid": 255710,
     "name": "Cities: Skylines"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "9 user reviews",
+    "pct": 89,
+    "total": 9
    }
   },
   {
@@ -1839,6 +2294,13 @@
    "parent": {
     "appid": 255710,
     "name": "Cities: Skylines"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 42,
+    "total": 103
    }
   },
   {
@@ -1867,6 +2329,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 82,
+    "total": 60
    }
   },
   {
@@ -1895,6 +2364,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 71,
+    "total": 28
    }
   },
   {
@@ -1923,6 +2399,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 74,
+    "total": 23
    }
   },
   {
@@ -1951,6 +2434,13 @@
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 67,
+    "total": 76
    }
   },
   {
@@ -1979,6 +2469,13 @@
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 81,
+    "total": 16
    }
   },
   {
@@ -2007,6 +2504,13 @@
    "parent": {
     "appid": 394360,
     "name": "Hearts of Iron IV"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 51,
+    "total": 110
    }
   },
   {
@@ -2035,6 +2539,13 @@
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 90,
+    "total": 193
    }
   },
   {
@@ -2063,6 +2574,13 @@
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 45,
+    "total": 51
    }
   },
   {
@@ -2091,6 +2609,13 @@
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 100,
+    "total": 1
    }
   },
   {
@@ -2119,6 +2644,13 @@
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "3 user reviews",
+    "pct": 100,
+    "total": 3
    }
   },
   {
@@ -2144,7 +2676,14 @@
    ],
    "url": "https://store.steampowered.com/app/3826370/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3826370/5351949cac1fe947d00f44db04e3b0b0861e9b3e/capsule_231x87.jpg?t=1785846202",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 45
+   }
   },
   {
    "appid": 3170370,
@@ -2172,6 +2711,13 @@
    "parent": {
     "appid": 2008100,
     "name": "Rule the Waves 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 86,
+    "total": 14
    }
   },
   {
@@ -2197,7 +2743,14 @@
    ],
    "url": "https://store.steampowered.com/app/2426530/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/eb6a96094730fc462d2d640b2467d2d1d93186be/capsule_231x87.jpg?t=1785511344",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 94,
+    "total": 2188
+   }
   },
   {
    "appid": 4151720,
@@ -2225,6 +2778,13 @@
    "parent": {
     "appid": 1604270,
     "name": "Broken Arrow"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 58,
+    "total": 643
    }
   },
   {
@@ -2253,6 +2813,13 @@
    "parent": {
     "appid": 597180,
     "name": "Old World"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 92,
+    "total": 53
    }
   },
   {
@@ -2281,6 +2848,13 @@
    "parent": {
     "appid": 1985050,
     "name": "Field of Glory: Kingdoms"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 89,
+    "total": 19
    }
   },
   {
@@ -2306,7 +2880,14 @@
    ],
    "url": "https://store.steampowered.com/app/538030/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538030/482bba7eec0556716f0d36f9dc8858b473587f5c/capsule_231x87.jpg?t=1785511935",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 81,
+    "total": 5665
+   }
   },
   {
    "appid": 3645760,
@@ -2334,6 +2915,13 @@
    "parent": {
     "appid": 1154840,
     "name": "Shadow Empire"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 92,
+    "total": 65
    }
   },
   {
@@ -2362,6 +2950,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 92,
+    "total": 66
    }
   },
   {
@@ -2390,6 +2985,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 84,
+    "total": 45
    }
   },
   {
@@ -2418,6 +3020,13 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 52,
+    "total": 21
    }
   },
   {
@@ -2446,6 +3055,13 @@
    "parent": {
     "appid": 394360,
     "name": "Hearts of Iron IV"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 46,
+    "total": 822
    }
   },
   {
@@ -2474,6 +3090,13 @@
    "parent": {
     "appid": 532790,
     "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 41,
+    "total": 165
    }
   },
   {
@@ -2502,6 +3125,13 @@
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 25,
+    "total": 651
    }
   },
   {
@@ -2530,6 +3160,13 @@
    "parent": {
     "appid": 281990,
     "name": "Stellaris"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 87,
+    "total": 89
    }
   },
   {
@@ -2558,6 +3195,13 @@
    "parent": {
     "appid": 281990,
     "name": "Stellaris"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 74,
+    "total": 34
    }
   },
   {
@@ -2586,6 +3230,13 @@
    "parent": {
     "appid": 3274580,
     "name": "Anno 117: Pax Romana"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 38,
+    "total": 155
    }
   },
   {
@@ -2611,7 +3262,14 @@
    ],
    "url": "https://store.steampowered.com/app/3105440/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1785860711",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 87,
+    "total": 21394
+   }
   },
   {
    "appid": 3699010,
@@ -2639,6 +3297,13 @@
    "parent": {
     "appid": 3450310,
     "name": "Europa Universalis V"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 33,
+    "total": 1101
    }
   },
   {
@@ -2668,6 +3333,13 @@
    "parent": {
     "appid": 1072040,
     "name": "Panzer Corps 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 68,
+    "total": 22
    }
   },
   {
@@ -2697,6 +3369,13 @@
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 54,
+    "total": 1178
    }
   },
   {
@@ -2725,6 +3404,13 @@
    "parent": {
     "appid": 1295500,
     "name": "Warhammer 40,000: Battlesector"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 70,
+    "total": 43
    }
   },
   {
@@ -2750,7 +3436,14 @@
    ],
    "url": "https://store.steampowered.com/app/1816640/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1816640/49e525c405a42cc0bac1857efc5ca65fbd6c2dd4/capsule_231x87.jpg?t=1783338566",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 58,
+    "total": 277
+   }
   },
   {
    "appid": 3454110,
@@ -2778,6 +3471,13 @@
    "parent": {
     "appid": 1202130,
     "name": "Starship Troopers: Terran Command"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 53,
+    "total": 125
    }
   },
   {
@@ -2806,6 +3506,13 @@
    "parent": {
     "appid": 532790,
     "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 51,
+    "total": 73
    }
   },
   {
@@ -2834,6 +3541,13 @@
    "parent": {
     "appid": 394360,
     "name": "Hearts of Iron IV"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 31,
+    "total": 697
    }
   },
   {
@@ -2862,6 +3576,13 @@
    "parent": {
     "appid": 281990,
     "name": "Stellaris"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 49,
+    "total": 476
    }
   },
   {
@@ -2890,6 +3611,13 @@
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 78
    }
   },
   {
@@ -2916,6 +3644,13 @@
    "parent": {
     "appid": 3274580,
     "name": "Anno 117: Pax Romana"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 71,
+    "total": 38
    }
   },
   {
@@ -2944,6 +3679,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 0,
+    "total": 2
    }
   },
   {
@@ -2972,6 +3714,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "3 user reviews",
+    "pct": 0,
+    "total": 3
    }
   },
   {
@@ -3000,6 +3749,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "4 user reviews",
+    "pct": 0,
+    "total": 4
    }
   },
   {
@@ -3025,7 +3781,14 @@
    ],
    "url": "https://store.steampowered.com/app/4729720/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729720/4b898ec17b2acb0dc0590cb4f7c2e525d87f7f83/capsule_231x87.jpg?t=1783600486",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 100,
+    "total": 1
+   }
   },
   {
    "appid": 4657090,
@@ -3053,6 +3816,13 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 31,
+    "total": 127
    }
   },
   {
@@ -3081,7 +3851,10 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4657110,
@@ -3109,7 +3882,10 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4657120,
@@ -3137,7 +3913,10 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4657100,
@@ -3165,7 +3944,10 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4543560,
@@ -3193,6 +3975,13 @@
    "parent": {
     "appid": 1096930,
     "name": "Strategic Command: World War I"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 100,
+    "total": 1
    }
   },
   {
@@ -3218,7 +4007,14 @@
    ],
    "url": "https://store.steampowered.com/app/3219010/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/99952a0ddcfd4d3e77bd2589347204a0d7ea2265/capsule_231x87.jpg?t=1785512512",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 83,
+    "total": 505
+   }
   },
   {
    "appid": 4782610,
@@ -3246,6 +4042,13 @@
    "parent": {
     "appid": 1072040,
     "name": "Panzer Corps 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "7 user reviews",
+    "pct": 71,
+    "total": 7
    }
   },
   {
@@ -3274,6 +4077,13 @@
    "parent": {
     "appid": 1176470,
     "name": "Terra Invicta"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 82,
+    "total": 114
    }
   },
   {
@@ -3302,6 +4112,13 @@
    "parent": {
     "appid": 1176470,
     "name": "Terra Invicta"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "3 user reviews",
+    "pct": 67,
+    "total": 3
    }
   },
   {
@@ -3330,7 +4147,10 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4657150,
@@ -3358,7 +4178,10 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4657130,
@@ -3386,7 +4209,10 @@
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 1368140,
@@ -3411,7 +4237,14 @@
    ],
    "url": "https://store.steampowered.com/app/1368140/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/9317363cb16926256a8e15b2dd91eee8203e4f11/capsule_231x87.jpg?t=1785860713",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 87,
+    "total": 1564
+   }
   },
   {
    "appid": 3743140,
@@ -3436,7 +4269,10 @@
    ],
    "url": "https://store.steampowered.com/app/3743140/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1785146257",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4661170,
@@ -3464,7 +4300,10 @@
    "parent": {
     "appid": 3826370,
     "name": "Headquarters: Cold War"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 2764460,
@@ -3489,7 +4328,10 @@
    ],
    "url": "https://store.steampowered.com/app/2764460/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/8f707e293d060a7b3f3f01c82a295bb1c0087ccc/capsule_231x87_alt_assets_0.jpg?t=1785833802",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4396100,
@@ -3517,7 +4359,10 @@
    "parent": {
     "appid": 1422440,
     "name": "Cataclismo"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4232900,
@@ -3545,7 +4390,10 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 3989670,
@@ -3573,7 +4421,10 @@
    "parent": {
     "appid": 1531540,
     "name": "Distant Worlds 2"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4232910,
@@ -3601,7 +4452,10 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
-   }
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 1447650,
@@ -3626,7 +4480,10 @@
    ],
    "url": "https://store.steampowered.com/app/1447650/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447650/3e34f7b789d63cffd002e40fef0e3dff92cb53cf/capsule_231x87.jpg?t=1785411971",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 2295060,
@@ -3651,7 +4508,10 @@
    ],
    "url": "https://store.steampowered.com/app/2295060/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1785845272",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 1537440,
@@ -3676,7 +4536,10 @@
    ],
    "url": "https://store.steampowered.com/app/1537440/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1785511734",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 1490930,
@@ -3701,7 +4564,10 @@
    ],
    "url": "https://store.steampowered.com/app/1490930/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1785511512",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 2409320,
@@ -3726,7 +4592,10 @@
    ],
    "url": "https://store.steampowered.com/app/2409320/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1785511695",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 1670650,
@@ -3751,7 +4620,10 @@
    ],
    "url": "https://store.steampowered.com/app/1670650/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1785511168",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 1672320,
@@ -3776,7 +4648,10 @@
    ],
    "url": "https://store.steampowered.com/app/1672320/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1785511441",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 2189430,
@@ -3801,7 +4676,10 @@
    ],
    "url": "https://store.steampowered.com/app/2189430/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/0c6c8a5df85dd95c5af85c63b4bcde9b7784e608/capsule_231x87.jpg?t=1785511105",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 4043740,
@@ -3828,7 +4706,10 @@
    ],
    "url": "https://store.steampowered.com/app/4043740/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043740/243e353f9620c1cffd12cba5e733ff4a2ab9274d/capsule_231x87.jpg?t=1785512416",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 1447250,
@@ -3853,7 +4734,10 @@
    ],
    "url": "https://store.steampowered.com/app/1447250/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1785510731",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 1727760,
@@ -3878,7 +4762,10 @@
    ],
    "url": "https://store.steampowered.com/app/1727760/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1785512057",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 1777480,
@@ -3903,7 +4790,10 @@
    ],
    "url": "https://store.steampowered.com/app/1777480/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1785512628",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 969330,
@@ -3928,7 +4818,10 @@
    ],
    "url": "https://store.steampowered.com/app/969330/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1785513201",
-   "parent": null
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 3493540,
@@ -3953,7 +4846,10 @@
    ],
    "url": "https://store.steampowered.com/app/3493540/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1781780836",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   },
   {
    "appid": 2439030,
@@ -3978,7 +4874,10 @@
    ],
    "url": "https://store.steampowered.com/app/2439030/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1785512010",
-   "parent": null
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null
   }
  ]
 }

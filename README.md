@@ -35,7 +35,17 @@ Everything editable lives in `config.json`:
   (soundtracks, art books, cosmetic packs…)
 - `include_appids` / `exclude_appids` — per-title overrides when a pattern gets
   something wrong
+- `blog_links` — manual map of Steam appid → Matchsticks for my Eyes URL; adds a
+  "Read on Matchsticks" link to that title's card. The appid is the number in
+  the Steam URL (`store.steampowered.com/app/1176470/...` → `"1176470"`).
 - `max_age_months` — how far back the "recently released" window reaches
+
+## Feeds
+
+Each refresh also writes iCal feeds of concrete-dated upcoming releases
+(`calendar.ics`, `paradox.ics`, `hooded-horse.ics`, `slitherine-matrix.ics`) —
+subscribe from any calendar app via the URL. Review summaries for released
+titles come from Steam's public `appreviews` endpoint, refreshed weekly.
 
 Run locally with:
 

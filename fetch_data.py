@@ -154,8 +154,13 @@ def load_cache():
     return {}
 
 
+CACHE_SCHEMA = 2  # bump when fetch_details stores new fields, to invalidate old entries
+
+
 def needs_refetch(entry, now):
     if not entry or "data" not in entry:
+        return True
+    if entry.get("v") != CACHE_SCHEMA:
         return True
     fetched_at = datetime.fromisoformat(entry["fetched_at"])
     age_days = (now - fetched_at).days
@@ -181,24 +186,70 @@ def fetch_details(appids, cache):
     now = datetime.now(timezone.utc)
     to_fetch = [a for a in appids if needs_refetch(cache.get(str(a)), now)]
     print(f"appdetails: {len(to_fetch)} to fetch, {len(appids) - len(to_fetch)} cached", flush=True)
-    filters = "basic,developers,publishers,release_date,genres,fullgame"
+    filters = "basic,developers,publishers,release_date,genres,fullgame,demos"
     for i, appid in enumerate(to_fetch, 1):
         url = f"{DETAILS_URL}?appids={appid}&cc=us&l=english&filters={filters}"
         payload = http_json(url)
         entry = (payload or {}).get(str(appid)) or {}
         data = entry.get("data") if entry.get("success") else None
         if data is not None:
-            # basic includes bulky description fields we never use
+            # basic includes bulky description fields we never use ("demos" stays —
+            # it powers the Demo badge)
             for junk in ("detailed_description", "about_the_game", "pc_requirements",
                          "mac_requirements", "linux_requirements", "supported_languages",
-                         "content_descriptors", "ratings", "demos"):
+                         "content_descriptors", "ratings"):
                 data.pop(junk, None)
-        cache[str(appid)] = {"fetched_at": now.isoformat(), "data": data}
+            # Steam omits "demos" when there is none; keep the key so the
+            # cache-upgrade check in needs_refetch doesn't refetch forever.
+            data.setdefault("demos", [])
+        cache[str(appid)] = {"fetched_at": now.isoformat(), "v": CACHE_SCHEMA, "data": data}
         if i % 25 == 0 or i == len(to_fetch):
             print(f"  {i}/{len(to_fetch)}", flush=True)
             CACHE_PATH.write_text(json.dumps(cache), encoding="utf-8")
         time.sleep(DETAILS_THROTTLE_SECONDS)
     CACHE_PATH.write_text(json.dumps(cache), encoding="utf-8")
+
+
+REVIEWS_URL = "https://store.steampowered.com/appreviews/"
+REVIEW_MAX_AGE_DAYS = 7
+
+
+def fetch_reviews(appids, cache):
+    """Fetch Steam review summaries (keyless) for released titles, weekly-cached.
+
+    Returns {appid: {"desc", "pct", "total"}} for titles with at least one review.
+    """
+    store = cache.setdefault("_reviews", {})
+    now = datetime.now(timezone.utc)
+    to_fetch = []
+    for appid in appids:
+        entry = store.get(str(appid))
+        if not entry or (now - datetime.fromisoformat(entry["fetched_at"])).days >= REVIEW_MAX_AGE_DAYS:
+            to_fetch.append(appid)
+    print(f"reviews: {len(to_fetch)} to fetch, {len(appids) - len(to_fetch)} cached", flush=True)
+    for i, appid in enumerate(to_fetch, 1):
+        url = f"{REVIEWS_URL}{appid}?json=1&language=all&purchase_type=all&num_per_page=0"
+        payload = http_json(url)
+        summary = (payload or {}).get("query_summary") or {}
+        store[str(appid)] = {"fetched_at": now.isoformat(), "summary": summary}
+        if i % 25 == 0 or i == len(to_fetch):
+            print(f"  {i}/{len(to_fetch)}", flush=True)
+            CACHE_PATH.write_text(json.dumps(cache), encoding="utf-8")
+        time.sleep(DETAILS_THROTTLE_SECONDS)
+    if to_fetch:
+        CACHE_PATH.write_text(json.dumps(cache), encoding="utf-8")
+
+    out = {}
+    for appid in appids:
+        s = (store.get(str(appid)) or {}).get("summary") or {}
+        total = s.get("total_reviews") or 0
+        if total > 0:
+            out[appid] = {
+                "desc": s.get("review_score_desc", ""),
+                "pct": round(100 * (s.get("total_positive") or 0) / total),
+                "total": total,
+            }
+    return out
 
 
 def map_groups(names, groups):
@@ -284,10 +335,89 @@ def build_items(appids, cache, config, cutoff_key):
             "url": f"https://store.steampowered.com/app/{appid}/",
             "capsule": data.get("capsule_image") or data.get("header_image") or "",
             "parent": {"appid": int(fullgame["appid"]), "name": fullgame["name"]} if fullgame else None,
+            "has_demo": bool(data.get("demos")),
+            "blog_url": config["blog_links"].get(str(appid)),
         })
 
     print(f"kept {len(items)} items ({minor_count} flagged minor DLC); skipped {skipped}", flush=True)
     return items
+
+
+def ics_escape(text):
+    return (text.replace("\\", "\\\\").replace(";", "\\;")
+                .replace(",", "\\,").replace("\n", "\\n"))
+
+
+def ics_fold(line):
+    """RFC 5545 line folding: continuation lines start with a space."""
+    chunks = []
+    while len(line) > 70:
+        chunks.append(line[:70])
+        line = " " + line[70:]
+    chunks.append(line)
+    return "\r\n".join(chunks)
+
+
+def write_ics(path, cal_name, items, generated_at):
+    """Write an iCal feed of concrete-dated upcoming releases (all-day events)."""
+    stamp = generated_at.strftime("%Y%m%dT%H%M%SZ")
+    lines = [
+        "BEGIN:VCALENDAR", "VERSION:2.0", "CALSCALE:GREGORIAN",
+        "PRODID:-//Matchsticks for my Eyes//Strategy Release Calendar//EN",
+        f"X-WR-CALNAME:{ics_escape(cal_name)}",
+        "X-PUBLISHED-TTL:P1D", "REFRESH-INTERVAL;VALUE=DURATION:P1D",
+    ]
+    for it in items:
+        y, m, d = (it["sort_key"] // 10000, it["sort_key"] // 100 % 100, it["sort_key"] % 100)
+        start = f"{y:04d}{m:02d}{d:02d}"
+        end_dt = datetime(y, m, d) + timedelta(days=1)
+        kind = " (DLC)" if it["type"] == "dlc" else ""
+        desc = (f"{', '.join(it['developers'])} / {', '.join(it['publishers'])}"
+                f"\nSteam: {it['url']}")
+        lines += [
+            "BEGIN:VEVENT",
+            f"UID:app-{it['appid']}@psahui.github.io",
+            f"DTSTAMP:{stamp}",
+            f"DTSTART;VALUE=DATE:{start}",
+            f"DTEND;VALUE=DATE:{end_dt.strftime('%Y%m%d')}",
+            f"SUMMARY:{ics_escape(it['name'] + kind)}",
+            f"DESCRIPTION:{ics_escape(desc)}",
+            f"URL:{it['url']}",
+            "TRANSP:TRANSPARENT",
+            "END:VEVENT",
+        ]
+    lines.append("END:VCALENDAR")
+    path.write_text("\r\n".join(ics_fold(l) for l in lines) + "\r\n", encoding="utf-8")
+    print(f"wrote {path.name} with {len(items)} events", flush=True)
+
+
+ICS_FEEDS = {
+    "calendar.ics": ("Strategy Release Calendar", None),
+    "paradox.ics": ("Strategy Releases — Paradox", "Paradox Interactive"),
+    "hooded-horse.ics": ("Strategy Releases — Hooded Horse", "Hooded Horse"),
+    "slitherine-matrix.ics": ("Strategy Releases — Slitherine/Matrix", "Slitherine / Matrix"),
+}
+
+
+def write_feeds(items, generated_at):
+    dated = [it for it in items
+             if it["status"] == "upcoming" and it["precision"] == "day"
+             and it["kind"] != "minor_dlc"]
+    for filename, (cal_name, pub_group) in ICS_FEEDS.items():
+        subset = [it for it in dated if pub_group is None or pub_group in it["pub_groups"]]
+        write_ics(ROOT / filename, cal_name, subset, generated_at)
+
+
+def sanity_check(items):
+    """Refuse to overwrite good data with a collapsed dataset (broken scrape)."""
+    if not OUT_PATH.exists():
+        return len(items) > 0
+    prev = len(json.loads(OUT_PATH.read_text(encoding="utf-8")).get("items", []))
+    if prev >= 20 and len(items) < 0.7 * prev:
+        print(f"SANITY FAIL: item count collapsed {prev} -> {len(items)}; "
+              "Steam markup may have changed. Keeping existing data.", flush=True)
+        return False
+    return True
 
 
 def main():
@@ -306,6 +436,15 @@ def main():
     fetch_details(sorted(found), cache)
     items = build_items(sorted(found), cache, config, cutoff_key)
     items.sort(key=lambda it: (it["sort_key"], it["name"].casefold()))
+
+    if not sanity_check(items):
+        return 1
+
+    reviews = fetch_reviews([it["appid"] for it in items if it["status"] != "upcoming"], cache)
+    for it in items:
+        it["review"] = reviews.get(it["appid"])
+
+    write_feeds(items, now)
 
     out = {
         "generated_at": now.isoformat(timespec="seconds"),

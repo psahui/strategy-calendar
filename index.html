@@ -93,7 +93,10 @@
   .b-released { background: var(--badge-released-bg); color: var(--badge-released-ink); }
   .b-dlc { background: var(--badge-dlc-bg); color: var(--badge-dlc-ink); }
   .b-game { background: var(--badge-game-bg); color: var(--badge-game-ink); }
+  .b-demo { background: transparent; color: var(--ink-2); border: 1px solid var(--line); }
   .parent-note { font-size: 12.5px; color: var(--ink-2); margin-top: 3px; }
+  .review-note { font-size: 12.5px; color: var(--ink-2); margin-top: 3px; }
+  .blog-link { font-size: 12.5px; margin-top: 3px; }
   .empty { color: var(--ink-2); padding: 30px 4px; }
 
   footer.site { background: var(--card); border-top: 1px solid var(--line); margin-top: 20px; }
@@ -120,6 +123,12 @@
   <div class="wrap">
     <img src="assets/logo.png" alt="Matchsticks for my Eyes logo">
     <div class="home"><a href="https://www.matchstickeyes.com">Matchsticks for my Eyes</a></div>
+    <div>Subscribe to release dates in your calendar app (iCal):
+      <a href="calendar.ics">everything</a> ·
+      <a href="paradox.ics">Paradox</a> ·
+      <a href="hooded-horse.ics">Hooded Horse</a> ·
+      <a href="slitherine-matrix.ics">Slitherine/Matrix</a>
+      — in Google Calendar, add the link under "Other calendars → From URL".</div>
     <div id="updated"></div>
     <div>All release data sourced from <a href="https://store.steampowered.com">Steam</a>. Game images and names are the property of their respective publishers. No AI-generated content.</div>
   </div>
@@ -162,11 +171,16 @@ function cardHTML(it) {
   const badges = [
     `<span class="badge b-${it.type}">${kindLabel}</span>`,
     `<span class="badge b-${it.status}">${STATUS_LABEL[it.status]}</span>`,
+    it.has_demo ? `<span class="badge b-demo">Demo</span>` : "",
   ].join("");
   const devs = it.developers.join(", ");
   const pubs = it.publishers.join(", ");
   const parent = it.parent
     ? `<div class="parent-note">DLC for <a href="https://store.steampowered.com/app/${it.parent.appid}/" target="_blank" rel="noopener">${esc(it.parent.name)}</a></div>` : "";
+  const review = it.review
+    ? `<div class="review-note">Steam reviews: ${esc(it.review.desc)} (${it.review.pct}% of ${it.review.total.toLocaleString()})</div>` : "";
+  const blog = it.blog_url
+    ? `<div class="blog-link"><a href="${esc(it.blog_url)}" target="_blank" rel="noopener">Read on Matchsticks for my Eyes →</a></div>` : "";
   const img = it.capsule ? `<img class="capsule" loading="lazy" src="${esc(it.capsule)}" alt="">` : `<div class="capsule"></div>`;
   return `<div class="card">
     ${img}
@@ -174,6 +188,8 @@ function cardHTML(it) {
       <h3><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.name)}</a></h3>
       <div class="meta">${esc(devs)}<span class="sep">•</span>${esc(pubs)}</div>
       ${parent}
+      ${review}
+      ${blog}
       <div class="badges">${badges}</div>
     </div>
     <div class="date">${esc(it.date_string)}</div>
@@ -198,7 +214,38 @@ function renderSection(items, {ascending}) {
   return html || `<p class="empty">Nothing matches the current filters.</p>`;
 }
 
+// Filter state <-> URL query string, so filtered views are shareable links.
+const URL_GROUPS = [
+  ["pub", "pubs", () => DATA.publisher_groups],
+  ["dev", "devs", () => DATA.developer_groups],
+  ["type", "types", () => ["game", "dlc", "minor_dlc"]],
+  ["status", "statuses", () => ["upcoming", "early_access", "released"]],
+];
+const TYPE_DEFAULT = ["game", "dlc"];
+
+function syncURL() {
+  const p = new URLSearchParams();
+  for (const [param, key, allFn] of URL_GROUPS) {
+    const all = allFn();
+    const def = param === "type" ? TYPE_DEFAULT : all;
+    const cur = [...state[key]].filter(v => all.includes(v)).sort();
+    if (cur.join("|") !== [...def].sort().join("|")) p.set(param, cur.join("|"));
+  }
+  const qs = p.toString();
+  history.replaceState(null, "", qs ? "?" + qs : location.pathname);
+}
+
+function applyURL() {
+  const p = new URLSearchParams(location.search);
+  for (const [param, key, allFn] of URL_GROUPS) {
+    if (!p.has(param)) continue;
+    const all = allFn();
+    state[key] = new Set(p.get(param).split("|").filter(v => all.includes(v)));
+  }
+}
+
 function render() {
+  syncURL();
   const shown = DATA.items.filter(matches);
   const upcoming = shown.filter(it => it.status === "upcoming");
   const out = shown.filter(it => it.status !== "upcoming");
@@ -236,6 +283,7 @@ function buildFilters() {
   }
   state.pubs = new Set(DATA.publisher_groups);
   state.devs = new Set(DATA.developer_groups);
+  applyURL();
 
   const wide = window.matchMedia("(min-width: 821px)").matches;
   document.getElementById("filters").innerHTML =
