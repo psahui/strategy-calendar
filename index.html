@@ -192,9 +192,12 @@ function esc(s) { const d = document.createElement("div"); d.textContent = s; re
 function cardHTML(it) {
   const kind = it.kind || it.type;
   const kindLabel = kind === "game" ? "Game" : (kind === "minor_dlc" ? "Minor DLC" : "DLC");
+  const statusBadge = it.full_release
+    ? `<span class="badge b-upcoming">Full Release</span>`
+    : `<span class="badge b-${it.status}">${STATUS_LABEL[it.status]}</span>`;
   const badges = [
     `<span class="badge b-${it.type}">${kindLabel}</span>`,
-    `<span class="badge b-${it.status}">${STATUS_LABEL[it.status]}</span>`,
+    statusBadge,
     it.has_demo ? `<span class="badge b-demo">Demo</span>` : "",
   ].join("");
   const steamLink = (name, param) =>
@@ -205,6 +208,8 @@ function cardHTML(it) {
     ? `<div class="parent-note">DLC for <a href="https://store.steampowered.com/app/${it.parent.appid}/" target="_blank" rel="noopener">${esc(it.parent.name)}</a></div>` : "";
   const review = it.review
     ? `<div class="review-note">Steam reviews: ${esc(it.review.desc)} (${it.review.pct}% of ${it.review.total.toLocaleString()})</div>` : "";
+  const gradNote = it.full_release
+    ? `<div class="parent-note">In Early Access since ${esc((DATA.items.find(x => x.appid === it.appid) || it).date_string)} — full release ${esc(it.date_string)}</div>` : "";
   const blog = it.blog_url
     ? `<div class="blog-link"><a href="${esc(it.blog_url)}" target="_blank" rel="noopener">Read on Matchsticks for my Eyes →</a></div>` : "";
   const img = it.capsule ? `<img class="capsule" loading="lazy" src="${esc(it.capsule)}" alt="">` : `<div class="capsule"></div>`;
@@ -214,6 +219,7 @@ function cardHTML(it) {
       <h3><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.name)}</a></h3>
       <div class="meta">${devs}<span class="sep">•</span>${pubs}</div>
       ${parent}
+      ${gradNote}
       ${review}
       ${blog}
       <div class="badges">${badges}</div>
@@ -275,7 +281,17 @@ function applyURL() {
 function render() {
   syncURL();
   const shown = DATA.items.filter(matches);
-  const upcoming = shown.filter(it => it.status === "upcoming");
+  // Early Access titles with an announced "Leaving Early Access" date also get
+  // a full-release entry in the upcoming timeline (skip long-past dates —
+  // usually a stale banner Steam hasn't taken down).
+  const today = new Date();
+  const monthKey = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100;
+  const graduations = shown
+    .filter(it => it.leaving_ea && it.leaving_ea.sort_key >= monthKey)
+    .map(it => ({ ...it, sort_key: it.leaving_ea.sort_key,
+                  precision: it.leaving_ea.precision,
+                  date_string: it.leaving_ea.date_string, full_release: true }));
+  const upcoming = shown.filter(it => it.status === "upcoming").concat(graduations);
   const out = shown.filter(it => it.status !== "upcoming");
   document.getElementById("timeline").innerHTML =
     `<h2 class="section-h">Upcoming</h2>

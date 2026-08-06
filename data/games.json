@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-06T01:19:17+00:00",
- "cutoff": "2025-08-05",
+ "generated_at": "2026-08-06T09:42:23+00:00",
+ "cutoff": "2025-08-06",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,7 +55,8 @@
     "desc": "Mostly Positive",
     "pct": 75,
     "total": 162
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3508950,
@@ -90,7 +91,8 @@
     "desc": "Mostly Positive",
     "pct": 73,
     "total": 15
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3315520,
@@ -125,7 +127,8 @@
     "desc": "Overwhelmingly Negative",
     "pct": 18,
     "total": 1076
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3407390,
@@ -157,6 +160,11 @@
     "desc": "Very Positive",
     "pct": 83,
     "total": 2741
+   },
+   "leaving_ea": {
+    "date_string": "Sep 17, 2026",
+    "precision": "day",
+    "sort_key": 20260917
    }
   },
   {
@@ -192,7 +200,8 @@
     "desc": "Positive",
     "pct": 83,
     "total": 12
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3417850,
@@ -228,7 +237,8 @@
     "desc": "Mixed",
     "pct": 43,
     "total": 385
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3562730,
@@ -263,7 +273,8 @@
     "desc": "Mostly Positive",
     "pct": 70,
     "total": 327
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3731510,
@@ -298,7 +309,8 @@
     "desc": "Positive",
     "pct": 80,
     "total": 15
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3731500,
@@ -333,7 +345,8 @@
     "desc": "Mixed",
     "pct": 50,
     "total": 10
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3731530,
@@ -368,7 +381,8 @@
     "desc": "8 user reviews",
     "pct": 75,
     "total": 8
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3976880,
@@ -403,7 +417,8 @@
     "desc": "Mixed",
     "pct": 60,
     "total": 15
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3562810,
@@ -438,7 +453,8 @@
     "desc": "Very Positive",
     "pct": 89,
     "total": 62
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 532790,
@@ -470,7 +486,8 @@
     "desc": "Mixed",
     "pct": 56,
     "total": 12836
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3992600,
@@ -505,7 +522,8 @@
     "desc": "4 user reviews",
     "pct": 75,
     "total": 4
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 1048511,
@@ -540,7 +558,8 @@
     "desc": "Very Negative",
     "pct": 11,
     "total": 118
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 2289750,
@@ -572,7 +591,8 @@
     "desc": "Very Positive",
     "pct": 87,
     "total": 5895
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3315530,
@@ -607,7 +627,8 @@
     "desc": "Mixed",
     "pct": 68,
     "total": 2172
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3450310,
@@ -639,7 +660,8 @@
     "desc": "Mixed",
     "pct": 67,
     "total": 30153
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3698980,
@@ -674,7 +696,8 @@
     "desc": "Mixed",
     "pct": 50,
     "total": 16
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3865300,
@@ -709,7 +732,8 @@
     "desc": "Mixed",
     "pct": 55,
     "total": 91
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3958320,
@@ -744,7 +768,8 @@
     "desc": "9 user reviews",
     "pct": 67,
     "total": 9
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3958330,
@@ -779,7 +804,8 @@
     "desc": "3 user reviews",
     "pct": 67,
     "total": 3
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3958380,
@@ -814,7 +840,8 @@
     "desc": "9 user reviews",
     "pct": 89,
     "total": 9
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3958340,
@@ -849,7 +876,8 @@
     "desc": "1 user reviews",
     "pct": 0,
     "total": 1
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 2489330,
@@ -881,7 +909,8 @@
     "desc": "Very Positive",
     "pct": 93,
     "total": 3226
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3215050,
@@ -913,7 +942,8 @@
     "desc": "Mixed",
     "pct": 54,
     "total": 2089
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3889420,
@@ -948,7 +978,8 @@
     "desc": "8 user reviews",
     "pct": 75,
     "total": 8
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3889470,
@@ -983,7 +1014,8 @@
     "desc": "5 user reviews",
     "pct": 80,
     "total": 5
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3976890,
@@ -1018,7 +1050,8 @@
     "desc": "Mostly Positive",
     "pct": 72,
     "total": 189
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3274580,
@@ -1050,7 +1083,8 @@
     "desc": "Mixed",
     "pct": 69,
     "total": 12531
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3749050,
@@ -1085,7 +1119,8 @@
     "desc": "Mostly Negative",
     "pct": 34,
     "total": 239
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3796260,
@@ -1120,7 +1155,8 @@
     "desc": "Mostly Negative",
     "pct": 32,
     "total": 1839
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3170350,
@@ -1152,7 +1188,8 @@
     "desc": "Very Positive",
     "pct": 99,
     "total": 151
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4093750,
@@ -1187,7 +1224,8 @@
     "desc": "Positive",
     "pct": 82,
     "total": 33
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3283220,
@@ -1223,7 +1261,8 @@
     "desc": "Mixed",
     "pct": 42,
     "total": 260
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3886440,
@@ -1258,7 +1297,8 @@
     "desc": "9 user reviews",
     "pct": 100,
     "total": 9
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3886420,
@@ -1293,7 +1333,8 @@
     "desc": "Mixed",
     "pct": 55,
     "total": 29
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3875470,
@@ -1329,7 +1370,8 @@
     "desc": "Mixed",
     "pct": 45,
     "total": 88
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3579810,
@@ -1364,7 +1406,8 @@
     "desc": "Mostly Positive",
     "pct": 79,
     "total": 14
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3579790,
@@ -1399,7 +1442,8 @@
     "desc": "Very Positive",
     "pct": 85,
     "total": 106
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3579760,
@@ -1434,7 +1478,8 @@
     "desc": "Very Positive",
     "pct": 84,
     "total": 92
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3579800,
@@ -1469,7 +1514,8 @@
     "desc": "Positive",
     "pct": 86,
     "total": 14
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3858050,
@@ -1506,7 +1552,8 @@
     "desc": "Mixed",
     "pct": 44,
     "total": 245
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3450960,
@@ -1543,7 +1590,8 @@
     "desc": "Mixed",
     "pct": 56,
     "total": 708
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3450980,
@@ -1580,7 +1628,8 @@
     "desc": "Mixed",
     "pct": 60,
     "total": 439
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3450970,
@@ -1617,7 +1666,8 @@
     "desc": "Mostly Positive",
     "pct": 72,
     "total": 417
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 2366500,
@@ -1649,7 +1699,8 @@
     "desc": "Mostly Positive",
     "pct": 74,
     "total": 95
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3958370,
@@ -1684,7 +1735,8 @@
     "desc": "1 user reviews",
     "pct": 0,
     "total": 1
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3958360,
@@ -1719,7 +1771,8 @@
     "desc": "2 user reviews",
     "pct": 0,
     "total": 2
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3958350,
@@ -1754,7 +1807,8 @@
     "desc": "1 user reviews",
     "pct": 0,
     "total": 1
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3369860,
@@ -1789,7 +1843,8 @@
     "desc": "Mixed",
     "pct": 63,
     "total": 303
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4084640,
@@ -1824,7 +1879,8 @@
     "desc": "Positive",
     "pct": 86,
     "total": 22
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3562890,
@@ -1859,7 +1915,8 @@
     "desc": "Very Positive",
     "pct": 83,
     "total": 168
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 1176470,
@@ -1891,7 +1948,8 @@
     "desc": "Very Positive",
     "pct": 80,
     "total": 9683
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3315560,
@@ -1926,7 +1984,8 @@
     "desc": "Mostly Positive",
     "pct": 77,
     "total": 69
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3315570,
@@ -1961,7 +2020,8 @@
     "desc": "Mixed",
     "pct": 68,
     "total": 62
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4208220,
@@ -1996,7 +2056,8 @@
     "desc": "Positive",
     "pct": 88,
     "total": 17
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 2432860,
@@ -2028,7 +2089,8 @@
     "desc": "Very Positive",
     "pct": 91,
     "total": 12786
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3874230,
@@ -2063,7 +2125,8 @@
     "desc": "Mostly Positive",
     "pct": 75,
     "total": 32
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3639330,
@@ -2095,7 +2158,8 @@
     "desc": "4 user reviews",
     "pct": 100,
     "total": 4
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 2001070,
@@ -2127,7 +2191,8 @@
     "desc": "Very Positive",
     "pct": 92,
     "total": 2089
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3976900,
@@ -2162,7 +2227,8 @@
     "desc": "Mixed",
     "pct": 64,
     "total": 115
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4031160,
@@ -2197,7 +2263,8 @@
     "desc": "7 user reviews",
     "pct": 57,
     "total": 7
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4031150,
@@ -2232,7 +2299,8 @@
     "desc": "Positive",
     "pct": 90,
     "total": 10
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4031140,
@@ -2267,7 +2335,8 @@
     "desc": "9 user reviews",
     "pct": 89,
     "total": 9
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4031130,
@@ -2302,7 +2371,8 @@
     "desc": "Mixed",
     "pct": 42,
     "total": 103
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4232870,
@@ -2337,7 +2407,8 @@
     "desc": "Very Positive",
     "pct": 82,
     "total": 60
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4232860,
@@ -2372,7 +2443,8 @@
     "desc": "Mostly Positive",
     "pct": 71,
     "total": 28
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3315580,
@@ -2407,7 +2479,8 @@
     "desc": "Mostly Positive",
     "pct": 74,
     "total": 23
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4314630,
@@ -2442,7 +2515,8 @@
     "desc": "Mixed",
     "pct": 67,
     "total": 76
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4314640,
@@ -2477,7 +2551,8 @@
     "desc": "Positive",
     "pct": 81,
     "total": 16
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3796270,
@@ -2512,7 +2587,8 @@
     "desc": "Mixed",
     "pct": 51,
     "total": 110
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3579770,
@@ -2547,7 +2623,8 @@
     "desc": "Very Positive",
     "pct": 90,
     "total": 193
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3579780,
@@ -2582,7 +2659,8 @@
     "desc": "Mixed",
     "pct": 45,
     "total": 51
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3579830,
@@ -2617,7 +2695,8 @@
     "desc": "1 user reviews",
     "pct": 100,
     "total": 1
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3579820,
@@ -2652,7 +2731,8 @@
     "desc": "3 user reviews",
     "pct": 100,
     "total": 3
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3826370,
@@ -2684,7 +2764,8 @@
     "desc": "Mixed",
     "pct": 69,
     "total": 45
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3170370,
@@ -2719,7 +2800,8 @@
     "desc": "Positive",
     "pct": 86,
     "total": 14
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 2426530,
@@ -2751,7 +2833,8 @@
     "desc": "Very Positive",
     "pct": 94,
     "total": 2188
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4151720,
@@ -2786,7 +2869,8 @@
     "desc": "Mixed",
     "pct": 58,
     "total": 643
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4129630,
@@ -2821,7 +2905,8 @@
     "desc": "Very Positive",
     "pct": 92,
     "total": 53
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4056900,
@@ -2856,7 +2941,8 @@
     "desc": "Positive",
     "pct": 89,
     "total": 19
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 538030,
@@ -2888,7 +2974,8 @@
     "desc": "Very Positive",
     "pct": 81,
     "total": 5665
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3645760,
@@ -2923,7 +3010,8 @@
     "desc": "Very Positive",
     "pct": 92,
     "total": 65
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4232880,
@@ -2958,7 +3046,8 @@
     "desc": "Very Positive",
     "pct": 92,
     "total": 66
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3315590,
@@ -2993,7 +3082,8 @@
     "desc": "Positive",
     "pct": 84,
     "total": 45
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4232890,
@@ -3028,7 +3118,8 @@
     "desc": "Mixed",
     "pct": 52,
     "total": 21
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3757310,
@@ -3063,7 +3154,8 @@
     "desc": "Mixed",
     "pct": 46,
     "total": 822
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3996800,
@@ -3098,7 +3190,8 @@
     "desc": "Mixed",
     "pct": 41,
     "total": 165
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4314650,
@@ -3133,7 +3226,8 @@
     "desc": "Mostly Negative",
     "pct": 25,
     "total": 651
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4241400,
@@ -3168,7 +3262,8 @@
     "desc": "Very Positive",
     "pct": 87,
     "total": 89
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4241410,
@@ -3203,7 +3298,8 @@
     "desc": "Mostly Positive",
     "pct": 74,
     "total": 34
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3858750,
@@ -3238,7 +3334,8 @@
     "desc": "Mostly Negative",
     "pct": 38,
     "total": 155
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3105440,
@@ -3270,7 +3367,8 @@
     "desc": "Very Positive",
     "pct": 87,
     "total": 21394
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3699010,
@@ -3305,7 +3403,8 @@
     "desc": "Mostly Negative",
     "pct": 33,
     "total": 1101
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4193350,
@@ -3341,7 +3440,8 @@
     "desc": "Mixed",
     "pct": 68,
     "total": 22
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4399460,
@@ -3377,7 +3477,8 @@
     "desc": "Mixed",
     "pct": 54,
     "total": 1178
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3577690,
@@ -3412,7 +3513,8 @@
     "desc": "Mixed",
     "pct": 70,
     "total": 43
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 1816640,
@@ -3444,6 +3546,11 @@
     "desc": "Mixed",
     "pct": 58,
     "total": 277
+   },
+   "leaving_ea": {
+    "date_string": "2027",
+    "precision": "year",
+    "sort_key": 20279898
    }
   },
   {
@@ -3479,7 +3586,8 @@
     "desc": "Mixed",
     "pct": 53,
     "total": 125
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3996820,
@@ -3514,7 +3622,8 @@
     "desc": "Mixed",
     "pct": 51,
     "total": 73
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3796290,
@@ -3549,7 +3658,8 @@
     "desc": "Mostly Negative",
     "pct": 31,
     "total": 697
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4241420,
@@ -3584,7 +3694,8 @@
     "desc": "Mixed",
     "pct": 49,
     "total": 476
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3976910,
@@ -3619,7 +3730,8 @@
     "desc": "Mixed",
     "pct": 69,
     "total": 78
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3874260,
@@ -3652,7 +3764,8 @@
     "desc": "Mostly Positive",
     "pct": 71,
     "total": 38
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3087390,
@@ -3687,7 +3800,8 @@
     "desc": "2 user reviews",
     "pct": 0,
     "total": 2
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3087420,
@@ -3722,7 +3836,8 @@
     "desc": "3 user reviews",
     "pct": 0,
     "total": 3
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3087400,
@@ -3757,7 +3872,8 @@
     "desc": "4 user reviews",
     "pct": 0,
     "total": 4
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4729720,
@@ -3789,7 +3905,8 @@
     "desc": "1 user reviews",
     "pct": 100,
     "total": 1
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4657090,
@@ -3824,7 +3941,8 @@
     "desc": "Mostly Negative",
     "pct": 31,
     "total": 127
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4657160,
@@ -3855,7 +3973,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4657110,
@@ -3886,7 +4005,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4657120,
@@ -3917,7 +4037,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4657100,
@@ -3948,7 +4069,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4543560,
@@ -3983,7 +4105,8 @@
     "desc": "1 user reviews",
     "pct": 100,
     "total": 1
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3219010,
@@ -4015,7 +4138,8 @@
     "desc": "Very Positive",
     "pct": 83,
     "total": 505
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4782610,
@@ -4050,7 +4174,8 @@
     "desc": "7 user reviews",
     "pct": 71,
     "total": 7
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4713340,
@@ -4085,7 +4210,8 @@
     "desc": "Very Positive",
     "pct": 82,
     "total": 114
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 2939040,
@@ -4120,7 +4246,8 @@
     "desc": "3 user reviews",
     "pct": 67,
     "total": 3
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 4657140,
@@ -4151,7 +4278,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4657150,
@@ -4182,7 +4310,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4657130,
@@ -4213,7 +4342,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 1368140,
@@ -4245,7 +4375,8 @@
     "desc": "Very Positive",
     "pct": 87,
     "total": 1564
-   }
+   },
+   "leaving_ea": null
   },
   {
    "appid": 3743140,
@@ -4273,7 +4404,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4661170,
@@ -4304,7 +4436,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 2764460,
@@ -4332,7 +4465,8 @@
    "parent": null,
    "has_demo": true,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4396100,
@@ -4363,7 +4497,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4232900,
@@ -4394,7 +4529,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 3989670,
@@ -4425,7 +4561,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4232910,
@@ -4456,7 +4593,8 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 1447650,
@@ -4484,7 +4622,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 2295060,
@@ -4512,7 +4651,8 @@
    "parent": null,
    "has_demo": true,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 1537440,
@@ -4540,7 +4680,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 1490930,
@@ -4568,7 +4709,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 2409320,
@@ -4596,7 +4738,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 1670650,
@@ -4624,7 +4767,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 1672320,
@@ -4652,7 +4796,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 2189430,
@@ -4680,7 +4825,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 4043740,
@@ -4710,7 +4856,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 1447250,
@@ -4738,7 +4885,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 1727760,
@@ -4766,7 +4914,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 1777480,
@@ -4794,7 +4943,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 969330,
@@ -4822,7 +4972,8 @@
    "parent": null,
    "has_demo": true,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 3493540,
@@ -4850,7 +5001,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   },
   {
    "appid": 2439030,
@@ -4878,7 +5030,8 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null
+   "review": null,
+   "leaving_ea": null
   }
  ]
 }

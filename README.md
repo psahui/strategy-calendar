@@ -19,6 +19,9 @@ section below for reuse terms.
   via Steam's public storefront search (by publisher and by developer), pulls
   each game's details from the `appdetails` endpoint with a local cache
   (`data/cache.json`) to respect rate limits, and writes `data/games.json`.
+- For Early Access titles, the fetch also reads the "Leaving Early Access"
+  date from each store page (Steam shows it there but omits it from the API)
+  and adds the full release to the upcoming timeline and iCal feeds.
 - `index.html` is a single static page (vanilla JS) that renders the timeline
   with client-side filters for publisher, developer, game/DLC,
   released / early access / upcoming, and demo availability.

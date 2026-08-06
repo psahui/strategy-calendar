@@ -38,6 +38,21 @@ MONTHS = {m.lower(): i + 1 for i, m in enumerate(
 MONTHS.update({m[:3]: v for m, v in list(MONTHS.items())})
 
 
+def http_text(url, retries=3):
+    """Fetch a page as text (for store-page scraping; age-gate cookies included)."""
+    headers = {**HEADERS, "Cookie": "birthtime=568022401; wants_mature_content=1"}
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return resp.read().decode("utf-8", "replace")
+        except Exception as exc:  # noqa: BLE001
+            wait = 8 * (attempt + 1)
+            print(f"    retrying after error ({exc}); waiting {wait}s", flush=True)
+            time.sleep(wait)
+    return None
+
+
 def http_json(url, retries=4):
     for attempt in range(retries):
         try:
@@ -213,6 +228,45 @@ def fetch_details(appids, cache):
 REVIEWS_URL = "https://store.steampowered.com/appreviews/"
 REVIEW_MAX_AGE_DAYS = 7
 
+# "Leaving Early Access: <date>" appears only on the store page, not in any API.
+LEAVING_EA_RE = re.compile(
+    r'class="leaving_early_access">(?:\s|<[^>]*>)*Leaving Early Access:\s*([^<]+)', re.I)
+LEAVING_EA_MAX_AGE_DAYS = 3
+
+
+def fetch_leaving_ea(appids, cache):
+    """Scrape announced leaving-Early-Access dates from store pages.
+
+    Returns {appid: {"date_string", "precision", "sort_key"}} where a parseable
+    date was found.
+    """
+    store = cache.setdefault("_leaving_ea", {})
+    now = datetime.now(timezone.utc)
+    to_fetch = [a for a in appids
+                if not store.get(str(a))
+                or (now - datetime.fromisoformat(store[str(a)]["fetched_at"])).days
+                >= LEAVING_EA_MAX_AGE_DAYS]
+    print(f"leaving-EA: {len(to_fetch)} store pages to check, "
+          f"{len(appids) - len(to_fetch)} cached", flush=True)
+    for appid in to_fetch:
+        page = http_text(f"https://store.steampowered.com/app/{appid}/?cc=us&l=english")
+        m = LEAVING_EA_RE.search(page or "")
+        store[str(appid)] = {"fetched_at": now.isoformat(),
+                             "raw": html.unescape(m.group(1)).strip() if m else None}
+        time.sleep(DETAILS_THROTTLE_SECONDS)
+    if to_fetch:
+        CACHE_PATH.write_text(json.dumps(cache), encoding="utf-8")
+
+    out = {}
+    for appid in appids:
+        raw = (store.get(str(appid)) or {}).get("raw")
+        if raw:
+            precision, y, mth, d = parse_release_string(raw)
+            if precision != "tba":
+                out[appid] = {"date_string": raw, "precision": precision,
+                              "sort_key": release_sort_key(precision, y, mth, d)}
+    return out
+
 
 def fetch_reviews(appids, cache):
     """Fetch Steam review summaries (keyless) for released titles, weekly-cached.
@@ -376,7 +430,7 @@ def write_ics(path, cal_name, items, generated_at):
                 f"\nSteam: {it['url']}")
         lines += [
             "BEGIN:VEVENT",
-            f"UID:app-{it['appid']}@psahui.github.io",
+            f"UID:app-{it['appid']}{it.get('uid_suffix', '')}@psahui.github.io",
             f"DTSTAMP:{stamp}",
             f"DTSTART;VALUE=DATE:{start}",
             f"DTEND;VALUE=DATE:{end_dt.strftime('%Y%m%d')}",
@@ -403,6 +457,13 @@ def write_feeds(items, generated_at):
     dated = [it for it in items
              if it["status"] == "upcoming" and it["precision"] == "day"
              and it["kind"] != "minor_dlc"]
+    # Announced EA graduations are release dates too.
+    dated += [{**it, "sort_key": it["leaving_ea"]["sort_key"],
+               "name": it["name"] + " (full release)", "uid_suffix": "-fullrelease"}
+              for it in items
+              if it.get("leaving_ea") and it["leaving_ea"]["precision"] == "day"
+              and it["kind"] != "minor_dlc"]
+    dated.sort(key=lambda it: it["sort_key"])
     for filename, (cal_name, pub_group) in ICS_FEEDS.items():
         subset = [it for it in dated if pub_group is None or pub_group in it["pub_groups"]]
         write_ics(ROOT / filename, cal_name, subset, generated_at)
@@ -441,8 +502,10 @@ def main():
         return 1
 
     reviews = fetch_reviews([it["appid"] for it in items if it["status"] != "upcoming"], cache)
+    leaving = fetch_leaving_ea([it["appid"] for it in items if it["status"] == "early_access"], cache)
     for it in items:
         it["review"] = reviews.get(it["appid"])
+        it["leaving_ea"] = leaving.get(it["appid"])
 
     write_feeds(items, now)
 
