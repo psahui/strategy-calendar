@@ -38,9 +38,18 @@
   .layout { display: grid; grid-template-columns: 264px 1fr; gap: 20px; padding: 20px 0 40px; }
   @media (max-width: 820px) { .layout { grid-template-columns: 1fr; } }
 
-  /* Filters */
-  aside.filters { align-self: start; position: sticky; top: 12px; }
-  @media (max-width: 820px) { aside.filters { position: static; } }
+  /* Filters: sticky sidebar that scrolls independently (like Steam's facet column),
+     so every group stays reachable without scrolling the page. */
+  aside.filters {
+    align-self: start; position: sticky; top: 12px;
+    max-height: calc(100vh - 24px); overflow-y: auto; overscroll-behavior: contain;
+    padding-right: 4px; scrollbar-width: thin; scrollbar-color: #c5c5c5 transparent;
+  }
+  aside.filters::-webkit-scrollbar { width: 8px; }
+  aside.filters::-webkit-scrollbar-track { background: transparent; }
+  aside.filters::-webkit-scrollbar-thumb { background: #c9c9c9; border-radius: 4px; }
+  aside.filters::-webkit-scrollbar-thumb:hover { background: #a3a3a3; }
+  @media (max-width: 820px) { aside.filters { position: static; max-height: none; overflow-y: visible; } }
   .fgroup { background: var(--card); border: 1px solid var(--line); border-radius: 6px; margin-bottom: 12px; }
   .fgroup summary {
     cursor: pointer; padding: 10px 14px; font-weight: 600; font-size: 14px;

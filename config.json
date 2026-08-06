@@ -14,7 +14,8 @@
     "Illwinter Game Design",
     "Amplitude Studios",
     "AMPLITUDE Studios",
-    "VR Designs"
+    "VR Designs",
+    "Ashdar Games"
   ],
   "publisher_groups": {
     "Paradox Interactive": ["Paradox Interactive"],
@@ -31,7 +32,8 @@
     "Creative Assembly": ["Creative Assembly", "Creative Assembly Sofia"],
     "Firaxis Games": ["Firaxis Games", "Firaxis"],
     "Illwinter Game Design": ["Illwinter Game Design"],
-    "VR Designs": ["VR Designs", "VR-Designs"]
+    "VR Designs": ["VR Designs", "VR-Designs"],
+    "Ashdar Games": ["Ashdar Games"]
   },
   "minor_dlc_patterns": [
     "soundtrack",
