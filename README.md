@@ -9,6 +9,10 @@ Firaxis, Illwinter, Amplitude, Mohawk, VR Designs and friends.
 
 Built for [Matchsticks for my Eyes](https://www.matchstickeyes.com).
 
+This is a personal project shared as-is: maintained for my own use, with no
+support, roadmap, or response-time commitments implied. The Matchsticks for my
+Eyes name and logo are not licensed for reuse.
+
 ## How it works
 
 - `fetch_data.py` (Python, stdlib only, no API keys) discovers apps via Steam's
