@@ -152,7 +152,7 @@ const MONTH_NAMES = ["January","February","March","April","May","June","July","A
 const STATUS_LABEL = { upcoming: "Upcoming", early_access: "Early Access", released: "Released" };
 // Minor DLC (soundtracks, cosmetics, upgrade packs…) is unchecked by default
 // but visible as a checkbox, so nothing is silently hidden.
-const state = { pubs: new Set(), devs: new Set(), types: new Set(["game","dlc"]), statuses: new Set(["upcoming","early_access","released"]) };
+const state = { pubs: new Set(), devs: new Set(), types: new Set(["game","dlc"]), statuses: new Set(["upcoming","early_access","released"]), demos: new Set() };
 let DATA = null;
 
 function bucketOf(item) {
@@ -171,7 +171,8 @@ function matches(item) {
   return item.pub_groups.some(g => state.pubs.has(g))
       && item.dev_groups.some(g => state.devs.has(g))
       && state.types.has(item.kind || item.type)
-      && state.statuses.has(item.status);
+      && state.statuses.has(item.status)
+      && (!state.demos.has("demo_only") || item.has_demo);
 }
 
 function esc(s) { const d = document.createElement("div"); d.textContent = s; return d.innerHTML; }
@@ -244,6 +245,7 @@ function syncURL() {
     const cur = [...state[key]].filter(v => all.includes(v)).sort();
     if (cur.join("|") !== [...def].sort().join("|")) p.set(param, cur.join("|"));
   }
+  if (state.demos.has("demo_only")) p.set("demo", "1");
   const qs = p.toString();
   history.replaceState(null, "", qs ? "?" + qs : location.pathname);
 }
@@ -255,6 +257,7 @@ function applyURL() {
     const all = allFn();
     state[key] = new Set(p.get(param).split("|").filter(v => all.includes(v)));
   }
+  if (p.get("demo") === "1") state.demos.add("demo_only");
 }
 
 function render() {
@@ -304,9 +307,11 @@ function buildFilters() {
     + filterGroup("Publishers", DATA.publisher_groups.map(g => [g]), state.pubs, pubCounts, wide)
     + filterGroup("Developers", DATA.developer_groups.map(g => [g]), state.devs, devCounts, wide)
     + filterGroup("Type", [["game","Games"],["dlc","DLC"],["minor_dlc","Minor DLC (music, cosmetics…)"]], state.types, typeCounts, wide)
-    + filterGroup("Status", [["upcoming","Upcoming"],["early_access","Early Access"],["released","Released"]], state.statuses, statusCounts, wide);
+    + filterGroup("Status", [["upcoming","Upcoming"],["early_access","Early Access"],["released","Released"]], state.statuses, statusCounts, wide)
+    + filterGroup("Demos", [["demo_only","Has a playable demo"]], state.demos,
+        new Map([["demo_only", DATA.items.filter(it => it.has_demo).length]]), wide);
 
-  const setFor = title => ({ "Publishers": state.pubs, "Developers": state.devs, "Type": state.types, "Status": state.statuses })[title];
+  const setFor = title => ({ "Publishers": state.pubs, "Developers": state.devs, "Type": state.types, "Status": state.statuses, "Demos": state.demos })[title];
   document.getElementById("filters").addEventListener("change", e => {
     const cb = e.target;
     if (cb.tagName !== "INPUT") return;
