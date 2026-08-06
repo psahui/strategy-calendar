@@ -89,6 +89,8 @@
   .card h3 a { color: var(--ink); }
   .card h3 a:hover { color: var(--accent); }
   .meta { font-size: 13px; color: var(--ink-2); }
+  .meta a { color: var(--ink-2); }
+  .meta a:hover { color: var(--accent); }
   .meta .sep { color: var(--ink-3); margin: 0 4px; }
   .date { font-size: 13.5px; font-weight: 600; color: var(--ink); white-space: nowrap; text-align: right; flex: none; }
   @media (max-width: 560px) { .date { text-align: left; } }
@@ -182,8 +184,10 @@ function cardHTML(it) {
     `<span class="badge b-${it.status}">${STATUS_LABEL[it.status]}</span>`,
     it.has_demo ? `<span class="badge b-demo">Demo</span>` : "",
   ].join("");
-  const devs = it.developers.join(", ");
-  const pubs = it.publishers.join(", ");
+  const steamLink = (name, param) =>
+    `<a href="https://store.steampowered.com/search/?${param}=${encodeURIComponent(name)}" target="_blank" rel="noopener">${esc(name)}</a>`;
+  const devs = it.developers.map(n => steamLink(n, "developer")).join(", ");
+  const pubs = it.publishers.map(n => steamLink(n, "publisher")).join(", ");
   const parent = it.parent
     ? `<div class="parent-note">DLC for <a href="https://store.steampowered.com/app/${it.parent.appid}/" target="_blank" rel="noopener">${esc(it.parent.name)}</a></div>` : "";
   const review = it.review
@@ -195,7 +199,7 @@ function cardHTML(it) {
     ${img}
     <div class="body">
       <h3><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.name)}</a></h3>
-      <div class="meta">${esc(devs)}<span class="sep">•</span>${esc(pubs)}</div>
+      <div class="meta">${devs}<span class="sep">•</span>${pubs}</div>
       ${parent}
       ${review}
       ${blog}
