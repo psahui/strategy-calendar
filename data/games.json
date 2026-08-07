@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T01:30:03+00:00",
+ "generated_at": "2026-08-07T01:35:19+00:00",
  "cutoff": "2025-08-06",
  "publisher_groups": [
   "Paradox Interactive",
@@ -93,6 +93,40 @@
     "desc": "Mostly Positive",
     "pct": 73,
     "total": 15
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3761870,
+   "name": "Steel Division 2 - Battle of Dukla Pass",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 7, 2025",
+   "precision": "day",
+   "sort_key": 20250907,
+   "developers": [
+    "Eugen Systems"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Eugen Systems"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/3761870/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3761870/7518e01a761e250902bf28593605570dd5e3efe5/capsule_231x87.jpg?t=1757313583",
+   "parent": {
+    "appid": 919640,
+    "name": "Steel Division 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 82,
+    "total": 34
    },
    "leaving_ea": null
   },
@@ -419,6 +453,40 @@
     "desc": "Mixed",
     "pct": 60,
     "total": 15
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2978630,
+   "name": "WARNO - SOUTHAG",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Oct 7, 2025",
+   "precision": "day",
+   "sort_key": 20251007,
+   "developers": [
+    "Eugen Systems"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Eugen Systems"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/2978630/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2978630/capsule_231x87.jpg?t=1759998958",
+   "parent": {
+    "appid": 1611600,
+    "name": "WARNO"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 67,
+    "total": 91
    },
    "leaving_ea": null
   },
@@ -1121,6 +1189,40 @@
     "desc": "Mostly Negative",
     "pct": 34,
     "total": 239
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4030770,
+   "name": "WARNO - Nemesis #4 - Capital Defence",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Nov 13, 2025",
+   "precision": "day",
+   "sort_key": 20251113,
+   "developers": [
+    "Eugen Systems"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Eugen Systems"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/4030770/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030770/92f78bf3b45595e1db06b3d8754187468f7e3c33/capsule_231x87.jpg?t=1763020851",
+   "parent": {
+    "appid": 1611600,
+    "name": "WARNO"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 74,
+    "total": 43
    },
    "leaving_ea": null
   },
@@ -1954,6 +2056,40 @@
    "leaving_ea": null
   },
   {
+   "appid": 4100510,
+   "name": "WARNO - Nemesis #5 - Southern Flank",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jan 12, 2026",
+   "precision": "day",
+   "sort_key": 20260112,
+   "developers": [
+    "Eugen Systems"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Eugen Systems"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/4100510/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100510/ae1805035e038fb53df44b2f82bc5cb1973b3856/capsule_231x87.jpg?t=1768284228",
+   "parent": {
+    "appid": 1611600,
+    "name": "WARNO"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 54,
+    "total": 46
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3315560,
    "name": "Crusader Kings III Creator Pack: High Medieval Warfare Attire",
    "type": "dlc",
@@ -2127,6 +2263,40 @@
     "desc": "Mostly Positive",
     "pct": 75,
     "total": 32
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4341720,
+   "name": "WARNO - Nemesis #6 - The Magdeburg Counterstrike",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Feb 26, 2026",
+   "precision": "day",
+   "sort_key": 20260226,
+   "developers": [
+    "Eugen Systems"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Eugen Systems"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/4341720/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341720/a8d312870d1dfbbc87a068dbedbd2fa30d285016/capsule_231x87.jpg?t=1772092933",
+   "parent": {
+    "appid": 1611600,
+    "name": "WARNO"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 47
    },
    "leaving_ea": null
   },
@@ -3049,6 +3219,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 3594460,
+   "name": "WARNO - LANDJUT",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Apr 15, 2026",
+   "precision": "day",
+   "sort_key": 20260415,
+   "developers": [
+    "Eugen Systems"
+   ],
+   "publishers": [
+    "Eugen Systems"
+   ],
+   "dev_groups": [
+    "Eugen Systems"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/3594460/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594460/d45b4069a0bb74360f5b076c0d7c9a15c6ab737c/capsule_231x87.jpg?t=1777277988",
+   "parent": {
+    "appid": 1611600,
+    "name": "WARNO"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 62,
+    "total": 144
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 4232880,
    "name": "Crusader Kings III: Chapter V",
    "type": "dlc",
@@ -3621,6 +3827,42 @@
     "desc": "Mixed",
     "pct": 53,
     "total": 125
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4579490,
+   "name": "WARNO - Nemesis #7 - State of Emergency",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jun 2, 2026",
+   "precision": "day",
+   "sort_key": 20260602,
+   "developers": [
+    "Eugen Systems"
+   ],
+   "publishers": [
+    "Eugen Systems"
+   ],
+   "dev_groups": [
+    "Eugen Systems"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/4579490/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579490/9075c7fc212de4322c4868e04d15a0d3bd03fed0/capsule_231x87.jpg?t=1780469919",
+   "parent": {
+    "appid": 1611600,
+    "name": "WARNO"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 36
    },
    "leaving_ea": null
   },

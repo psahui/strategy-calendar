@@ -29,7 +29,7 @@ DETAILS_URL = "https://store.steampowered.com/api/appdetails"
 HEADERS = {"User-Agent": "Mozilla/5.0 (strategy-release-calendar; personal hobby project)"}
 
 DETAILS_THROTTLE_SECONDS = 1.6
-SEARCH_THROTTLE_SECONDS = 1.0
+SEARCH_THROTTLE_SECONDS = 1.5
 CACHE_MAX_AGE_DAYS = 30
 
 MONTHS = {m.lower(): i + 1 for i, m in enumerate(
@@ -53,14 +53,15 @@ def http_text(url, retries=3):
     return None
 
 
-def http_json(url, retries=4):
+def http_json(url, retries=5):
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers=HEADERS)
             with urllib.request.urlopen(req, timeout=30) as resp:
                 return json.load(resp)
         except Exception as exc:  # noqa: BLE001 — retry on any transient failure
-            wait = 8 * (attempt + 1)
+            # Steam rate-limits bursts; back off generously rather than fail.
+            wait = 15 * (attempt + 1)
             print(f"    retrying after error ({exc}); waiting {wait}s", flush=True)
             time.sleep(wait)
     print(f"    giving up on {url}", flush=True)
@@ -104,8 +105,16 @@ def release_sort_key(precision, year, month, day):
     return y * 10000 + mth * 100 + d
 
 
+class SearchFailure(Exception):
+    """A storefront search never returned — the results would be incomplete."""
+
+
 def search_steam(field, value, extra_params):
-    """Paginate a storefront search; yield (appid, title, release_string)."""
+    """Paginate a storefront search; yield (appid, title, release_string).
+
+    Raises SearchFailure if a request never succeeds, so a partial dataset is
+    never mistaken for a complete one.
+    """
     start = 0
     while True:
         params = {
@@ -115,7 +124,9 @@ def search_steam(field, value, extra_params):
         params.update(extra_params)
         url = SEARCH_URL + "?" + urllib.parse.urlencode(params)
         payload = http_json(url)
-        if not payload or not payload.get("success"):
+        if payload is None:
+            raise SearchFailure(f"{field}={value} (start={start})")
+        if not payload.get("success"):
             return
         rows_html = payload.get("results_html", "")
         rows = re.findall(
@@ -134,33 +145,39 @@ def search_steam(field, value, extra_params):
 
 
 def discover_apps(config, cutoff_key):
-    """Run all configured searches; return {appid: search_release_string}."""
-    found = {}
+    """Run all configured searches.
+
+    Returns ({appid: search_release_string}, [failed search descriptions]).
+    """
+    found, failures = {}, []
     searches = ([("publisher", p) for p in config["publisher_searches"]]
                 + [("developer", d) for d in config["developer_searches"]])
     for field, value in searches:
         print(f"Searching {field} = {value}", flush=True)
         count_before = len(found)
+        try:
+            # Pass 1: everything marked coming soon.
+            for appid, _title, released in search_steam(field, value, {"filter": "comingsoon"}):
+                found.setdefault(appid, released)
 
-        # Pass 1: everything marked coming soon.
-        for appid, _title, released in search_steam(field, value, {"filter": "comingsoon"}):
-            found.setdefault(appid, released)
-
-        # Pass 2: released items newest-first; stop once we are clearly past
-        # the cutoff (tolerate a few stragglers with odd date strings).
-        consecutive_old = 0
-        for appid, _title, released in search_steam(field, value, {"sort_by": "Released_DESC"}):
-            precision, y, mth, d = parse_release_string(released)
-            key = release_sort_key(precision, y, mth, d)
-            if precision in ("day", "month") and key < cutoff_key:
-                consecutive_old += 1
-                if consecutive_old >= 15:
-                    break
-                continue
+            # Pass 2: released items newest-first; stop once we are clearly past
+            # the cutoff (tolerate a few stragglers with odd date strings).
             consecutive_old = 0
-            found.setdefault(appid, released)
+            for appid, _title, released in search_steam(field, value, {"sort_by": "Released_DESC"}):
+                precision, y, mth, d = parse_release_string(released)
+                key = release_sort_key(precision, y, mth, d)
+                if precision in ("day", "month") and key < cutoff_key:
+                    consecutive_old += 1
+                    if consecutive_old >= 15:
+                        break
+                    continue
+                consecutive_old = 0
+                found.setdefault(appid, released)
+        except SearchFailure as exc:
+            print(f"  SEARCH FAILED: {exc}", flush=True)
+            failures.append(str(exc))
         print(f"  running total: {len(found)} apps (+{len(found) - count_before})", flush=True)
-    return found
+    return found, failures
 
 
 def load_cache():
@@ -488,7 +505,14 @@ def main():
     cutoff = now - timedelta(days=config["max_age_months"] * 30.44)
     cutoff_key = cutoff.year * 10000 + cutoff.month * 100 + cutoff.day
 
-    found = discover_apps(config, cutoff_key)
+    found, failures = discover_apps(config, cutoff_key)
+    if failures:
+        # A dropped search silently loses whole studios from the calendar, and
+        # is far too small a change for the count check below to notice.
+        print(f"ABORTING: {len(failures)} search(es) failed: {failures}. "
+              "Keeping existing data rather than publishing a partial calendar.",
+              flush=True)
+        return 1
     for appid in config["include_appids"]:
         found.setdefault(int(appid), "")
     print(f"discovered {len(found)} candidate apps", flush=True)
