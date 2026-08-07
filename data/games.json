@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T01:48:11+00:00",
+ "generated_at": "2026-08-07T02:03:08+00:00",
  "cutoff": "2025-08-06",
  "publisher_groups": [
   "Paradox Interactive",
@@ -22,6 +22,7 @@
   "Eugen Systems",
   "Holistic Design, Inc.",
   "Frontier Developments",
+  "Bit Reactor",
   "Other developers"
  ],
  "items": [
@@ -5090,6 +5091,35 @@
     "appid": 1422440,
     "name": "Cataclismo"
    },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 2075800,
+   "name": "STAR WARS Zero Company\u2122",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Aug 27, 2026",
+   "precision": "day",
+   "sort_key": 20260827,
+   "developers": [
+    "Bit Reactor"
+   ],
+   "publishers": [
+    "Electronic Arts"
+   ],
+   "dev_groups": [
+    "Bit Reactor"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/2075800/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1786038839",
+   "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": null,

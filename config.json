@@ -18,7 +18,8 @@
     "Ashdar Games",
     "Eugen Systems",
     "Holistic Design, Inc.",
-    "Frontier Developments"
+    "Frontier Developments",
+    "Bit Reactor"
   ],
   "publisher_groups": {
     "Paradox Interactive": ["Paradox Interactive"],
@@ -39,7 +40,8 @@
     "Ashdar Games": ["Ashdar Games"],
     "Eugen Systems": ["Eugen Systems"],
     "Holistic Design, Inc.": ["Holistic Design, Inc."],
-    "Frontier Developments": ["Frontier Developments"]
+    "Frontier Developments": ["Frontier Developments"],
+    "Bit Reactor": ["Bit Reactor"]
   },
   "minor_dlc_patterns": [
     "soundtrack",
