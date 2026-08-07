@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T01:35:19+00:00",
+ "generated_at": "2026-08-07T01:48:11+00:00",
  "cutoff": "2025-08-06",
  "publisher_groups": [
   "Paradox Interactive",
@@ -21,6 +21,7 @@
   "Ashdar Games",
   "Eugen Systems",
   "Holistic Design, Inc.",
+  "Frontier Developments",
   "Other developers"
  ],
  "items": [
@@ -163,6 +164,42 @@
     "desc": "Overwhelmingly Negative",
     "pct": 18,
     "total": 1076
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3902620,
+   "name": "Planet Coaster 2: Sorcery Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 16, 2025",
+   "precision": "day",
+   "sort_key": 20250916,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/3902620/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902620/0357bcda3d781bd27153dd6b1dede03952ac5218/capsule_231x87.jpg?t=1763123449",
+   "parent": {
+    "appid": 2688950,
+    "name": "Planet Coaster 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 93,
+    "total": 130
    },
    "leaving_ea": null
   },
@@ -523,6 +560,111 @@
     "desc": "Very Positive",
     "pct": 89,
     "total": 62
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2958130,
+   "name": "Jurassic World Evolution 3",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Oct 21, 2025",
+   "precision": "day",
+   "sort_key": 20251021,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/2958130/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/767bbed48a0426d14562f4aba32bd30abefb79ec/capsule_231x87.jpg?t=1785850232",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 93,
+    "total": 12741
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3651190,
+   "name": "Jurassic World Evolution 3: Badlands Set",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Oct 21, 2025",
+   "precision": "day",
+   "sort_key": 20251021,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/3651190/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651190/9f3454c0e8c81a2552e66df00bfc7462d4bf0f99/capsule_231x87.jpg?t=1773671707",
+   "parent": {
+    "appid": 2958130,
+    "name": "Jurassic World Evolution 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 84,
+    "total": 63
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3651200,
+   "name": "Jurassic World Evolution 3: Deluxe Upgrade Pack",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Oct 21, 2025",
+   "precision": "day",
+   "sort_key": 20251021,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/3651200/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651200/ba05bfd85de16c8278892f949689df9e534e0ff4/capsule_231x87.jpg?t=1773671647",
+   "parent": {
+    "appid": 2958130,
+    "name": "Jurassic World Evolution 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 83,
+    "total": 72
    },
    "leaving_ea": null
   },
@@ -1660,6 +1802,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 4129920,
+   "name": "Planet Coaster 2: Toybox Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Dec 4, 2025",
+   "precision": "day",
+   "sort_key": 20251204,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/4129920/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129920/4522e56b3f192d54111aa25df318d6b942bc6540/capsule_231x87.jpg?t=1764846064",
+   "parent": {
+    "appid": 2688950,
+    "name": "Planet Coaster 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 89,
+    "total": 46
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3450960,
    "name": "Total War: WARHAMMER III - Aislinn \u2013 Tides of Torment",
    "type": "dlc",
@@ -1770,6 +1948,42 @@
     "desc": "Mostly Positive",
     "pct": 72,
     "total": 417
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4131660,
+   "name": "Jurassic World Evolution 3: Wetlands ",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Dec 9, 2025",
+   "precision": "day",
+   "sort_key": 20251209,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/4131660/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131660/5984ef938d7a0fe63efa02cbb0a3729cbf03370e/capsule_231x87.jpg?t=1767795005",
+   "parent": {
+    "appid": 2958130,
+    "name": "Jurassic World Evolution 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 80,
+    "total": 99
    },
    "leaving_ea": null
   },
@@ -4011,6 +4225,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 4131670,
+   "name": "Jurassic World Evolution 3: Rebirth Expansion",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jun 16, 2026",
+   "precision": "day",
+   "sort_key": 20260616,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/4131670/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131670/a9bf51e5210b7a4aec6a0022e08fa2e2b4dece7f/capsule_231x87.jpg?t=1781615080",
+   "parent": {
+    "appid": 2958130,
+    "name": "Jurassic World Evolution 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 60,
+    "total": 263
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3874260,
    "name": "Anno 117: Pax Romana \u2013 Blooming Cities Pack",
    "type": "dlc",
@@ -4347,6 +4597,42 @@
    "has_demo": false,
    "blog_url": null,
    "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4492160,
+   "name": "Planet Coaster 2:\u00a0Parades Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jun 25, 2026",
+   "precision": "day",
+   "sort_key": 20260625,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/4492160/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492160/177e9e5f0fb564a7b690eabe5aa609cea42eddd9/capsule_231x87.jpg?t=1782400832",
+   "parent": {
+    "appid": 2688950,
+    "name": "Planet Coaster 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 80,
+    "total": 59
+   },
    "leaving_ea": null
   },
   {
@@ -4717,6 +5003,38 @@
    "leaving_ea": null
   },
   {
+   "appid": 4553980,
+   "name": "Jurassic World Evolution 3: Crocodilia Coast",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Aug 11, 2026",
+   "precision": "day",
+   "sort_key": 20260811,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/4553980/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553980/114f0cf51f9a5e9455b5fd2fe42801daec90bdea/capsule_231x87.jpg?t=1786021310",
+   "parent": {
+    "appid": 2958130,
+    "name": "Jurassic World Evolution 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 2764460,
    "name": "Sandustry",
    "type": "game",
@@ -4836,6 +5154,35 @@
     "appid": 1531540,
     "name": "Distant Worlds 2"
    },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3219030,
+   "name": "Planet Zoo 2",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Oct 13, 2026",
+   "precision": "day",
+   "sort_key": 20261013,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/3219030/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1785247212",
+   "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": null,
