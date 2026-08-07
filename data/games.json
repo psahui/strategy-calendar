@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T00:17:52+00:00",
+ "generated_at": "2026-08-07T01:30:03+00:00",
  "cutoff": "2025-08-06",
  "publisher_groups": [
   "Paradox Interactive",
@@ -19,6 +19,8 @@
   "Illwinter Game Design",
   "VR Designs",
   "Ashdar Games",
+  "Eugen Systems",
+  "Holistic Design, Inc.",
   "Other developers"
  ],
  "items": [
@@ -1413,7 +1415,7 @@
    "appid": 3579790,
    "name": "Cities: Skylines II - Creator Pack: Skyscrapers",
    "type": "dlc",
-   "kind": "dlc",
+   "kind": "minor_dlc",
    "status": "released",
    "date_string": "Dec 3, 2025",
    "precision": "day",
@@ -1449,7 +1451,7 @@
    "appid": 3579760,
    "name": "Cities: Skylines II - Creator Pack: Supply Chains",
    "type": "dlc",
-   "kind": "dlc",
+   "kind": "minor_dlc",
    "status": "released",
    "date_string": "Dec 3, 2025",
    "precision": "day",
@@ -1955,7 +1957,7 @@
    "appid": 3315560,
    "name": "Crusader Kings III Creator Pack: High Medieval Warfare Attire",
    "type": "dlc",
-   "kind": "dlc",
+   "kind": "minor_dlc",
    "status": "released",
    "date_string": "Jan 27, 2026",
    "precision": "day",
@@ -1991,7 +1993,7 @@
    "appid": 3315570,
    "name": "Crusader Kings III Creator Pack: Holy Buildings",
    "type": "dlc",
-   "kind": "dlc",
+   "kind": "minor_dlc",
    "status": "released",
    "date_string": "Jan 27, 2026",
    "precision": "day",
@@ -2378,7 +2380,7 @@
    "appid": 4232870,
    "name": "Crusader Kings III Creator Pack: Celestial Court Attire",
    "type": "dlc",
-   "kind": "dlc",
+   "kind": "minor_dlc",
    "status": "released",
    "date_string": "Mar 11, 2026",
    "precision": "day",
@@ -2414,7 +2416,7 @@
    "appid": 4232860,
    "name": "Crusader Kings III Creator Pack: East Asian Wonders",
    "type": "dlc",
-   "kind": "dlc",
+   "kind": "minor_dlc",
    "status": "released",
    "date_string": "Mar 11, 2026",
    "precision": "day",
@@ -2450,7 +2452,7 @@
    "appid": 3315580,
    "name": "Crusader Kings III Creator Pack: North Pacific Attire",
    "type": "dlc",
-   "kind": "dlc",
+   "kind": "minor_dlc",
    "status": "released",
    "date_string": "Mar 11, 2026",
    "precision": "day",
@@ -2594,7 +2596,7 @@
    "appid": 3579770,
    "name": "Cities: Skylines II - Creator Pack: City Stations",
    "type": "dlc",
-   "kind": "dlc",
+   "kind": "minor_dlc",
    "status": "released",
    "date_string": "Mar 18, 2026",
    "precision": "day",
@@ -2630,7 +2632,7 @@
    "appid": 3579780,
    "name": "Cities: Skylines II - Creator Pack: Office Evolution",
    "type": "dlc",
-   "kind": "dlc",
+   "kind": "minor_dlc",
    "status": "released",
    "date_string": "Mar 18, 2026",
    "precision": "day",
@@ -2941,6 +2943,39 @@
     "desc": "Positive",
     "pct": 89,
     "total": 19
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 1297570,
+   "name": "Machiavelli the Prince",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Apr 2, 2026",
+   "precision": "day",
+   "sort_key": 20260402,
+   "developers": [
+    "Holistic Design, Inc."
+   ],
+   "publishers": [
+    "Holistic Design, inc."
+   ],
+   "dev_groups": [
+    "Holistic Design, Inc."
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "url": "https://store.steampowered.com/app/1297570/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297570/e095063d85993f5b01e81599e38fa5a576a5a6a8/capsule_231x87.jpg?t=1776095662",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 100,
+    "total": 12
    },
    "leaving_ea": null
   },
