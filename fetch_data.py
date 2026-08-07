@@ -467,6 +467,7 @@ ICS_FEEDS = {
     "paradox.ics": ("Strategy Releases — Paradox", "Paradox Interactive"),
     "hooded-horse.ics": ("Strategy Releases — Hooded Horse", "Hooded Horse"),
     "slitherine-matrix.ics": ("Strategy Releases — Slitherine/Matrix", "Slitherine / Matrix"),
+    "microprose.ics": ("Strategy Releases — MicroProse", "MicroProse"),
 }
 
 

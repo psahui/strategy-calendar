@@ -1,10 +1,13 @@
 {
   "publisher_searches": [
     "Paradox Interactive",
+    "Paradox Arc",
     "Hooded Horse",
     "Slitherine Ltd.",
     " Slitherine Ltd.",
-    "Matrix Games"
+    "Matrix Games",
+    "MicroProse Software",
+    "MicroProse"
   ],
   "developer_searches": [
     "Ubisoft Mainz",
@@ -19,12 +22,15 @@
     "Eugen Systems",
     "Holistic Design, Inc.",
     "Frontier Developments",
-    "Bit Reactor"
+    "Bit Reactor",
+    "Ludeon Studios",
+    "Bay 12 Games"
   ],
   "publisher_groups": {
-    "Paradox Interactive": ["Paradox Interactive"],
+    "Paradox Interactive": ["Paradox Interactive", "Paradox Arc"],
     "Hooded Horse": ["Hooded Horse"],
-    "Slitherine / Matrix": ["Slitherine Ltd.", "Slitherine", "Matrix Games"]
+    "Slitherine / Matrix": ["Slitherine Ltd.", "Slitherine", "Matrix Games"],
+    "MicroProse": ["MicroProse Software", "MicroProse"]
   },
   "developer_groups": {
     "Paradox Development Studio": ["Paradox Development Studio"],
@@ -41,7 +47,9 @@
     "Eugen Systems": ["Eugen Systems"],
     "Holistic Design, Inc.": ["Holistic Design, Inc."],
     "Frontier Developments": ["Frontier Developments"],
-    "Bit Reactor": ["Bit Reactor"]
+    "Bit Reactor": ["Bit Reactor"],
+    "Ludeon Studios": ["Ludeon Studios"],
+    "Bay 12 Games": ["Bay 12 Games"]
   },
   "minor_dlc_patterns": [
     "soundtrack",

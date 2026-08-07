@@ -1,10 +1,11 @@
 {
- "generated_at": "2026-08-07T02:03:08+00:00",
+ "generated_at": "2026-08-07T02:33:04+00:00",
  "cutoff": "2025-08-06",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
   "Slitherine / Matrix",
+  "MicroProse",
   "Other publishers"
  ],
  "developer_groups": [
@@ -23,6 +24,8 @@
   "Holistic Design, Inc.",
   "Frontier Developments",
   "Bit Reactor",
+  "Ludeon Studios",
+  "Bay 12 Games",
   "Other developers"
  ],
  "items": [
@@ -99,6 +102,171 @@
    "leaving_ea": null
   },
   {
+   "appid": 3086120,
+   "name": "Harpoon Classic '97",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Aug 24, 2025",
+   "precision": "day",
+   "sort_key": 20250824,
+   "developers": [
+    "Alliance Interactive"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3086120/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3086120/0be2ece7ccf7d21d4244a45d4a8fca93d7caf4f3/capsule_231x87.jpg?t=1766103824",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 84,
+    "total": 62
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3020280,
+   "name": "IF-16 FIGHTING FALCON",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Aug 31, 2025",
+   "precision": "day",
+   "sort_key": 20250831,
+   "developers": [
+    "Interactive Magic"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3020280/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020280/30bae696f5369ccc4a92c48708905fb1ada7a044/capsule_231x87.jpg?t=1756688497",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "8 user reviews",
+    "pct": 88,
+    "total": 8
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 1289720,
+   "name": "Neyyah",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Sep 2, 2025",
+   "precision": "day",
+   "sort_key": 20250902,
+   "developers": [
+    "Defy Reality Entertainment"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/1289720/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289720/07ae14bc5d74634dc03287579acac77bf14834df/capsule_231x87.jpg?t=1785492509",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 84,
+    "total": 237
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3020300,
+   "name": "Exploration",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Sep 7, 2025",
+   "precision": "day",
+   "sort_key": 20250907,
+   "developers": [
+    "Software 2000"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3020300/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020300/cce306b13e15aca409f222612fcd59bd0a0d3b91/capsule_231x87.jpg?t=1757290090",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "4 user reviews",
+    "pct": 75,
+    "total": 4
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2577380,
+   "name": "iM1A2 Abrams",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Sep 7, 2025",
+   "precision": "day",
+   "sort_key": 20250907,
+   "developers": [
+    "Charybdis Enterprises"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/2577380/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577380/00d54f728557ab3b56088a661df2bfae8ac547c0/capsule_231x87.jpg?t=1757290070",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "7 user reviews",
+    "pct": 57,
+    "total": 7
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3761870,
    "name": "Steel Division 2 - Battle of Dukla Pass",
    "type": "dlc",
@@ -165,6 +333,39 @@
     "desc": "Overwhelmingly Negative",
     "pct": 18,
     "total": 1076
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3317800,
+   "name": "Apache  Longbow",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Sep 14, 2025",
+   "precision": "day",
+   "sort_key": 20250914,
+   "developers": [
+    "Digital Integration"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3317800/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317800/591817b6755ee574827a6be2c4c318d5e10457e0/capsule_231x87.jpg?t=1757898799",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "5 user reviews",
+    "pct": 80,
+    "total": 5
    },
    "leaving_ea": null
   },
@@ -495,6 +696,39 @@
    "leaving_ea": null
   },
   {
+   "appid": 2088550,
+   "name": "Dying Breed",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Oct 7, 2025",
+   "precision": "day",
+   "sort_key": 20251007,
+   "developers": [
+    "Sarnayer"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/2088550/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088550/86c2c9cfd62128bd6e42264c27cde42d49c30cc3/capsule_231x87.jpg?t=1783618743",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 230
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 2978630,
    "name": "WARNO - SOUTHAG",
    "type": "dlc",
@@ -525,6 +759,42 @@
     "desc": "Mixed",
     "pct": 67,
     "total": 91
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4013420,
+   "name": "Across the Obelisk: Golden Season Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Oct 8, 2025",
+   "precision": "day",
+   "sort_key": 20251008,
+   "developers": [
+    "Moonmana Ltd."
+   ],
+   "publishers": [
+    "Paradox Arc"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "url": "https://store.steampowered.com/app/4013420/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013420/4c2cc7f16e0752c97a82c0849d8ae1ce88743e3b/capsule_231x87.jpg?t=1759924782",
+   "parent": {
+    "appid": 1385380,
+    "name": "Across the Obelisk"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "9 user reviews",
+    "pct": 67,
+    "total": 9
    },
    "leaving_ea": null
   },
@@ -561,6 +831,39 @@
     "desc": "Very Positive",
     "pct": 89,
     "total": 62
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2195910,
+   "name": "Darkenstein 3D",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Oct 21, 2025",
+   "precision": "day",
+   "sort_key": 20251021,
+   "developers": [
+    "Rowye"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/2195910/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195910/capsule_231x87.jpg?t=1778141743",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 91,
+    "total": 1621
    },
    "leaving_ea": null
   },
@@ -840,6 +1143,39 @@
     "desc": "Mixed",
     "pct": 68,
     "total": 2172
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3773590,
+   "name": "Death by Scrolling",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Oct 28, 2025",
+   "precision": "day",
+   "sort_key": 20251028,
+   "developers": [
+    "Terrible Toybox NZ"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3773590/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3773590/57722c7759936c80ee704e905231aef2908620a0/capsule_231x87.jpg?t=1776360848",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 77,
+    "total": 191
    },
    "leaving_ea": null
   },
@@ -1366,6 +1702,39 @@
     "desc": "Mostly Positive",
     "pct": 74,
     "total": 43
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 1710820,
+   "name": "Cleared Hot",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Nov 20, 2025",
+   "precision": "day",
+   "sort_key": 20251120,
+   "developers": [
+    "Not Knowing Corporation"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/1710820/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1710820/485de60922a80f1e28b9f70a51f08eea16887d99/capsule_231x87.jpg?t=1773803807",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Overwhelmingly Positive",
+    "pct": 96,
+    "total": 3810
    },
    "leaving_ea": null
   },
@@ -2305,6 +2674,39 @@
    "leaving_ea": null
   },
   {
+   "appid": 3064810,
+   "name": "Strategos",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Jan 20, 2026",
+   "precision": "day",
+   "sort_key": 20260120,
+   "developers": [
+    "Strategos Games"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3064810/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064810/1752f4ad36cce5fc2d280aa9213687265e8c0967/capsule_231x87.jpg?t=1779087548",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 86,
+    "total": 247
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3315560,
    "name": "Crusader Kings III Creator Pack: High Medieval Warfare Attire",
    "type": "dlc",
@@ -2413,6 +2815,39 @@
    "leaving_ea": null
   },
   {
+   "appid": 1281220,
+   "name": "Task Force Admiral - Vol.1: American Carrier Battles",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Jan 27, 2026",
+   "precision": "day",
+   "sort_key": 20260127,
+   "developers": [
+    "Drydock Dreams Games"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/1281220/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281220/aa8c7ee0fd696b1a563a6d3a2c140eea26ea0e68/capsule_231x87.jpg?t=1782583158",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 89,
+    "total": 730
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 2432860,
    "name": "MENACE",
    "type": "game",
@@ -2478,6 +2913,39 @@
     "desc": "Mostly Positive",
     "pct": 75,
     "total": 32
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 1400660,
+   "name": "Rise of Piracy",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Feb 24, 2026",
+   "precision": "day",
+   "sort_key": 20260224,
+   "developers": [
+    "IrishJohnGames"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/1400660/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400660/91e66b552678b579ed332e627b354a04abe38072/capsule_231x87.jpg?t=1782829873",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 517
    },
    "leaving_ea": null
   },
@@ -3122,6 +3590,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 4194030,
+   "name": "Across the Obelisk: Frostforged Season Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Mar 19, 2026",
+   "precision": "day",
+   "sort_key": 20260319,
+   "developers": [
+    " Moonmana Ltd."
+   ],
+   "publishers": [
+    "Paradox Arc"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "url": "https://store.steampowered.com/app/4194030/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194030/c7904e913b42873da4ddb40de887d371bf07c110/capsule_231x87.jpg?t=1773937512",
+   "parent": {
+    "appid": 1385380,
+    "name": "Across the Obelisk"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "4 user reviews",
+    "pct": 100,
+    "total": 4
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3826370,
    "name": "Headquarters: Cold War",
    "type": "game",
@@ -3365,6 +3869,40 @@
    "leaving_ea": null
   },
   {
+   "appid": 3161270,
+   "name": "Tlatoani: Aztec Cities",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Apr 2, 2026",
+   "precision": "day",
+   "sort_key": 20260402,
+   "developers": [
+    "Perspective Games",
+    "Bellwood Studios"
+   ],
+   "publishers": [
+    "Paradox Arc"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "url": "https://store.steampowered.com/app/3161270/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161270/cc9e23496c519df168f2d016401db3b6d32a95bb/capsule_231x87.jpg?t=1780403922",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 84,
+    "total": 181
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 538030,
    "name": "Xenonauts 2",
    "type": "game",
@@ -3394,6 +3932,42 @@
     "desc": "Very Positive",
     "pct": 81,
     "total": 5665
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4553960,
+   "name": "Nucleares - Island Fauna",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Apr 4, 2026",
+   "precision": "day",
+   "sort_key": 20260404,
+   "developers": [
+    "Iv\u00e1n Marcelo Pretti"
+   ],
+   "publishers": [
+    "MicroProse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/4553960/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553960/0615c07c83a942a82c6373a2866bafb71d02710f/capsule_231x87.jpg?t=1775802273",
+   "parent": {
+    "appid": 1428420,
+    "name": "Nucleares"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "6 user reviews",
+    "pct": 100,
+    "total": 6
    },
    "leaving_ea": null
   },
@@ -3578,6 +4152,39 @@
    "leaving_ea": null
   },
   {
+   "appid": 2393730,
+   "name": "Legendary Pilots",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Apr 21, 2026",
+   "precision": "day",
+   "sort_key": 20260421,
+   "developers": [
+    "BerkBox"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/2393730/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393730/28bf95da6395e0979434a2c990833ef58a98e12b/capsule_231x87.jpg?t=1782285899",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 234
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3757310,
    "name": "Focus Pack - Hearts of Iron IV: Peace For Our Time",
    "type": "dlc",
@@ -3648,6 +4255,43 @@
     "total": 165
    },
    "leaving_ea": null
+  },
+  {
+   "appid": 2768380,
+   "name": "Repterra",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Apr 28, 2026",
+   "precision": "day",
+   "sort_key": 20260428,
+   "developers": [
+    "Chute Apps"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/2768380/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1786028749",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 90,
+    "total": 84
+   },
+   "leaving_ea": {
+    "date_string": "Aug 20, 2026",
+    "precision": "day",
+    "sort_key": 20260820
+   }
   },
   {
    "appid": 4314650,
@@ -3827,6 +4471,39 @@
    "leaving_ea": null
   },
   {
+   "appid": 2382670,
+   "name": "Gangs Of Asia",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "May 5, 2026",
+   "precision": "day",
+   "sort_key": 20260505,
+   "developers": [
+    "Moonpunch"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/2382670/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382670/ce145cd00d67c84359cc2e31c5d00d7d8abcc2dc/capsule_231x87.jpg?t=1778635860",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "8 user reviews",
+    "pct": 100,
+    "total": 8
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3699010,
    "name": "Europa Universalis V: Fate of the Phoenix",
    "type": "dlc",
@@ -3859,6 +4536,39 @@
     "desc": "Mostly Negative",
     "pct": 33,
     "total": 1101
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2599690,
+   "name": "Better Than Dead",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "May 12, 2026",
+   "precision": "day",
+   "sort_key": 20260512,
+   "developers": [
+    "MONTE GALLO"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/2599690/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2599690/beaa4985c0839c176ee45d800b99bb01f09edb46/capsule_231x87.jpg?t=1784572967",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 1393
    },
    "leaving_ea": null
   },
@@ -4042,6 +4752,39 @@
     "desc": "Mixed",
     "pct": 53,
     "total": 125
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3367430,
+   "name": "Battleship Command",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Jun 2, 2026",
+   "precision": "day",
+   "sort_key": 20260602,
+   "developers": [
+    "Bracer"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3367430/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367430/da580ec47d9ab99c0741b17ccbb97625bcd7079a/capsule_231x87.jpg?t=1782399866",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 94,
+    "total": 268
    },
    "leaving_ea": null
   },
@@ -4673,6 +5416,73 @@
    "leaving_ea": null
   },
   {
+   "appid": 710230,
+   "name": "Urban Strife",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Jul 14, 2026",
+   "precision": "day",
+   "sort_key": 20260714,
+   "developers": [
+    "White Pond Games"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/710230/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710230/d789637e15b21d27ede5bfb5e6ecac284b72be71/capsule_231x87.jpg?t=1784039019",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 71,
+    "total": 632
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 16900,
+   "name": "GROUND BRANCH",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Jul 16, 2026",
+   "precision": "day",
+   "sort_key": 20260716,
+   "developers": [
+    "BlackFoot Studios",
+    "MicroProse Software"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/16900/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/0c720dc9a4fdfe67f2a66ecc5de28e0a887e0988/capsule_231x87.jpg?t=1785325683",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 85,
+    "total": 24655
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3219010,
    "name": "Fogpiercer",
    "type": "game",
@@ -4702,6 +5512,39 @@
     "desc": "Very Positive",
     "pct": 83,
     "total": 505
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3279440,
+   "name": "Drone Sector",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Jul 21, 2026",
+   "precision": "day",
+   "sort_key": 20260721,
+   "developers": [
+    "Icosphere"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3279440/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/8bc14fe756d8a672e7052834e408e97d9e237f18/capsule_231x87.jpg?t=1784830926",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 89,
+    "total": 289
    },
    "leaving_ea": null
   },
@@ -5004,6 +5847,39 @@
    "leaving_ea": null
   },
   {
+   "appid": 896250,
+   "name": "Liquidation",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Aug 4, 2026",
+   "precision": "day",
+   "sort_key": 20260804,
+   "developers": [
+    "Divio"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/896250/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896250/64618068899d3976521373ee56e2ae857a3e7f5b/capsule_231x87.jpg?t=1786059737",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 91,
+    "total": 80
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 4553980,
    "name": "Jurassic World Evolution 3: Crocodilia Coast",
    "type": "dlc",
@@ -5065,6 +5941,35 @@
    "leaving_ea": null
   },
   {
+   "appid": 4158610,
+   "name": "TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Aug 18, 2026",
+   "precision": "day",
+   "sort_key": 20260818,
+   "developers": [
+    "Wield Interactive"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/4158610/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/13797641992ca640d299f57ced7e92eb5ae4e417/capsule_231x87.jpg?t=1785748923",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 4396100,
    "name": "Cataclismo - The Old Kingdom",
    "type": "dlc",
@@ -5119,6 +6024,35 @@
    ],
    "url": "https://store.steampowered.com/app/2075800/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1786038839",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3901610,
+   "name": "Factory Default: Build, Trade, Repeat",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Sep 8, 2026",
+   "precision": "day",
+   "sort_key": 20260908,
+   "developers": [
+    "Chett Fitzgerald"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3901610/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901610/8bad37ae0461c7db785c498a3251007fe5e1c76a/capsule_231x87.jpg?t=1785279545",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -5594,6 +6528,35 @@
    ],
    "url": "https://store.steampowered.com/app/1777480/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1785512628",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3216150,
+   "name": "Scourge of the Reptiles",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2026",
+   "precision": "year",
+   "sort_key": 20269898,
+   "developers": [
+    "Kyoti Games"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "url": "https://store.steampowered.com/app/3216150/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216150/a386f5369b555ebd53134e07a7f04d9ff756c3f2/capsule_231x87.jpg?t=1785215726",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
