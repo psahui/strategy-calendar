@@ -52,6 +52,15 @@ Everything editable lives in `config.json`:
   number in the Steam URL (`store.steampowered.com/app/1176470/...` → `"1176470"`).
 - `max_age_months` — how far back the "recently released" window reaches
 
+Config changes only reach the live site after the fetch runs — pushing
+`config.json` alone redeploys nothing new. The fetch runs on a daily schedule
+(about 04:20 AEST); to apply a change immediately, trigger it by hand from the
+repository's **Actions tab → Refresh Steam data → Run workflow**, or with:
+
+```bash
+gh workflow run refresh.yml
+```
+
 Run locally with:
 
 ```bash
