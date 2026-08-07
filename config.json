@@ -15,7 +15,9 @@
     "Amplitude Studios",
     "AMPLITUDE Studios",
     "VR Designs",
-    "Ashdar Games"
+    "Ashdar Games",
+    "Eugen Sytems",
+    "Holistic Design, Inc."
   ],
   "publisher_groups": {
     "Paradox Interactive": ["Paradox Interactive"],
@@ -33,7 +35,9 @@
     "Firaxis Games": ["Firaxis Games", "Firaxis"],
     "Illwinter Game Design": ["Illwinter Game Design"],
     "VR Designs": ["VR Designs", "VR-Designs"],
-    "Ashdar Games": ["Ashdar Games"]
+    "Ashdar Games": ["Ashdar Games"],
+    "Eugen Sytems": ["Eugen Systems"],
+    "Holistic Design, Inc.": ["Holistic Design, Inc."]
   },
   "minor_dlc_patterns": [
     "soundtrack",
