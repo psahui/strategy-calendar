@@ -1,41 +1,41 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-CALSCALE:GREGORIAN
-PRODID:-//Matchsticks for my Eyes//Strategy Release Calendar//EN
-X-WR-CALNAME:Strategy Releases — Hooded Horse
-X-PUBLISHED-TTL:P1D
-REFRESH-INTERVAL;VALUE=DURATION:P1D
-BEGIN:VEVENT
-UID:app-2764460@psahui.github.io
-DTSTAMP:20260808T080140Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:Sandustry
-DESCRIPTION:Lantto Games / Hooded Horse\nSteam: https://store.steampow
- ered.com/app/2764460/
-URL:https://store.steampowered.com/app/2764460/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:app-4396100@psahui.github.io
-DTSTAMP:20260808T080140Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:Cataclismo - The Old Kingdom (DLC)
-DESCRIPTION:Digital Sun / Hooded Horse\nSteam: https://store.steampowe
- red.com/app/4396100/
-URL:https://store.steampowered.com/app/4396100/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:app-3407390-fullrelease@psahui.github.io
-DTSTAMP:20260808T080140Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:ENDLESS Legend™ 2 (full release)
-DESCRIPTION:AMPLITUDE Studios / Hooded Horse\nSteam: https://store.ste
- ampowered.com/app/3407390/
-URL:https://store.steampowered.com/app/3407390/
-TRANSP:TRANSPARENT
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Matchsticks for my Eyes//Strategy Release Calendar//EN
+X-WR-CALNAME:Strategy Releases — Hooded Horse
+X-PUBLISHED-TTL:P1D
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+UID:app-2764460@psahui.github.io
+DTSTAMP:20260808T082014Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Sandustry
+DESCRIPTION:Lantto Games / Hooded Horse\nSteam: https://store.steampow
+ ered.com/app/2764460/
+URL:https://store.steampowered.com/app/2764460/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-4396100@psahui.github.io
+DTSTAMP:20260808T082014Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Cataclismo - The Old Kingdom (DLC)
+DESCRIPTION:Digital Sun / Hooded Horse\nSteam: https://store.steampowe
+ red.com/app/4396100/
+URL:https://store.steampowered.com/app/4396100/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-3407390-fullrelease@psahui.github.io
+DTSTAMP:20260808T082014Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:ENDLESS Legend™ 2 (full release)
+DESCRIPTION:AMPLITUDE Studios / Hooded Horse\nSteam: https://store.ste
+ ampowered.com/app/3407390/
+URL:https://store.steampowered.com/app/3407390/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

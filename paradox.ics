@@ -1,19 +1,19 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-CALSCALE:GREGORIAN
-PRODID:-//Matchsticks for my Eyes//Strategy Release Calendar//EN
-X-WR-CALNAME:Strategy Releases — Paradox
-X-PUBLISHED-TTL:P1D
-REFRESH-INTERVAL;VALUE=DURATION:P1D
-BEGIN:VEVENT
-UID:app-4232900@psahui.github.io
-DTSTAMP:20260808T080140Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Crusader Kings III: By God Alone (DLC)
-DESCRIPTION:Paradox Development Studio / Paradox Interactive\nSteam: h
- ttps://store.steampowered.com/app/4232900/
-URL:https://store.steampowered.com/app/4232900/
-TRANSP:TRANSPARENT
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Matchsticks for my Eyes//Strategy Release Calendar//EN
+X-WR-CALNAME:Strategy Releases — Paradox
+X-PUBLISHED-TTL:P1D
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+UID:app-4232900@psahui.github.io
+DTSTAMP:20260808T082014Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Crusader Kings III: By God Alone (DLC)
+DESCRIPTION:Paradox Development Studio / Paradox Interactive\nSteam: h
+ ttps://store.steampowered.com/app/4232900/
+URL:https://store.steampowered.com/app/4232900/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
