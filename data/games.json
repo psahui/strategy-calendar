@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-08T04:12:13+00:00",
- "cutoff": "2025-08-07",
+ "generated_at": "2026-08-08T06:57:42+00:00",
+ "cutoff": "2025-08-08",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -30,10 +30,10 @@
  ],
  "collection_names": [
   "Wargames",
-  "Digital board games",
   "Matchsticks Picks",
   "Strategy (general)"
  ],
+ "collections_default_off": [],
  "items": [
   {
    "appid": 3181540,

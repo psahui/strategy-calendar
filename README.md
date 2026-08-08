@@ -54,6 +54,10 @@ Everything editable lives in `config.json`:
   per-title `appids`. A title can belong to several collections; anything
   unassigned falls into an implicit "Strategy (general)". Every collection
   also gets its own iCal feed (`wargames.ics`, `matchsticks-picks.ics`, …).
+- `radar_searches` — a second, lower-tier shopping list (currently empty).
+  Studios added here are fetched like everything else but get no sidebar
+  checkbox; their titles land in an "Indie radar" collection that is hidden
+  by default and only appears once the list has entries.
 - `blog_links` — manual map of Steam appid → Matchsticks for my Eyes URL;
   adds a "Read on Matchsticks" link to that title's card. The appid is the
   number in the Steam URL (`store.steampowered.com/app/1176470/...` → `"1176470"`).

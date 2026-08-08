@@ -76,6 +76,10 @@
     "premium edition upgrade",
     "creator pack"
   ],
+  "radar_searches": {
+    "publishers": [],
+    "developers": []
+  },
   "collections": {
     "Wargames": {
       "publishers": ["Slitherine / Matrix", "MicroProse"],

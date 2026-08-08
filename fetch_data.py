@@ -145,15 +145,21 @@ def search_steam(field, value, extra_params):
 
 
 def discover_apps(config, cutoff_key):
-    """Run all configured searches.
+    """Run all configured searches, main watchlist first, then radar.
 
-    Returns ({appid: search_release_string}, [failed search descriptions]).
+    Returns ({appid: search_release_string}, radar_appids, [failed searches]).
+    Apps found by both count as main — the radar only claims what nothing
+    else discovered.
     """
-    found, failures = {}, []
-    searches = ([("publisher", p) for p in config["publisher_searches"]]
-                + [("developer", d) for d in config["developer_searches"]])
-    for field, value in searches:
-        print(f"Searching {field} = {value}", flush=True)
+    found, radar_appids, failures = {}, set(), []
+    radar = config.get("radar_searches", {})
+    searches = ([("publisher", p, False) for p in config["publisher_searches"]]
+                + [("developer", d, False) for d in config["developer_searches"]]
+                + [("publisher", p, True) for p in radar.get("publishers", [])]
+                + [("developer", d, True) for d in radar.get("developers", [])])
+    for field, value, is_radar in searches:
+        print(f"Searching {field} = {value}" + (" [radar]" if is_radar else ""), flush=True)
+        keys_before = set(found)
         count_before = len(found)
         try:
             # Pass 1: everything marked coming soon.
@@ -176,8 +182,10 @@ def discover_apps(config, cutoff_key):
         except SearchFailure as exc:
             print(f"  SEARCH FAILED: {exc}", flush=True)
             failures.append(str(exc))
+        if is_radar:
+            radar_appids |= set(found) - keys_before
         print(f"  running total: {len(found)} apps (+{len(found) - count_before})", flush=True)
-    return found, failures
+    return found, radar_appids, failures
 
 
 def load_cache():
@@ -335,6 +343,7 @@ def map_groups(names, groups):
 
 
 GENERAL_COLLECTION = "Strategy (general)"
+RADAR_COLLECTION = "Indie radar"
 
 
 def validate_collections(config):
@@ -367,12 +376,15 @@ def watchlist_match(data, config):
     """True if the app genuinely involves a configured publisher/developer."""
     aliases = {a.strip().casefold() for aliases in config["publisher_groups"].values() for a in aliases}
     aliases |= {a.strip().casefold() for aliases in config["developer_groups"].values() for a in aliases}
-    aliases |= {s.strip().casefold() for s in config["publisher_searches"] + config["developer_searches"]}
+    radar = config.get("radar_searches", {})
+    aliases |= {s.strip().casefold() for s in
+                config["publisher_searches"] + config["developer_searches"]
+                + radar.get("publishers", []) + radar.get("developers", [])}
     names = (data.get("publishers") or []) + (data.get("developers") or [])
     return any((n or "").strip().casefold() in aliases for n in names)
 
 
-def build_items(appids, cache, config, cutoff_key):
+def build_items(appids, cache, config, cutoff_key, radar_appids):
     minor_dlc = [re.compile(p, re.I) for p in config["minor_dlc_patterns"]]
     include = set(config["include_appids"])
     exclude = set(config["exclude_appids"])
@@ -420,6 +432,12 @@ def build_items(appids, cache, config, cutoff_key):
 
         dev_groups = map_groups(data.get("developers"), config["developer_groups"]) or ["Other developers"]
         pub_groups = map_groups(data.get("publishers"), config["publisher_groups"]) or ["Other publishers"]
+        item_collections = assign_collections(appid, pub_groups, dev_groups, config)
+        if appid in radar_appids:
+            # Radar titles live on the radar shelf, not in the general bucket —
+            # but keep any hand-promoted collections so those stay visible.
+            item_collections = ([c for c in item_collections if c != GENERAL_COLLECTION]
+                                + [RADAR_COLLECTION])
         fullgame = data.get("fullgame") or None
         items.append({
             "appid": appid,
@@ -434,7 +452,7 @@ def build_items(appids, cache, config, cutoff_key):
             "publishers": data.get("publishers") or [],
             "dev_groups": dev_groups,
             "pub_groups": pub_groups,
-            "collections": assign_collections(appid, pub_groups, dev_groups, config),
+            "collections": item_collections,
             "url": f"https://store.steampowered.com/app/{appid}/",
             "capsule": data.get("capsule_image") or data.get("header_image") or "",
             "parent": {"appid": int(fullgame["appid"]), "name": fullgame["name"]} if fullgame else None,
@@ -550,7 +568,7 @@ def main():
     cutoff = now - timedelta(days=config["max_age_months"] * 30.44)
     cutoff_key = cutoff.year * 10000 + cutoff.month * 100 + cutoff.day
 
-    found, failures = discover_apps(config, cutoff_key)
+    found, radar_appids, failures = discover_apps(config, cutoff_key)
     if failures:
         # A dropped search silently loses whole studios from the calendar, and
         # is far too small a change for the count check below to notice.
@@ -564,7 +582,7 @@ def main():
 
     cache = load_cache()
     fetch_details(sorted(found), cache)
-    items = build_items(sorted(found), cache, config, cutoff_key)
+    items = build_items(sorted(found), cache, config, cutoff_key, radar_appids)
     items.sort(key=lambda it: (it["sort_key"], it["name"].casefold()))
 
     if not sanity_check(items):
@@ -578,12 +596,19 @@ def main():
 
     write_feeds(items, config, now)
 
+    present_collections = {c for it in items for c in it["collections"]}
     out = {
         "generated_at": now.isoformat(timespec="seconds"),
         "cutoff": cutoff.date().isoformat(),
         "publisher_groups": list(config["publisher_groups"]) + ["Other publishers"],
         "developer_groups": list(config["developer_groups"]) + ["Other developers"],
-        "collection_names": list(config.get("collections", {})) + [GENERAL_COLLECTION],
+        # Only collections that actually contain titles appear in the UI;
+        # empty ones (and the dormant radar) surface automatically when filled.
+        "collection_names": (
+            [c for c in config.get("collections", {}) if c in present_collections]
+            + ([RADAR_COLLECTION] if RADAR_COLLECTION in present_collections else [])
+            + ([GENERAL_COLLECTION] if GENERAL_COLLECTION in present_collections else [])),
+        "collections_default_off": [RADAR_COLLECTION] if RADAR_COLLECTION in present_collections else [],
         "items": items,
     }
     OUT_PATH.write_text(json.dumps(out, indent=1), encoding="utf-8")

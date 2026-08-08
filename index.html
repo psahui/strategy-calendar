@@ -260,11 +260,20 @@ const URL_GROUPS = [
 ];
 const TYPE_DEFAULT = ["game", "dlc"];
 
+function defaultFor(param, all) {
+  if (param === "type") return TYPE_DEFAULT;
+  if (param === "col") {
+    const off = new Set(DATA.collections_default_off || []);
+    return all.filter(v => !off.has(v));
+  }
+  return all;
+}
+
 function syncURL() {
   const p = new URLSearchParams();
   for (const [param, key, allFn] of URL_GROUPS) {
     const all = allFn();
-    const def = param === "type" ? TYPE_DEFAULT : all;
+    const def = defaultFor(param, all);
     const cur = [...state[key]].filter(v => all.includes(v)).sort();
     if (cur.join("|") !== [...def].sort().join("|")) p.set(param, cur.join("|"));
   }
@@ -333,7 +342,7 @@ function buildFilters() {
   }
   state.pubs = new Set(DATA.publisher_groups);
   state.devs = new Set(DATA.developer_groups);
-  state.collections = new Set(DATA.collection_names || []);
+  state.collections = new Set(defaultFor("col", DATA.collection_names || []));
   applyURL();
 
   const wide = window.matchMedia("(min-width: 821px)").matches;
