@@ -27,29 +27,81 @@
     "Bay 12 Games"
   ],
   "publisher_groups": {
-    "Paradox Interactive": ["Paradox Interactive", "Paradox Arc"],
-    "Hooded Horse": ["Hooded Horse"],
-    "Slitherine / Matrix": ["Slitherine Ltd.", "Slitherine", "Matrix Games"],
-    "MicroProse": ["MicroProse Software", "MicroProse"]
+    "Paradox Interactive": [
+      "Paradox Interactive",
+      "Paradox Arc"
+    ],
+    "Hooded Horse": [
+      "Hooded Horse"
+    ],
+    "Slitherine / Matrix": [
+      "Slitherine Ltd.",
+      "Slitherine",
+      "Matrix Games"
+    ],
+    "MicroProse": [
+      "MicroProse Software",
+      "MicroProse"
+    ]
   },
   "developer_groups": {
-    "Paradox Development Studio": ["Paradox Development Studio"],
-    "Paradox Tinto": ["Paradox Tinto"],
-    "Amplitude Studios": ["Amplitude Studios", "AMPLITUDE Studios"],
-    "Pavonis Interactive": ["Pavonis Interactive"],
-    "Mohawk Games": ["Mohawk Games"],
-    "Ubisoft Mainz": ["Ubisoft Mainz", "Ubisoft Blue Byte", "Blue Byte"],
-    "Creative Assembly": ["Creative Assembly", "Creative Assembly Sofia"],
-    "Firaxis Games": ["Firaxis Games", "Firaxis"],
-    "Illwinter Game Design": ["Illwinter Game Design"],
-    "VR Designs": ["VR Designs", "VR-Designs"],
-    "Ashdar Games": ["Ashdar Games"],
-    "Eugen Systems": ["Eugen Systems"],
-    "Holistic Design, Inc.": ["Holistic Design, Inc."],
-    "Frontier Developments": ["Frontier Developments"],
-    "Bit Reactor": ["Bit Reactor"],
-    "Ludeon Studios": ["Ludeon Studios"],
-    "Bay 12 Games": ["Bay 12 Games"]
+    "Paradox Development Studio": [
+      "Paradox Development Studio"
+    ],
+    "Paradox Tinto": [
+      "Paradox Tinto"
+    ],
+    "Amplitude Studios": [
+      "Amplitude Studios",
+      "AMPLITUDE Studios"
+    ],
+    "Pavonis Interactive": [
+      "Pavonis Interactive"
+    ],
+    "Mohawk Games": [
+      "Mohawk Games"
+    ],
+    "Ubisoft Mainz": [
+      "Ubisoft Mainz",
+      "Ubisoft Blue Byte",
+      "Blue Byte"
+    ],
+    "Creative Assembly": [
+      "Creative Assembly",
+      "Creative Assembly Sofia"
+    ],
+    "Firaxis Games": [
+      "Firaxis Games",
+      "Firaxis"
+    ],
+    "Illwinter Game Design": [
+      "Illwinter Game Design"
+    ],
+    "VR Designs": [
+      "VR Designs",
+      "VR-Designs"
+    ],
+    "Ashdar Games": [
+      "Ashdar Games"
+    ],
+    "Eugen Systems": [
+      "Eugen Systems"
+    ],
+    "Holistic Design, Inc.": [
+      "Holistic Design, Inc."
+    ],
+    "Frontier Developments": [
+      "Frontier Developments"
+    ],
+    "Bit Reactor": [
+      "Bit Reactor"
+    ],
+    "Ludeon Studios": [
+      "Ludeon Studios"
+    ],
+    "Bay 12 Games": [
+      "Bay 12 Games"
+    ]
   },
   "minor_dlc_patterns": [
     "soundtrack",
@@ -82,8 +134,14 @@
   },
   "collections": {
     "Wargames": {
-      "publishers": ["Slitherine / Matrix", "MicroProse"],
-      "developers": ["VR Designs", "Eugen Systems"],
+      "publishers": [
+        "Slitherine / Matrix",
+        "MicroProse"
+      ],
+      "developers": [
+        "VR Designs",
+        "Eugen Systems"
+      ],
       "appids": []
     },
     "Digital board games": {
@@ -93,8 +151,29 @@
     },
     "Matchsticks Picks": {
       "overlay": true,
-      "publishers": [],
-      "developers": ["Illwinter Game Design", "Pavonis Interactive", "VR Designs", "Ashdar Games", "Mohawk Games", "Ubisoft Mainz", "Eugen Systems", "Ludeon Studios"],
+      "publishers": [
+        "Paradox Interactive",
+        "Hooded Horse",
+        "Slitherine / Matrix"
+      ],
+      "developers": [
+        "Illwinter Game Design",
+        "Pavonis Interactive",
+        "VR Designs",
+        "Ashdar Games",
+        "Mohawk Games",
+        "Ubisoft Mainz",
+        "Eugen Systems",
+        "Ludeon Studios",
+        "Paradox Development Studio",
+        "Paradox Tinto",
+        "Amplitude Studios",
+        "Creative Assembly",
+        "Firaxis Games",
+        "Holistic Design, Inc.",
+        "Bay 12 Games",
+        "Frontier Developments"
+      ],
       "appids": []
     }
   },
