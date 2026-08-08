@@ -47,6 +47,13 @@ Everything editable lives in `config.json`:
   filter checkbox
 - `include_appids` / `exclude_appids` — per-title overrides when a pattern
   gets something wrong
+- `collections` — named curated groupings (e.g. Wargames, Matchsticks Picks)
+  shown as the top filter group. Each collection lists `publishers` and
+  `developers` by their **group display names** (the keys of the group maps
+  above — the fetch fails loudly if a name doesn't match), plus optional
+  per-title `appids`. A title can belong to several collections; anything
+  unassigned falls into an implicit "Strategy (general)". Every collection
+  also gets its own iCal feed (`wargames.ics`, `matchsticks-picks.ics`, …).
 - `blog_links` — manual map of Steam appid → Matchsticks for my Eyes URL;
   adds a "Read on Matchsticks" link to that title's card. The appid is the
   number in the Steam URL (`store.steampowered.com/app/1176470/...` → `"1176470"`).

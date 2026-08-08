@@ -76,6 +76,23 @@
     "premium edition upgrade",
     "creator pack"
   ],
+  "collections": {
+    "Wargames": {
+      "publishers": ["Slitherine / Matrix", "MicroProse"],
+      "developers": ["VR Designs", "Eugen Systems"],
+      "appids": []
+    },
+    "Digital board games": {
+      "publishers": [],
+      "developers": [],
+      "appids": []
+    },
+    "Matchsticks Picks": {
+      "publishers": [],
+      "developers": ["Illwinter Game Design", "Pavonis Interactive", "VR Designs", "Ashdar Games", "Mohawk Games"],
+      "appids": []
+    }
+  },
   "exclude_appids": [],
   "include_appids": [],
   "blog_links": {},

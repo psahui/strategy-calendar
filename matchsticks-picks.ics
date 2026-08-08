@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Matchsticks for my Eyes//Strategy Release Calendar//EN
+X-WR-CALNAME:Strategy Releases — Matchsticks Picks
+X-PUBLISHED-TTL:P1D
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+END:VCALENDAR

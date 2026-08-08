@@ -334,6 +334,35 @@ def map_groups(names, groups):
     return sorted(matched)
 
 
+GENERAL_COLLECTION = "Strategy (general)"
+
+
+def validate_collections(config):
+    """Catch config typos loudly (the Eugen lesson): every group name a
+    collection references must exist. Returns a list of error strings."""
+    known_pubs = set(config["publisher_groups"])
+    known_devs = set(config["developer_groups"])
+    errors = []
+    for cname, spec in config.get("collections", {}).items():
+        for p in spec.get("publishers", []):
+            if p not in known_pubs:
+                errors.append(f'collection "{cname}": unknown publisher group "{p}"')
+        for d in spec.get("developers", []):
+            if d not in known_devs:
+                errors.append(f'collection "{cname}": unknown developer group "{d}"')
+    return errors
+
+
+def assign_collections(appid, pub_groups, dev_groups, config):
+    matched = []
+    for cname, spec in config.get("collections", {}).items():
+        if (set(spec.get("publishers", [])) & set(pub_groups)
+                or set(spec.get("developers", [])) & set(dev_groups)
+                or appid in set(spec.get("appids", []))):
+            matched.append(cname)
+    return matched or [GENERAL_COLLECTION]
+
+
 def watchlist_match(data, config):
     """True if the app genuinely involves a configured publisher/developer."""
     aliases = {a.strip().casefold() for aliases in config["publisher_groups"].values() for a in aliases}
@@ -389,6 +418,8 @@ def build_items(appids, cache, config, cutoff_key):
         else:
             status = "released"
 
+        dev_groups = map_groups(data.get("developers"), config["developer_groups"]) or ["Other developers"]
+        pub_groups = map_groups(data.get("publishers"), config["publisher_groups"]) or ["Other publishers"]
         fullgame = data.get("fullgame") or None
         items.append({
             "appid": appid,
@@ -401,8 +432,9 @@ def build_items(appids, cache, config, cutoff_key):
             "sort_key": sort_key,
             "developers": data.get("developers") or [],
             "publishers": data.get("publishers") or [],
-            "dev_groups": map_groups(data.get("developers"), config["developer_groups"]) or ["Other developers"],
-            "pub_groups": map_groups(data.get("publishers"), config["publisher_groups"]) or ["Other publishers"],
+            "dev_groups": dev_groups,
+            "pub_groups": pub_groups,
+            "collections": assign_collections(appid, pub_groups, dev_groups, config),
             "url": f"https://store.steampowered.com/app/{appid}/",
             "capsule": data.get("capsule_image") or data.get("header_image") or "",
             "parent": {"appid": int(fullgame["appid"]), "name": fullgame["name"]} if fullgame else None,
@@ -471,7 +503,11 @@ ICS_FEEDS = {
 }
 
 
-def write_feeds(items, generated_at):
+def feed_slug(name):
+    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+
+
+def write_feeds(items, config, generated_at):
     dated = [it for it in items
              if it["status"] == "upcoming" and it["precision"] == "day"
              and it["kind"] != "minor_dlc"]
@@ -485,6 +521,10 @@ def write_feeds(items, generated_at):
     for filename, (cal_name, pub_group) in ICS_FEEDS.items():
         subset = [it for it in dated if pub_group is None or pub_group in it["pub_groups"]]
         write_ics(ROOT / filename, cal_name, subset, generated_at)
+    for cname in config.get("collections", {}):
+        subset = [it for it in dated if cname in it["collections"]]
+        write_ics(ROOT / f"{feed_slug(cname)}.ics",
+                  f"Strategy Releases — {cname}", subset, generated_at)
 
 
 def sanity_check(items):
@@ -501,6 +541,10 @@ def sanity_check(items):
 
 def main():
     config = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+    config_errors = validate_collections(config)
+    if config_errors:
+        print("ABORTING: config errors:\n  " + "\n  ".join(config_errors), flush=True)
+        return 1
     DATA_DIR.mkdir(exist_ok=True)
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=config["max_age_months"] * 30.44)
@@ -532,13 +576,14 @@ def main():
         it["review"] = reviews.get(it["appid"])
         it["leaving_ea"] = leaving.get(it["appid"])
 
-    write_feeds(items, now)
+    write_feeds(items, config, now)
 
     out = {
         "generated_at": now.isoformat(timespec="seconds"),
         "cutoff": cutoff.date().isoformat(),
         "publisher_groups": list(config["publisher_groups"]) + ["Other publishers"],
         "developer_groups": list(config["developer_groups"]) + ["Other developers"],
+        "collection_names": list(config.get("collections", {})) + [GENERAL_COLLECTION],
         "items": items,
     }
     OUT_PATH.write_text(json.dumps(out, indent=1), encoding="utf-8")

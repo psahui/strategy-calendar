@@ -151,7 +151,9 @@
       <a href="paradox.ics">Paradox</a> ·
       <a href="hooded-horse.ics">Hooded Horse</a> ·
       <a href="slitherine-matrix.ics">Slitherine/Matrix</a> ·
-      <a href="microprose.ics">MicroProse</a>
+      <a href="microprose.ics">MicroProse</a> ·
+      <a href="wargames.ics">Wargames</a> ·
+      <a href="matchsticks-picks.ics">Matchsticks Picks</a>
       — in Google Calendar, add the link under "Other calendars → From URL".</div>
     <div id="updated"></div>
     <div>All release data sourced from <a href="https://store.steampowered.com">Steam</a>. Game images and names are the property of their respective publishers.</div>
@@ -165,7 +167,7 @@ const MONTH_NAMES = ["January","February","March","April","May","June","July","A
 const STATUS_LABEL = { upcoming: "Upcoming", early_access: "Early Access", released: "Released" };
 // Minor DLC (soundtracks, cosmetics, upgrade packs…) is unchecked by default
 // but visible as a checkbox, so nothing is silently hidden.
-const state = { pubs: new Set(), devs: new Set(), types: new Set(["game","dlc"]), statuses: new Set(["upcoming","early_access","released"]), demos: new Set() };
+const state = { collections: new Set(), pubs: new Set(), devs: new Set(), types: new Set(["game","dlc"]), statuses: new Set(["upcoming","early_access","released"]), demos: new Set() };
 let DATA = null;
 
 function bucketOf(item) {
@@ -181,7 +183,8 @@ function bucketOf(item) {
 }
 
 function matches(item) {
-  return item.pub_groups.some(g => state.pubs.has(g))
+  return (item.collections || []).some(c => state.collections.has(c))
+      && item.pub_groups.some(g => state.pubs.has(g))
       && item.dev_groups.some(g => state.devs.has(g))
       && state.types.has(item.kind || item.type)
       && state.statuses.has(item.status)
@@ -249,6 +252,7 @@ function renderSection(items, {ascending}) {
 
 // Filter state <-> URL query string, so filtered views are shareable links.
 const URL_GROUPS = [
+  ["col", "collections", () => DATA.collection_names || []],
   ["pub", "pubs", () => DATA.publisher_groups],
   ["dev", "devs", () => DATA.developer_groups],
   ["type", "types", () => ["game", "dlc", "minor_dlc"]],
@@ -319,8 +323,9 @@ function filterGroup(title, names, selected, counts, open) {
 }
 
 function buildFilters() {
-  const pubCounts = new Map(), devCounts = new Map(), typeCounts = new Map(), statusCounts = new Map();
+  const pubCounts = new Map(), devCounts = new Map(), typeCounts = new Map(), statusCounts = new Map(), colCounts = new Map();
   for (const it of DATA.items) {
+    (it.collections || []).forEach(c => colCounts.set(c, (colCounts.get(c) || 0) + 1));
     it.pub_groups.forEach(g => pubCounts.set(g, (pubCounts.get(g) || 0) + 1));
     it.dev_groups.forEach(g => devCounts.set(g, (devCounts.get(g) || 0) + 1));
     typeCounts.set(it.kind || it.type, (typeCounts.get(it.kind || it.type) || 0) + 1);
@@ -328,11 +333,13 @@ function buildFilters() {
   }
   state.pubs = new Set(DATA.publisher_groups);
   state.devs = new Set(DATA.developer_groups);
+  state.collections = new Set(DATA.collection_names || []);
   applyURL();
 
   const wide = window.matchMedia("(min-width: 821px)").matches;
   document.getElementById("filters").innerHTML =
     `<div class="shown-note" id="shown-note"></div>`
+    + filterGroup("Collections", (DATA.collection_names || []).map(c => [c]), state.collections, colCounts, wide)
     + filterGroup("Publishers", DATA.publisher_groups.map(g => [g]), state.pubs, pubCounts, wide)
     + filterGroup("Developers", DATA.developer_groups.map(g => [g]), state.devs, devCounts, wide)
     + filterGroup("Type", [["game","Games"],["dlc","DLC"],["minor_dlc","Minor DLC (music, cosmetics…)"]], state.types, typeCounts, wide)
@@ -340,7 +347,7 @@ function buildFilters() {
     + filterGroup("Demos", [["demo_only","Has a playable demo"]], state.demos,
         new Map([["demo_only", DATA.items.filter(it => it.has_demo).length]]), wide);
 
-  const setFor = title => ({ "Publishers": state.pubs, "Developers": state.devs, "Type": state.types, "Status": state.statuses, "Demos": state.demos })[title];
+  const setFor = title => ({ "Collections": state.collections, "Publishers": state.pubs, "Developers": state.devs, "Type": state.types, "Status": state.statuses, "Demos": state.demos })[title];
   document.getElementById("filters").addEventListener("change", e => {
     const cb = e.target;
     if (cb.tagName !== "INPUT") return;
