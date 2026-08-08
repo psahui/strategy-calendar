@@ -363,13 +363,17 @@ def validate_collections(config):
 
 
 def assign_collections(appid, pub_groups, dev_groups, config):
-    matched = []
+    """Taxonomy collections answer "what kind of thing is this" — an item with
+    no taxonomy match falls into the general bucket. Overlay collections
+    (config: "overlay": true, e.g. Matchsticks Picks) are endorsements that
+    cut across the taxonomy and never evict an item from it."""
+    taxonomy, overlays = [], []
     for cname, spec in config.get("collections", {}).items():
         if (set(spec.get("publishers", [])) & set(pub_groups)
                 or set(spec.get("developers", [])) & set(dev_groups)
                 or appid in set(spec.get("appids", []))):
-            matched.append(cname)
-    return matched or [GENERAL_COLLECTION]
+            (overlays if spec.get("overlay") else taxonomy).append(cname)
+    return (taxonomy or [GENERAL_COLLECTION]) + overlays
 
 
 def watchlist_match(data, config):

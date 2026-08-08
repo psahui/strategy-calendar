@@ -52,7 +52,10 @@ Everything editable lives in `config.json`:
   `developers` by their **group display names** (the keys of the group maps
   above — the fetch fails loudly if a name doesn't match), plus optional
   per-title `appids`. A title can belong to several collections; anything
-  unassigned falls into an implicit "Strategy (general)". Every collection
+  matching no *taxonomy* collection falls into an implicit "Strategy
+  (general)". A collection marked `"overlay": true` (e.g. Matchsticks Picks)
+  is an endorsement that cuts across the taxonomy without replacing it — a
+  picked title keeps its Wargames or Strategy (general) shelf. Every collection
   also gets its own iCal feed (`wargames.ics`, `matchsticks-picks.ics`, …).
 - `radar_searches` — a second, lower-tier shopping list (currently empty).
   Studios added here are fetched like everything else but get no sidebar
