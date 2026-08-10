@@ -216,9 +216,6 @@
     "Matchsticks Picks": {
       "overlay": true,
       "publishers": [
-        "Paradox Interactive",
-        "Hooded Horse",
-        "Slitherine / Matrix",
         "Dire Wolf",
         "Monster Couch"
       ],
@@ -232,7 +229,6 @@
         "Eugen Systems",
         "Ludeon Studios",
         "Paradox Development Studio",
-        "Paradox Tinto",
         "Amplitude Studios",
         "Creative Assembly",
         "Firaxis Games",
@@ -243,7 +239,9 @@
         "Acram Digital",
         "Monster Couch",
         "CGE",
-        "Playdek"
+        "Playdek",
+        "Triumph Studios",
+        "Haemimont Games"
       ],
       "appids": []
     }
