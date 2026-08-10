@@ -7,7 +7,12 @@
     " Slitherine Ltd.",
     "Matrix Games",
     "MicroProse Software",
-    "MicroProse"
+    "MicroProse",
+    "Dire Wolf",
+    "Monster Couch",
+    "DIGIDICED",
+    "Kalypso Media",
+    "Iceberg Interactive"
   ],
   "developer_searches": [
     "Ubisoft Mainz",
@@ -24,7 +29,14 @@
     "Frontier Developments",
     "Bit Reactor",
     "Ludeon Studios",
-    "Bay 12 Games"
+    "Bay 12 Games",
+    "Dire Wolf",
+    "Acram Digital",
+    "Monster Couch",
+    "Flaming Fowl Studios",
+    "CGE Digital",
+    "Playdek, Inc.",
+    "Haemimont Games"
   ],
   "publisher_groups": {
     "Paradox Interactive": [
@@ -42,6 +54,21 @@
     "MicroProse": [
       "MicroProse Software",
       "MicroProse"
+    ],
+    "Dire Wolf": [
+      "Dire Wolf"
+    ],
+    "Monster Couch": [
+      "Monster Couch"
+    ],
+    "Digidiced": [
+      "DIGIDICED"
+    ],
+    "Kalypso Media": [
+      "Kalypso Media"
+    ],
+    "Iceberg Interactive": [
+      "Iceberg Interactive"
     ]
   },
   "developer_groups": {
@@ -101,6 +128,30 @@
     ],
     "Bay 12 Games": [
       "Bay 12 Games"
+    ],
+    "Dire Wolf": [
+      "Dire Wolf"
+    ],
+    "Acram Digital": [
+      "Acram Digital"
+    ],
+    "Monster Couch": [
+      "Monster Couch"
+    ],
+    "Flaming Fowl": [
+      "Flaming Fowl Studios"
+    ],
+    "CGE": [
+      "CGE Digital"
+    ],
+    "Playdek": [
+      "Playdek, Inc."
+    ],
+    "Haemimont Games": [
+      "Haemimont Games"
+    ],
+    "Triumph Studios": [
+      "Triumph Studios"
     ]
   },
   "minor_dlc_patterns": [
@@ -145,8 +196,19 @@
       "appids": []
     },
     "Digital board games": {
-      "publishers": [],
-      "developers": [],
+      "publishers": [
+        "Dire Wolf",
+        "Monster Couch",
+        "Digidiced"
+      ],
+      "developers": [
+        "Dire Wolf",
+        "Acram Digital",
+        "Monster Couch",
+        "Flaming Fowl",
+        "CGE",
+        "Playdek"
+      ],
       "appids": []
     },
     "Matchsticks Picks": {
@@ -154,7 +216,9 @@
       "publishers": [
         "Paradox Interactive",
         "Hooded Horse",
-        "Slitherine / Matrix"
+        "Slitherine / Matrix",
+        "Dire Wolf",
+        "Monster Couch"
       ],
       "developers": [
         "Illwinter Game Design",
@@ -172,7 +236,12 @@
         "Firaxis Games",
         "Holistic Design, Inc.",
         "Bay 12 Games",
-        "Frontier Developments"
+        "Frontier Developments",
+        "Dire Wolf",
+        "Acram Digital",
+        "Monster Couch",
+        "CGE",
+        "Playdek"
       ],
       "appids": []
     }

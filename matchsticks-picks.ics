@@ -1,96 +1,96 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-CALSCALE:GREGORIAN
-PRODID:-//Matchsticks for my Eyes//Strategy Release Calendar//EN
-X-WR-CALNAME:Strategy Releases — Matchsticks Picks
-X-PUBLISHED-TTL:P1D
-REFRESH-INTERVAL;VALUE=DURATION:P1D
-BEGIN:VEVENT
-UID:app-4553980@psahui.github.io
-DTSTAMP:20260809T190414Z
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-SUMMARY:Jurassic World Evolution 3: Crocodilia Coast (DLC)
-DESCRIPTION:Frontier Developments / Frontier Developments\nSteam: http
- s://store.steampowered.com/app/4553980/
-URL:https://store.steampowered.com/app/4553980/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:app-2764460@psahui.github.io
-DTSTAMP:20260809T190414Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:Sandustry
-DESCRIPTION:Lantto Games / Hooded Horse\nSteam: https://store.steampow
- ered.com/app/2764460/
-URL:https://store.steampowered.com/app/2764460/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:app-4396100@psahui.github.io
-DTSTAMP:20260809T190414Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:Cataclismo - The Old Kingdom (DLC)
-DESCRIPTION:Digital Sun / Hooded Horse\nSteam: https://store.steampowe
- red.com/app/4396100/
-URL:https://store.steampowered.com/app/4396100/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:app-3407390-fullrelease@psahui.github.io
-DTSTAMP:20260809T190414Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:ENDLESS Legend™ 2 (full release)
-DESCRIPTION:AMPLITUDE Studios / Hooded Horse\nSteam: https://store.ste
- ampowered.com/app/3407390/
-URL:https://store.steampowered.com/app/3407390/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:app-4232900@psahui.github.io
-DTSTAMP:20260809T190414Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Crusader Kings III: By God Alone (DLC)
-DESCRIPTION:Paradox Development Studio / Paradox Interactive\nSteam: h
- ttps://store.steampowered.com/app/4232900/
-URL:https://store.steampowered.com/app/4232900/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:app-3989670@psahui.github.io
-DTSTAMP:20260809T190414Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Distant Worlds 2: Shadows Rising (DLC)
-DESCRIPTION:CodeForce / Slitherine Ltd.\nSteam: https://store.steampow
- ered.com/app/3989670/
-URL:https://store.steampowered.com/app/3989670/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:app-3219030@psahui.github.io
-DTSTAMP:20260809T190414Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Planet Zoo 2
-DESCRIPTION:Frontier Developments / Frontier Developments\nSteam: http
- s://store.steampowered.com/app/3219030/
-URL:https://store.steampowered.com/app/3219030/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:app-1447650@psahui.github.io
-DTSTAMP:20260809T190414Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Space Station Designer
-DESCRIPTION:Polar Motion / Slitherine Ltd.\nSteam: https://store.steam
- powered.com/app/1447650/
-URL:https://store.steampowered.com/app/1447650/
-TRANSP:TRANSPARENT
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Matchsticks for my Eyes//Strategy Release Calendar//EN
+X-WR-CALNAME:Strategy Releases — Matchsticks Picks
+X-PUBLISHED-TTL:P1D
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+UID:app-4553980@psahui.github.io
+DTSTAMP:20260810T073318Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:Jurassic World Evolution 3: Crocodilia Coast (DLC)
+DESCRIPTION:Frontier Developments / Frontier Developments\nSteam: http
+ s://store.steampowered.com/app/4553980/
+URL:https://store.steampowered.com/app/4553980/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-2764460@psahui.github.io
+DTSTAMP:20260810T073318Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Sandustry
+DESCRIPTION:Lantto Games / Hooded Horse\nSteam: https://store.steampow
+ ered.com/app/2764460/
+URL:https://store.steampowered.com/app/2764460/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-4396100@psahui.github.io
+DTSTAMP:20260810T073318Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Cataclismo - The Old Kingdom (DLC)
+DESCRIPTION:Digital Sun / Hooded Horse\nSteam: https://store.steampowe
+ red.com/app/4396100/
+URL:https://store.steampowered.com/app/4396100/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-3407390-fullrelease@psahui.github.io
+DTSTAMP:20260810T073318Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:ENDLESS Legend™ 2 (full release)
+DESCRIPTION:AMPLITUDE Studios / Hooded Horse\nSteam: https://store.ste
+ ampowered.com/app/3407390/
+URL:https://store.steampowered.com/app/3407390/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-4232900@psahui.github.io
+DTSTAMP:20260810T073318Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Crusader Kings III: By God Alone (DLC)
+DESCRIPTION:Paradox Development Studio / Paradox Interactive\nSteam: h
+ ttps://store.steampowered.com/app/4232900/
+URL:https://store.steampowered.com/app/4232900/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-3989670@psahui.github.io
+DTSTAMP:20260810T073318Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Distant Worlds 2: Shadows Rising (DLC)
+DESCRIPTION:CodeForce / Slitherine Ltd.\nSteam: https://store.steampow
+ ered.com/app/3989670/
+URL:https://store.steampowered.com/app/3989670/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-3219030@psahui.github.io
+DTSTAMP:20260810T073318Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Planet Zoo 2
+DESCRIPTION:Frontier Developments / Frontier Developments\nSteam: http
+ s://store.steampowered.com/app/3219030/
+URL:https://store.steampowered.com/app/3219030/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-1447650@psahui.github.io
+DTSTAMP:20260810T073318Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Space Station Designer
+DESCRIPTION:Polar Motion / Slitherine Ltd.\nSteam: https://store.steam
+ powered.com/app/1447650/
+URL:https://store.steampowered.com/app/1447650/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

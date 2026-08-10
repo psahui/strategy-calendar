@@ -1,11 +1,16 @@
 {
- "generated_at": "2026-08-09T19:04:14+00:00",
- "cutoff": "2025-08-09",
+ "generated_at": "2026-08-10T07:33:18+00:00",
+ "cutoff": "2025-08-10",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
   "Slitherine / Matrix",
   "MicroProse",
+  "Dire Wolf",
+  "Monster Couch",
+  "Digidiced",
+  "Kalypso Media",
+  "Iceberg Interactive",
   "Other publishers"
  ],
  "developer_groups": [
@@ -26,10 +31,19 @@
   "Bit Reactor",
   "Ludeon Studios",
   "Bay 12 Games",
+  "Dire Wolf",
+  "Acram Digital",
+  "Monster Couch",
+  "Flaming Fowl",
+  "CGE",
+  "Playdek",
+  "Haemimont Games",
+  "Triumph Studios",
   "Other developers"
  ],
  "collection_names": [
   "Wargames",
+  "Digital board games",
   "Matchsticks Picks",
   "Strategy (general)"
  ],
@@ -51,7 +65,7 @@
     "Paradox Interactive"
    ],
    "dev_groups": [
-    "Other developers"
+    "Triumph Studios"
    ],
    "pub_groups": [
     "Paradox Interactive"
@@ -450,6 +464,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 2885870,
+   "name": "Strange Antiquities",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Sep 17, 2025",
+   "precision": "day",
+   "sort_key": 20250917,
+   "developers": [
+    "Bad Viking"
+   ],
+   "publishers": [
+    "Iceberg Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Iceberg Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2885870/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885870/d21f711aacd73cf8aa99c7ec3c92f114afad8609/capsule_231x87.jpg?t=1778730364",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Overwhelmingly Positive",
+    "pct": 95,
+    "total": 3438
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3407390,
    "name": "ENDLESS Legend\u2122 2",
    "type": "game",
@@ -747,7 +797,7 @@
     "Paradox Interactive"
    ],
    "dev_groups": [
-    "Other developers"
+    "Triumph Studios"
    ],
    "pub_groups": [
     "Paradox Interactive"
@@ -922,6 +972,46 @@
     "desc": "Very Positive",
     "pct": 89,
     "total": 62
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3874110,
+   "name": "Root: Hirelings & Landmarks",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Oct 20, 2025",
+   "precision": "day",
+   "sort_key": 20251020,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "publishers": [
+    "Dire Wolf"
+   ],
+   "dev_groups": [
+    "Dire Wolf"
+   ],
+   "pub_groups": [
+    "Dire Wolf"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3874110/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3874110/f3f6187fe1e571f96ddb580220886d2264c5a856/capsule_231x87.jpg?t=1761071230",
+   "parent": {
+    "appid": 965580,
+    "name": "Root"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 92,
+    "total": 12
    },
    "leaving_ea": null
   },
@@ -1196,6 +1286,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 1342690,
+   "name": "Radiolight",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Oct 23, 2025",
+   "precision": "day",
+   "sort_key": 20251023,
+   "developers": [
+    "Krystof Knesl"
+   ],
+   "publishers": [
+    "Iceberg Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Iceberg Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1342690/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342690/3a37eeea8dd75f4e3e1604dbe50d3498907a0c15/capsule_231x87.jpg?t=1772794468",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 91,
+    "total": 463
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 2289750,
    "name": "Super Fantasy Kingdom",
    "type": "game",
@@ -1305,6 +1431,45 @@
     "desc": "Mostly Positive",
     "pct": 77,
     "total": 191
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2677600,
+   "name": "Railway Empire 2 - Steel Dragons",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Oct 28, 2025",
+   "precision": "day",
+   "sort_key": 20251028,
+   "developers": [
+    "Gaming Minds Studios"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2677600/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677600/5c7dd6c5e9787c47bed299fbe22c184fd320e35a/capsule_231x87.jpg?t=1761656359",
+   "parent": {
+    "appid": 1644320,
+    "name": "Railway Empire 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 46,
+    "total": 13
    },
    "leaving_ea": null
   },
@@ -1586,6 +1751,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 2085620,
+   "name": "Second Sun",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Nov 5, 2025",
+   "precision": "day",
+   "sort_key": 20251105,
+   "developers": [
+    "Grey Wolf Entertainment"
+   ],
+   "publishers": [
+    "Iceberg Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Iceberg Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2085620/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2085620/435566f4a61265e4ccb275c814598bf35bd86afc/capsule_231x87.jpg?t=1772794563",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 71,
+    "total": 129
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 2489330,
    "name": "Whiskerwood",
    "type": "game",
@@ -1638,7 +1839,7 @@
     "Paradox Interactive"
    ],
    "dev_groups": [
-    "Other developers"
+    "Haemimont Games"
    ],
    "pub_groups": [
     "Paradox Interactive"
@@ -1675,7 +1876,7 @@
     "Paradox Interactive"
    ],
    "dev_groups": [
-    "Other developers"
+    "Haemimont Games"
    ],
    "pub_groups": [
     "Paradox Interactive"
@@ -1715,7 +1916,7 @@
     "Paradox Interactive"
    ],
    "dev_groups": [
-    "Other developers"
+    "Haemimont Games"
    ],
    "pub_groups": [
     "Paradox Interactive"
@@ -1755,7 +1956,7 @@
     "Paradox Interactive"
    ],
    "dev_groups": [
-    "Other developers"
+    "Triumph Studios"
    ],
    "pub_groups": [
     "Paradox Interactive"
@@ -1891,6 +2092,85 @@
     "desc": "Mostly Positive",
     "pct": 74,
     "total": 43
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4103430,
+   "name": "Ascension: Legends",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Nov 14, 2025",
+   "precision": "day",
+   "sort_key": 20251114,
+   "developers": [
+    "Playdek, Inc."
+   ],
+   "publishers": [
+    "Playdek, Inc."
+   ],
+   "dev_groups": [
+    "Playdek"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4103430/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103430/8d0edfdaf2b93e1b8f9a243410c1e70146ac2c95/capsule_231x87.jpg?t=1763141227",
+   "parent": {
+    "appid": 320430,
+    "name": "Ascension: Deckbuilding Game"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 55,
+    "total": 22
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3933550,
+   "name": "Commandos: Origins - Shadows over Crete",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Nov 18, 2025",
+   "precision": "day",
+   "sort_key": 20251118,
+   "developers": [
+    "Claymore Game Studios"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3933550/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933550/95562f60229d20cc6fc38bc61d5dd527622d8747/capsule_231x87.jpg?t=1763471170",
+   "parent": {
+    "appid": 1479730,
+    "name": "Commandos: Origins"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 84,
+    "total": 81
    },
    "leaving_ea": null
   },
@@ -2578,6 +2858,45 @@
    "leaving_ea": null
   },
   {
+   "appid": 4099960,
+   "name": "Dungeons 4 - Double Trouble",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Dec 9, 2025",
+   "precision": "day",
+   "sort_key": 20251209,
+   "developers": [
+    "Realmforge Studios"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4099960/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099960/f62b095f4978ba3ccb04543a5f8da3cb82fd2315/capsule_231x87.jpg?t=1765285154",
+   "parent": {
+    "appid": 1643310,
+    "name": "Dungeons 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 54
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 4131660,
    "name": "Jurassic World Evolution 3: Wetlands ",
    "type": "dlc",
@@ -2614,6 +2933,46 @@
     "desc": "Mostly Positive",
     "pct": 80,
     "total": 99
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4130930,
+   "name": "Munchkin Digital - Pathfinder",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Dec 9, 2025",
+   "precision": "day",
+   "sort_key": 20251209,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "publishers": [
+    "Dire Wolf"
+   ],
+   "dev_groups": [
+    "Dire Wolf"
+   ],
+   "pub_groups": [
+    "Dire Wolf"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4130930/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4130930/1083556851d7eafdeed0d075d9153ea7b368f669/capsule_231x87.jpg?t=1765302363",
+   "parent": {
+    "appid": 1722860,
+    "name": "Munchkin Digital"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 38,
+    "total": 24
    },
    "leaving_ea": null
   },
@@ -3006,6 +3365,43 @@
    "leaving_ea": null
   },
   {
+   "appid": 3493430,
+   "name": "Set a Watch: Digital Edition",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Jan 26, 2026",
+   "precision": "day",
+   "sort_key": 20260126,
+   "developers": [
+    "Acram Digital"
+   ],
+   "publishers": [
+    "Acram Digital"
+   ],
+   "dev_groups": [
+    "Acram Digital"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3493430/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493430/d6bc8d150243540f488d3ee2ce13a0b9552d1467/capsule_231x87.jpg?t=1769814198",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 73,
+    "total": 22
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3315560,
    "name": "Crusader Kings III Creator Pack: High Medieval Warfare Attire",
    "type": "dlc",
@@ -3199,6 +3595,78 @@
    "leaving_ea": null
   },
   {
+   "appid": 3093020,
+   "name": "Circle Empires 2",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Feb 9, 2026",
+   "precision": "day",
+   "sort_key": 20260209,
+   "developers": [
+    "Luminous"
+   ],
+   "publishers": [
+    "Iceberg Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Iceberg Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3093020/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093020/7bc7973067f0233f3528ba48957ce68a1b2f8357/capsule_231x87.jpg?t=1772794112",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 73,
+    "total": 291
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2808560,
+   "name": "Disciples: Domination",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Feb 12, 2026",
+   "precision": "day",
+   "sort_key": 20260212,
+   "developers": [
+    "Artefacts Studio"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2808560/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808560/8d5e73a17d298c5a408dfa0f622016fe5baaa1ea/capsule_231x87.jpg?t=1776951719",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 303
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3874230,
    "name": "Anno 117: Pax Romana - Marvellous Mosaic Pack",
    "type": "dlc",
@@ -3239,6 +3707,43 @@
    "leaving_ea": null
   },
   {
+   "appid": 2994150,
+   "name": "Konfronto",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Feb 23, 2026",
+   "precision": "day",
+   "sort_key": 20260223,
+   "developers": [
+    "Flaming Fowl Studios"
+   ],
+   "publishers": [
+    "Flaming Fowl Studios",
+    "Gamersky Games"
+   ],
+   "dev_groups": [
+    "Flaming Fowl"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Digital board games"
+   ],
+   "url": "https://store.steampowered.com/app/2994150/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994150/fffb846e14d3e1eec85d381348b3fb812087448d/capsule_231x87.jpg?t=1776182690",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 88,
+    "total": 119
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 1400660,
    "name": "Rise of Piracy",
    "type": "game",
@@ -3271,6 +3776,83 @@
     "desc": "Mostly Positive",
     "pct": 79,
     "total": 517
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 1677970,
+   "name": "Railroad Corporation 2",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Feb 25, 2026",
+   "precision": "day",
+   "sort_key": 20260225,
+   "developers": [
+    "Corbie Games"
+   ],
+   "publishers": [
+    "Iceberg Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Iceberg Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1677970/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677970/6a72b9028feb8f4935c61b34fefcc0469bd55d7b/capsule_231x87.jpg?t=1772550881",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 71,
+    "total": 411
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3100160,
+   "name": "Istanbul: Digital Edition - Mocha & Baksheesh",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Feb 26, 2026",
+   "precision": "day",
+   "sort_key": 20260226,
+   "developers": [
+    "Acram Digital"
+   ],
+   "publishers": [
+    "Acram Digital",
+    "Pegasus Spiele"
+   ],
+   "dev_groups": [
+    "Acram Digital"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3100160/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100160/822a82b7fc988b7f8dd139f83e2fd2bcbe0547b5/capsule_231x87.jpg?t=1772539408",
+   "parent": {
+    "appid": 943410,
+    "name": "Istanbul: Digital Edition"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "7 user reviews",
+    "pct": 100,
+    "total": 7
    },
    "leaving_ea": null
   },
@@ -3402,7 +3984,7 @@
     "Paradox Interactive"
    ],
    "dev_groups": [
-    "Other developers"
+    "Triumph Studios"
    ],
    "pub_groups": [
     "Paradox Interactive"
@@ -3707,6 +4289,41 @@
    "leaving_ea": null
   },
   {
+   "appid": 4244310,
+   "name": "Disciples: Domination - Corruption Skins Pack",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Mar 12, 2026",
+   "precision": "day",
+   "sort_key": 20260312,
+   "developers": [
+    "Artefacts Studio"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4244310/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244310/bc647570cc80037a0d27a1ba6e315afe6fc3bb89/capsule_231x87.jpg?t=1773320294",
+   "parent": {
+    "appid": 2808560,
+    "name": "Disciples: Domination"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 4314630,
    "name": "Victoria 3: Volume 3",
    "type": "dlc",
@@ -3983,6 +4600,46 @@
     "desc": "3 user reviews",
     "pct": 100,
     "total": 3
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4356510,
+   "name": "Clank! - Mummy's Curse",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Mar 18, 2026",
+   "precision": "day",
+   "sort_key": 20260318,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "publishers": [
+    "Dire Wolf"
+   ],
+   "dev_groups": [
+    "Dire Wolf"
+   ],
+   "pub_groups": [
+    "Dire Wolf"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4356510/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356510/b0bc51fa76f8ac9dc92f8cdddac429647d8a380a/capsule_231x87.jpg?t=1773854371",
+   "parent": {
+    "appid": 1722870,
+    "name": "Clank!"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "5 user reviews",
+    "pct": 80,
+    "total": 5
    },
    "leaving_ea": null
   },
@@ -4688,6 +5345,81 @@
    "leaving_ea": null
   },
   {
+   "appid": 2808550,
+   "name": "Sudden Strike 5",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Apr 23, 2026",
+   "precision": "day",
+   "sort_key": 20260423,
+   "developers": [
+    "Kite Games"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2808550/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808550/bfc2c8be05149e10f72a03d7846417ccdb7ce2e5/capsule_231x87_alt_assets_0.jpg?t=1785412566",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 75,
+    "total": 739
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4108030,
+   "name": "Sudden Strike 5 - Deluxe Edition Upgrade",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Apr 23, 2026",
+   "precision": "day",
+   "sort_key": 20260423,
+   "developers": [
+    "Kite Games"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4108030/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108030/ac4cca81196e335dde6e2a3533031a6b5cbc6a06/capsule_231x87.jpg?t=1776952830",
+   "parent": {
+    "appid": 2808550,
+    "name": "Sudden Strike 5"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 100,
+    "total": 2
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3996800,
    "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2 -  Loose Cannon",
    "type": "dlc",
@@ -4724,6 +5456,45 @@
     "desc": "Mixed",
     "pct": 41,
     "total": 165
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4172650,
+   "name": "Commandos: Origins - No Man Left Behind",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Apr 28, 2026",
+   "precision": "day",
+   "sort_key": 20260428,
+   "developers": [
+    "Claymore Game Studios"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4172650/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172650/b6fd1b6ea98ab563f7412fdeba926f74dd7cbdf1/capsule_231x87.jpg?t=1777377547",
+   "parent": {
+    "appid": 1479730,
+    "name": "Commandos: Origins"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 88,
+    "total": 52
    },
    "leaving_ea": null
   },
@@ -5077,6 +5848,44 @@
    "leaving_ea": null
   },
   {
+   "appid": 4561450,
+   "name": "Everdell - Bellfaire",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "May 14, 2026",
+   "precision": "day",
+   "sort_key": 20260514,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Dire Wolf"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4561450/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561450/067e6b31d1896ad6e4a8109cda8ad5021b034b57/capsule_231x87.jpg?t=1778777686",
+   "parent": {
+    "appid": 1722840,
+    "name": "Everdell"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "5 user reviews",
+    "pct": 100,
+    "total": 5
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 4193350,
    "name": "Panzer Corps 2: Allied Operations - Italy: Vol.1",
    "type": "dlc",
@@ -5114,6 +5923,46 @@
     "desc": "Mixed",
     "pct": 68,
     "total": 22
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4634650,
+   "name": "Ascension: Promo Pack 7",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "May 15, 2026",
+   "precision": "day",
+   "sort_key": 20260515,
+   "developers": [
+    "Playdek, Inc."
+   ],
+   "publishers": [
+    "Playdek, Inc."
+   ],
+   "dev_groups": [
+    "Playdek"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4634650/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634650/5f5d9b9aea1c847da339a31327bedce010c5fdc3/capsule_231x87.jpg?t=1778865585",
+   "parent": {
+    "appid": 320430,
+    "name": "Ascension: Deckbuilding Game"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "7 user reviews",
+    "pct": 100,
+    "total": 7
    },
    "leaving_ea": null
   },
@@ -5356,6 +6205,44 @@
    "leaving_ea": null
   },
   {
+   "appid": 4598200,
+   "name": "Dune: Imperium - Uprising",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jun 9, 2026",
+   "precision": "day",
+   "sort_key": 20260609,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Dire Wolf"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4598200/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598200/cbfeee2c5f0d0651cc3ca829348673a959aca67a/capsule_231x87.jpg?t=1781022072",
+   "parent": {
+    "appid": 1689500,
+    "name": "Dune: Imperium"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 88,
+    "total": 56
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3996820,
    "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2 - The Flower & the Flame",
    "type": "dlc",
@@ -5476,6 +6363,88 @@
    "leaving_ea": null
   },
   {
+   "appid": 4683500,
+   "name": "Wingspan Bird Pack: British Birds",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jun 15, 2026",
+   "precision": "day",
+   "sort_key": 20260615,
+   "developers": [
+    "Monster Couch"
+   ],
+   "publishers": [
+    "Monster Couch",
+    "Stonemaier Games"
+   ],
+   "dev_groups": [
+    "Monster Couch"
+   ],
+   "pub_groups": [
+    "Monster Couch"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4683500/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683500/68f31a77f3fbf6c057a0a2e0f61d8f9419107ff7/capsule_231x87.jpg?t=1783679145",
+   "parent": {
+    "appid": 1054490,
+    "name": "Wingspan"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "8 user reviews",
+    "pct": 100,
+    "total": 8
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4677530,
+   "name": "Wingspan: Bird Packs Season Pass",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Jun 15, 2026",
+   "precision": "day",
+   "sort_key": 20260615,
+   "developers": [
+    "Monster Couch"
+   ],
+   "publishers": [
+    "Monster Couch",
+    "Stonemaier Games"
+   ],
+   "dev_groups": [
+    "Monster Couch"
+   ],
+   "pub_groups": [
+    "Monster Couch"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4677530/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4677530/9323a684054253b679e0d82c13cdf7853dc84880/capsule_231x87.jpg?t=1785776758",
+   "parent": {
+    "appid": 1054490,
+    "name": "Wingspan"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "8 user reviews",
+    "pct": 100,
+    "total": 8
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3976910,
    "name": "Age of Wonders 4: Secrets of the Archmages",
    "type": "dlc",
@@ -5491,7 +6460,7 @@
     "Paradox Interactive"
    ],
    "dev_groups": [
-    "Other developers"
+    "Triumph Studios"
    ],
    "pub_groups": [
     "Paradox Interactive"
@@ -6389,6 +7358,113 @@
    "leaving_ea": null
   },
   {
+   "appid": 4900910,
+   "name": "Unmatched: Digital Edition - Cobble and Fog",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jul 29, 2026",
+   "precision": "day",
+   "sort_key": 20260729,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Dire Wolf"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4900910/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900910/c8ab7312c55834a63dfb4078af6dd9bd270afa5a/capsule_231x87.jpg?t=1785362038",
+   "parent": {
+    "appid": 1677980,
+    "name": "Unmatched: Digital Edition"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4900920,
+   "name": "Unmatched: Digital Edition - Robin Hood vs Bigfoot",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jul 29, 2026",
+   "precision": "day",
+   "sort_key": 20260729,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Dire Wolf"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4900920/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900920/88ada0f3c1fb00c9e9759c900e7e5b0fd773320c/capsule_231x87.jpg?t=1785362061",
+   "parent": {
+    "appid": 1677980,
+    "name": "Unmatched: Digital Edition"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4519150,
+   "name": "Sudden Strike 5 - France: Road to Liberation",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jul 30, 2026",
+   "precision": "day",
+   "sort_key": 20260730,
+   "developers": [
+    "Kite Games"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4519150/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519150/67a81a80c1e33f518a22a31e970686e595c7943d/capsule_231x87.jpg?t=1785412780",
+   "parent": {
+    "appid": 2808550,
+    "name": "Sudden Strike 5"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 82,
+    "total": 17
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 1368140,
    "name": "Corsair Cove",
    "type": "game",
@@ -6459,6 +7535,47 @@
    "leaving_ea": null
   },
   {
+   "appid": 4847570,
+   "name": "Wingspan Bird Pack: Additional Asian Avians",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Aug 3, 2026",
+   "precision": "day",
+   "sort_key": 20260803,
+   "developers": [
+    "Monster Couch"
+   ],
+   "publishers": [
+    "Monster Couch",
+    "Stonemaier Games"
+   ],
+   "dev_groups": [
+    "Monster Couch"
+   ],
+   "pub_groups": [
+    "Monster Couch"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4847570/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847570/33a820b16ebd536fe677cacfaf1ea51ad423f19c/capsule_231x87.jpg?t=1785826745",
+   "parent": {
+    "appid": 1054490,
+    "name": "Wingspan"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "3 user reviews",
+    "pct": 33,
+    "total": 3
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 4661170,
    "name": "Headquarters: Cold War - Operation Pacify",
    "type": "dlc",
@@ -6519,7 +7636,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/896250/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896250/64618068899d3976521373ee56e2ae857a3e7f5b/capsule_231x87.jpg?t=1786059737",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896250/64618068899d3976521373ee56e2ae857a3e7f5b/capsule_231x87.jpg?t=1786111543",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -6799,6 +7916,38 @@
     "name": "Distant Worlds 2"
    },
    "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 2644100,
+   "name": "Allogloom",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Oct 12, 2026",
+   "precision": "day",
+   "sort_key": 20261012,
+   "developers": [
+    "Galactic Ghosty"
+   ],
+   "publishers": [
+    "Iceberg Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Iceberg Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2644100/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1785273048",
+   "parent": null,
+   "has_demo": true,
    "blog_url": null,
    "review": null,
    "leaving_ea": null
@@ -7297,6 +8446,38 @@
    ],
    "url": "https://store.steampowered.com/app/3493540/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1781780836",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 1853440,
+   "name": "Tropico 7",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2026",
+   "precision": "year",
+   "sort_key": 20269898,
+   "developers": [
+    " Gaming Minds Studios"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1853440/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1780410168",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
