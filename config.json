@@ -20,7 +20,6 @@
     "CREATIVE ASSEMBLY",
     "Firaxis Games",
     "Illwinter Game Design",
-    "Amplitude Studios",
     "AMPLITUDE Studios",
     "VR Designs",
     "Ashdar Games",
@@ -182,7 +181,11 @@
   "radar_searches": {
     "publishers": [],
     "developers": [
-      "Steady State Scientific Computing"
+      "Steady State Scientific Computing",
+      "SpaceOps",
+      "City From Naught Inc.",
+      "President Studio",
+      "Oxymoron Games"
     ]
   },
   "collections": {
