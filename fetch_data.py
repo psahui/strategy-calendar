@@ -161,15 +161,18 @@ def discover_apps(config, cutoff_key):
         print(f"Searching {field} = {value}" + (" [radar]" if is_radar else ""), flush=True)
         keys_before = set(found)
         count_before = len(found)
+        rows_seen = 0
         try:
             # Pass 1: everything marked coming soon.
             for appid, _title, released in search_steam(field, value, {"filter": "comingsoon"}):
+                rows_seen += 1
                 found.setdefault(appid, released)
 
             # Pass 2: released items newest-first; stop once we are clearly past
             # the cutoff (tolerate a few stragglers with odd date strings).
             consecutive_old = 0
             for appid, _title, released in search_steam(field, value, {"sort_by": "Released_DESC"}):
+                rows_seen += 1
                 precision, y, mth, d = parse_release_string(released)
                 key = release_sort_key(precision, y, mth, d)
                 if precision in ("day", "month") and key < cutoff_key:
@@ -184,6 +187,17 @@ def discover_apps(config, cutoff_key):
             failures.append(str(exc))
         if is_radar:
             radar_appids |= set(found) - keys_before
+        if rows_seen == 0:
+            # Steam matches names letter-for-letter, so a typo quietly finds
+            # nothing. Probe the whole catalogue once: a real studio has at
+            # least one title ever; zero means the name is probably wrong.
+            try:
+                probe = next(search_steam(field, value, {}), None)
+            except SearchFailure:
+                probe = "unknown"
+            if probe is None:
+                print(f"  WARNING: {field} '{value}' matches nothing on Steam — "
+                      "check the spelling against the store page.", flush=True)
         print(f"  running total: {len(found)} apps (+{len(found) - count_before})", flush=True)
     return found, radar_appids, failures
 

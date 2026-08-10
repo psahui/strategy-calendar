@@ -79,6 +79,24 @@
   </div>
 
   <div class="card">
+    <h2>Indie radar studios</h2>
+    <p class="hint">Radar studios are fetched daily and shown on the hidden-by-default radar shelf,
+      with no sidebar checkbox of their own. <b>The name must match Steam letter-for-letter</b> —
+      copy it from the "Developer:" line on the game's store page rather than typing it. (A
+      misspelled name quietly finds nothing; the refresh log now warns about names that match
+      nothing on Steam at all.)</p>
+    <div id="radar-list"></div>
+    <div class="newcol" style="max-width:560px">
+      <input type="text" id="radar-name" placeholder="Studio name, exactly as on Steam…">
+      <select id="radar-kind" style="font:inherit;padding:6px;border:1px solid var(--line);border-radius:4px">
+        <option value="developers">Developer</option>
+        <option value="publishers">Publisher</option>
+      </select>
+      <button class="ghost" id="radar-add">Add to radar</button>
+    </div>
+  </div>
+
+  <div class="card">
     <h2>Scout report — upcoming strategy games from studios you don't track</h2>
     <p class="hint">Written by the weekly Scout sweep (or run it any time from the Actions page).
       <b>→ Radar</b> stages the studio for the radar list; <b>→ Watchlist</b> stages it for the
@@ -154,6 +172,39 @@ function renderTitles() {
   if (!items.length) html += `<tr><td colspan="${cols.length + 2}">No titles match.</td></tr>`;
   html += `</table>` + (items.length === 60 ? `<p class="hint" style="padding:6px 10px">Showing first 60 — narrow the search.</p>` : "");
   document.getElementById("title-list").innerHTML = html;
+}
+
+function renderRadar() {
+  CFG.radar_searches ||= { publishers: [], developers: [] };
+  const rows = [];
+  for (const kind of ["developers", "publishers"]) {
+    for (const name of CFG.radar_searches[kind]) {
+      rows.push(`<tr><td>${esc(name)}</td><td>${kind === "developers" ? "Developer" : "Publisher"}</td>
+        <td><button class="small ghost" data-radar-remove="${esc(name)}" data-radar-kind="${kind}">✕ remove</button></td></tr>`);
+    }
+  }
+  document.getElementById("radar-list").innerHTML = rows.length
+    ? `<table><tr><th>Studio</th><th>Tracked as</th><th></th></tr>${rows.join("")}</table>`
+    : `<p class="hint">No radar studios yet.</p>`;
+}
+
+function wireRadar() {
+  document.getElementById("radar-add").addEventListener("click", () => {
+    const name = document.getElementById("radar-name").value.trim();
+    const kind = document.getElementById("radar-kind").value;
+    if (!name) return;
+    CFG.radar_searches ||= { publishers: [], developers: [] };
+    if (!CFG.radar_searches[kind].includes(name)) CFG.radar_searches[kind].push(name);
+    document.getElementById("radar-name").value = "";
+    renderRadar(); if (SCOUT) renderScout();
+  });
+  document.getElementById("radar-list").addEventListener("click", e => {
+    const name = e.target.dataset && e.target.dataset.radarRemove;
+    if (!name) return;
+    const kind = e.target.dataset.radarKind;
+    CFG.radar_searches[kind] = CFG.radar_searches[kind].filter(n => n !== name);
+    renderRadar(); if (SCOUT) renderScout();
+  });
 }
 
 function scoutStudio(it) {
@@ -275,7 +326,7 @@ Promise.all([
   CFG = cfg; CFG.collections ||= {}; CFG.blog_links ||= {};
   ITEMS = data.items.slice().sort((a, b) => a.name.localeCompare(b.name));
   SCOUT = scout;
-  renderGroups(); renderTitles(); renderScout(); wireEvents(); wireScout();
+  renderGroups(); renderTitles(); renderRadar(); renderScout(); wireEvents(); wireScout(); wireRadar();
 }).catch(err => {
   document.getElementById("groups-grid").textContent =
     "Could not load config/data (" + err + "). If opened as a local file, serve over HTTP instead.";
