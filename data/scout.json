@@ -1,0 +1,4396 @@
+{
+ "generated_at": "2026-08-10T09:00:52+00:00",
+ "pending_details": 3049,
+ "search_failures": [],
+ "items": [
+  {
+   "appid": 5007590,
+   "name": "Abys Orbit",
+   "developers": [
+    "EMG Tech"
+   ],
+   "publishers": [
+    "EMG Tech"
+   ],
+   "tags": [
+    "Strategy",
+    "Grand Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5007590/"
+  },
+  {
+   "appid": 3957050,
+   "name": "Ballatory",
+   "developers": [
+    "Mini Fun Games"
+   ],
+   "publishers": [
+    "Mini Fun Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3957050/"
+  },
+  {
+   "appid": 3982830,
+   "name": "Bottle Cracks",
+   "developers": [
+    "Alunova Studios"
+   ],
+   "publishers": [
+    "Alunova Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3982830/"
+  },
+  {
+   "appid": 3049700,
+   "name": "Covenant Tower",
+   "developers": [
+    "Seven Sails"
+   ],
+   "publishers": [
+    "Pixel Crate Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3049700/"
+  },
+  {
+   "appid": 3144340,
+   "name": "Cult of PiN",
+   "developers": [
+    "KennyMakesGames"
+   ],
+   "publishers": [
+    "KennyMakesGames"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3144340/"
+  },
+  {
+   "appid": 4498210,
+   "name": "Desktop Pinforge",
+   "developers": [
+    "Ravenholm Interactive"
+   ],
+   "publishers": [
+    "Stay2Busy"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4498210/"
+  },
+  {
+   "appid": 4245340,
+   "name": "Dominocalypse",
+   "developers": [
+    "Barely Cohesive Games, LLC"
+   ],
+   "publishers": [
+    "Barely Cohesive Games, LLC"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4245340/"
+  },
+  {
+   "appid": 4859490,
+   "name": "Hardy & Molly",
+   "developers": [
+    "Babuyo Games"
+   ],
+   "publishers": [
+    "Babuyo Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4859490/"
+  },
+  {
+   "appid": 4574890,
+   "name": "MEGAKO\u2606PUNCH!",
+   "developers": [
+    "\u7269\u90e8\u30e2\u30ce\u5b50"
+   ],
+   "publishers": [
+    "\u7269\u90e8\u30e2\u30ce\u5b50"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4574890/"
+  },
+  {
+   "appid": 4443340,
+   "name": "Michi-Suji Puzzle: Michi Connect",
+   "developers": [
+    "YuruPuz Studio"
+   ],
+   "publishers": [
+    "YuruPuz Studio"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4443340/"
+  },
+  {
+   "appid": 4988340,
+   "name": "Realmbound Frontier",
+   "developers": [
+    "SimProse Studios"
+   ],
+   "publishers": [
+    "SimProse Studios"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4988340/"
+  },
+  {
+   "appid": 3755930,
+   "name": "The Severed Gods",
+   "developers": [
+    "Topebox"
+   ],
+   "publishers": [
+    "Topebox"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3755930/"
+  },
+  {
+   "appid": 4998270,
+   "name": "Turing Heads",
+   "developers": [
+    "Groundbreakers"
+   ],
+   "publishers": [
+    "Groundbreakers"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 10, 2026",
+   "sort_key": 20260810,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4998270/"
+  },
+  {
+   "appid": 4652030,
+   "name": "AI Apocalypse",
+   "developers": [
+    "Scuffed Studios"
+   ],
+   "publishers": [
+    "Scuffed Studios"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4652030/"
+  },
+  {
+   "appid": 4457520,
+   "name": "BattleTabs",
+   "developers": [
+    "Gangbusters Ltd"
+   ],
+   "publishers": [
+    "Gangbusters Ltd"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4457520/"
+  },
+  {
+   "appid": 4939850,
+   "name": "Casino of Time",
+   "developers": [
+    "SmallBlockGaming"
+   ],
+   "publishers": [
+    "SmallBlockGaming"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4939850/"
+  },
+  {
+   "appid": 4259990,
+   "name": "Corner King: Boxing Tycoon",
+   "developers": [
+    "Temporal Lure"
+   ],
+   "publishers": [
+    "Temporal Lure"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4259990/"
+  },
+  {
+   "appid": 4163000,
+   "name": "Crypto Trading Simulator",
+   "developers": [
+    "SUMER"
+   ],
+   "publishers": [
+    "SUMER"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4163000/"
+  },
+  {
+   "appid": 4625630,
+   "name": "Dune War",
+   "developers": [
+    "The Nostalgic Developer",
+    "SGFW"
+   ],
+   "publishers": [
+    "Double A Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4625630/"
+  },
+  {
+   "appid": 4468190,
+   "name": "Eon Empires",
+   "developers": [
+    "Aeonforge Studio"
+   ],
+   "publishers": [
+    "Aeonforge Studio"
+   ],
+   "tags": [
+    "Strategy",
+    "Grand Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4468190/"
+  },
+  {
+   "appid": 4308560,
+   "name": "Heritage",
+   "developers": [
+    "Big Three Games"
+   ],
+   "publishers": [
+    "Big Three Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4308560/"
+  },
+  {
+   "appid": 4332200,
+   "name": "King\u2019s Well",
+   "developers": [
+    "Fire Brick Games"
+   ],
+   "publishers": [
+    "Fire Brick Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4332200/"
+  },
+  {
+   "appid": 3315060,
+   "name": "Ledgerbound",
+   "developers": [
+    "OmniMegaSuperCorp"
+   ],
+   "publishers": [
+    "OmniMegaSuperCorp"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3315060/"
+  },
+  {
+   "appid": 1733690,
+   "name": "Mandate Order",
+   "developers": [
+    "Digital Sky"
+   ],
+   "publishers": [
+    "Digital Sky"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame",
+    "Grand Strategy",
+    "4X"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/1733690/"
+  },
+  {
+   "appid": 4513000,
+   "name": "Mexican Train",
+   "developers": [
+    "Island Fever Studios"
+   ],
+   "publishers": [
+    "Island Fever Studios"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4513000/"
+  },
+  {
+   "appid": 4659340,
+   "name": "Nullvein: Incremental Mining Evolution",
+   "developers": [
+    "Rolt Games"
+   ],
+   "publishers": [
+    "Rolt Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4659340/"
+  },
+  {
+   "appid": 4902790,
+   "name": "Rule or Fall",
+   "developers": [
+    "Bad Concept, Retry"
+   ],
+   "publishers": [
+    "Bad Concept, Retry"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4902790/"
+  },
+  {
+   "appid": 3855600,
+   "name": "Runerock Arena",
+   "developers": [
+    "Areena Games"
+   ],
+   "publishers": [
+    "Areena Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3855600/"
+  },
+  {
+   "appid": 1005180,
+   "name": "Sente",
+   "developers": [
+    "Oxobox Games Studios"
+   ],
+   "publishers": [
+    "Curveball Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/1005180/"
+  },
+  {
+   "appid": 4986290,
+   "name": "Shanhai Exorcist: Yin-Yang Chronicles",
+   "developers": [
+    "Wu Qing Ying"
+   ],
+   "publishers": [
+    "Wu Qing Ying"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4986290/"
+  },
+  {
+   "appid": 4315550,
+   "name": "The Carcass",
+   "developers": [
+    "PiqFocus Interactive"
+   ],
+   "publishers": [
+    "PiqFocus Interactive"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4315550/"
+  },
+  {
+   "appid": 3833230,
+   "name": "The Comeback King",
+   "developers": [
+    "Ian Williams"
+   ],
+   "publishers": [
+    "Subjunctive Software",
+    "https://www.subjunctivesoftware.com"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3833230/"
+  },
+  {
+   "appid": 4626300,
+   "name": "Valdrax Beyond the Rift",
+   "developers": [
+    "Ganea Ion"
+   ],
+   "publishers": [
+    "Ganea Ion"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4626300/"
+  },
+  {
+   "appid": 4377950,
+   "name": "Void Salvage",
+   "developers": [
+    "myradann"
+   ],
+   "publishers": [
+    "myradann"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4377950/"
+  },
+  {
+   "appid": 3929470,
+   "name": "Warhounds",
+   "developers": [
+    "Everplay DMCC"
+   ],
+   "publishers": [
+    "Brightika, Inc."
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3929470/"
+  },
+  {
+   "appid": 4986860,
+   "name": "Words Of Power",
+   "developers": [
+    "Tsuperion"
+   ],
+   "publishers": [
+    "Tsuperion Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Tabletop"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4986860/"
+  },
+  {
+   "appid": 4986120,
+   "name": "\u50cf\u7d20\u5355\u8bcd\u519c\u573a",
+   "developers": [
+    "Grove"
+   ],
+   "publishers": [
+    "Grove"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 11, 2026",
+   "sort_key": 20260811,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4986120/"
+  },
+  {
+   "appid": 4948610,
+   "name": "Alchi",
+   "developers": [
+    "HOMEK"
+   ],
+   "publishers": [
+    "HOMEK"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4948610/"
+  },
+  {
+   "appid": 2133680,
+   "name": "Alien Bloom",
+   "developers": [
+    "Bestwood Studios"
+   ],
+   "publishers": [
+    "Bestwood Studios"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame",
+    "Turn-Based Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/2133680/"
+  },
+  {
+   "appid": 4168210,
+   "name": "Author Sim",
+   "developers": [
+    "EssyTheSlug"
+   ],
+   "publishers": [
+    "EssyTheSlug"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4168210/"
+  },
+  {
+   "appid": 4000970,
+   "name": "BALLSKIN",
+   "developers": [
+    "dus"
+   ],
+   "publishers": [
+    "dus"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4000970/"
+  },
+  {
+   "appid": 2657570,
+   "name": "Block Catching",
+   "developers": [
+    "Justus Yew"
+   ],
+   "publishers": [
+    "Jarze Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/2657570/"
+  },
+  {
+   "appid": 4370480,
+   "name": "Burnstation",
+   "developers": [
+    "Klafti Studio"
+   ],
+   "publishers": [
+    "Klafti Studio"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4370480/"
+  },
+  {
+   "appid": 3180830,
+   "name": "Circuit Stance",
+   "developers": [
+    "Fluffy Brown"
+   ],
+   "publishers": [
+    "Anotherindie"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3180830/"
+  },
+  {
+   "appid": 4735700,
+   "name": "Cyber Plinko",
+   "developers": [
+    "Paterek"
+   ],
+   "publishers": [
+    "Paterek"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4735700/"
+  },
+  {
+   "appid": 5001100,
+   "name": "Da Bomb!",
+   "developers": [
+    "937 Games"
+   ],
+   "publishers": [
+    "937 Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Tabletop"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5001100/"
+  },
+  {
+   "appid": 4463680,
+   "name": "Dorts : A Darts Roguelike",
+   "developers": [
+    "MovingPixels"
+   ],
+   "publishers": [
+    "MovingPixels"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4463680/"
+  },
+  {
+   "appid": 3457630,
+   "name": "Dwarven Rampart",
+   "developers": [
+    "Alaabale"
+   ],
+   "publishers": [
+    "Alaabale"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3457630/"
+  },
+  {
+   "appid": 2941500,
+   "name": "FULL BET  - FIGHTING CASINO -",
+   "developers": [
+    "FlatMountain"
+   ],
+   "publishers": [
+    "FlatMountain"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/2941500/"
+  },
+  {
+   "appid": 4763670,
+   "name": "G.O.D. Global Orbital Defense",
+   "developers": [
+    "Nicola Conte"
+   ],
+   "publishers": [
+    "Nicola Conte"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4763670/"
+  },
+  {
+   "appid": 4216180,
+   "name": "IGNOBLE",
+   "developers": [
+    "Retromagine"
+   ],
+   "publishers": [
+    "Retromagine",
+    "Gamersky Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4216180/"
+  },
+  {
+   "appid": 4278290,
+   "name": "Magic Cards Duel",
+   "developers": [
+    "Deck Chainers"
+   ],
+   "publishers": [
+    "Deck Chainers"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4278290/"
+  },
+  {
+   "appid": 4243990,
+   "name": "Path of Idle: Old Gods Rising",
+   "developers": [
+    "Small Mill",
+    "Small Mill"
+   ],
+   "publishers": [
+    "Small Mill",
+    "Small Mill"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4243990/"
+  },
+  {
+   "appid": 4276440,
+   "name": "Quiet Bruise",
+   "developers": [
+    "GiantRiotous"
+   ],
+   "publishers": [
+    "GiantRiotous"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4276440/"
+  },
+  {
+   "appid": 4200520,
+   "name": "Rage Bait",
+   "developers": [
+    "Caffeineline"
+   ],
+   "publishers": [
+    "Caffeineline"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4200520/"
+  },
+  {
+   "appid": 4416760,
+   "name": "Red or Black: Poker Slay",
+   "developers": [
+    "RedOrBlack"
+   ],
+   "publishers": [
+    "RedOrBlack"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Tabletop"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4416760/"
+  },
+  {
+   "appid": 3878620,
+   "name": "Red Tape Rampage",
+   "developers": [
+    "Blunder Studios"
+   ],
+   "publishers": [
+    "Blunder Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3878620/"
+  },
+  {
+   "appid": 4988320,
+   "name": "Renz Village Adventure",
+   "developers": [
+    "Logan Renz"
+   ],
+   "publishers": [
+    "Renz Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4988320/"
+  },
+  {
+   "appid": 4285020,
+   "name": "Rogue Drone",
+   "developers": [
+    "KBGS"
+   ],
+   "publishers": [
+    "KBGS"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4285020/"
+  },
+  {
+   "appid": 4705650,
+   "name": "Silent Shark",
+   "developers": [
+    "John Goering"
+   ],
+   "publishers": [
+    "John Goering"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4705650/"
+  },
+  {
+   "appid": 4164790,
+   "name": "Survival Log",
+   "developers": [
+    "Midnight Workshop"
+   ],
+   "publishers": [
+    "Lilith Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4164790/"
+  },
+  {
+   "appid": 3829280,
+   "name": "The Merchant's Eden",
+   "developers": [
+    "Norse Sea Studio"
+   ],
+   "publishers": [
+    "Norse Sea Studio"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3829280/"
+  },
+  {
+   "appid": 4006200,
+   "name": "Tileweaver",
+   "developers": [
+    "Mattalarc & Wolter"
+   ],
+   "publishers": [
+    "Mattalarc & Wolter"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 12, 2026",
+   "sort_key": 20260812,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4006200/"
+  },
+  {
+   "appid": 4214610,
+   "name": "100FRIENDS",
+   "developers": [
+    "TWIN PIXELS"
+   ],
+   "publishers": [
+    "TWIN PIXELS"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4214610/"
+  },
+  {
+   "appid": 4719460,
+   "name": "Amlebic",
+   "developers": [
+    "Mad Turtle Studios"
+   ],
+   "publishers": [
+    "Mad Turtle Studios"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4719460/"
+  },
+  {
+   "appid": 4967010,
+   "name": "Archomni 2: Mondus Maxima",
+   "developers": [
+    "DIONYSIOS DIAMANTOPOULOS"
+   ],
+   "publishers": [
+    "DIONYSIOS DIAMANTOPOULOS"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4967010/"
+  },
+  {
+   "appid": 4986110,
+   "name": "Aussie Rules Legend",
+   "developers": [
+    "GDR Software"
+   ],
+   "publishers": [
+    "GDR Software"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4986110/"
+  },
+  {
+   "appid": 4904840,
+   "name": "Color Block Escape",
+   "developers": [
+    "FWGAMES"
+   ],
+   "publishers": [
+    "FWGAMES"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4904840/"
+  },
+  {
+   "appid": 4597500,
+   "name": "Cook with Card",
+   "developers": [
+    "Genco Interactive"
+   ],
+   "publishers": [
+    "Genco Interactive"
+   ],
+   "tags": [
+    "Strategy",
+    "Tabletop"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4597500/"
+  },
+  {
+   "appid": 5013680,
+   "name": "Crownhold",
+   "developers": [
+    "Meridian Studios"
+   ],
+   "publishers": [
+    "Meridian Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5013680/"
+  },
+  {
+   "appid": 4158650,
+   "name": "Decimation",
+   "developers": [
+    "Elementum Software Development Services"
+   ],
+   "publishers": [
+    "Elementum Software Development Services"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4158650/"
+  },
+  {
+   "appid": 4208140,
+   "name": "Defender of the Crown: The Legend Returns",
+   "developers": [
+    "Black Tower Basement"
+   ],
+   "publishers": [
+    "Nordcurrent Labs"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4208140/"
+  },
+  {
+   "appid": 3294300,
+   "name": "Dinosaur",
+   "developers": [
+    "Dinosaur Master"
+   ],
+   "publishers": [
+    "Dinosaur Master"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3294300/"
+  },
+  {
+   "appid": 3940610,
+   "name": "EA SPORTS\u2122 Madden NFL 27",
+   "developers": [
+    "Tiburon"
+   ],
+   "publishers": [
+    "Electronic Arts"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3940610/"
+  },
+  {
+   "appid": 3818020,
+   "name": "Evil School",
+   "developers": [
+    "CineGame Interactive"
+   ],
+   "publishers": [
+    "CineGame Interactive"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3818020/"
+  },
+  {
+   "appid": 4707820,
+   "name": "Fire and Movement",
+   "developers": [
+    "\u661f\u5ddd\u53cb\u4eae"
+   ],
+   "publishers": [
+    "\u661f\u5ddd\u53cb\u4eae"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4707820/"
+  },
+  {
+   "appid": 4446370,
+   "name": "Grit Shot",
+   "developers": [
+    "nithic"
+   ],
+   "publishers": [
+    "nithic"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4446370/"
+  },
+  {
+   "appid": 3079210,
+   "name": "Hell Let Loose: Vietnam",
+   "developers": [
+    "Expression Games"
+   ],
+   "publishers": [
+    "Team17"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3079210/"
+  },
+  {
+   "appid": 3979140,
+   "name": "Karma Keepers",
+   "developers": [
+    "yonazdev"
+   ],
+   "publishers": [
+    "yonazdev"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3979140/"
+  },
+  {
+   "appid": 4799450,
+   "name": "Kingdoms vs Zombies",
+   "developers": [
+    "MyDreamForever"
+   ],
+   "publishers": [
+    "Andgo Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4799450/"
+  },
+  {
+   "appid": 4155880,
+   "name": "Lucky Break",
+   "developers": [
+    "Ian Durra"
+   ],
+   "publishers": [
+    "Ian Durra"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4155880/"
+  },
+  {
+   "appid": 5008870,
+   "name": "Medieval Travelling Merchant",
+   "developers": [
+    "Lord Beard Games"
+   ],
+   "publishers": [
+    "Lord Beard Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5008870/"
+  },
+  {
+   "appid": 3840100,
+   "name": "Miraclawns",
+   "developers": [
+    "SE.EED CO.,LTD"
+   ],
+   "publishers": [
+    "SE.EED CO.,LTD"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3840100/"
+  },
+  {
+   "appid": 5007880,
+   "name": "One More Byte",
+   "developers": [
+    "Strizzi Games"
+   ],
+   "publishers": [
+    "Strizzi Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5007880/"
+  },
+  {
+   "appid": 4244210,
+   "name": "Open The Gate: Just A Little",
+   "developers": [
+    "Abubu Dance"
+   ],
+   "publishers": [
+    "The Bueno Interactive"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4244210/"
+  },
+  {
+   "appid": 5016220,
+   "name": "Pixel Airport Tycoon 3D",
+   "developers": [
+    "hans-j\u00fcrgen m\u00fcller"
+   ],
+   "publishers": [
+    "hans-j\u00fcrgen m\u00fcller"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5016220/"
+  },
+  {
+   "appid": 4971200,
+   "name": "Rinha de IA",
+   "developers": [
+    "ProdMan"
+   ],
+   "publishers": [
+    "ProdMan"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4971200/"
+  },
+  {
+   "appid": 4626940,
+   "name": "Scratch the Ticket",
+   "developers": [
+    "Shilenok"
+   ],
+   "publishers": [
+    "Spaghetti Cat"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4626940/"
+  },
+  {
+   "appid": 3865430,
+   "name": "Terrol",
+   "developers": [
+    "Max Krupp"
+   ],
+   "publishers": [
+    "Max Krupp"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame",
+    "Grand Strategy",
+    "4X",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3865430/"
+  },
+  {
+   "appid": 4787190,
+   "name": "The Legend of Mala Tokmachka",
+   "developers": [
+    "The Current Thing"
+   ],
+   "publishers": [
+    "The Current Thing"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4787190/"
+  },
+  {
+   "appid": 2996150,
+   "name": "Zodiac Mountain",
+   "developers": [
+    "Mystic Road"
+   ],
+   "publishers": [
+    "Mystic Road",
+    "Phoenix Game"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/2996150/"
+  },
+  {
+   "appid": 4855450,
+   "name": "\u4e0d\u5fc3\u52a8\u624d\u6709\u9b3c",
+   "developers": [
+    "SP Studio"
+   ],
+   "publishers": [
+    "PLSS"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4855450/"
+  },
+  {
+   "appid": 3967760,
+   "name": "\u7eb5\u6a2a\u9ebb\u5c06 Matrix Mahjong",
+   "developers": [
+    "Chao8games"
+   ],
+   "publishers": [
+    "Chao8games"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 13, 2026",
+   "sort_key": 20260813,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3967760/"
+  },
+  {
+   "appid": 3693620,
+   "name": "137",
+   "developers": [
+    "Ruby the Shark"
+   ],
+   "publishers": [
+    "Azurnia"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3693620/"
+  },
+  {
+   "appid": 4908010,
+   "name": "biomraid",
+   "developers": [
+    "Karacho Games"
+   ],
+   "publishers": [
+    "Karacho Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4908010/"
+  },
+  {
+   "appid": 4186640,
+   "name": "CharmEdge Deck",
+   "developers": [
+    "ChuQingHun "
+   ],
+   "publishers": [
+    "ChuQingHun "
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4186640/"
+  },
+  {
+   "appid": 2733000,
+   "name": "Club Chairman",
+   "developers": [
+    "Ashina Games"
+   ],
+   "publishers": [
+    "Ashina Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/2733000/"
+  },
+  {
+   "appid": 4734240,
+   "name": "Crisis Cabinet",
+   "developers": [
+    "Function Labs Limited"
+   ],
+   "publishers": [
+    "Function Labs"
+   ],
+   "tags": [
+    "Strategy",
+    "Grand Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4734240/"
+  },
+  {
+   "appid": 3806630,
+   "name": "DEFEAT THE GOBLIN KING",
+   "developers": [
+    "Gagurum"
+   ],
+   "publishers": [
+    "Gagurum"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3806630/"
+  },
+  {
+   "appid": 4970490,
+   "name": "Emberfall Idle",
+   "developers": [
+    "Ariwell Studios"
+   ],
+   "publishers": [
+    "Ariwell Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4970490/"
+  },
+  {
+   "appid": 4529440,
+   "name": "FD 27: Direct Your Football Club",
+   "developers": [
+    "Syra Games"
+   ],
+   "publishers": [
+    "Syra Games"
+   ],
+   "tags": [
+    "Strategy",
+    "4X"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4529440/"
+  },
+  {
+   "appid": 4632540,
+   "name": "Fellwood",
+   "developers": [
+    "Allerton Apps"
+   ],
+   "publishers": [
+    "Allerton Apps"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4632540/"
+  },
+  {
+   "appid": 4933760,
+   "name": "Fleetfall - Galaxy Domination",
+   "developers": [
+    "Purple Owl"
+   ],
+   "publishers": [
+    "Purple Owl"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4933760/"
+  },
+  {
+   "appid": 3816000,
+   "name": "Flowers and Deities",
+   "developers": [
+    "Chill Winter Studio"
+   ],
+   "publishers": [
+    "IGA Studio"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3816000/"
+  },
+  {
+   "appid": 4681490,
+   "name": "Garbage King",
+   "developers": [
+    "JJR Game Studio"
+   ],
+   "publishers": [
+    "JJR Game Studio"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Tabletop"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4681490/"
+  },
+  {
+   "appid": 5016500,
+   "name": "Grey Market",
+   "developers": [
+    "Carson Games"
+   ],
+   "publishers": [
+    "Carson Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5016500/"
+  },
+  {
+   "appid": 4998370,
+   "name": "Hatching of Gods and Demons",
+   "developers": [
+    "FunPlaceGame"
+   ],
+   "publishers": [
+    "FunPlaceGame"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4998370/"
+  },
+  {
+   "appid": 4467960,
+   "name": "Kingdom Contracts Tower Defense Incremental",
+   "developers": [
+    " Day 1 to 100"
+   ],
+   "publishers": [
+    " Day 1 to 100"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4467960/"
+  },
+  {
+   "appid": 4480370,
+   "name": "Let's Cook It!",
+   "developers": [
+    "Badgeristic"
+   ],
+   "publishers": [
+    "Badgeristic"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4480370/"
+  },
+  {
+   "appid": 3091140,
+   "name": "Lootbound",
+   "developers": [
+    "ArtDock"
+   ],
+   "publishers": [
+    "Dreland Enterprises"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3091140/"
+  },
+  {
+   "appid": 4948680,
+   "name": "Mind Against Fate",
+   "developers": [
+    "Mind Against Fate"
+   ],
+   "publishers": [
+    "Hakan Ozurun"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4948680/"
+  },
+  {
+   "appid": 4209830,
+   "name": "One Last Hand",
+   "developers": [
+    "Fire Brick Games"
+   ],
+   "publishers": [
+    "Fire Brick Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4209830/"
+  },
+  {
+   "appid": 4769490,
+   "name": "Overhatched",
+   "developers": [
+    "Ironforged Studios"
+   ],
+   "publishers": [
+    "Ironforged Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4769490/"
+  },
+  {
+   "appid": 4403010,
+   "name": "Pegs X Stickers",
+   "developers": [
+    "Mister Morris Games",
+    "Tyler Ray Games"
+   ],
+   "publishers": [
+    "Mister Morris Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4403010/"
+  },
+  {
+   "appid": 4615950,
+   "name": "RanaRangam: Where Chess Pieces Bleed",
+   "developers": [
+    "Bogaram Rakesh"
+   ],
+   "publishers": [
+    "Bogaram Rakesh"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame",
+    "Turn-Based Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4615950/"
+  },
+  {
+   "appid": 3084370,
+   "name": "Ricochet Abyss",
+   "developers": [
+    "DreamForge"
+   ],
+   "publishers": [
+    "DreamForge"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3084370/"
+  },
+  {
+   "appid": 4958640,
+   "name": "Ruthless Returns",
+   "developers": [
+    "South Harbour Studios"
+   ],
+   "publishers": [
+    "South Harbour Studios"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4958640/"
+  },
+  {
+   "appid": 4960260,
+   "name": "Sealed",
+   "developers": [
+    "FrontEngine Software"
+   ],
+   "publishers": [
+    "FrontEngine Software"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4960260/"
+  },
+  {
+   "appid": 3930370,
+   "name": "The Newspapers of the day",
+   "developers": [
+    "divingstudio"
+   ],
+   "publishers": [
+    "divingstudio"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3930370/"
+  },
+  {
+   "appid": 4706650,
+   "name": "Thirty Years War",
+   "developers": [
+    "Wargame Design Studio"
+   ],
+   "publishers": [
+    "Wargame Design Studio"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4706650/"
+  },
+  {
+   "appid": 4593660,
+   "name": "Totally Normal Meat Co.",
+   "developers": [
+    "Zart Zurt"
+   ],
+   "publishers": [
+    "Zart Zurt"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4593660/"
+  },
+  {
+   "appid": 2458370,
+   "name": "Zankoi's Chronicles",
+   "developers": [
+    "Ledian Digital"
+   ],
+   "publishers": [
+    "Ledian Digital"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/2458370/"
+  },
+  {
+   "appid": 3315770,
+   "name": "\u94dc\u5200\u94f6\u5251",
+   "developers": [
+    "\u5ff5\u7ee3\u79d1\u6280"
+   ],
+   "publishers": [
+    "\u5ff5\u7ee3\u79d1\u6280"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 14, 2026",
+   "sort_key": 20260814,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3315770/"
+  },
+  {
+   "appid": 4831310,
+   "name": "Karma Kingdom",
+   "developers": [
+    "Kucing Hitam"
+   ],
+   "publishers": [
+    "Kucing Hitam"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 15, 2026",
+   "sort_key": 20260815,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4831310/"
+  },
+  {
+   "appid": 4715270,
+   "name": "Sun Ultimate War",
+   "developers": [
+    "Chongqing Xishou Technology Co., Ltd"
+   ],
+   "publishers": [
+    "Chongqing Xishou Technology Co., Ltd"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 15, 2026",
+   "sort_key": 20260815,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4715270/"
+  },
+  {
+   "appid": 4579940,
+   "name": "Crownhold",
+   "developers": [
+    "Tobias Mikula"
+   ],
+   "publishers": [
+    "Tobias Mikula"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 16, 2026",
+   "sort_key": 20260816,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4579940/"
+  },
+  {
+   "appid": 4936830,
+   "name": "Guidance in Islam",
+   "developers": [
+    "DC LABS"
+   ],
+   "publishers": [
+    "DC LABS"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 16, 2026",
+   "sort_key": 20260816,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4936830/"
+  },
+  {
+   "appid": 4733280,
+   "name": "Robot In Kitchen",
+   "developers": [
+    "MA HAN"
+   ],
+   "publishers": [
+    "MA HAN"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 16, 2026",
+   "sort_key": 20260816,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4733280/"
+  },
+  {
+   "appid": 4319170,
+   "name": "SunWars",
+   "developers": [
+    "Bode"
+   ],
+   "publishers": [
+    "Bode"
+   ],
+   "tags": [
+    "Strategy",
+    "Grand Strategy"
+   ],
+   "date_string": "Aug 16, 2026",
+   "sort_key": 20260816,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4319170/"
+  },
+  {
+   "appid": 4977680,
+   "name": "\u672b\u65e5\u6218\u59ec\uff1a\u5e9f\u571f\u89c9\u9192",
+   "developers": [
+    "\u89c9\u9192\u5de5\u4f5c\u5ba4"
+   ],
+   "publishers": [
+    "\u89c9\u9192\u5de5\u4f5c\u5ba4"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 16, 2026",
+   "sort_key": 20260816,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4977680/"
+  },
+  {
+   "appid": 4382980,
+   "name": "\u6f14\u4e49\u4e09\u56fd",
+   "developers": [
+    "\u6210\u90fd\u4fca\u9e1f\u79d1\u6280\u6709\u9650\u516c\u53f8"
+   ],
+   "publishers": [
+    "\u6210\u90fd\u4fca\u9e1f\u79d1\u6280\u6709\u9650\u516c\u53f8"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 16, 2026",
+   "sort_key": 20260816,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4382980/"
+  },
+  {
+   "appid": 5010780,
+   "name": "10k Generators: The Ultimate Idle Game",
+   "developers": [
+    "CrazyPablo"
+   ],
+   "publishers": [
+    "CrazyPablo"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5010780/"
+  },
+  {
+   "appid": 4979160,
+   "name": "All Your Wrestling Pro Manager",
+   "developers": [
+    "AYW Games"
+   ],
+   "publishers": [
+    "AYW Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4979160/"
+  },
+  {
+   "appid": 4661270,
+   "name": "ARCWATT: Power Empire",
+   "developers": [
+    "CODEUM GAMES"
+   ],
+   "publishers": [
+    "CODEUM GAMES"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4661270/"
+  },
+  {
+   "appid": 4380770,
+   "name": "Balls & Gamble",
+   "developers": [
+    "GETTAKE"
+   ],
+   "publishers": [
+    "GETTAKE"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4380770/"
+  },
+  {
+   "appid": 4819310,
+   "name": "Beat The Machine",
+   "developers": [
+    "Greencandle Games"
+   ],
+   "publishers": [
+    "Greencandle Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4819310/"
+  },
+  {
+   "appid": 4576740,
+   "name": "Black Flower",
+   "developers": [
+    "Triomatica Games"
+   ],
+   "publishers": [
+    "Triomatica Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4576740/"
+  },
+  {
+   "appid": 5001120,
+   "name": "Bull Run Clicker",
+   "developers": [
+    "Marty"
+   ],
+   "publishers": [
+    "Marty Media"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5001120/"
+  },
+  {
+   "appid": 4432790,
+   "name": "Cosmic Crusher",
+   "developers": [
+    "Mateusz P."
+   ],
+   "publishers": [
+    "Mateusz P."
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4432790/"
+  },
+  {
+   "appid": 4812710,
+   "name": "Cyber Pinball",
+   "developers": [
+    "LUCA&ROCKET"
+   ],
+   "publishers": [
+    "LUCA&ROCKET"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4812710/"
+  },
+  {
+   "appid": 4730840,
+   "name": "Draft Day Sports: College Football 27",
+   "developers": [
+    "Wolverine Studios"
+   ],
+   "publishers": [
+    "Wolverine Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4730840/"
+  },
+  {
+   "appid": 3147720,
+   "name": "Dual Cat: Max",
+   "developers": [
+    "Seal Unicorn Games"
+   ],
+   "publishers": [
+    "Seal Unicorn Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3147720/"
+  },
+  {
+   "appid": 2598990,
+   "name": "Elemental Master: Heroes Assemble",
+   "developers": [
+    "DeepDream Studio "
+   ],
+   "publishers": [
+    "DeepDream Studio "
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/2598990/"
+  },
+  {
+   "appid": 4264950,
+   "name": "Farewells clicker",
+   "developers": [
+    "Team Square"
+   ],
+   "publishers": [
+    "Team Square"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4264950/"
+  },
+  {
+   "appid": 4390450,
+   "name": "Funeral Flowers Lament: Helena",
+   "developers": [
+    "Kiseki Kobo Games"
+   ],
+   "publishers": [
+    "Kiseki Kobo Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4390450/"
+  },
+  {
+   "appid": 4955650,
+   "name": "Infinite Number Factory",
+   "developers": [
+    "Starchase Games"
+   ],
+   "publishers": [
+    "Starchase Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4955650/"
+  },
+  {
+   "appid": 4211540,
+   "name": "Mothership Down",
+   "developers": [
+    "Hogwalker Games"
+   ],
+   "publishers": [
+    "Hogwalker Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4211540/"
+  },
+  {
+   "appid": 4681670,
+   "name": "Orbit One",
+   "developers": [
+    "Specific Impulse Interactive"
+   ],
+   "publishers": [
+    "Specific Impulse Interactive"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4681670/"
+  },
+  {
+   "appid": 3598690,
+   "name": "Pachinko Farm",
+   "developers": [
+    "Witchcraft Entertainment"
+   ],
+   "publishers": [
+    "Witchcraft Entertainment"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3598690/"
+  },
+  {
+   "appid": 4595310,
+   "name": "Platon\u00b3",
+   "developers": [
+    "AER Games"
+   ],
+   "publishers": [
+    "AER Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4595310/"
+  },
+  {
+   "appid": 3929350,
+   "name": "ploink",
+   "developers": [
+    "Pyrocreep"
+   ],
+   "publishers": [
+    "Pyrocreep"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3929350/"
+  },
+  {
+   "appid": 3667050,
+   "name": "RHYTHMKILL",
+   "developers": [
+    "GETTAKE"
+   ],
+   "publishers": [
+    "GETTAKE"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3667050/"
+  },
+  {
+   "appid": 3784200,
+   "name": "Robugs",
+   "developers": [
+    "Marcin Rodzon"
+   ],
+   "publishers": [
+    "Marcin Rodzon"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3784200/"
+  },
+  {
+   "appid": 3212820,
+   "name": "Solar Wave",
+   "developers": [
+    "SavGus Studio"
+   ],
+   "publishers": [
+    "SavGus Studio",
+    "Andgo Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame",
+    "Grand Strategy",
+    "4X"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3212820/"
+  },
+  {
+   "appid": 4077060,
+   "name": "Void Pachinko",
+   "developers": [
+    "Void Shaft Games"
+   ],
+   "publishers": [
+    "2 Left Thumbs"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4077060/"
+  },
+  {
+   "appid": 4086870,
+   "name": "Working Class Monsters",
+   "developers": [
+    "HaggisBytes"
+   ],
+   "publishers": [
+    "HaggisBytes"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 17, 2026",
+   "sort_key": 20260817,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4086870/"
+  },
+  {
+   "appid": 3985330,
+   "name": "BURNED HORIZONS",
+   "developers": [
+    "BURNED HORIZONS STUDIO"
+   ],
+   "publishers": [
+    "BURNED HORIZONS STUDIO"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3985330/"
+  },
+  {
+   "appid": 4922330,
+   "name": "Casino Legends",
+   "developers": [
+    "Pinch Games"
+   ],
+   "publishers": [
+    "Pinch Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4922330/"
+  },
+  {
+   "appid": 4663080,
+   "name": "Escape the Grind",
+   "developers": [
+    "SetForMoney Studios"
+   ],
+   "publishers": [
+    "SetForMoney Studios"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4663080/"
+  },
+  {
+   "appid": 3435610,
+   "name": "Exark",
+   "developers": [
+    "Robot Cat Limited"
+   ],
+   "publishers": [
+    "Goblinz Publishing"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3435610/"
+  },
+  {
+   "appid": 4942090,
+   "name": "Forts & Castles",
+   "developers": [
+    "Thomas Silveri"
+   ],
+   "publishers": [
+    "Thomas Silveri"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4942090/"
+  },
+  {
+   "appid": 4417770,
+   "name": "Gambit's Escape",
+   "developers": [
+    "Mechar Software"
+   ],
+   "publishers": [
+    "Mechar Software"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4417770/"
+  },
+  {
+   "appid": 5002930,
+   "name": "GOD CANDLE",
+   "developers": [
+    "cin"
+   ],
+   "publishers": [
+    "cin"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5002930/"
+  },
+  {
+   "appid": 4985160,
+   "name": "Goodly Trials",
+   "developers": [
+    "Osborn Design Works"
+   ],
+   "publishers": [
+    "Osborn Design Works"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Tabletop"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4985160/"
+  },
+  {
+   "appid": 4280390,
+   "name": "HeroInc",
+   "developers": [
+    "Nue Games"
+   ],
+   "publishers": [
+    "Nue Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4280390/"
+  },
+  {
+   "appid": 4419460,
+   "name": "Inken",
+   "developers": [
+    "Jacob Gislason"
+   ],
+   "publishers": [
+    "Jacob Gislason"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4419460/"
+  },
+  {
+   "appid": 4329670,
+   "name": "Loot Dungeon",
+   "developers": [
+    "Electric Kite"
+   ],
+   "publishers": [
+    "Electric Kite"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4329670/"
+  },
+  {
+   "appid": 3148400,
+   "name": "Sky Scaffold",
+   "developers": [
+    "Asleepius Games"
+   ],
+   "publishers": [
+    "Asleepius Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3148400/"
+  },
+  {
+   "appid": 3729550,
+   "name": "Stackmon",
+   "developers": [
+    "Riftpoint Entertainment"
+   ],
+   "publishers": [
+    "Alibi Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3729550/"
+  },
+  {
+   "appid": 4985360,
+   "name": "Stick Legion",
+   "developers": [
+    "Vanishline Games"
+   ],
+   "publishers": [
+    "Vanishline Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4985360/"
+  },
+  {
+   "appid": 5024680,
+   "name": "The Antler and Ale Inn",
+   "developers": [
+    "Meridian Studios"
+   ],
+   "publishers": [
+    "Meridian Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5024680/"
+  },
+  {
+   "appid": 5024190,
+   "name": "Verlicia Saga",
+   "developers": [
+    "Meridian Studios"
+   ],
+   "publishers": [
+    "Meridian Studios"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5024190/"
+  },
+  {
+   "appid": 4378740,
+   "name": "Wordforge: Silent Letters",
+   "developers": [
+    "Les Ganton"
+   ],
+   "publishers": [
+    "Les Ganton"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 18, 2026",
+   "sort_key": 20260818,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4378740/"
+  },
+  {
+   "appid": 4977140,
+   "name": "Bagatto",
+   "developers": [
+    "Meridian Studios"
+   ],
+   "publishers": [
+    "Meridian Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4977140/"
+  },
+  {
+   "appid": 5013220,
+   "name": "Bulwark Tower Defense",
+   "developers": [
+    "Meridian Studios"
+   ],
+   "publishers": [
+    "Meridian Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5013220/"
+  },
+  {
+   "appid": 4488300,
+   "name": "Cannon Clicker",
+   "developers": [
+    " Ritual Interactive"
+   ],
+   "publishers": [
+    " Ritual Interactive"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4488300/"
+  },
+  {
+   "appid": 4580660,
+   "name": "Click & Curate: Idle Photography",
+   "developers": [
+    "Arymagdus"
+   ],
+   "publishers": [
+    "Arymagdus"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4580660/"
+  },
+  {
+   "appid": 2327640,
+   "name": "Deadlock Station",
+   "developers": [
+    "Luxorix Games"
+   ],
+   "publishers": [
+    "Luxorix Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/2327640/"
+  },
+  {
+   "appid": 3726730,
+   "name": "Dreamcards",
+   "developers": [
+    "Soneka Games"
+   ],
+   "publishers": [
+    "Vsoo Games",
+    "Soneka Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3726730/"
+  },
+  {
+   "appid": 4315040,
+   "name": "Hearth and Hamlet",
+   "developers": [
+    "Phorust Studios"
+   ],
+   "publishers": [
+    "Runic Forge",
+    "Gamersky Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4315040/"
+  },
+  {
+   "appid": 4961460,
+   "name": "MarginCall",
+   "developers": [
+    "Functionally Human"
+   ],
+   "publishers": [
+    "Functionally Human"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4961460/"
+  },
+  {
+   "appid": 4132330,
+   "name": "Pizza House Simulator\ud83c\udf55",
+   "developers": [
+    "Broken Lyre Entertainment",
+    "Wendigo Games"
+   ],
+   "publishers": [
+    "Devotion Interactive"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4132330/"
+  },
+  {
+   "appid": 4772010,
+   "name": "Roll to Ruin",
+   "developers": [
+    "PatcherZZZ"
+   ],
+   "publishers": [
+    "PatcherZZZ"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4772010/"
+  },
+  {
+   "appid": 4292950,
+   "name": "Shao Song I",
+   "developers": [
+    "\u4e92\u52a8\u4e4b\u661f",
+    "\u732b\u773c\u5a31\u4e50"
+   ],
+   "publishers": [
+    "\u732b\u773c\u5a31\u4e50",
+    "\u4e92\u52a8\u4e4b\u661f"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4292950/"
+  },
+  {
+   "appid": 4771610,
+   "name": "The Hidden Camp",
+   "developers": [
+    "E and B Games"
+   ],
+   "publishers": [
+    "E and B Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4771610/"
+  },
+  {
+   "appid": 4955800,
+   "name": "Tile & Tiny",
+   "developers": [
+    "Zpirit Code"
+   ],
+   "publishers": [
+    "Zpirit Code"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4955800/"
+  },
+  {
+   "appid": 1572260,
+   "name": "Wild Ice",
+   "developers": [
+    "Journey Bound Games"
+   ],
+   "publishers": [
+    "Journey Bound Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 19, 2026",
+   "sort_key": 20260819,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/1572260/"
+  },
+  {
+   "appid": 5011800,
+   "name": "Catnip Wars",
+   "developers": [
+    "Ender Knight"
+   ],
+   "publishers": [
+    "M.O.T.I.S."
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5011800/"
+  },
+  {
+   "appid": 1334390,
+   "name": "Deckalypse",
+   "developers": [
+    "Jazzoid Studios"
+   ],
+   "publishers": [
+    "Jazzoid Studios"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/1334390/"
+  },
+  {
+   "appid": 2836990,
+   "name": "Drunken Rogue",
+   "developers": [
+    "2.6 billion years studio"
+   ],
+   "publishers": [
+    "Waku Waku Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/2836990/"
+  },
+  {
+   "appid": 3467750,
+   "name": "Fairysite",
+   "developers": [
+    "Wooltyranny"
+   ],
+   "publishers": [
+    "Wooltyranny"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3467750/"
+  },
+  {
+   "appid": 3966510,
+   "name": "Feed the Scorchpot",
+   "developers": [
+    "Moravian"
+   ],
+   "publishers": [
+    "Indieformer",
+    "WhisperGames"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Board Game",
+    "Tabletop"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3966510/"
+  },
+  {
+   "appid": 4449030,
+   "name": "File Tower Defence",
+   "developers": [
+    "StudioYun"
+   ],
+   "publishers": [
+    "StudioYun"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4449030/"
+  },
+  {
+   "appid": 3065940,
+   "name": "Gallipoli",
+   "developers": [
+    "BlackMill Games"
+   ],
+   "publishers": [
+    "BlackMill Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Wargame"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3065940/"
+  },
+  {
+   "appid": 4282840,
+   "name": "Gargantua",
+   "developers": [
+    "Abdullah Furkan Do\u011fan"
+   ],
+   "publishers": [
+    "AFD"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4282840/"
+  },
+  {
+   "appid": 5041740,
+   "name": "Grave New World",
+   "developers": [
+    " grishkogameplay"
+   ],
+   "publishers": [
+    " grishkogameplay"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5041740/"
+  },
+  {
+   "appid": 5015520,
+   "name": "Harvest Hand",
+   "developers": [
+    "Wovley Games"
+   ],
+   "publishers": [
+    "Wovley Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/5015520/"
+  },
+  {
+   "appid": 4487280,
+   "name": "HazardousExtractions",
+   "developers": [
+    "Stifz"
+   ],
+   "publishers": [
+    "Stifz"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4487280/"
+  },
+  {
+   "appid": 4866370,
+   "name": "Hoop Empire",
+   "developers": [
+    "Scotsmore Studios"
+   ],
+   "publishers": [
+    "Scotsmore Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4866370/"
+  },
+  {
+   "appid": 3749320,
+   "name": "Hua Manlou",
+   "developers": [
+    "\u521d\u57df\u6e38\u620f"
+   ],
+   "publishers": [
+    "\u521d\u57df\u6e38\u620f"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3749320/"
+  },
+  {
+   "appid": 304770,
+   "name": "IAH: INTERNET WAR",
+   "developers": [
+    "Vitali Kirpu Productions"
+   ],
+   "publishers": [
+    "SINNON.NET"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/304770/"
+  },
+  {
+   "appid": 3971650,
+   "name": "Lazy Witch's Factory",
+   "developers": [
+    "MELTCLOCK.Inc"
+   ],
+   "publishers": [
+    "Phoenixx Inc."
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3971650/"
+  },
+  {
+   "appid": 4949030,
+   "name": "OurClicker",
+   "developers": [
+    "WaveyGaming Productions"
+   ],
+   "publishers": [
+    "WaveyGaming Productions"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4949030/"
+  },
+  {
+   "appid": 4006600,
+   "name": "Plinkomancy",
+   "developers": [
+    "Fazerdoo"
+   ],
+   "publishers": [
+    "Fazerdoo's Studio"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4006600/"
+  },
+  {
+   "appid": 4882830,
+   "name": "ReDraft: The Fantasy Football Simulator",
+   "developers": [
+    "bodickerdev"
+   ],
+   "publishers": [
+    "bodickerdev"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4882830/"
+  },
+  {
+   "appid": 4000770,
+   "name": "Swarmdustry",
+   "developers": [
+    "Mitchy Studios"
+   ],
+   "publishers": [
+    "Mitchy Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4000770/"
+  },
+  {
+   "appid": 4971240,
+   "name": "Warden of the Sunken Keep",
+   "developers": [
+    "codegamedev"
+   ],
+   "publishers": [
+    "UNREAL WORLD SERVICES CORP"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4971240/"
+  },
+  {
+   "appid": 3350960,
+   "name": "Wyrm Words",
+   "developers": [
+    "Connor Carpenter"
+   ],
+   "publishers": [
+    "Connor Carpenter"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/3350960/"
+  },
+  {
+   "appid": 4243330,
+   "name": "\u5168\u7f51\u6709\u70b9\u602a",
+   "developers": [
+    "Aluba Van+"
+   ],
+   "publishers": [
+    "Aluba Van+"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 20, 2026",
+   "sort_key": 20260820,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4243330/"
+  },
+  {
+   "appid": 4526420,
+   "name": "Amarta: Kingdom of Shadows",
+   "developers": [
+    "Eggtato"
+   ],
+   "publishers": [
+    "Eggtato"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4526420/"
+  },
+  {
+   "appid": 4793170,
+   "name": "Architects of the Universe: The Orbital Wars",
+   "developers": [
+    "NStuff Entertainment"
+   ],
+   "publishers": [
+    "NStuff Entertainment"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4793170/"
+  },
+  {
+   "appid": 5009540,
+   "name": "Ashfire Keep",
+   "developers": [
+    "Khimea Games"
+   ],
+   "publishers": [
+    "Khimea Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5009540/"
+  },
+  {
+   "appid": 4994320,
+   "name": "Attack of the Zektoids!",
+   "developers": [
+    "Velvox"
+   ],
+   "publishers": [
+    "Velvet Voxel LLC"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4994320/"
+  },
+  {
+   "appid": 3998900,
+   "name": "Claws Of Power",
+   "developers": [
+    "\u849c\u82d7"
+   ],
+   "publishers": [
+    "\u849c\u5934",
+    "3DM Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3998900/"
+  },
+  {
+   "appid": 4998260,
+   "name": "Clickbait Tycoon",
+   "developers": [
+    "FrostyVoid Inc."
+   ],
+   "publishers": [
+    "FrostyVoid Inc."
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4998260/"
+  },
+  {
+   "appid": 4592430,
+   "name": "DEEP DIVER",
+   "developers": [
+    "PEGAX Studios"
+   ],
+   "publishers": [
+    "PEGAX Studios",
+    "PlaySimulation Studio"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4592430/"
+  },
+  {
+   "appid": 4810260,
+   "name": "Dungeon Crafter",
+   "developers": [
+    "Fintasys Studio"
+   ],
+   "publishers": [
+    "Fintasys Studio"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4810260/"
+  },
+  {
+   "appid": 2708230,
+   "name": "Dungeon Tells",
+   "developers": [
+    "Ace Benoff"
+   ],
+   "publishers": [
+    "Ace Benoff"
+   ],
+   "tags": [
+    "Strategy",
+    "Tabletop"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/2708230/"
+  },
+  {
+   "appid": 4859040,
+   "name": "I CAN'T STOP WINNING!",
+   "developers": [
+    "Berb"
+   ],
+   "publishers": [
+    "Berb"
+   ],
+   "tags": [
+    "Strategy",
+    "Tabletop"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4859040/"
+  },
+  {
+   "appid": 5045180,
+   "name": "Idle Castellan",
+   "developers": [
+    "mN GamiN"
+   ],
+   "publishers": [
+    "mN GamiN"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5045180/"
+  },
+  {
+   "appid": 4319660,
+   "name": "Moon Garden",
+   "developers": [
+    " Kairos Games LLC"
+   ],
+   "publishers": [
+    " Kairos Games LLC"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4319660/"
+  },
+  {
+   "appid": 4960710,
+   "name": "Puzzle Loot",
+   "developers": [
+    "Abejo Games"
+   ],
+   "publishers": [
+    "Abejo Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4960710/"
+  },
+  {
+   "appid": 3396920,
+   "name": "Settler's Domain",
+   "developers": [
+    "rick"
+   ],
+   "publishers": [
+    "rick"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3396920/"
+  },
+  {
+   "appid": 4833180,
+   "name": "Simple Airline Sim",
+   "developers": [
+    "zedzag"
+   ],
+   "publishers": [
+    "zedzag"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4833180/"
+  },
+  {
+   "appid": 3222890,
+   "name": "Taste of the Wind",
+   "developers": [
+    "\u4e00\u7559\u7559"
+   ],
+   "publishers": [
+    "\u4e00\u7559\u7559"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3222890/"
+  },
+  {
+   "appid": 5050310,
+   "name": "The Last Portal",
+   "developers": [
+    "PT Studios"
+   ],
+   "publishers": [
+    "PT Studios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/5050310/"
+  },
+  {
+   "appid": 4314490,
+   "name": "Undo My Seal, Senpai!",
+   "developers": [
+    "Steve Rambo and Gang"
+   ],
+   "publishers": [
+    "Discount Dungeon Publisher"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4314490/"
+  },
+  {
+   "appid": 4445000,
+   "name": "Wane\u2019s",
+   "developers": [
+    "NariStudios"
+   ],
+   "publishers": [
+    "NariStudios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 21, 2026",
+   "sort_key": 20260821,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4445000/"
+  },
+  {
+   "appid": 4895410,
+   "name": "Warrior Spirits",
+   "developers": [
+    "Reignite Games"
+   ],
+   "publishers": [
+    "Reignite Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 22, 2026",
+   "sort_key": 20260822,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4895410/"
+  },
+  {
+   "appid": 3295430,
+   "name": "Type Ride",
+   "developers": [
+    "NOT__OK''"
+   ],
+   "publishers": [
+    "NOT__OK''"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 23, 2026",
+   "sort_key": 20260823,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3295430/"
+  },
+  {
+   "appid": 4659250,
+   "name": "A Game About Flipping Cards",
+   "developers": [
+    "Zandbox Studio Games"
+   ],
+   "publishers": [
+    "Zandbox Studio Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4659250/"
+  },
+  {
+   "appid": 3629860,
+   "name": "America Against Ants",
+   "developers": [
+    "Aartform Games",
+    "Mark Brendan"
+   ],
+   "publishers": [
+    "Aartform Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3629860/"
+  },
+  {
+   "appid": 4075620,
+   "name": "Combolands: Roguelike Citybuilder",
+   "developers": [
+    "Crux Games"
+   ],
+   "publishers": [
+    "Crux Games"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4075620/"
+  },
+  {
+   "appid": 4597000,
+   "name": "Dwarven Rails",
+   "developers": [
+    "Kogekisaru"
+   ],
+   "publishers": [
+    "Kogekisaru"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4597000/"
+  },
+  {
+   "appid": 4560660,
+   "name": "Eslabong",
+   "developers": [
+    "shirowita"
+   ],
+   "publishers": [
+    "shirowita"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4560660/"
+  },
+  {
+   "appid": 4486870,
+   "name": "FEED THE AI",
+   "developers": [
+    "Weird Kid Games"
+   ],
+   "publishers": [
+    "Weird Kid Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4486870/"
+  },
+  {
+   "appid": 4926100,
+   "name": "Honoiro no Jikou \u7a57\u8272\u65f6\u5149",
+   "developers": [
+    "Shanghai Yaxian Huizhi Technology Co., Ltd."
+   ],
+   "publishers": [
+    "Shanghai Yaxian Huizhi Technology Co., Ltd."
+   ],
+   "tags": [
+    "Strategy",
+    "Grand Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4926100/"
+  },
+  {
+   "appid": 4932620,
+   "name": "Idle Demon Lord",
+   "developers": [
+    "Ashforge Games"
+   ],
+   "publishers": [
+    "Ashforge Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4932620/"
+  },
+  {
+   "appid": 3457720,
+   "name": "Incremental Orbits",
+   "developers": [
+    "Bytecatch Software"
+   ],
+   "publishers": [
+    "Bytecatch Software"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3457720/"
+  },
+  {
+   "appid": 4294860,
+   "name": "Loot Frog",
+   "developers": [
+    "Clumsy Dog"
+   ],
+   "publishers": [
+    "Clumsy Dog"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4294860/"
+  },
+  {
+   "appid": 4967830,
+   "name": "LUDOCOR",
+   "developers": [
+    "NYXON ALPHA PRIVATE LIMITED "
+   ],
+   "publishers": [
+    "NYXON ALPHA PRIVATE LIMITED"
+   ],
+   "tags": [
+    "Strategy",
+    "Board Game"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4967830/"
+  },
+  {
+   "appid": 3646000,
+   "name": "Mouspionage",
+   "developers": [
+    "HawtLava Games"
+   ],
+   "publishers": [
+    "HawtLava Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/3646000/"
+  },
+  {
+   "appid": 4858820,
+   "name": "Mythic Battle",
+   "developers": [
+    "Golden Forge Entertainment"
+   ],
+   "publishers": [
+    "Golden Forge Entertainment"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4858820/"
+  },
+  {
+   "appid": 4101290,
+   "name": "Overtrick",
+   "developers": [
+    "celloloops"
+   ],
+   "publishers": [
+    "2 Left Thumbs"
+   ],
+   "tags": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Tabletop"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4101290/"
+  },
+  {
+   "appid": 4091920,
+   "name": "Schedule Store Simulator",
+   "developers": [
+    "Alkame Games"
+   ],
+   "publishers": [
+    "Alkame Games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4091920/"
+  },
+  {
+   "appid": 4637870,
+   "name": "Smashing Bottles",
+   "developers": [
+    "Blue Makes Games",
+    "Quinn Dymalski"
+   ],
+   "publishers": [
+    "Blue Makes Games",
+    "Quinn Dymalski"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4637870/"
+  },
+  {
+   "appid": 4195110,
+   "name": "Ultrapool",
+   "developers": [
+    "Icedrop Games"
+   ],
+   "publishers": [
+    "offbrand games"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4195110/"
+  },
+  {
+   "appid": 4263170,
+   "name": "Union Of Rivals",
+   "developers": [
+    "2Play"
+   ],
+   "publishers": [
+    "2Play"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 24, 2026",
+   "sort_key": 20260824,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4263170/"
+  },
+  {
+   "appid": 4908610,
+   "name": "Core Crusher",
+   "developers": [
+    "gubestudios"
+   ],
+   "publishers": [
+    "gubestudios"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 25, 2026",
+   "sort_key": 20260825,
+   "has_demo": false,
+   "url": "https://store.steampowered.com/app/4908610/"
+  },
+  {
+   "appid": 4539530,
+   "name": "Snap the Cat",
+   "developers": [
+    "KORO.GAMES"
+   ],
+   "publishers": [
+    "Lazy Otter"
+   ],
+   "tags": [
+    "Strategy"
+   ],
+   "date_string": "Aug 25, 2026",
+   "sort_key": 20260825,
+   "has_demo": true,
+   "url": "https://store.steampowered.com/app/4539530/"
+  }
+ ]
+}

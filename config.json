@@ -181,7 +181,9 @@
   ],
   "radar_searches": {
     "publishers": [],
-    "developers": []
+    "developers": [
+      "Steady State Scientific Computing"
+    ]
   },
   "collections": {
     "Wargames": {
@@ -248,6 +250,7 @@
   },
   "exclude_appids": [],
   "include_appids": [],
+  "scout_dismissed": [],
   "blog_links": {},
   "max_age_months": 12
 }

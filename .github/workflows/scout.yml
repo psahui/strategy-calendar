@@ -1,0 +1,38 @@
+name: Scout for untracked strategy games
+
+on:
+  schedule:
+    - cron: "20 19 * * 0"   # weekly, ~05:20 Monday AEST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh   # never run alongside the daily refresh commit
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the scout
+        run: python scout.py
+
+      - name: Commit the report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/scout.json data/cache.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Scout report"
+            git push
+          fi

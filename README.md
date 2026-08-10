@@ -84,6 +84,17 @@ python -m http.server 8000
 
 then open http://localhost:8000.
 
+## The Scout
+
+`scout.py` is a research assistant, not part of the website: it sweeps
+Steam's coming-soon lists under a set of strategy tags, discards everything
+the calendar already tracks (and anything previously dismissed), and writes
+`data/scout.json` — a reading list of upcoming games from unknown studios,
+with a demo flag for Next Fest browsing. It runs weekly via
+`.github/workflows/scout.yml` (or on demand from the Actions page), and the
+report is reviewed on `admin.html`, where each game can be sent to the radar,
+the watchlist, or dismissed for good (`scout_dismissed` in config).
+
 ## Feeds
 
 Each refresh also writes iCal feeds (`calendar.ics`, `paradox.ics`,

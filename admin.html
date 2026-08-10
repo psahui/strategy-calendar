@@ -45,6 +45,11 @@
   #title-list table { font-size: 13.5px; }
   .bloginput { min-width: 220px; }
   .footer-note { color: var(--ink-2); font-size: 13px; }
+  button.small { padding: 3px 9px; font-size: 12px; font-weight: 600; }
+  button.small:disabled { background: #e9f4ea; color: #2c6b33; border-color: #cde3cf; cursor: default; }
+  #scout-list { max-height: 520px; overflow-y: auto; border: 1px solid var(--line); border-radius: 4px; }
+  #scout-list table { font-size: 13.5px; }
+  .scout-tags { color: var(--ink-3); font-size: 11.5px; }
 </style>
 </head>
 <body>
@@ -74,6 +79,21 @@
   </div>
 
   <div class="card">
+    <h2>Scout report — upcoming strategy games from studios you don't track</h2>
+    <p class="hint">Written by the weekly Scout sweep (or run it any time from the Actions page).
+      <b>→ Radar</b> stages the studio for the radar list; <b>→ Watchlist</b> stages it for the
+      main watchlist; <b>Dismiss</b> hides the game permanently. Save with the steps below, as usual —
+      after committing, run the Scout workflow again to refresh this report, or the data refresh to
+      make radar/watchlist additions live on the calendar.</p>
+    <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin-bottom:4px">
+      <input type="search" id="scout-search" placeholder="Search the report…" style="max-width:280px">
+      <label style="font-size:13.5px"><input type="checkbox" id="scout-demos"> Only games with demos (Next Fest lens)</label>
+      <span class="hint" id="scout-meta" style="margin:0"></span>
+    </div>
+    <div id="scout-list">Loading…</div>
+  </div>
+
+  <div class="card">
     <h2>Save your changes</h2>
     <ol class="steps">
       <li><button id="copy-btn">Copy updated config.json</button><span id="copied">Copied ✓</span></li>
@@ -86,7 +106,7 @@
 
 <script>
 "use strict";
-let CFG = null, ITEMS = [];
+let CFG = null, ITEMS = [], SCOUT = null;
 
 const esc = s => { const d = document.createElement("div"); d.textContent = s; return d.innerHTML; };
 const colNames = () => Object.keys(CFG.collections || {});
@@ -136,6 +156,79 @@ function renderTitles() {
   document.getElementById("title-list").innerHTML = html;
 }
 
+function scoutStudio(it) {
+  return (it.developers[0] || it.publishers[0] || "").trim();
+}
+
+function scoutStatus(it) {
+  const studio = scoutStudio(it);
+  CFG.radar_searches ||= { publishers: [], developers: [] };
+  if ((CFG.scout_dismissed || []).includes(it.appid)) return "dismissed";
+  if (CFG.radar_searches.developers.includes(studio)) return "radar";
+  if (CFG.developer_searches.includes(studio)) return "watchlist";
+  return "";
+}
+
+function renderScout() {
+  const box = document.getElementById("scout-list");
+  if (!SCOUT) {
+    box.innerHTML = `<p class="hint" style="padding:10px">No scout report yet — run the
+      <a href="https://github.com/psahui/strategy-calendar/actions/workflows/scout.yml" target="_blank" rel="noopener">Scout workflow</a> once, then reload this page.</p>`;
+    document.getElementById("scout-meta").textContent = "";
+    return;
+  }
+  const q = (document.getElementById("scout-search").value || "").toLowerCase();
+  const demosOnly = document.getElementById("scout-demos").checked;
+  const rows = SCOUT.items.filter(it =>
+    scoutStatus(it) !== "dismissed"
+    && (!demosOnly || it.has_demo)
+    && (it.name + " " + it.developers.join(" ") + " " + it.publishers.join(" ")).toLowerCase().includes(q)
+  ).slice(0, 80);
+  let html = `<table><tr><th>Game</th><th>Studio</th><th>Window</th><th>Demo</th><th></th></tr>`;
+  for (const it of rows) {
+    const st = scoutStatus(it);
+    const btn = (label, act) => st
+      ? "" : `<button class="small ghost" data-scout="${act}" data-appid="${it.appid}">${label}</button> `;
+    const staged = st ? `<button class="small" disabled>${st === "radar" ? "→ Radar ✓" : "→ Watchlist ✓"}</button>` : "";
+    html += `<tr>
+      <td><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.name)}</a>
+        <span class="scout-tags">${esc(it.tags.join(", "))}</span></td>
+      <td>${esc(scoutStudio(it))}</td>
+      <td>${esc(it.date_string)}</td>
+      <td>${it.has_demo ? "✓" : ""}</td>
+      <td style="white-space:nowrap">${staged || btn("→ Radar", "radar") + btn("→ Watchlist", "watch") + btn("Dismiss", "dismiss")}</td>
+    </tr>`;
+  }
+  if (!rows.length) html += `<tr><td colspan="5">Nothing matches.</td></tr>`;
+  html += `</table>`;
+  box.innerHTML = html;
+  const meta = [`${SCOUT.items.length} games found`,
+                `report from ${SCOUT.generated_at.slice(0, 10)}`];
+  if (SCOUT.pending_details) meta.push(`${SCOUT.pending_details} more queued for next run`);
+  if ((SCOUT.search_failures || []).length) meta.push(`⚠ ${SCOUT.search_failures.length} sweep(s) failed`);
+  document.getElementById("scout-meta").textContent = meta.join(" · ");
+}
+
+function wireScout() {
+  document.getElementById("scout-list").addEventListener("click", e => {
+    const act = e.target.dataset && e.target.dataset.scout;
+    if (!act) return;
+    const it = SCOUT.items.find(x => x.appid === Number(e.target.dataset.appid));
+    const studio = scoutStudio(it);
+    CFG.radar_searches ||= { publishers: [], developers: [] };
+    CFG.scout_dismissed ||= [];
+    if (act === "radar" && studio && !CFG.radar_searches.developers.includes(studio))
+      CFG.radar_searches.developers.push(studio);
+    if (act === "watch" && studio && !CFG.developer_searches.includes(studio))
+      CFG.developer_searches.push(studio);
+    if (act === "dismiss" && !CFG.scout_dismissed.includes(it.appid))
+      CFG.scout_dismissed.push(it.appid);
+    renderScout();
+  });
+  document.getElementById("scout-search").addEventListener("input", renderScout);
+  document.getElementById("scout-demos").addEventListener("change", renderScout);
+}
+
 function wireEvents() {
   document.getElementById("groups-grid").addEventListener("change", e => {
     const cb = e.target; if (cb.tagName !== "INPUT") return;
@@ -177,10 +270,12 @@ function wireEvents() {
 Promise.all([
   fetch("config.json?t=" + Date.now()).then(r => r.json()),
   fetch("data/games.json?t=" + Date.now()).then(r => r.json()),
-]).then(([cfg, data]) => {
+  fetch("data/scout.json?t=" + Date.now()).then(r => r.ok ? r.json() : null).catch(() => null),
+]).then(([cfg, data, scout]) => {
   CFG = cfg; CFG.collections ||= {}; CFG.blog_links ||= {};
   ITEMS = data.items.slice().sort((a, b) => a.name.localeCompare(b.name));
-  renderGroups(); renderTitles(); wireEvents();
+  SCOUT = scout;
+  renderGroups(); renderTitles(); renderScout(); wireEvents(); wireScout();
 }).catch(err => {
   document.getElementById("groups-grid").textContent =
     "Could not load config/data (" + err + "). If opened as a local file, serve over HTTP instead.";
