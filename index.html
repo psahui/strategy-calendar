@@ -168,7 +168,9 @@ const MONTH_NAMES = ["January","February","March","April","May","June","July","A
 const STATUS_LABEL = { upcoming: "Upcoming", early_access: "Early Access", released: "Released" };
 // Minor DLC (soundtracks, cosmetics, upgrade packs…) is unchecked by default
 // but visible as a checkbox, so nothing is silently hidden.
-const state = { collections: new Set(), pubs: new Set(), devs: new Set(), types: new Set(["game","dlc"]), statuses: new Set(["upcoming","early_access","released"]), demos: new Set() };
+const state = { collections: new Set(), overlays: new Set(), pubs: new Set(), devs: new Set(), types: new Set(["game","dlc"]), statuses: new Set(["upcoming","early_access","released"]), demos: new Set() };
+const overlayNames = () => DATA.collections_overlay || [];
+const categoryNames = () => (DATA.collection_names || []).filter(c => !overlayNames().includes(c));
 let DATA = null;
 
 function bucketOf(item) {
@@ -184,7 +186,11 @@ function bucketOf(item) {
 }
 
 function matches(item) {
-  return (item.collections || []).some(c => state.collections.has(c))
+  // Categories: union over the item's taxonomy shelves only (overlays don't
+  // rescue an item whose category is unticked). Overlays: active toggles narrow.
+  const overlays = overlayNames();
+  return (item.collections || []).some(c => state.collections.has(c) && !overlays.includes(c))
+      && [...state.overlays].every(o => (item.collections || []).includes(o))
       && item.pub_groups.some(g => state.pubs.has(g))
       && item.dev_groups.some(g => state.devs.has(g))
       && state.types.has(item.kind || item.type)
@@ -253,7 +259,7 @@ function renderSection(items, {ascending}) {
 
 // Filter state <-> URL query string, so filtered views are shareable links.
 const URL_GROUPS = [
-  ["col", "collections", () => DATA.collection_names || []],
+  ["col", "collections", () => categoryNames()],
   ["pub", "pubs", () => DATA.publisher_groups],
   ["dev", "devs", () => DATA.developer_groups],
   ["type", "types", () => ["game", "dlc", "minor_dlc"]],
@@ -279,6 +285,7 @@ function syncURL() {
     if (cur.join("|") !== [...def].sort().join("|")) p.set(param, cur.join("|"));
   }
   if (state.demos.has("demo_only")) p.set("demo", "1");
+  if (state.overlays.size) p.set("only", [...state.overlays].join("|"));
   const qs = p.toString();
   history.replaceState(null, "", qs ? "?" + qs : location.pathname);
 }
@@ -291,6 +298,8 @@ function applyURL() {
     state[key] = new Set(p.get(param).split("|").filter(v => all.includes(v)));
   }
   if (p.get("demo") === "1") state.demos.add("demo_only");
+  if (p.has("only"))
+    state.overlays = new Set(p.get("only").split("|").filter(o => overlayNames().includes(o)));
 }
 
 function render() {
@@ -333,9 +342,10 @@ function filterGroup(title, names, selected, counts, open) {
 }
 
 function buildFilters() {
-  const pubCounts = new Map(), devCounts = new Map(), typeCounts = new Map(), statusCounts = new Map(), colCounts = new Map();
+  const pubCounts = new Map(), devCounts = new Map(), typeCounts = new Map(), statusCounts = new Map(), colCounts = new Map(), ovCounts = new Map();
   for (const it of DATA.items) {
-    (it.collections || []).forEach(c => colCounts.set(c, (colCounts.get(c) || 0) + 1));
+    (it.collections || []).forEach(c =>
+      (overlayNames().includes(c) ? ovCounts : colCounts).set(c, ((overlayNames().includes(c) ? ovCounts : colCounts).get(c) || 0) + 1));
     it.pub_groups.forEach(g => pubCounts.set(g, (pubCounts.get(g) || 0) + 1));
     it.dev_groups.forEach(g => devCounts.set(g, (devCounts.get(g) || 0) + 1));
     typeCounts.set(it.kind || it.type, (typeCounts.get(it.kind || it.type) || 0) + 1);
@@ -343,13 +353,17 @@ function buildFilters() {
   }
   state.pubs = new Set(DATA.publisher_groups);
   state.devs = new Set(DATA.developer_groups);
-  state.collections = new Set(defaultFor("col", DATA.collection_names || []));
+  state.collections = new Set(defaultFor("col", categoryNames()));
+  state.overlays = new Set();
   applyURL();
 
   const wide = window.matchMedia("(min-width: 821px)").matches;
+  const overlayGroups = overlayNames().map(o =>
+    filterGroup(o, [[o, `${o} only`]], state.overlays, ovCounts, wide)).join("");
   document.getElementById("filters").innerHTML =
     `<div class="shown-note" id="shown-note"></div>`
-    + filterGroup("Collections", (DATA.collection_names || []).map(c => [c]), state.collections, colCounts, wide)
+    + filterGroup("Categories", categoryNames().map(c => [c]), state.collections, colCounts, wide)
+    + overlayGroups
     + filterGroup("Publishers", DATA.publisher_groups.map(g => [g]), state.pubs, pubCounts, wide)
     + filterGroup("Developers", DATA.developer_groups.map(g => [g]), state.devs, devCounts, wide)
     + filterGroup("Type", [["game","Games"],["dlc","DLC"],["minor_dlc","Minor DLC (music, cosmetics…)"]], state.types, typeCounts, wide)
@@ -357,7 +371,8 @@ function buildFilters() {
     + filterGroup("Demos", [["demo_only","Has a playable demo"]], state.demos,
         new Map([["demo_only", DATA.items.filter(it => it.has_demo).length]]), wide);
 
-  const setFor = title => ({ "Collections": state.collections, "Publishers": state.pubs, "Developers": state.devs, "Type": state.types, "Status": state.statuses, "Demos": state.demos })[title];
+  const setFor = title => overlayNames().includes(title) ? state.overlays
+    : ({ "Categories": state.collections, "Publishers": state.pubs, "Developers": state.devs, "Type": state.types, "Status": state.statuses, "Demos": state.demos })[title];
   document.getElementById("filters").addEventListener("change", e => {
     const cb = e.target;
     if (cb.tagName !== "INPUT") return;

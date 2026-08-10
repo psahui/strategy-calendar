@@ -613,6 +613,10 @@ def main():
             + ([RADAR_COLLECTION] if RADAR_COLLECTION in present_collections else [])
             + ([GENERAL_COLLECTION] if GENERAL_COLLECTION in present_collections else [])),
         "collections_default_off": [RADAR_COLLECTION] if RADAR_COLLECTION in present_collections else [],
+        # Overlays (endorsements like Matchsticks Picks) render as refinement
+        # toggles in the UI, not as category checkboxes.
+        "collections_overlay": [c for c, spec in config.get("collections", {}).items()
+                                if spec.get("overlay") and c in present_collections],
         "items": items,
     }
     OUT_PATH.write_text(json.dumps(out, indent=1), encoding="utf-8")

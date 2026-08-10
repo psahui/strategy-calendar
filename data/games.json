@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T07:33:18+00:00",
+ "generated_at": "2026-08-10T07:57:44+00:00",
  "cutoff": "2025-08-10",
  "publisher_groups": [
   "Paradox Interactive",
@@ -48,6 +48,9 @@
   "Strategy (general)"
  ],
  "collections_default_off": [],
+ "collections_overlay": [
+  "Matchsticks Picks"
+ ],
  "items": [
   {
    "appid": 3181540,
