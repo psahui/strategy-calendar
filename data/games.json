@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-11T19:28:08+00:00",
- "cutoff": "2025-08-11",
+ "generated_at": "2026-08-12T19:29:37+00:00",
+ "cutoff": "2025-08-12",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7777,6 +7777,45 @@
    "leaving_ea": null
   },
   {
+   "appid": 5018580,
+   "name": "Nucleares - AO Extra Power Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Aug 11, 2026",
+   "precision": "day",
+   "sort_key": 20260811,
+   "developers": [
+    "Iv\u00e1n Marcelo Pretti"
+   ],
+   "publishers": [
+    "MicroProse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/5018580/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5018580/ca3b223c55faea173daff2d1db39e69e835c2bf6/capsule_231x87.jpg?t=1786488290",
+   "parent": {
+    "appid": 1428420,
+    "name": "Nucleares"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "3 user reviews",
+    "pct": 100,
+    "total": 3
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 2764460,
    "name": "Sandustry",
    "type": "game",
@@ -7833,9 +7872,45 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4158610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1786428335",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1786500535",
    "parent": null,
    "has_demo": true,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4961870,
+   "name": "Planet Coaster 2: Silver Screen Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Aug 19, 2026",
+   "precision": "day",
+   "sort_key": 20260819,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4961870/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961870/1dfe994e79700b6ea030c37a2d6ac6b7793b9dab/capsule_231x87.jpg?t=1786539611",
+   "parent": {
+    "appid": 2688950,
+    "name": "Planet Coaster 2"
+   },
+   "has_demo": false,
    "blog_url": null,
    "review": null,
    "leaving_ea": null
@@ -8458,7 +8533,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1727760/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1785512057",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1786550847",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8618,7 +8693,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2439030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1785512010",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1786550842",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
