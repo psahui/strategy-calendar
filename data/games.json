@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-12T19:29:37+00:00",
- "cutoff": "2025-08-12",
+ "generated_at": "2026-08-13T19:28:27+00:00",
+ "cutoff": "2025-08-13",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,46 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3181540,
-   "name": "Age of Wonders 4: Archon Prophecy",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Aug 12, 2025",
-   "precision": "day",
-   "sort_key": 20250812,
-   "developers": [
-    "Triumph Studios"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Triumph Studios"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3181540/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3181540/bfea7b133d4b74448d50603ef8088decd7df429c/capsule_231x87.jpg?t=1775717988",
-   "parent": {
-    "appid": 1669000,
-    "name": "Age of Wonders 4"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mostly Positive",
-    "pct": 75,
-    "total": 162
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3508950,
    "name": "Panzer Corps 2: Frontlines - Westwall",
@@ -574,7 +534,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 2741
+    "total": 2792
    },
    "leaving_ea": {
     "date_string": "Sep 17, 2026",
@@ -659,7 +619,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 43,
-    "total": 385
+    "total": 386
    },
    "leaving_ea": null
   },
@@ -736,7 +696,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 70,
-    "total": 327
+    "total": 328
    },
    "leaving_ea": null
   },
@@ -1274,8 +1234,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 56,
-    "total": 12836
+    "pct": 55,
+    "total": 12874
    },
    "leaving_ea": null
   },
@@ -1353,7 +1313,7 @@
    "review": {
     "desc": "Very Negative",
     "pct": 11,
-    "total": 118
+    "total": 119
    },
    "leaving_ea": null
   },
@@ -1425,7 +1385,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 5895
+    "total": 5908
    },
    "leaving_ea": null
   },
@@ -1465,7 +1425,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 68,
-    "total": 2172
+    "total": 2174
    },
    "leaving_ea": null
   },
@@ -1576,7 +1536,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 67,
-    "total": 30153
+    "total": 30275
    },
    "leaving_ea": null
   },
@@ -1653,8 +1613,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 55,
-    "total": 91
+    "pct": 54,
+    "total": 92
    },
    "leaving_ea": null
   },
@@ -1886,7 +1846,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 3226
+    "total": 3245
    },
    "leaving_ea": null
   },
@@ -1923,7 +1883,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 2089
+    "total": 2101
    },
    "leaving_ea": null
   },
@@ -2043,7 +2003,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 189
+    "total": 191
    },
    "leaving_ea": null
   },
@@ -2079,8 +2039,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 69,
-    "total": 12531
+    "pct": 70,
+    "total": 12578
    },
    "leaving_ea": null
   },
@@ -2120,7 +2080,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 34,
-    "total": 239
+    "total": 241
    },
    "leaving_ea": null
   },
@@ -2313,7 +2273,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 32,
-    "total": 1839
+    "total": 1840
    },
    "leaving_ea": null
   },
@@ -2349,7 +2309,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 99,
-    "total": 151
+    "total": 156
    },
    "leaving_ea": null
   },
@@ -2386,9 +2346,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 82,
-    "total": 33
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 34
    },
    "leaving_ea": null
   },
@@ -2428,8 +2388,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 42,
-    "total": 260
+    "pct": 43,
+    "total": 261
    },
    "leaving_ea": null
   },
@@ -2664,7 +2624,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 92
+    "total": 94
    },
    "leaving_ea": null
   },
@@ -2745,7 +2705,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 44,
-    "total": 245
+    "total": 248
    },
    "leaving_ea": null
   },
@@ -2827,7 +2787,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 56,
-    "total": 708
+    "total": 710
    },
    "leaving_ea": null
   },
@@ -2911,7 +2871,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 417
+    "total": 418
    },
    "leaving_ea": null
   },
@@ -3226,7 +3186,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 63,
-    "total": 303
+    "total": 304
    },
    "leaving_ea": null
   },
@@ -3342,7 +3302,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 80,
-    "total": 9683
+    "total": 9748
    },
    "leaving_ea": null
   },
@@ -3643,7 +3603,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 12786
+    "total": 13006
    },
    "leaving_ea": null
   },
@@ -4015,7 +3975,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 92,
-    "total": 2089
+    "total": 2092
    },
    "leaving_ea": null
   },
@@ -4055,7 +4015,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 64,
-    "total": 115
+    "total": 116
    },
    "leaving_ea": null
   },
@@ -4442,8 +4402,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 81,
-    "total": 16
+    "pct": 82,
+    "total": 17
    },
    "leaving_ea": null
   },
@@ -4558,7 +4518,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 193
+    "total": 195
    },
    "leaving_ea": null
   },
@@ -4865,7 +4825,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 94,
-    "total": 2188
+    "total": 2209
    },
    "leaving_ea": null
   },
@@ -4903,8 +4863,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 58,
-    "total": 643
+    "pct": 59,
+    "total": 647
    },
    "leaving_ea": null
   },
@@ -5093,7 +5053,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 81,
-    "total": 5665
+    "total": 5697
    },
    "leaving_ea": null
   },
@@ -5327,8 +5287,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 84,
-    "total": 45
+    "pct": 83,
+    "total": 46
    },
    "leaving_ea": null
   },
@@ -5367,8 +5327,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 52,
-    "total": 21
+    "pct": 50,
+    "total": 22
    },
    "leaving_ea": null
   },
@@ -5444,7 +5404,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 46,
-    "total": 822
+    "total": 826
    },
    "leaving_ea": null
   },
@@ -5676,8 +5636,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 25,
-    "total": 651
+    "pct": 24,
+    "total": 658
    },
    "leaving_ea": null
   },
@@ -5716,8 +5676,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 87,
-    "total": 89
+    "pct": 86,
+    "total": 91
    },
    "leaving_ea": null
   },
@@ -5796,8 +5756,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 38,
-    "total": 155
+    "pct": 39,
+    "total": 157
    },
    "leaving_ea": null
   },
@@ -5833,7 +5793,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 21394
+    "total": 21599
    },
    "leaving_ea": null
   },
@@ -5908,7 +5868,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 33,
-    "total": 1101
+    "total": 1107
    },
    "leaving_ea": null
   },
@@ -6103,7 +6063,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 1178
+    "total": 1183
    },
    "leaving_ea": null
   },
@@ -6140,9 +6100,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mixed",
+    "desc": "Mostly Positive",
     "pct": 70,
-    "total": 43
+    "total": 44
    },
    "leaving_ea": null
   },
@@ -6177,8 +6137,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 58,
-    "total": 277
+    "pct": 59,
+    "total": 282
    },
    "leaving_ea": {
     "date_string": "2027",
@@ -6220,8 +6180,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 53,
-    "total": 125
+    "pct": 54,
+    "total": 127
    },
    "leaving_ea": null
   },
@@ -6414,7 +6374,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 31,
-    "total": 697
+    "total": 705
    },
    "leaving_ea": null
   },
@@ -6454,7 +6414,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 49,
-    "total": 476
+    "total": 490
    },
    "leaving_ea": null
   },
@@ -6576,7 +6536,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 78
+    "total": 81
    },
    "leaving_ea": null
   },
@@ -6850,7 +6810,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 31,
-    "total": 127
+    "total": 129
    },
    "leaving_ea": null
   },
@@ -7181,8 +7141,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 83,
-    "total": 505
+    "pct": 84,
+    "total": 547
    },
    "leaving_ea": null
   },
@@ -7255,9 +7215,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "7 user reviews",
-    "pct": 71,
-    "total": 7
+    "desc": "8 user reviews",
+    "pct": 75,
+    "total": 8
    },
    "leaving_ea": null
   },
@@ -7296,8 +7256,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 82,
-    "total": 114
+    "pct": 81,
+    "total": 125
    },
    "leaving_ea": null
   },
@@ -7335,9 +7295,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "3 user reviews",
-    "pct": 67,
-    "total": 3
+    "desc": "4 user reviews",
+    "pct": 75,
+    "total": 4
    },
    "leaving_ea": null
   },
@@ -7587,8 +7547,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 87,
-    "total": 1564
+    "pct": 86,
+    "total": 2518
    },
    "leaving_ea": null
   },
@@ -7697,7 +7657,11 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 0,
+    "total": 1
+   },
    "leaving_ea": null
   },
   {
@@ -7812,6 +7776,42 @@
     "desc": "3 user reviews",
     "pct": 100,
     "total": 3
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2437670,
+   "name": "Dagger Directive",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Aug 13, 2026",
+   "precision": "day",
+   "sort_key": 20260813,
+   "developers": [
+    "Arcane Alpacas LLC"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/2437670/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/9d9d513d251adf77dd7cb653da585420723f818a/capsule_231x87_alt_assets_0.jpg?t=1786625907",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 83,
+    "total": 684
    },
    "leaving_ea": null
   },
@@ -8009,6 +8009,158 @@
    "url": "https://store.steampowered.com/app/3901610/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901610/8bad37ae0461c7db785c498a3251007fe5e1c76a/capsule_231x87.jpg?t=1786075984",
    "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3589670,
+   "name": "Total War: WARHAMMER III - Boris Todbringer \u2013 Lords of the End Times",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Sep 24, 2026",
+   "precision": "day",
+   "sort_key": 20260924,
+   "developers": [
+    "CREATIVE ASSEMBLY",
+    "Feral Interactive"
+   ],
+   "publishers": [
+    "SEGA",
+    "Feral Interactive"
+   ],
+   "dev_groups": [
+    "Creative Assembly"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3589670/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1786635677",
+   "parent": {
+    "appid": 1142710,
+    "name": "Total War: WARHAMMER III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3589650,
+   "name": "Total War: WARHAMMER III - Nagash \u2013 Lords of the End Times",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Sep 24, 2026",
+   "precision": "day",
+   "sort_key": 20260924,
+   "developers": [
+    "CREATIVE ASSEMBLY",
+    "Feral Interactive"
+   ],
+   "publishers": [
+    "SEGA",
+    "Feral Interactive"
+   ],
+   "dev_groups": [
+    "Creative Assembly"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3589650/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/c6537689f71765734721a64effbf24a31d075405/capsule_231x87.jpg?t=1786635544",
+   "parent": {
+    "appid": 1142710,
+    "name": "Total War: WARHAMMER III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3589660,
+   "name": "Total War: WARHAMMER III - Thanquol \u2013 Lords of the End Times",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Sep 24, 2026",
+   "precision": "day",
+   "sort_key": 20260924,
+   "developers": [
+    "CREATIVE ASSEMBLY",
+    "Feral Interactive"
+   ],
+   "publishers": [
+    "SEGA",
+    "Feral Interactive"
+   ],
+   "dev_groups": [
+    "Creative Assembly"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3589660/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/e41b1bc23f7cd3a2ccccddb9bb33456b319bb34f/capsule_231x87.jpg?t=1786635612",
+   "parent": {
+    "appid": 1142710,
+    "name": "Total War: WARHAMMER III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3589680,
+   "name": "Total War: WARHAMMER III - The Glottkin \u2013 Lords of the End Times",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Sep 24, 2026",
+   "precision": "day",
+   "sort_key": 20260924,
+   "developers": [
+    "CREATIVE ASSEMBLY",
+    "Feral Interactive"
+   ],
+   "publishers": [
+    "SEGA",
+    "Feral Interactive"
+   ],
+   "dev_groups": [
+    "Creative Assembly"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3589680/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1786635575",
+   "parent": {
+    "appid": 1142710,
+    "name": "Total War: WARHAMMER III"
+   },
    "has_demo": false,
    "blog_url": null,
    "review": null,
