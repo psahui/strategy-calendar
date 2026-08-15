@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-14T19:16:53+00:00",
- "cutoff": "2025-08-14",
+ "generated_at": "2026-08-15T18:49:13+00:00",
+ "cutoff": "2025-08-15",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -2989,7 +2989,7 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 38,
+    "pct": 33,
     "total": 24
    },
    "leaving_ea": null
@@ -4673,9 +4673,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "5 user reviews",
-    "pct": 80,
-    "total": 5
+    "desc": "6 user reviews",
+    "pct": 83,
+    "total": 6
    },
    "leaving_ea": null
   },
@@ -6295,7 +6295,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 56
+    "total": 57
    },
    "leaving_ea": null
   },
@@ -7726,7 +7726,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4553980/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553980/114f0cf51f9a5e9455b5fd2fe42801daec90bdea/capsule_231x87.jpg?t=1786453318",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553980/114f0cf51f9a5e9455b5fd2fe42801daec90bdea/capsule_231x87.jpg?t=1786614164",
    "parent": {
     "appid": 2958130,
     "name": "Jurassic World Evolution 3"
@@ -8046,7 +8046,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1786635677",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1786707962",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8160,7 +8160,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589680/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1786635575",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1786708222",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
