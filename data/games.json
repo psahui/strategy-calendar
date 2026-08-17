@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-16T18:48:47+00:00",
- "cutoff": "2025-08-16",
+ "generated_at": "2026-08-17T19:00:21+00:00",
+ "cutoff": "2025-08-17",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -384,8 +384,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 85,
-    "total": 413
+    "pct": 86,
+    "total": 416
    },
    "leaving_ea": null
   },
@@ -497,7 +497,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 95,
-    "total": 3438
+    "total": 3462
    },
    "leaving_ea": null
   },
@@ -656,7 +656,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 705
+    "total": 709
    },
    "leaving_ea": null
   },
@@ -1349,7 +1349,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 463
+    "total": 466
    },
    "leaving_ea": null
   },
@@ -1809,8 +1809,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 129
+    "pct": 70,
+    "total": 130
    },
    "leaving_ea": null
   },
@@ -2157,7 +2157,7 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 55,
+    "pct": 59,
     "total": 22
    },
    "leaving_ea": null
@@ -2910,7 +2910,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 54
+    "total": 55
    },
    "leaving_ea": null
   },
@@ -3639,7 +3639,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 73,
-    "total": 291
+    "total": 297
    },
    "leaving_ea": null
   },
@@ -3674,8 +3674,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 303
+    "pct": 71,
+    "total": 305
    },
    "leaving_ea": null
   },
@@ -3824,7 +3824,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 411
+    "total": 413
    },
    "leaving_ea": null
   },
@@ -4479,7 +4479,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 917
+    "total": 920
    },
    "leaving_ea": null
   },
@@ -5168,7 +5168,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 1257
+    "total": 1280
    },
    "leaving_ea": null
   },
@@ -5440,7 +5440,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 75,
-    "total": 739
+    "total": 763
    },
    "leaving_ea": null
   },
@@ -6494,9 +6494,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "8 user reviews",
+    "desc": "Positive",
     "pct": 100,
-    "total": 8
+    "total": 10
    },
    "leaving_ea": null
   },
@@ -7511,8 +7511,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 82,
-    "total": 17
+    "pct": 83,
+    "total": 18
    },
    "leaving_ea": null
   },
@@ -7876,7 +7876,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4158610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1786727231",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1786929601",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7909,7 +7909,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4961870/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961870/1dfe994e79700b6ea030c37a2d6ac6b7793b9dab/capsule_231x87.jpg?t=1786539611",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961870/1dfe994e79700b6ea030c37a2d6ac6b7793b9dab/capsule_231x87.jpg?t=1786960527",
    "parent": {
     "appid": 2688950,
     "name": "Planet Coaster 2"
@@ -7979,7 +7979,39 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2075800/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1786733355",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1786982398",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3828500,
+   "name": "Deck & Conn",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Sep 1, 2026",
+   "precision": "day",
+   "sort_key": 20260901,
+   "developers": [
+    "Funtime Electrics"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/3828500/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1786964315",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8299,7 +8331,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3219030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1786347866",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1786978612",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
