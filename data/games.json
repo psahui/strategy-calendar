@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-17T19:00:21+00:00",
- "cutoff": "2025-08-17",
+ "generated_at": "2026-08-18T18:59:41+00:00",
+ "cutoff": "2025-08-18",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7849,38 +7849,6 @@
     "pct": 98,
     "total": 583
    },
-   "leaving_ea": null
-  },
-  {
-   "appid": 4158610,
-   "name": "TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "Aug 18, 2026",
-   "precision": "day",
-   "sort_key": 20260818,
-   "developers": [
-    "Wield Interactive"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/4158610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1786929601",
-   "parent": null,
-   "has_demo": true,
-   "blog_url": null,
-   "review": null,
    "leaving_ea": null
   },
   {
