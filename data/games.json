@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-18T18:59:41+00:00",
- "cutoff": "2025-08-18",
+ "generated_at": "2026-08-19T18:56:08+00:00",
+ "cutoff": "2025-08-19",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7735,8 +7735,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 79,
-    "total": 42
+    "pct": 74,
+    "total": 82
    },
    "leaving_ea": null
   },
@@ -7852,11 +7852,47 @@
    "leaving_ea": null
   },
   {
+   "appid": 4158610,
+   "name": "TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Aug 18, 2026",
+   "precision": "day",
+   "sort_key": 20260818,
+   "developers": [
+    "Wield Interactive"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/4158610/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1787086744",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "6 user reviews",
+    "pct": 83,
+    "total": 6
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 4961870,
    "name": "Planet Coaster 2: Silver Screen Pack",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Aug 19, 2026",
    "precision": "day",
    "sort_key": 20260819,
@@ -7877,14 +7913,56 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4961870/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961870/1dfe994e79700b6ea030c37a2d6ac6b7793b9dab/capsule_231x87.jpg?t=1786960527",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961870/1dfe994e79700b6ea030c37a2d6ac6b7793b9dab/capsule_231x87.jpg?t=1787146584",
    "parent": {
     "appid": 2688950,
     "name": "Planet Coaster 2"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 67,
+    "total": 18
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4639630,
+   "name": "WARNO - Nemesis #8 - School\u2019s Out!",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Aug 19, 2026",
+   "precision": "day",
+   "sort_key": 20260819,
+   "developers": [
+    "Eugen Systems"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Eugen Systems"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Wargames",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4639630/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639630/5f6f053c0b0a59eb724eacf15dfe24a6b7c6200d/capsule_231x87.jpg?t=1787122908",
+   "parent": {
+    "appid": 1611600,
+    "name": "WARNO"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 53,
+    "total": 15
+   },
    "leaving_ea": null
   },
   {
@@ -7947,7 +8025,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2075800/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1786982398",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1787045473",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7979,7 +8057,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3828500/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1786964315",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1787028102",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8011,8 +8089,42 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3901610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901610/8bad37ae0461c7db785c498a3251007fe5e1c76a/capsule_231x87.jpg?t=1786075984",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901610/8bad37ae0461c7db785c498a3251007fe5e1c76a/capsule_231x87.jpg?t=1786995425",
    "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3889430,
+   "name": "Surviving Mars: Relaunched - Feeding the Future",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Sep 8, 2026",
+   "precision": "day",
+   "sort_key": 20260908,
+   "developers": [
+    "Haemimont Games"
+   ],
+   "publishers": [],
+   "dev_groups": [
+    "Haemimont Games"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3889430/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889430/2c8fb638732d8ad6acac52a16546b94a7006db1d/capsule_231x87.jpg?t=1787144552",
+   "parent": {
+    "appid": 3215050,
+    "name": "Surviving Mars: Relaunched"
+   },
    "has_demo": false,
    "blog_url": null,
    "review": null,
@@ -8046,7 +8158,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1786707962",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1787134855",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8084,7 +8196,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/c6537689f71765734721a64effbf24a31d075405/capsule_231x87.jpg?t=1786635544",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/c6537689f71765734721a64effbf24a31d075405/capsule_231x87.jpg?t=1787134507",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8122,7 +8234,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589660/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/e41b1bc23f7cd3a2ccccddb9bb33456b319bb34f/capsule_231x87.jpg?t=1786635612",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/e41b1bc23f7cd3a2ccccddb9bb33456b319bb34f/capsule_231x87.jpg?t=1787134730",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8160,7 +8272,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589680/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1786708222",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1787135078",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8207,6 +8319,43 @@
    "leaving_ea": null
   },
   {
+   "appid": 4847610,
+   "name": "Wingspan Bird Pack: Birds of Continental Europe",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Oct 1, 2026",
+   "precision": "day",
+   "sort_key": 20261001,
+   "developers": [
+    "Monster Couch"
+   ],
+   "publishers": [
+    "Monster Couch",
+    "Stonemaier Games"
+   ],
+   "dev_groups": [
+    "Monster Couch"
+   ],
+   "pub_groups": [
+    "Monster Couch"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4847610/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847610/9821193680bf170accd64d1346dc9d42f98281f8/capsule_231x87.jpg?t=1787119813",
+   "parent": {
+    "appid": 1054490,
+    "name": "Wingspan"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 3989670,
    "name": "Distant Worlds 2: Shadows Rising",
    "type": "dlc",
@@ -8236,6 +8385,38 @@
     "appid": 1531540,
     "name": "Distant Worlds 2"
    },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3031880,
+   "name": "Car Park Capital",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Oct 9, 2026",
+   "precision": "day",
+   "sort_key": 20261009,
+   "developers": [
+    "Hilkojj Interactive"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/3031880/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/5ee45f63ef9adcbfd981527a161f5ba119db8625/capsule_231x87.jpg?t=1787137007",
+   "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": null,
