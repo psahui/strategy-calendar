@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-19T18:56:08+00:00",
- "cutoff": "2025-08-19",
+ "generated_at": "2026-08-20T19:02:57+00:00",
+ "cutoff": "2025-08-20",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,45 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3508950,
-   "name": "Panzer Corps 2: Frontlines - Westwall",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Aug 19, 2025",
-   "precision": "day",
-   "sort_key": 20250819,
-   "developers": [
-    "Flashback Games"
-   ],
-   "publishers": [
-    "Slitherine Ltd."
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Slitherine / Matrix"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/3508950/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508950/00736dd71dc813c2226f5c8df900028385064c6e/capsule_231x87.jpg?t=1755703549",
-   "parent": {
-    "appid": 1072040,
-    "name": "Panzer Corps 2"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 15
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3086120,
    "name": "Harpoon Classic '97",
@@ -5595,11 +5556,7 @@
     "pct": 91,
     "total": 85
    },
-   "leaving_ea": {
-    "date_string": "Aug 20, 2026",
-    "precision": "day",
-    "sort_key": 20260820
-   }
+   "leaving_ea": null
   },
   {
    "appid": 4314650,
@@ -7666,7 +7623,7 @@
   },
   {
    "appid": 896250,
-   "name": "Liquidation",
+   "name": "Liquidation RTS",
    "type": "game",
    "kind": "game",
    "status": "early_access",
@@ -7689,7 +7646,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/896250/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896250/64618068899d3976521373ee56e2ae857a3e7f5b/capsule_231x87.jpg?t=1786111543",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896250/64618068899d3976521373ee56e2ae857a3e7f5b/capsule_231x87.jpg?t=1787037396",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7773,9 +7730,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "3 user reviews",
+    "desc": "5 user reviews",
     "pct": 100,
-    "total": 3
+    "total": 5
    },
    "leaving_ea": null
   },
@@ -7804,7 +7761,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2437670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/9d9d513d251adf77dd7cb653da585420723f818a/capsule_231x87_alt_assets_0.jpg?t=1786625907",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/0ca90f63379f337e80b7cfcdc5d9d4b8928cff2f/capsule_231x87.jpg?t=1787007430",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7966,11 +7923,86 @@
    "leaving_ea": null
   },
   {
+   "appid": 3858770,
+   "name": "Anno 117: Pax Romana \u2013 The Hippodrome",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Aug 20, 2026",
+   "precision": "day",
+   "sort_key": 20260820,
+   "developers": [
+    "Ubisoft Mainz"
+   ],
+   "publishers": [
+    "UBISOFT"
+   ],
+   "dev_groups": [
+    "Ubisoft Mainz"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3858770/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858770/deaa9be0f765400f564169113c6f791dd160a6e5/capsule_231x87.jpg?t=1787220223",
+   "parent": {
+    "appid": 3274580,
+    "name": "Anno 117: Pax Romana"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 100,
+    "total": 2
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 5001640,
+   "name": "Cataclismo - Supporter Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Aug 20, 2026",
+   "precision": "day",
+   "sort_key": 20260820,
+   "developers": [
+    "Digital Sun"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/5001640/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001640/82c829246dabc0d5dd02ab4e2c6d18dae638c201/capsule_231x87.jpg?t=1787245018",
+   "parent": {
+    "appid": 1422440,
+    "name": "Cataclismo"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 4396100,
    "name": "Cataclismo - The Old Kingdom",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Aug 20, 2026",
    "precision": "day",
    "sort_key": 20260820,
@@ -7990,14 +8022,18 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4396100/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396100/783049df547a696e5153dab7e112d7338e8b71d3/capsule_231x87.jpg?t=1784811607",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396100/783049df547a696e5153dab7e112d7338e8b71d3/capsule_231x87.jpg?t=1787244905",
    "parent": {
     "appid": 1422440,
     "name": "Cataclismo"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 100,
+    "total": 1
+   },
    "leaving_ea": null
   },
   {
@@ -8415,7 +8451,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3031880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/5ee45f63ef9adcbfd981527a161f5ba119db8625/capsule_231x87.jpg?t=1787137007",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/5ee45f63ef9adcbfd981527a161f5ba119db8625/capsule_231x87.jpg?t=1787220930",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8480,9 +8516,41 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3219030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1786978612",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1787238733",
    "parent": null,
    "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 2295060,
+   "name": "Beyond These Stars",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Oct 15, 2026",
+   "precision": "day",
+   "sort_key": 20261015,
+   "developers": [
+    "Balancing Monkey Games"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2295060/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1787230803",
+   "parent": null,
+   "has_demo": true,
    "blog_url": null,
    "review": null,
    "leaving_ea": null
@@ -8581,38 +8649,6 @@
    ],
    "url": "https://store.steampowered.com/app/3640650/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3640650/6b1eed38c8e6bdecf695fcfcccee53ad7e956c58/capsule_231x87_alt_assets_0.jpg?t=1786124555",
-   "parent": null,
-   "has_demo": true,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 2295060,
-   "name": "Beyond These Stars",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    "Balancing Monkey Games"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1786634378",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8934,7 +8970,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/969330/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1785513201",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1787224571",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
