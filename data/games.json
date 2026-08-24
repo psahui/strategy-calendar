@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-23T18:50:23+00:00",
- "cutoff": "2025-08-23",
+ "generated_at": "2026-08-24T19:02:47+00:00",
+ "cutoff": "2025-08-24",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -458,7 +458,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 95,
-    "total": 3462
+    "total": 3483
    },
    "leaving_ea": null
   },
@@ -617,7 +617,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 709
+    "total": 718
    },
    "leaving_ea": null
   },
@@ -1310,7 +1310,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 466
+    "total": 481
    },
    "leaving_ea": null
   },
@@ -1769,9 +1769,9 @@
    "has_demo": true,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 70,
-    "total": 130
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 131
    },
    "leaving_ea": null
   },
@@ -2158,7 +2158,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 81
+    "total": 82
    },
    "leaving_ea": null
   },
@@ -3599,8 +3599,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 297
+    "pct": 74,
+    "total": 299
    },
    "leaving_ea": null
   },
@@ -3636,7 +3636,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 305
+    "total": 307
    },
    "leaving_ea": null
   },
@@ -3784,8 +3784,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 413
+    "pct": 72,
+    "total": 417
    },
    "leaving_ea": null
   },
@@ -4440,7 +4440,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 920
+    "total": 922
    },
    "leaving_ea": null
   },
@@ -5129,7 +5129,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 1280
+    "total": 1294
    },
    "leaving_ea": null
   },
@@ -5401,7 +5401,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 75,
-    "total": 763
+    "total": 771
    },
    "leaving_ea": null
   },
@@ -6452,8 +6452,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 100,
-    "total": 10
+    "pct": 91,
+    "total": 11
    },
    "leaving_ea": null
   },
@@ -7056,7 +7056,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/16900/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/0c720dc9a4fdfe67f2a66ecc5de28e0a887e0988/capsule_231x87.jpg?t=1785325683",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/0c720dc9a4fdfe67f2a66ecc5de28e0a887e0988/capsule_231x87.jpg?t=1787381500",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7467,9 +7467,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 83,
-    "total": 18
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 24
    },
    "leaving_ea": null
   },
@@ -7761,7 +7761,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2437670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/0ca90f63379f337e80b7cfcdc5d9d4b8928cff2f/capsule_231x87.jpg?t=1787007430",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/0ca90f63379f337e80b7cfcdc5d9d4b8928cff2f/capsule_231x87.jpg?t=1787590960",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7948,7 +7948,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3858770/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858770/deaa9be0f765400f564169113c6f791dd160a6e5/capsule_231x87.jpg?t=1787220223",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858770/deaa9be0f765400f564169113c6f791dd160a6e5/capsule_231x87.jpg?t=1787322795",
    "parent": {
     "appid": 3274580,
     "name": "Anno 117: Pax Romana"
