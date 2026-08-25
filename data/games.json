@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-24T19:02:47+00:00",
- "cutoff": "2025-08-24",
+ "generated_at": "2026-08-25T19:00:07+00:00",
+ "cutoff": "2025-08-25",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,42 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3086120,
-   "name": "Harpoon Classic '97",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Aug 24, 2025",
-   "precision": "day",
-   "sort_key": 20250824,
-   "developers": [
-    "Alliance Interactive"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/3086120/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3086120/0be2ece7ccf7d21d4244a45d4a8fca93d7caf4f3/capsule_231x87.jpg?t=1766103824",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 84,
-    "total": 62
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3020280,
    "name": "IF-16 FIGHTING FALCON",
@@ -7797,7 +7761,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2764460/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1787306087",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1787606192",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -9083,6 +9047,38 @@
    "leaving_ea": null
   },
   {
+   "appid": 1574290,
+   "name": "Steel Bounty",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2026",
+   "precision": "year",
+   "sort_key": 20269898,
+   "developers": [
+    "Apoc"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/1574290/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574290/e4bdd215c1353933671cc41c3f790a1ab07a6f5c/capsule_231x87.jpg?t=1787640819",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 969330,
    "name": "The Way of Wrath",
    "type": "game",
@@ -9211,6 +9207,38 @@
    "leaving_ea": null
   },
   {
+   "appid": 4413130,
+   "name": "Battlespace Command",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2027",
+   "precision": "year",
+   "sort_key": 20279898,
+   "developers": [
+    "Wirraway Software"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/4413130/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413130/6e33065b145801620dc7430b1b9472a092eae4ab/capsule_231x87.jpg?t=1787640174",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 1670650,
    "name": "Espiocracy",
    "type": "game",
@@ -9236,6 +9264,39 @@
    ],
    "url": "https://store.steampowered.com/app/1670650/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1786634942",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 2581850,
+   "name": "HUMANKIND\u2122 2",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2027",
+   "precision": "year",
+   "sort_key": 20279898,
+   "developers": [
+    "AMPLITUDE Studios"
+   ],
+   "publishers": [
+    "AMPLITUDE Studios"
+   ],
+   "dev_groups": [
+    "Amplitude Studios"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/2581850/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1787680683",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
