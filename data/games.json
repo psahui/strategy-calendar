@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T19:00:07+00:00",
- "cutoff": "2025-08-25",
+ "generated_at": "2026-08-26T20:04:55+00:00",
+ "cutoff": "2025-08-26",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7656,8 +7656,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 74,
-    "total": 82
+    "pct": 76,
+    "total": 86
    },
    "leaving_ea": null
   },
@@ -7802,9 +7802,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "6 user reviews",
-    "pct": 83,
-    "total": 6
+    "desc": "Positive",
+    "pct": 88,
+    "total": 25
    },
    "leaving_ea": null
   },
@@ -7842,9 +7842,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mixed",
-    "pct": 67,
-    "total": 18
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 33
    },
    "leaving_ea": null
   },
@@ -7881,8 +7881,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 53,
-    "total": 15
+    "pct": 61,
+    "total": 31
    },
    "leaving_ea": null
   },
@@ -8092,7 +8092,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3828500/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1787028102",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1787664871",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8191,6 +8191,40 @@
    ],
    "url": "https://store.steampowered.com/app/4535730/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/7ab0fa24370a0f7ece0bce399ed92ecc3a62be44/capsule_231x87.jpg?t=1787385303",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3201730,
+   "name": "Flamecraft",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Sep 17, 2026",
+   "precision": "day",
+   "sort_key": 20260917,
+   "developers": [
+    "Monster Couch"
+   ],
+   "publishers": [
+    "Monster Couch",
+    "Cardboard Alchemy"
+   ],
+   "dev_groups": [
+    "Monster Couch"
+   ],
+   "pub_groups": [
+    "Monster Couch"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3201730/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1787767778",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8344,6 +8378,38 @@
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
    },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3493540,
+   "name": "Transport Fever 3",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Sep 29, 2026",
+   "precision": "day",
+   "sort_key": 20260929,
+   "developers": [
+    "Urban Games"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3493540/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1787686502",
+   "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": null,
@@ -9111,70 +9177,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 3493540,
-   "name": "Transport Fever 3",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    "Urban Games"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/3493540/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1781780836",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 1853440,
-   "name": "Tropico 7",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    " Gaming Minds Studios"
-   ],
-   "publishers": [
-    "Kalypso Media"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Kalypso Media"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/1853440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1780410168",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
    "appid": 2439030,
    "name": "Vaunted",
    "type": "game",
@@ -9200,6 +9202,38 @@
    ],
    "url": "https://store.steampowered.com/app/2439030/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1786634289",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 1853440,
+   "name": "Tropico 7",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Jan 28, 2027",
+   "precision": "day",
+   "sort_key": 20270128,
+   "developers": [
+    " Gaming Minds Studios"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1853440/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1787766896",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9296,7 +9330,39 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/2581850/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1787680683",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1787750710",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3607400,
+   "name": "Rise of the Spellbaker",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2027",
+   "precision": "year",
+   "sort_key": 20279898,
+   "developers": [
+    " Realmforge Studios"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3607400/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607400/f4464628d653ff28c3a45a82a5b74d0b2a9131d5/capsule_231x87.jpg?t=1787759961",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
