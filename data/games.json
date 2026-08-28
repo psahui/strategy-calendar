@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-26T20:04:55+00:00",
- "cutoff": "2025-08-26",
+ "generated_at": "2026-08-28T02:11:50+00:00",
+ "cutoff": "2025-08-27",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7920,9 +7920,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "2 user reviews",
-    "pct": 100,
-    "total": 2
+    "desc": "Mixed",
+    "pct": 55,
+    "total": 29
    },
    "leaving_ea": null
   },
@@ -7994,9 +7994,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "1 user reviews",
-    "pct": 100,
-    "total": 1
+    "desc": "Positive",
+    "pct": 81,
+    "total": 48
    },
    "leaving_ea": null
   },
@@ -8040,7 +8040,7 @@
    "name": "STAR WARS Zero Company\u2122",
    "type": "game",
    "kind": "game",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Aug 27, 2026",
    "precision": "day",
    "sort_key": 20260827,
@@ -8060,11 +8060,54 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2075800/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1787045473",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1787848803",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 73,
+    "total": 2599
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3701350,
+   "name": "STAR WARS Zero Company\u2122 Deluxe Edition Upgrade",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Aug 27, 2026",
+   "precision": "day",
+   "sort_key": 20260827,
+   "developers": [
+    "Bit Reactor"
+   ],
+   "publishers": [
+    "Electronic Arts"
+   ],
+   "dev_groups": [
+    "Bit Reactor"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3701350/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701350/fa3a44a2fdcba718d13f6359eb010fec6ddd2e0d/capsule_231x87.jpg?t=1787842898",
+   "parent": {
+    "appid": 2075800,
+    "name": "STAR WARS Zero Company\u2122"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 26,
+    "total": 31
+   },
    "leaving_ea": null
   },
   {
@@ -9081,38 +9124,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 1777480,
-   "name": "Pathbreakers: Roaming Blades",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    "6 Eyes Studio"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/1777480/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1786635838",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
    "appid": 1574290,
    "name": "Steel Bounty",
    "type": "game",
@@ -9331,6 +9342,38 @@
    ],
    "url": "https://store.steampowered.com/app/2581850/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1787750710",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 1777480,
+   "name": "Pathbreakers: Roaming Blades",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2027",
+   "precision": "year",
+   "sort_key": 20279898,
+   "developers": [
+    "6 Eyes Studio"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1777480/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1787835747",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
