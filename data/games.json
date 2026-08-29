@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-28T02:11:50+00:00",
- "cutoff": "2025-08-27",
+ "generated_at": "2026-08-29T01:46:25+00:00",
+ "cutoff": "2025-08-28",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -272,8 +272,8 @@
    "blog_url": null,
    "review": {
     "desc": "Overwhelmingly Negative",
-    "pct": 18,
-    "total": 1078
+    "pct": 19,
+    "total": 1081
    },
    "leaving_ea": null
   },
@@ -459,7 +459,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 2815
+    "total": 2833
    },
    "leaving_ea": {
     "date_string": "Sep 17, 2026",
@@ -620,7 +620,7 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 70,
+    "pct": 71,
     "total": 330
    },
    "leaving_ea": null
@@ -1160,7 +1160,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 55,
-    "total": 12898
+    "total": 12923
    },
    "leaving_ea": null
   },
@@ -1310,7 +1310,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 5919
+    "total": 5937
    },
    "leaving_ea": null
   },
@@ -1350,7 +1350,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 68,
-    "total": 2176
+    "total": 2177
    },
    "leaving_ea": null
   },
@@ -1461,7 +1461,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 67,
-    "total": 30374
+    "total": 30476
    },
    "leaving_ea": null
   },
@@ -1771,7 +1771,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 92,
-    "total": 3259
+    "total": 3277
    },
    "leaving_ea": null
   },
@@ -1808,7 +1808,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 2113
+    "total": 2120
    },
    "leaving_ea": null
   },
@@ -1965,7 +1965,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 70,
-    "total": 12619
+    "total": 12679
    },
    "leaving_ea": null
   },
@@ -2005,7 +2005,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 34,
-    "total": 247
+    "total": 251
    },
    "leaving_ea": null
   },
@@ -2198,7 +2198,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 32,
-    "total": 1841
+    "total": 1845
    },
    "leaving_ea": null
   },
@@ -2391,8 +2391,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 55,
-    "total": 29
+    "pct": 53,
+    "total": 30
    },
    "leaving_ea": null
   },
@@ -2510,7 +2510,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 85,
-    "total": 106
+    "total": 107
    },
    "leaving_ea": null
   },
@@ -2630,7 +2630,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 44,
-    "total": 255
+    "total": 260
    },
    "leaving_ea": null
   },
@@ -2712,7 +2712,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 56,
-    "total": 714
+    "total": 720
    },
    "leaving_ea": null
   },
@@ -2754,7 +2754,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 60,
-    "total": 442
+    "total": 443
    },
    "leaving_ea": null
   },
@@ -3111,7 +3111,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 63,
-    "total": 304
+    "total": 305
    },
    "leaving_ea": null
   },
@@ -3227,7 +3227,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 80,
-    "total": 9802
+    "total": 9840
    },
    "leaving_ea": null
   },
@@ -3528,7 +3528,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 13144
+    "total": 13343
    },
    "leaving_ea": null
   },
@@ -3639,8 +3639,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 76,
-    "total": 33
+    "pct": 74,
+    "total": 35
    },
    "leaving_ea": null
   },
@@ -3899,8 +3899,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 92,
-    "total": 2098
+    "pct": 91,
+    "total": 2101
    },
    "leaving_ea": null
   },
@@ -4367,8 +4367,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 51,
-    "total": 110
+    "pct": 50,
+    "total": 111
    },
    "leaving_ea": null
   },
@@ -4443,7 +4443,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 89,
-    "total": 197
+    "total": 198
    },
    "leaving_ea": null
   },
@@ -4674,8 +4674,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 46
+    "pct": 68,
+    "total": 47
    },
    "leaving_ea": null
   },
@@ -4750,7 +4750,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 94,
-    "total": 2238
+    "total": 2266
    },
    "leaving_ea": null
   },
@@ -4788,8 +4788,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 58,
-    "total": 650
+    "pct": 59,
+    "total": 655
    },
    "leaving_ea": null
   },
@@ -4978,7 +4978,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 81,
-    "total": 5727
+    "total": 5761
    },
    "leaving_ea": null
   },
@@ -5173,7 +5173,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 67
+    "total": 68
    },
    "leaving_ea": null
   },
@@ -5211,9 +5211,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 81,
-    "total": 48
+    "desc": "Mostly Positive",
+    "pct": 80,
+    "total": 49
    },
    "leaving_ea": null
   },
@@ -5252,8 +5252,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 50,
-    "total": 22
+    "pct": 44,
+    "total": 25
    },
    "leaving_ea": null
   },
@@ -5329,7 +5329,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 46,
-    "total": 828
+    "total": 829
    },
    "leaving_ea": null
   },
@@ -5442,8 +5442,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 40,
-    "total": 166
+    "pct": 41,
+    "total": 167
    },
    "leaving_ea": null
   },
@@ -5558,7 +5558,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 24,
-    "total": 663
+    "total": 667
    },
    "leaving_ea": null
   },
@@ -5597,8 +5597,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 86,
-    "total": 92
+    "pct": 85,
+    "total": 95
    },
    "leaving_ea": null
   },
@@ -5637,8 +5637,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 35
+    "pct": 72,
+    "total": 36
    },
    "leaving_ea": null
   },
@@ -5676,9 +5676,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Negative",
+    "desc": "Mixed",
     "pct": 40,
-    "total": 162
+    "total": 167
    },
    "leaving_ea": null
   },
@@ -5714,7 +5714,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 21819
+    "total": 22092
    },
    "leaving_ea": null
   },
@@ -5984,7 +5984,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 1204
+    "total": 1216
    },
    "leaving_ea": null
   },
@@ -6059,7 +6059,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 59,
-    "total": 287
+    "total": 289
    },
    "leaving_ea": {
     "date_string": "2027",
@@ -6102,7 +6102,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 53,
-    "total": 128
+    "total": 132
    },
    "leaving_ea": null
   },
@@ -6254,8 +6254,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 51,
-    "total": 73
+    "pct": 50,
+    "total": 76
    },
    "leaving_ea": null
   },
@@ -6294,8 +6294,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 31,
-    "total": 712
+    "pct": 30,
+    "total": 719
    },
    "leaving_ea": null
   },
@@ -6335,7 +6335,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 49,
-    "total": 493
+    "total": 500
    },
    "leaving_ea": null
   },
@@ -6534,8 +6534,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 39
+    "pct": 71,
+    "total": 41
    },
    "leaving_ea": null
   },
@@ -6730,8 +6730,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 31,
-    "total": 133
+    "pct": 30,
+    "total": 135
    },
    "leaving_ea": null
   },
@@ -7063,7 +7063,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 85,
-    "total": 568
+    "total": 582
    },
    "leaving_ea": null
   },
@@ -7176,9 +7176,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Very Positive",
+    "desc": "Mostly Positive",
     "pct": 80,
-    "total": 131
+    "total": 134
    },
    "leaving_ea": null
   },
@@ -7469,7 +7469,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 86,
-    "total": 2957
+    "total": 3139
    },
    "leaving_ea": null
   },
@@ -7732,7 +7732,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 793
+    "total": 849
    },
    "leaving_ea": null
   },
@@ -7761,7 +7761,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2764460/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1787606192",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1787905620",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8108,6 +8108,41 @@
     "pct": 26,
     "total": 31
    },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4232510,
+   "name": "Broken Arrow: Russian Guard",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Aug 31, 2026",
+   "precision": "day",
+   "sort_key": 20260831,
+   "developers": [
+    "Steel Balalaika"
+   ],
+   "publishers": [
+    "Slitherine Ltd."
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Slitherine / Matrix"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/4232510/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232510/5433a21f686bd270380b3ca9edb11915d7b9ba94/capsule_231x87.jpg?t=1787950388",
+   "parent": {
+    "appid": 1604270,
+    "name": "Broken Arrow"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
    "leaving_ea": null
   },
   {
