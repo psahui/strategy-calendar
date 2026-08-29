@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-29T01:46:25+00:00",
- "cutoff": "2025-08-28",
+ "generated_at": "2026-08-29T20:57:56+00:00",
+ "cutoff": "2025-08-29",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -123,7 +123,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 85,
-    "total": 242
+    "total": 244
    },
    "leaving_ea": null
   },
@@ -386,7 +386,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 133
+    "total": 134
    },
    "leaving_ea": null
   },
@@ -814,7 +814,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 230
+    "total": 234
    },
    "leaving_ea": null
   },
@@ -1007,7 +1007,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 1641
+    "total": 1651
    },
    "leaving_ea": null
   },
@@ -1044,7 +1044,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 13205
+    "total": 13330
    },
    "leaving_ea": null
   },
@@ -1123,7 +1123,7 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 82,
+    "pct": 84,
     "total": 74
    },
    "leaving_ea": null
@@ -2043,7 +2043,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 73,
-    "total": 44
+    "total": 45
    },
    "leaving_ea": null
   },
@@ -2158,7 +2158,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 96,
-    "total": 3878
+    "total": 3922
    },
    "leaving_ea": null
   },
@@ -2875,7 +2875,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 103
+    "total": 104
    },
    "leaving_ea": null
   },
@@ -3301,7 +3301,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 86,
-    "total": 248
+    "total": 249
    },
    "leaving_ea": null
   },
@@ -3491,8 +3491,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 89,
-    "total": 748
+    "pct": 90,
+    "total": 766
    },
    "leaving_ea": null
   },
@@ -3712,8 +3712,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 80,
-    "total": 530
+    "pct": 79,
+    "total": 536
    },
    "leaving_ea": null
   },
@@ -5289,7 +5289,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 235
+    "total": 236
    },
    "leaving_ea": null
   },
@@ -5517,8 +5517,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 92,
-    "total": 96
+    "pct": 93,
+    "total": 124
    },
    "leaving_ea": null
   },
@@ -5824,8 +5824,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 1434
+    "pct": 73,
+    "total": 1484
    },
    "leaving_ea": null
   },
@@ -5861,9 +5861,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "5 user reviews",
+    "desc": "6 user reviews",
     "pct": 100,
-    "total": 5
+    "total": 6
    },
    "leaving_ea": null
   },
@@ -6138,7 +6138,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 282
+    "total": 286
    },
    "leaving_ea": null
   },
@@ -6176,9 +6176,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 37
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 39
    },
    "leaving_ea": null
   },
@@ -6496,8 +6496,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 61,
-    "total": 278
+    "pct": 60,
+    "total": 280
    },
    "leaving_ea": null
   },
@@ -6915,7 +6915,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 81,
-    "total": 63
+    "total": 64
    },
    "leaving_ea": null
   },
@@ -6990,7 +6990,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 662
+    "total": 675
    },
    "leaving_ea": null
   },
@@ -7027,7 +7027,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 24805
+    "total": 24901
    },
    "leaving_ea": null
   },
@@ -7056,7 +7056,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3219010/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/99952a0ddcfd4d3e77bd2589347204a0d7ea2265/capsule_231x87.jpg?t=1786635531",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/99952a0ddcfd4d3e77bd2589347204a0d7ea2265/capsule_231x87.jpg?t=1787907655",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7098,8 +7098,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 89,
-    "total": 331
+    "pct": 90,
+    "total": 344
    },
    "leaving_ea": null
   },
@@ -7462,7 +7462,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1368140/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/9317363cb16926256a8e15b2dd91eee8203e4f11/capsule_231x87.jpg?t=1786634714",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/9317363cb16926256a8e15b2dd91eee8203e4f11/capsule_231x87.jpg?t=1787906322",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7616,8 +7616,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 91,
-    "total": 156
+    "pct": 92,
+    "total": 163
    },
    "leaving_ea": null
   },
@@ -7768,7 +7768,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 97,
-    "total": 2902
+    "total": 4030
    },
    "leaving_ea": null
   },
@@ -8302,7 +8302,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3201730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1787767778",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1787921620",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8758,7 +8758,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1787230803",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1787907378",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8925,7 +8925,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1537440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1786634014",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1787906733",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8957,7 +8957,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1490930/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1786634447",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1787907167",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8989,7 +8989,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1786634013",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1787906692",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9021,7 +9021,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1672320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1786634446",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1787907131",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9053,7 +9053,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2189430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/0c6c8a5df85dd95c5af85c63b4bcde9b7784e608/capsule_231x87.jpg?t=1786634939",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/0c6c8a5df85dd95c5af85c63b4bcde9b7784e608/capsule_231x87.jpg?t=1787906006",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9087,7 +9087,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4043740/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043740/243e353f9620c1cffd12cba5e733ff4a2ab9274d/capsule_231x87.jpg?t=1786636036",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043740/243e353f9620c1cffd12cba5e733ff4a2ab9274d/capsule_231x87.jpg?t=1787908062",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9119,7 +9119,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1447250/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1786635159",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1787905839",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9151,7 +9151,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1727760/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1786634271",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1787906919",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9215,7 +9215,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/969330/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1787224571",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1787907918",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -9247,7 +9247,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2439030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1786634289",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1787906879",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9343,7 +9343,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1670650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1786634942",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1787906046",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9408,7 +9408,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1777480/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1787835747",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1787908129",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
