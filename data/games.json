@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-30T21:11:29+00:00",
- "cutoff": "2025-08-30",
+ "generated_at": "2026-08-31T22:53:55+00:00",
+ "cutoff": "2025-08-31",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -310,7 +310,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 86,
-    "total": 416
+    "total": 419
    },
    "leaving_ea": null
   },
@@ -422,7 +422,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 95,
-    "total": 3483
+    "total": 3513
    },
    "leaving_ea": null
   },
@@ -581,7 +581,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 718
+    "total": 725
    },
    "leaving_ea": null
   },
@@ -1274,7 +1274,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 481
+    "total": 488
    },
    "leaving_ea": null
   },
@@ -3336,9 +3336,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 22
+    "desc": "Mixed",
+    "pct": 70,
+    "total": 23
    },
    "leaving_ea": null
   },
@@ -3564,7 +3564,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 74,
-    "total": 299
+    "total": 300
    },
    "leaving_ea": null
   },
@@ -3600,7 +3600,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 307
+    "total": 309
    },
    "leaving_ea": null
   },
@@ -3749,7 +3749,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 417
+    "total": 419
    },
    "leaving_ea": null
   },
@@ -4404,7 +4404,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 922
+    "total": 925
    },
    "leaving_ea": null
   },
@@ -5093,7 +5093,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 1294
+    "total": 1304
    },
    "leaving_ea": null
   },
@@ -5364,8 +5364,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 75,
-    "total": 771
+    "pct": 76,
+    "total": 785
    },
    "leaving_ea": null
   },
@@ -5481,8 +5481,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 88,
-    "total": 52
+    "pct": 89,
+    "total": 53
    },
    "leaving_ea": null
   },
@@ -7020,7 +7020,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/16900/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/0c720dc9a4fdfe67f2a66ecc5de28e0a887e0988/capsule_231x87.jpg?t=1787381500",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/0c720dc9a4fdfe67f2a66ecc5de28e0a887e0988/capsule_231x87.jpg?t=1788130999",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7431,9 +7431,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 79,
-    "total": 24
+    "desc": "Positive",
+    "pct": 80,
+    "total": 25
    },
    "leaving_ea": null
   },
@@ -7540,9 +7540,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "3 user reviews",
-    "pct": 33,
-    "total": 3
+    "desc": "4 user reviews",
+    "pct": 50,
+    "total": 4
    },
    "leaving_ea": null
   },
@@ -7725,7 +7725,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2437670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/0ca90f63379f337e80b7cfcdc5d9d4b8928cff2f/capsule_231x87.jpg?t=1787590960",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/0ca90f63379f337e80b7cfcdc5d9d4b8928cff2f/capsule_231x87.jpg?t=1788131223",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8115,7 +8115,7 @@
    "name": "Broken Arrow: Russian Guard",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Aug 31, 2026",
    "precision": "day",
    "sort_key": 20260831,
@@ -8135,14 +8135,18 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4232510/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232510/5433a21f686bd270380b3ca9edb11915d7b9ba94/capsule_231x87.jpg?t=1787950388",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232510/5433a21f686bd270380b3ca9edb11915d7b9ba94/capsule_231x87.jpg?t=1788183498",
    "parent": {
     "appid": 1604270,
     "name": "Broken Arrow"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 283
+   },
    "leaving_ea": null
   },
   {
@@ -8170,7 +8174,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3828500/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1787664871",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1788151292",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8268,7 +8272,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4535730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/7ab0fa24370a0f7ece0bce399ed92ecc3a62be44/capsule_231x87.jpg?t=1787385303",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/7ab0fa24370a0f7ece0bce399ed92ecc3a62be44/capsule_231x87.jpg?t=1788131321",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8302,7 +8306,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3201730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1787921620",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1788179132",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8486,7 +8490,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3493540/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1787686502",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1788208356",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9376,7 +9380,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/2581850/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1787750710",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1788174191",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
