@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T22:53:55+00:00",
- "cutoff": "2025-08-31",
+ "generated_at": "2026-09-01T21:05:54+00:00",
+ "cutoff": "2025-09-01",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,42 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3020280,
-   "name": "IF-16 FIGHTING FALCON",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Aug 31, 2025",
-   "precision": "day",
-   "sort_key": 20250831,
-   "developers": [
-    "Interactive Magic"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/3020280/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020280/30bae696f5369ccc4a92c48708905fb1ada7a044/capsule_231x87.jpg?t=1756688497",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "8 user reviews",
-    "pct": 88,
-    "total": 8
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 1289720,
    "name": "Neyyah",
