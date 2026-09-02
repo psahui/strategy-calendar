@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01T21:05:54+00:00",
- "cutoff": "2025-09-01",
+ "generated_at": "2026-09-02T21:06:30+00:00",
+ "cutoff": "2025-09-02",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7620,8 +7620,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 76,
-    "total": 86
+    "pct": 72,
+    "total": 93
    },
    "leaving_ea": null
   },
@@ -7767,8 +7767,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 88,
-    "total": 25
+    "pct": 83,
+    "total": 29
    },
    "leaving_ea": null
   },
@@ -7845,8 +7845,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 61,
-    "total": 31
+    "pct": 58,
+    "total": 33
    },
    "leaving_ea": null
   },
@@ -8118,7 +8118,7 @@
    "name": "Deck & Conn",
    "type": "game",
    "kind": "game",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 1, 2026",
    "precision": "day",
    "sort_key": 20260901,
@@ -8138,11 +8138,15 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3828500/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1788151292",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1788261469",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 63,
+    "total": 54
+   },
    "leaving_ea": null
   },
   {
@@ -8273,6 +8277,41 @@
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1788179132",
    "parent": null,
    "has_demo": true,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4157110,
+   "name": "Terminator: Dark Fate - Defiance: Evolution",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Sep 22, 2026",
+   "precision": "day",
+   "sort_key": 20260922,
+   "developers": [
+    "Slitherine Ltd."
+   ],
+   "publishers": [
+    "Slitherine Ltd."
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Slitherine / Matrix"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/4157110/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157110/406636070633de2036a0f003c498d7244564b782/capsule_231x87.jpg?t=1788252058",
+   "parent": {
+    "appid": 1839950,
+    "name": "Terminator: Dark Fate - Defiance"
+   },
+   "has_demo": false,
    "blog_url": null,
    "review": null,
    "leaving_ea": null
@@ -8491,41 +8530,6 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 4157110,
-   "name": "Terminator: Dark Fate - Defiance: Evolution",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "upcoming",
-   "date_string": "September 2026",
-   "precision": "month",
-   "sort_key": 20260998,
-   "developers": [
-    "Slitherine Ltd."
-   ],
-   "publishers": [
-    "Slitherine Ltd."
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Slitherine / Matrix"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/4157110/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157110/406636070633de2036a0f003c498d7244564b782/capsule_231x87.jpg?t=1787320632",
-   "parent": {
-    "appid": 1839950,
-    "name": "Terminator: Dark Fate - Defiance"
    },
    "has_demo": false,
    "blog_url": null,
@@ -9344,7 +9348,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/2581850/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1788174191",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1788275034",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
