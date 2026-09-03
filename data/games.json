@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02T21:06:30+00:00",
- "cutoff": "2025-09-02",
+ "generated_at": "2026-09-03T21:05:47+00:00",
+ "cutoff": "2025-09-03",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,42 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 1289720,
-   "name": "Neyyah",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Sep 2, 2025",
-   "precision": "day",
-   "sort_key": 20250902,
-   "developers": [
-    "Defy Reality Entertainment"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/1289720/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289720/07ae14bc5d74634dc03287579acac77bf14834df/capsule_231x87.jpg?t=1785492509",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 85,
-    "total": 244
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3020300,
    "name": "Exploration",
@@ -8733,6 +8697,42 @@
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1787907378",
    "parent": null,
    "has_demo": true,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4314660,
+   "name": "Victoria 3: State and Revolution - Immersion Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Oct 22, 2026",
+   "precision": "day",
+   "sort_key": 20261022,
+   "developers": [
+    "Paradox Development Studio"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Paradox Development Studio"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4314660/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314660/c34ecba8ac2f62fcb16fa38460b96b7416b8a0e6/capsule_231x87.jpg?t=1788451070",
+   "parent": {
+    "appid": 529340,
+    "name": "Victoria 3"
+   },
+   "has_demo": false,
    "blog_url": null,
    "review": null,
    "leaving_ea": null
