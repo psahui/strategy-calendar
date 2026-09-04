@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-03T21:05:47+00:00",
- "cutoff": "2025-09-03",
+ "generated_at": "2026-09-04T20:48:43+00:00",
+ "cutoff": "2025-09-04",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7849,8 +7849,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 55,
-    "total": 29
+    "pct": 48,
+    "total": 33
    },
    "leaving_ea": null
   },
@@ -7922,9 +7922,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 81,
-    "total": 48
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 64
    },
    "leaving_ea": null
   },
@@ -7988,14 +7988,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2075800/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1787848803",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1788256323",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 2599
+    "pct": 80,
+    "total": 14548
    },
    "leaving_ea": null
   },
@@ -8033,8 +8033,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 26,
-    "total": 31
+    "pct": 32,
+    "total": 163
    },
    "leaving_ea": null
   },
@@ -8457,7 +8457,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3493540/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1788208356",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1788429089",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8597,7 +8597,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3031880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/5ee45f63ef9adcbfd981527a161f5ba119db8625/capsule_231x87.jpg?t=1787220930",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1788423707",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8662,7 +8662,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3219030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1787315723",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1788453298",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
