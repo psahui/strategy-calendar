@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-04T20:48:43+00:00",
- "cutoff": "2025-09-04",
+ "generated_at": "2026-09-05T20:26:17+00:00",
+ "cutoff": "2025-09-05",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -201,7 +201,7 @@
    "review": {
     "desc": "Overwhelmingly Negative",
     "pct": 19,
-    "total": 1081
+    "total": 1080
    },
    "leaving_ea": null
   },
@@ -380,14 +380,14 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3407390/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/9f2ee6ecca69fa997206c328e095d77b431b0501/capsule_231x87.jpg?t=1785942931",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/9f2ee6ecca69fa997206c328e095d77b431b0501/capsule_231x87.jpg?t=1788434636",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 83,
-    "total": 2833
+    "pct": 84,
+    "total": 2867
    },
    "leaving_ea": {
     "date_string": "Sep 17, 2026",
@@ -549,7 +549,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 330
+    "total": 329
    },
    "leaving_ea": null
   },
@@ -859,7 +859,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 89,
-    "total": 62
+    "total": 61
    },
    "leaving_ea": null
   },
@@ -1088,7 +1088,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 55,
-    "total": 12923
+    "total": 12955
    },
    "leaving_ea": null
   },
@@ -1231,14 +1231,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2289750/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289750/1a3a0d403ae0e924f56f5008d4b914e1c0d81343/capsule_231x87.jpg?t=1785511657",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289750/1a3a0d403ae0e924f56f5008d4b914e1c0d81343/capsule_231x87.jpg?t=1787906593",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 5937
+    "total": 5965
    },
    "leaving_ea": null
   },
@@ -1278,7 +1278,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 68,
-    "total": 2177
+    "total": 2181
    },
    "leaving_ea": null
   },
@@ -1382,14 +1382,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3450310/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3450310/316b37af2cab006c4a3900117187223711f3e6f5/capsule_231x87_alt_assets_2.jpg?t=1783587668",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3450310/b38d9e6151305e42163707ded29f2e6fb0d81f52/capsule_231x87.jpg?t=1783587668",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Mixed",
     "pct": 67,
-    "total": 30476
+    "total": 30590
    },
    "leaving_ea": null
   },
@@ -1427,8 +1427,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 50,
-    "total": 16
+    "pct": 56,
+    "total": 18
    },
    "leaving_ea": null
   },
@@ -1467,7 +1467,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 92
+    "total": 93
    },
    "leaving_ea": null
   },
@@ -1625,9 +1625,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "1 user reviews",
-    "pct": 0,
-    "total": 1
+    "desc": "2 user reviews",
+    "pct": 50,
+    "total": 2
    },
    "leaving_ea": null
   },
@@ -1692,14 +1692,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2489330/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489330/caaa3b4a34615707722863e102e007034eaa036a/capsule_231x87.jpg?t=1785510320",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489330/caaa3b4a34615707722863e102e007034eaa036a/capsule_231x87.jpg?t=1788454848",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 92,
-    "total": 3277
+    "total": 3364
    },
    "leaving_ea": null
   },
@@ -1729,14 +1729,14 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3215050/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215050/b62e94f90e2cf76c482fdd102f48feb70b76616b/capsule_231x87.jpg?t=1785520700",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215050/b62e94f90e2cf76c482fdd102f48feb70b76616b/capsule_231x87.jpg?t=1788554398",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 2120
+    "total": 2136
    },
    "leaving_ea": null
   },
@@ -1806,7 +1806,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3889470/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889470/5f3d1350722b1da3519d8cf925998b6fb6c9046e/capsule_231x87.jpg?t=1781089201",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889470/5f3d1350722b1da3519d8cf925998b6fb6c9046e/capsule_231x87.jpg?t=1788276940",
    "parent": {
     "appid": 3215050,
     "name": "Surviving Mars: Relaunched"
@@ -1856,7 +1856,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 191
+    "total": 192
    },
    "leaving_ea": null
   },
@@ -1886,14 +1886,14 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3274580/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274580/2a50b884fd1739a68165fc41af8130197f6c57a4/capsule_231x87.jpg?t=1785862092",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274580/0b34bfd6e03427941c82f5ab3d0d9446c8fe6b52/capsule_231x87_alt_assets_4.jpg?t=1788366062",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 70,
-    "total": 12679
+    "pct": 69,
+    "total": 12724
    },
    "leaving_ea": null
   },
@@ -1923,7 +1923,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3749050/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749050/4b3c7b41441af87fe737cfbabff2e86b7eb97843/capsule_231x87.jpg?t=1777390931",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749050/4b3c7b41441af87fe737cfbabff2e86b7eb97843/capsule_231x87.jpg?t=1787331097",
    "parent": {
     "appid": 3274580,
     "name": "Anno 117: Pax Romana"
@@ -1932,8 +1932,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 34,
-    "total": 251
+    "pct": 35,
+    "total": 255
    },
    "leaving_ea": null
   },
@@ -2126,7 +2126,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 32,
-    "total": 1845
+    "total": 1849
    },
    "leaving_ea": null
   },
@@ -2162,7 +2162,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 99,
-    "total": 156
+    "total": 157
    },
    "leaving_ea": null
   },
@@ -2241,8 +2241,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 43,
-    "total": 261
+    "pct": 42,
+    "total": 262
    },
    "leaving_ea": null
   },
@@ -2438,7 +2438,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 85,
-    "total": 107
+    "total": 106
    },
    "leaving_ea": null
   },
@@ -2477,7 +2477,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 94
+    "total": 93
    },
    "leaving_ea": null
   },
@@ -2558,7 +2558,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 44,
-    "total": 260
+    "total": 261
    },
    "leaving_ea": null
   },
@@ -2639,8 +2639,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 56,
-    "total": 720
+    "pct": 55,
+    "total": 724
    },
    "leaving_ea": null
   },
@@ -2724,7 +2724,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 423
+    "total": 424
    },
    "leaving_ea": null
   },
@@ -3039,7 +3039,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 63,
-    "total": 305
+    "total": 308
    },
    "leaving_ea": null
   },
@@ -3148,14 +3148,14 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/1176470/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/fce27a17721e0d8f2fff4ee712a497ed66bb1432/capsule_231x87.jpg?t=1785860719",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/fce27a17721e0d8f2fff4ee712a497ed66bb1432/capsule_231x87.jpg?t=1787905879",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 80,
-    "total": 9840
+    "total": 9864
    },
    "leaving_ea": null
   },
@@ -3449,14 +3449,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2432860/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432860/f3da7e906c7a3126ad95691f10ee9e8eb8650e09/capsule_231x87.jpg?t=1785511812",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432860/f3da7e906c7a3126ad95691f10ee9e8eb8650e09/capsule_231x87.jpg?t=1787906771",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 13343
+    "total": 13504
    },
    "leaving_ea": null
   },
@@ -3534,7 +3534,7 @@
   },
   {
    "appid": 3874230,
-   "name": "Anno 117: Pax Romana - Marvellous Mosaic Pack",
+   "name": "Anno 117: Pax Romana \u2013 Marvellous Mosaic Pack",
    "type": "dlc",
    "kind": "dlc",
    "status": "released",
@@ -3558,7 +3558,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3874230/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3874230/4943f7d0f329d64ce690dfb807fa55bb34e162e8/capsule_231x87.jpg?t=1771520499",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3874230/4943f7d0f329d64ce690dfb807fa55bb34e162e8/capsule_231x87.jpg?t=1787194435",
    "parent": {
     "appid": 3274580,
     "name": "Anno 117: Pax Romana"
@@ -3821,14 +3821,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2001070/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001070/d11da157519436d71fc631aa3e1c5e74e7fcccbb/capsule_231x87.jpg?t=1785513240",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001070/d11da157519436d71fc631aa3e1c5e74e7fcccbb/capsule_231x87.jpg?t=1787907559",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 2101
+    "total": 2115
    },
    "leaving_ea": null
   },
@@ -3867,7 +3867,7 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 64,
+    "pct": 63,
     "total": 116
    },
    "leaving_ea": null
@@ -4206,7 +4206,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4314630/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314630/193f38bb8dfce5aa57fb6eee1c8c3c6161cdfce7/capsule_231x87.jpg?t=1777371198",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314630/193f38bb8dfce5aa57fb6eee1c8c3c6161cdfce7/capsule_231x87.jpg?t=1788451162",
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
@@ -4246,7 +4246,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4314640/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314640/b4bf8bf2166a9c9a3ccc851bba6f63e60d73dc39/capsule_231x87.jpg?t=1785835016",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314640/b4bf8bf2166a9c9a3ccc851bba6f63e60d73dc39/capsule_231x87.jpg?t=1788451297",
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
@@ -4370,8 +4370,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 89,
-    "total": 198
+    "pct": 90,
+    "total": 201
    },
    "leaving_ea": null
   },
@@ -4641,8 +4641,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 86,
-    "total": 14
+    "pct": 87,
+    "total": 15
    },
    "leaving_ea": null
   },
@@ -4671,14 +4671,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2426530/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/eb6a96094730fc462d2d640b2467d2d1d93186be/capsule_231x87.jpg?t=1785511344",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/eb6a96094730fc462d2d640b2467d2d1d93186be/capsule_231x87.jpg?t=1787906231",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 94,
-    "total": 2266
+    "total": 2293
    },
    "leaving_ea": null
   },
@@ -4717,7 +4717,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 59,
-    "total": 655
+    "total": 669
    },
    "leaving_ea": null
   },
@@ -4756,8 +4756,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 92,
-    "total": 53
+    "pct": 93,
+    "total": 54
    },
    "leaving_ea": null
   },
@@ -4899,14 +4899,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/538030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538030/482bba7eec0556716f0d36f9dc8858b473587f5c/capsule_231x87.jpg?t=1785511935",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538030/482bba7eec0556716f0d36f9dc8858b473587f5c/capsule_231x87.jpg?t=1787906841",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 81,
-    "total": 5761
+    "total": 5794
    },
    "leaving_ea": null
   },
@@ -5101,7 +5101,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 68
+    "total": 69
    },
    "leaving_ea": null
   },
@@ -5257,7 +5257,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 46,
-    "total": 829
+    "total": 833
    },
    "leaving_ea": null
   },
@@ -5476,7 +5476,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4314650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314650/9295797291551c08ccdb1c9d5f11d34cd58abbf6/capsule_231x87.jpg?t=1777370424",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314650/9295797291551c08ccdb1c9d5f11d34cd58abbf6/capsule_231x87.jpg?t=1788451338",
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
@@ -5486,7 +5486,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 24,
-    "total": 667
+    "total": 673
    },
    "leaving_ea": null
   },
@@ -5526,7 +5526,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 85,
-    "total": 95
+    "total": 96
    },
    "leaving_ea": null
   },
@@ -5605,7 +5605,7 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 40,
+    "pct": 41,
     "total": 167
    },
    "leaving_ea": null
@@ -5635,14 +5635,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3105440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1785860711",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1788579886",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 22092
+    "total": 22387
    },
    "leaving_ea": null
   },
@@ -5717,7 +5717,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 33,
-    "total": 1110
+    "total": 1113
    },
    "leaving_ea": null
   },
@@ -5912,7 +5912,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 1216
+    "total": 1223
    },
    "leaving_ea": null
   },
@@ -5950,8 +5950,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 45
+    "pct": 72,
+    "total": 46
    },
    "leaving_ea": null
   },
@@ -5980,14 +5980,14 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/1816640/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1816640/49e525c405a42cc0bac1857efc5ca65fbd6c2dd4/capsule_231x87.jpg?t=1783338566",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1816640/49e525c405a42cc0bac1857efc5ca65fbd6c2dd4/capsule_231x87.jpg?t=1788184913",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Mixed",
     "pct": 59,
-    "total": 289
+    "total": 291
    },
    "leaving_ea": {
     "date_string": "2027",
@@ -6030,7 +6030,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 53,
-    "total": 132
+    "total": 133
    },
    "leaving_ea": null
   },
@@ -6182,8 +6182,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 50,
-    "total": 76
+    "pct": 49,
+    "total": 77
    },
    "leaving_ea": null
   },
@@ -6223,7 +6223,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 30,
-    "total": 719
+    "total": 723
    },
    "leaving_ea": null
   },
@@ -6262,8 +6262,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 49,
-    "total": 500
+    "pct": 48,
+    "total": 503
    },
    "leaving_ea": null
   },
@@ -6384,8 +6384,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 68,
-    "total": 82
+    "pct": 69,
+    "total": 83
    },
    "leaving_ea": null
   },
@@ -6659,7 +6659,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 30,
-    "total": 135
+    "total": 142
    },
    "leaving_ea": null
   },
@@ -6990,8 +6990,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 85,
-    "total": 582
+    "pct": 84,
+    "total": 606
    },
    "leaving_ea": null
   },
@@ -7064,9 +7064,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 70,
-    "total": 10
+    "desc": "Mixed",
+    "pct": 58,
+    "total": 12
    },
    "leaving_ea": null
   },
@@ -7105,8 +7105,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 80,
-    "total": 134
+    "pct": 77,
+    "total": 141
    },
    "leaving_ea": null
   },
@@ -7397,7 +7397,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 86,
-    "total": 3139
+    "total": 3287
    },
    "leaving_ea": null
   },
@@ -7660,7 +7660,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 849
+    "total": 868
    },
    "leaving_ea": null
   },
