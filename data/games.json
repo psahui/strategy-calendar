@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-05T20:26:17+00:00",
- "cutoff": "2025-09-05",
+ "generated_at": "2026-09-06T20:28:01+00:00",
+ "cutoff": "2025-09-06",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -314,7 +314,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 134
+    "total": 135
    },
    "leaving_ea": null
   },
@@ -935,7 +935,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 1651
+    "total": 1665
    },
    "leaving_ea": null
   },
@@ -965,14 +965,14 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/2958130/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/767bbed48a0426d14562f4aba32bd30abefb79ec/capsule_231x87.jpg?t=1785850232",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/767bbed48a0426d14562f4aba32bd30abefb79ec/capsule_231x87.jpg?t=1786453396",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 13330
+    "total": 13448
    },
    "leaving_ea": null
   },
@@ -1052,7 +1052,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 74
+    "total": 75
    },
    "leaving_ea": null
   },
@@ -1313,8 +1313,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 77,
-    "total": 191
+    "pct": 78,
+    "total": 192
    },
    "leaving_ea": null
   },
@@ -2079,14 +2079,14 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/1710820/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1710820/485de60922a80f1e28b9f70a51f08eea16887d99/capsule_231x87.jpg?t=1773803807",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1710820/485de60922a80f1e28b9f70a51f08eea16887d99/capsule_231x87.jpg?t=1788131158",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 96,
-    "total": 3922
+    "total": 3951
    },
    "leaving_ea": null
   },
@@ -2597,8 +2597,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 87,
-    "total": 47
+    "pct": 88,
+    "total": 48
    },
    "leaving_ea": null
   },
@@ -3222,14 +3222,14 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3064810/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064810/1752f4ad36cce5fc2d280aa9213687265e8c0967/capsule_231x87.jpg?t=1779087548",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064810/1752f4ad36cce5fc2d280aa9213687265e8c0967/capsule_231x87.jpg?t=1786988180",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 86,
-    "total": 249
+    "total": 251
    },
    "leaving_ea": null
   },
@@ -3420,7 +3420,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 766
+    "total": 772
    },
    "leaving_ea": null
   },
@@ -3634,14 +3634,14 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/1400660/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400660/91e66b552678b579ed332e627b354a04abe38072/capsule_231x87.jpg?t=1782829873",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400660/91e66b552678b579ed332e627b354a04abe38072/capsule_231x87.jpg?t=1788131270",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 536
+    "total": 541
    },
    "leaving_ea": null
   },
@@ -4870,7 +4870,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 185
+    "total": 186
    },
    "leaving_ea": null
   },
@@ -5060,8 +5060,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 62,
-    "total": 146
+    "pct": 61,
+    "total": 147
    },
    "leaving_ea": null
   },
@@ -5216,8 +5216,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 69,
-    "total": 236
+    "pct": 68,
+    "total": 237
    },
    "leaving_ea": null
   },
@@ -5411,42 +5411,6 @@
     "desc": "Very Positive",
     "pct": 89,
     "total": 53
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 2768380,
-   "name": "Repterra",
-   "type": "game",
-   "kind": "game",
-   "status": "early_access",
-   "date_string": "Apr 28, 2026",
-   "precision": "day",
-   "sort_key": 20260428,
-   "developers": [
-    "Chute Apps"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/2768380/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1786028749",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 93,
-    "total": 124
    },
    "leaving_ea": null
   },
@@ -5746,14 +5710,14 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2599690/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2599690/beaa4985c0839c176ee45d800b99bb01f09edb46/capsule_231x87.jpg?t=1784572967",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2599690/beaa4985c0839c176ee45d800b99bb01f09edb46/capsule_231x87.jpg?t=1788131054",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
     "pct": 73,
-    "total": 1484
+    "total": 1523
    },
    "leaving_ea": null
   },
@@ -6059,14 +6023,14 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3367430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367430/da580ec47d9ab99c0741b17ccbb97625bcd7079a/capsule_231x87.jpg?t=1782399866",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367430/da580ec47d9ab99c0741b17ccbb97625bcd7079a/capsule_231x87.jpg?t=1788130888",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 286
+    "total": 289
    },
    "leaving_ea": null
   },
@@ -6104,9 +6068,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mixed",
-    "pct": 69,
-    "total": 39
+    "desc": "Mostly Positive",
+    "pct": 70,
+    "total": 40
    },
    "leaving_ea": null
   },
@@ -6144,7 +6108,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 57
+    "total": 58
    },
    "leaving_ea": null
   },
@@ -6425,7 +6389,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 60,
-    "total": 280
+    "total": 284
    },
    "leaving_ea": null
   },
@@ -6842,8 +6806,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 81,
-    "total": 64
+    "pct": 82,
+    "total": 65
    },
    "leaving_ea": null
   },
@@ -6918,7 +6882,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 675
+    "total": 684
    },
    "leaving_ea": null
   },
@@ -6955,7 +6919,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 24901
+    "total": 24955
    },
    "leaving_ea": null
   },
@@ -7027,7 +6991,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 344
+    "total": 362
    },
    "leaving_ea": null
   },
@@ -7544,8 +7508,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 92,
-    "total": 163
+    "pct": 91,
+    "total": 167
    },
    "leaving_ea": null
   },
@@ -7696,7 +7660,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 97,
-    "total": 4030
+    "total": 4699
    },
    "leaving_ea": null
   },
@@ -7964,6 +7928,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 2768380,
+   "name": "Repterra",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Aug 20, 2026",
+   "precision": "day",
+   "sort_key": 20260820,
+   "developers": [
+    "Chute Apps"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/2768380/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1788130938",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 92,
+    "total": 130
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 2075800,
    "name": "STAR WARS Zero Company\u2122",
    "type": "game",
@@ -8204,7 +8204,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4535730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/7ab0fa24370a0f7ece0bce399ed92ecc3a62be44/capsule_231x87.jpg?t=1788131321",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/7ab0fa24370a0f7ece0bce399ed92ecc3a62be44/capsule_231x87.jpg?t=1788557957",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
