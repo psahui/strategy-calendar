@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-06T20:28:01+00:00",
- "cutoff": "2025-09-06",
+ "generated_at": "2026-09-07T21:33:48+00:00",
+ "cutoff": "2025-09-07",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7366,38 +7366,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 3743140,
-   "name": "Battleplan",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "Q3 2026",
-   "precision": "quarter",
-   "sort_key": 20260798,
-   "developers": [
-    "Foolish Mortals Games Inc."
-   ],
-   "publishers": [
-    "Slitherine Ltd."
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Slitherine / Matrix"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/3743140/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1785146257",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
    "appid": 4847570,
    "name": "Wingspan Bird Pack: Additional Asian Avians",
    "type": "dlc",
@@ -8637,6 +8605,41 @@
    "leaving_ea": null
   },
   {
+   "appid": 4782620,
+   "name": "ICBM: Escalation - Assassin's Mace",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Oct 13, 2026",
+   "precision": "day",
+   "sort_key": 20261013,
+   "developers": [
+    "SoftWarWare"
+   ],
+   "publishers": [
+    "Slitherine Ltd."
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Slitherine / Matrix"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/4782620/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782620/317a1e49d761ec46011aa41b2668f36f80be7fcc/capsule_231x87.jpg?t=1788773679",
+   "parent": {
+    "appid": 2647680,
+    "name": "ICBM: Escalation"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 3219030,
    "name": "Planet Zoo 2",
    "type": "game",
@@ -8738,6 +8741,38 @@
    "leaving_ea": null
   },
   {
+   "appid": 3743140,
+   "name": "Battleplan",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Q4 2026",
+   "precision": "quarter",
+   "sort_key": 20261098,
+   "developers": [
+    "Foolish Mortals Games Inc."
+   ],
+   "publishers": [
+    "Slitherine Ltd."
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Slitherine / Matrix"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/3743140/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1788807758",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 4232910,
    "name": "Crusader Kings III: Silk & Silver",
    "type": "dlc",
@@ -8767,41 +8802,6 @@
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 4782620,
-   "name": "ICBM: Escalation - Assassin's Mace",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "upcoming",
-   "date_string": "October 2026",
-   "precision": "month",
-   "sort_key": 20261098,
-   "developers": [
-    "SoftWarWare"
-   ],
-   "publishers": [
-    "Slitherine Ltd."
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Slitherine / Matrix"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/4782620/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782620/317a1e49d761ec46011aa41b2668f36f80be7fcc/capsule_231x87.jpg?t=1787320615",
-   "parent": {
-    "appid": 2647680,
-    "name": "ICBM: Escalation"
    },
    "has_demo": false,
    "blog_url": null,
