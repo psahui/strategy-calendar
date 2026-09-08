@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-07T21:33:48+00:00",
- "cutoff": "2025-09-07",
+ "generated_at": "2026-09-08T21:13:20+00:00",
+ "cutoff": "2025-09-08",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,116 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3020300,
-   "name": "Exploration",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Sep 7, 2025",
-   "precision": "day",
-   "sort_key": 20250907,
-   "developers": [
-    "Software 2000"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/3020300/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020300/cce306b13e15aca409f222612fcd59bd0a0d3b91/capsule_231x87.jpg?t=1757290090",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "4 user reviews",
-    "pct": 75,
-    "total": 4
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 2577380,
-   "name": "iM1A2 Abrams",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Sep 7, 2025",
-   "precision": "day",
-   "sort_key": 20250907,
-   "developers": [
-    "Charybdis Enterprises"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/2577380/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577380/00d54f728557ab3b56088a661df2bfae8ac547c0/capsule_231x87.jpg?t=1757290070",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "7 user reviews",
-    "pct": 57,
-    "total": 7
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3761870,
-   "name": "Steel Division 2 - Battle of Dukla Pass",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Sep 7, 2025",
-   "precision": "day",
-   "sort_key": 20250907,
-   "developers": [
-    "Eugen Systems"
-   ],
-   "publishers": [],
-   "dev_groups": [
-    "Eugen Systems"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Wargames",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3761870/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3761870/7518e01a761e250902bf28593605570dd5e3efe5/capsule_231x87.jpg?t=1757313583",
-   "parent": {
-    "appid": 919640,
-    "name": "Steel Division 2"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Positive",
-    "pct": 82,
-    "total": 34
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3315520,
    "name": "Crusader Kings III: Coronations",
@@ -238,7 +128,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 86,
-    "total": 419
+    "total": 423
    },
    "leaving_ea": null
   },
@@ -350,7 +240,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 95,
-    "total": 3513
+    "total": 3531
    },
    "leaving_ea": null
   },
@@ -1202,7 +1092,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 488
+    "total": 493
    },
    "leaving_ea": null
   },
@@ -1352,8 +1242,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 46,
-    "total": 13
+    "pct": 43,
+    "total": 14
    },
    "leaving_ea": null
   },
@@ -3264,9 +3154,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mixed",
-    "pct": 70,
-    "total": 23
+    "desc": "Mostly Positive",
+    "pct": 71,
+    "total": 24
    },
    "leaving_ea": null
   },
@@ -3492,7 +3382,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 74,
-    "total": 300
+    "total": 302
    },
    "leaving_ea": null
   },
@@ -3528,7 +3418,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 309
+    "total": 311
    },
    "leaving_ea": null
   },
@@ -3677,7 +3567,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 419
+    "total": 422
    },
    "leaving_ea": null
   },
@@ -4332,7 +4222,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 925
+    "total": 931
    },
    "leaving_ea": null
   },
@@ -5021,7 +4911,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 1304
+    "total": 1320
    },
    "leaving_ea": null
   },
@@ -5293,7 +5183,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 76,
-    "total": 785
+    "total": 802
    },
    "leaving_ea": null
   },
@@ -7323,9 +7213,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 80,
-    "total": 25
+    "desc": "Mostly Positive",
+    "pct": 78,
+    "total": 27
    },
    "leaving_ea": null
   },
@@ -7657,7 +7547,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4158610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1787086744",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1788767240",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8040,8 +7930,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 79,
-    "total": 283
+    "pct": 71,
+    "total": 542
    },
    "leaving_ea": null
   },
@@ -8079,38 +7969,6 @@
     "pct": 63,
     "total": 54
    },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3901610,
-   "name": "Factory Default: Build, Trade, Repeat",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "Sep 8, 2026",
-   "precision": "day",
-   "sort_key": 20260908,
-   "developers": [
-    "Chett Fitzgerald"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/3901610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901610/8bad37ae0461c7db785c498a3251007fe5e1c76a/capsule_231x87.jpg?t=1786995425",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
    "leaving_ea": null
   },
   {
