@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-08T21:13:20+00:00",
- "cutoff": "2025-09-08",
+ "generated_at": "2026-09-09T20:59:10+00:00",
+ "cutoff": "2025-09-09",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -392,7 +392,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/1330430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1330430/4afc9778b697e291037d9951d65d5e7d17535d97/capsule_231x87.jpg?t=1779696592",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1330430/4afc9778b697e291037d9951d65d5e7d17535d97/capsule_231x87.jpg?t=1787134532",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -3411,7 +3411,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2808560/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808560/8d5e73a17d298c5a408dfa0f622016fe5baaa1ea/capsule_231x87.jpg?t=1776951719",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808560/8d5e73a17d298c5a408dfa0f622016fe5baaa1ea/capsule_231x87.jpg?t=1787238142",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -4904,7 +4904,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/1369700/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369700/888e8b703ef2ecec588f35082ee6c98620fdfc81/capsule_231x87.jpg?t=1786101929",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369700/888e8b703ef2ecec588f35082ee6c98620fdfc81/capsule_231x87.jpg?t=1787043483",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -5176,7 +5176,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2808550/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808550/bfc2c8be05149e10f72a03d7846417ccdb7ce2e5/capsule_231x87_alt_assets_0.jpg?t=1785412566",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808550/b5cb2ffa14cb80c59764619511b6eb52aff35377/capsule_231x87.jpg?t=1785412566",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7976,33 +7976,39 @@
    "name": "Surviving Mars: Relaunched - Feeding the Future",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 8, 2026",
    "precision": "day",
    "sort_key": 20260908,
    "developers": [
     "Haemimont Games"
    ],
-   "publishers": [],
+   "publishers": [
+    "Paradox Interactive"
+   ],
    "dev_groups": [
     "Haemimont Games"
    ],
    "pub_groups": [
-    "Other publishers"
+    "Paradox Interactive"
    ],
    "collections": [
     "Strategy (general)",
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3889430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889430/2c8fb638732d8ad6acac52a16546b94a7006db1d/capsule_231x87.jpg?t=1787144552",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889430/2c8fb638732d8ad6acac52a16546b94a7006db1d/capsule_231x87.jpg?t=1788860830",
    "parent": {
     "appid": 3215050,
     "name": "Surviving Mars: Relaunched"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 56,
+    "total": 16
+   },
    "leaving_ea": null
   },
   {
@@ -8134,7 +8140,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1787134855",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1788963374",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8172,7 +8178,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/c6537689f71765734721a64effbf24a31d075405/capsule_231x87.jpg?t=1787134507",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/c6537689f71765734721a64effbf24a31d075405/capsule_231x87.jpg?t=1788963317",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8210,7 +8216,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589660/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/e41b1bc23f7cd3a2ccccddb9bb33456b319bb34f/capsule_231x87.jpg?t=1787134730",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/e41b1bc23f7cd3a2ccccddb9bb33456b319bb34f/capsule_231x87.jpg?t=1788963228",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8248,7 +8254,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589680/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1787135078",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1788963261",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8423,7 +8429,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3031880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1788423707",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1788962410",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8555,7 +8561,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1787907378",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1788984861",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8623,7 +8629,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3743140/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1788807758",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1788857881",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8694,38 +8700,6 @@
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447650/3e34f7b789d63cffd002e40fef0e3dff92cb53cf/capsule_231x87.jpg?t=1785411971",
    "parent": null,
    "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 3640650,
-   "name": "Iron Dice",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "November 2026",
-   "precision": "month",
-   "sort_key": 20261198,
-   "developers": [
-    "Steady State Scientific Computing"
-   ],
-   "publishers": [
-    "Steady State Scientific Computing"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Indie radar"
-   ],
-   "url": "https://store.steampowered.com/app/3640650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3640650/6b1eed38c8e6bdecf695fcfcccee53ad7e956c58/capsule_231x87_alt_assets_0.jpg?t=1787340596",
-   "parent": null,
-   "has_demo": true,
    "blog_url": null,
    "review": null,
    "leaving_ea": null
@@ -9302,7 +9276,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3216150/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216150/a386f5369b555ebd53134e07a7f04d9ff756c3f2/capsule_231x87.jpg?t=1786082215",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216150/a386f5369b555ebd53134e07a7f04d9ff756c3f2/capsule_231x87.jpg?t=1788921508",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
