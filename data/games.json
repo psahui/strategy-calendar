@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T20:54:48+00:00",
- "cutoff": "2025-09-10",
+ "generated_at": "2026-09-11T21:00:51+00:00",
+ "cutoff": "2025-09-11",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,43 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 1509970,
-   "name": "Celestial Empire: Prologue",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Sep 10, 2025",
-   "precision": "day",
-   "sort_key": 20250910,
-   "developers": [
-    "President Studio"
-   ],
-   "publishers": [
-    "President Studio",
-    "PlayWay S.A."
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Indie radar"
-   ],
-   "url": "https://store.steampowered.com/app/1509970/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509970/6b6ecf19aa10732a7c5e8d343648feff02d9c4cd/capsule_231x87.jpg?t=1757579875",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 86,
-    "total": 423
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3317800,
    "name": "Apache  Longbow",
@@ -7705,8 +7668,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 69,
-    "total": 64
+    "pct": 68,
+    "total": 69
    },
    "leaving_ea": null
   },
@@ -7811,9 +7774,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 80,
-    "total": 14548
+    "desc": "Very Positive",
+    "pct": 82,
+    "total": 18656
    },
    "leaving_ea": null
   },
@@ -7851,8 +7814,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 32,
-    "total": 163
+    "pct": 34,
+    "total": 181
    },
    "leaving_ea": null
   },
@@ -8030,7 +7993,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3201730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1788179132",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1789134912",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8063,7 +8026,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/2403830/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1789060377",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1789111429",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8352,7 +8315,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4847610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847610/9821193680bf170accd64d1346dc9d42f98281f8/capsule_231x87.jpg?t=1787119813",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847610/9821193680bf170accd64d1346dc9d42f98281f8/capsule_231x87.jpg?t=1789024638",
    "parent": {
     "appid": 1054490,
     "name": "Wingspan"
@@ -8554,7 +8517,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1788984861",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1789034744",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8786,7 +8749,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1787906692",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1789129509",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8850,7 +8813,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2189430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/0c6c8a5df85dd95c5af85c63b4bcde9b7784e608/capsule_231x87.jpg?t=1787906006",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/0c6c8a5df85dd95c5af85c63b4bcde9b7784e608/capsule_231x87.jpg?t=1789103568",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
