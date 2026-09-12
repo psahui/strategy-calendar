@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-11T21:00:51+00:00",
- "cutoff": "2025-09-11",
+ "generated_at": "2026-09-12T20:37:39+00:00",
+ "cutoff": "2025-09-12",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -200,7 +200,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 2867
+    "total": 2908
    },
    "leaving_ea": {
     "date_string": "Sep 17, 2026",
@@ -362,7 +362,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 329
+    "total": 330
    },
    "leaving_ea": null
   },
@@ -901,7 +901,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 55,
-    "total": 12955
+    "total": 12980
    },
    "leaving_ea": null
   },
@@ -979,7 +979,7 @@
    "review": {
     "desc": "Very Negative",
     "pct": 11,
-    "total": 119
+    "total": 120
    },
    "leaving_ea": null
   },
@@ -1051,7 +1051,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 5965
+    "total": 5988
    },
    "leaving_ea": null
   },
@@ -1091,7 +1091,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 68,
-    "total": 2181
+    "total": 2182
    },
    "leaving_ea": null
   },
@@ -1202,7 +1202,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 67,
-    "total": 30590
+    "total": 30677
    },
    "leaving_ea": null
   },
@@ -1280,7 +1280,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 93
+    "total": 92
    },
    "leaving_ea": null
   },
@@ -1398,9 +1398,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "9 user reviews",
-    "pct": 89,
-    "total": 9
+    "desc": "Positive",
+    "pct": 80,
+    "total": 10
    },
    "leaving_ea": null
   },
@@ -1512,7 +1512,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 92,
-    "total": 3364
+    "total": 3563
    },
    "leaving_ea": null
   },
@@ -1548,8 +1548,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 54,
-    "total": 2136
+    "pct": 55,
+    "total": 2237
    },
    "leaving_ea": null
   },
@@ -1706,7 +1706,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 12724
+    "total": 12756
    },
    "leaving_ea": null
   },
@@ -1746,7 +1746,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 35,
-    "total": 255
+    "total": 256
    },
    "leaving_ea": null
   },
@@ -1939,7 +1939,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 32,
-    "total": 1849
+    "total": 1853
    },
    "leaving_ea": null
   },
@@ -2371,7 +2371,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 44,
-    "total": 261
+    "total": 263
    },
    "leaving_ea": null
   },
@@ -2453,7 +2453,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 55,
-    "total": 724
+    "total": 726
    },
    "leaving_ea": null
   },
@@ -2495,7 +2495,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 60,
-    "total": 443
+    "total": 445
    },
    "leaving_ea": null
   },
@@ -2537,7 +2537,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 424
+    "total": 426
    },
    "leaving_ea": null
   },
@@ -2851,8 +2851,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 63,
-    "total": 308
+    "pct": 61,
+    "total": 313
    },
    "leaving_ea": null
   },
@@ -2931,7 +2931,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 168
+    "total": 167
    },
    "leaving_ea": null
   },
@@ -2968,7 +2968,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 80,
-    "total": 9864
+    "total": 9899
    },
    "leaving_ea": null
   },
@@ -3269,7 +3269,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 13504
+    "total": 13591
    },
    "leaving_ea": null
   },
@@ -3603,9 +3603,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "4 user reviews",
-    "pct": 100,
-    "total": 4
+    "desc": "5 user reviews",
+    "pct": 80,
+    "total": 5
    },
    "leaving_ea": null
   },
@@ -3641,7 +3641,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 2115
+    "total": 2122
    },
    "leaving_ea": null
   },
@@ -3681,7 +3681,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 63,
-    "total": 116
+    "total": 115
    },
    "leaving_ea": null
   },
@@ -4109,7 +4109,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 50,
-    "total": 111
+    "total": 113
    },
    "leaving_ea": null
   },
@@ -4184,7 +4184,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 201
+    "total": 203
    },
    "leaving_ea": null
   },
@@ -4490,8 +4490,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 94,
-    "total": 2293
+    "pct": 93,
+    "total": 2318
    },
    "leaving_ea": null
   },
@@ -4530,7 +4530,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 59,
-    "total": 669
+    "total": 670
    },
    "leaving_ea": null
   },
@@ -4719,7 +4719,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 81,
-    "total": 5794
+    "total": 5811
    },
    "leaving_ea": null
   },
@@ -4913,8 +4913,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 93,
-    "total": 69
+    "pct": 92,
+    "total": 71
    },
    "leaving_ea": null
   },
@@ -4952,9 +4952,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 80,
-    "total": 49
+    "desc": "Very Positive",
+    "pct": 81,
+    "total": 52
    },
    "leaving_ea": null
   },
@@ -5070,7 +5070,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 46,
-    "total": 833
+    "total": 836
    },
    "leaving_ea": null
   },
@@ -5183,8 +5183,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 41,
-    "total": 167
+    "pct": 40,
+    "total": 168
    },
    "leaving_ea": null
   },
@@ -5263,7 +5263,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 24,
-    "total": 673
+    "total": 680
    },
    "leaving_ea": null
   },
@@ -5342,8 +5342,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 36
+    "pct": 73,
+    "total": 37
    },
    "leaving_ea": null
   },
@@ -5383,7 +5383,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 41,
-    "total": 167
+    "total": 169
    },
    "leaving_ea": null
   },
@@ -5419,7 +5419,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 22387
+    "total": 22605
    },
    "leaving_ea": null
   },
@@ -5494,7 +5494,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 33,
-    "total": 1113
+    "total": 1116
    },
    "leaving_ea": null
   },
@@ -5689,7 +5689,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 1223
+    "total": 1228
    },
    "leaving_ea": null
   },
@@ -5806,8 +5806,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 53,
-    "total": 133
+    "pct": 52,
+    "total": 134
    },
    "leaving_ea": null
   },
@@ -6000,7 +6000,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 30,
-    "total": 723
+    "total": 725
    },
    "leaving_ea": null
   },
@@ -6040,7 +6040,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 48,
-    "total": 503
+    "total": 508
    },
    "leaving_ea": null
   },
@@ -6161,7 +6161,7 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 69,
+    "pct": 67,
     "total": 83
    },
    "leaving_ea": null
@@ -6278,9 +6278,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "2 user reviews",
-    "pct": 0,
-    "total": 2
+    "desc": "3 user reviews",
+    "pct": 33,
+    "total": 3
    },
    "leaving_ea": null
   },
@@ -6435,8 +6435,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 30,
-    "total": 142
+    "pct": 29,
+    "total": 147
    },
    "leaving_ea": null
   },
@@ -6473,7 +6473,11 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 0,
+    "total": 1
+   },
    "leaving_ea": null
   },
   {
@@ -6768,7 +6772,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 606
+    "total": 625
    },
    "leaving_ea": null
   },
@@ -6883,7 +6887,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 77,
-    "total": 141
+    "total": 145
    },
    "leaving_ea": null
   },
@@ -7174,7 +7178,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 86,
-    "total": 3287
+    "total": 3361
    },
    "leaving_ea": null
   },
@@ -7405,7 +7409,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 868
+    "total": 879
    },
    "leaving_ea": null
   },
@@ -7470,7 +7474,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4158610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1788767240",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1788941197",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
