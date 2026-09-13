@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-12T20:37:39+00:00",
- "cutoff": "2025-09-12",
+ "generated_at": "2026-09-13T20:53:39+00:00",
+ "cutoff": "2025-09-13",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -748,7 +748,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 1665
+    "total": 1675
    },
    "leaving_ea": null
   },
@@ -785,7 +785,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 13448
+    "total": 13516
    },
    "leaving_ea": null
   },
@@ -824,8 +824,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 80,
-    "total": 69
+    "pct": 79,
+    "total": 71
    },
    "leaving_ea": null
   },
@@ -865,7 +865,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 75
+    "total": 76
    },
    "leaving_ea": null
   },
@@ -1783,8 +1783,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 45
+    "pct": 74,
+    "total": 46
    },
    "leaving_ea": null
   },
@@ -1899,7 +1899,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 96,
-    "total": 3951
+    "total": 3975
    },
    "leaving_ea": null
   },
@@ -2410,8 +2410,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 88,
-    "total": 48
+    "pct": 86,
+    "total": 49
    },
    "leaving_ea": null
   },
@@ -2616,7 +2616,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 104
+    "total": 106
    },
    "leaving_ea": null
   },
@@ -3232,8 +3232,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 90,
-    "total": 772
+    "pct": 89,
+    "total": 778
    },
    "leaving_ea": null
   },
@@ -3454,7 +3454,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 541
+    "total": 545
    },
    "leaving_ea": null
   },
@@ -4682,8 +4682,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 83,
-    "total": 186
+    "pct": 84,
+    "total": 188
    },
    "leaving_ea": null
   },
@@ -5030,7 +5030,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 68,
-    "total": 237
+    "total": 238
    },
    "leaving_ea": null
   },
@@ -5530,7 +5530,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 73,
-    "total": 1523
+    "total": 1547
    },
    "leaving_ea": null
   },
@@ -5843,7 +5843,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 289
+    "total": 291
    },
    "leaving_ea": null
   },
@@ -5881,9 +5881,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 70,
-    "total": 40
+    "desc": "Mixed",
+    "pct": 68,
+    "total": 41
    },
    "leaving_ea": null
   },
@@ -5921,7 +5921,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 58
+    "total": 59
    },
    "leaving_ea": null
   },
@@ -6202,7 +6202,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 60,
-    "total": 284
+    "total": 286
    },
    "leaving_ea": null
   },
@@ -6699,7 +6699,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 684
+    "total": 688
    },
    "leaving_ea": null
   },
@@ -6736,7 +6736,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 24955
+    "total": 24997
    },
    "leaving_ea": null
   },
@@ -6807,8 +6807,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 90,
-    "total": 362
+    "pct": 89,
+    "total": 374
    },
    "leaving_ea": null
   },
@@ -7294,7 +7294,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 167
+    "total": 171
    },
    "leaving_ea": null
   },
@@ -7445,7 +7445,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 97,
-    "total": 4699
+    "total": 4943
    },
    "leaving_ea": null
   },
@@ -7743,8 +7743,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 92,
-    "total": 130
+    "pct": 91,
+    "total": 137
    },
    "leaving_ea": null
   },
