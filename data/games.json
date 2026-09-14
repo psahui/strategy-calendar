@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-13T20:53:39+00:00",
- "cutoff": "2025-09-13",
+ "generated_at": "2026-09-14T21:52:37+00:00",
+ "cutoff": "2025-09-14",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7997,7 +7997,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3201730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1789134912",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1789395922",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8402,9 +8402,9 @@
    "type": "game",
    "kind": "game",
    "status": "upcoming",
-   "date_string": "Oct 12, 2026",
+   "date_string": "Oct 13, 2026",
    "precision": "day",
-   "sort_key": 20261012,
+   "sort_key": 20261013,
    "developers": [
     "Galactic Ghosty"
    ],
@@ -8421,7 +8421,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2644100/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1786351565",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1789384198",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8689,7 +8689,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1537440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1787906733",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1789393710",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8883,7 +8883,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1447250/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1787905839",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1789394005",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
