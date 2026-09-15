@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14T21:52:37+00:00",
- "cutoff": "2025-09-14",
+ "generated_at": "2026-09-15T21:25:46+00:00",
+ "cutoff": "2025-09-15",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,42 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3317800,
-   "name": "Apache  Longbow",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Sep 14, 2025",
-   "precision": "day",
-   "sort_key": 20250914,
-   "developers": [
-    "Digital Integration"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/3317800/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317800/591817b6755ee574827a6be2c4c318d5e10457e0/capsule_231x87.jpg?t=1757898799",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "5 user reviews",
-    "pct": 80,
-    "total": 5
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3902620,
    "name": "Planet Coaster 2: Sorcery Pack",
@@ -163,7 +127,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 95,
-    "total": 3531
+    "total": 3549
    },
    "leaving_ea": null
   },
@@ -321,8 +285,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 90,
-    "total": 725
+    "pct": 89,
+    "total": 728
    },
    "leaving_ea": null
   },
@@ -1015,7 +979,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 493
+    "total": 494
    },
    "leaving_ea": null
   },
@@ -1167,6 +1131,84 @@
     "desc": "Mixed",
     "pct": 43,
     "total": 14
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2427743,
+   "name": "Cities: Skylines II - Bridges & Ports",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Oct 29, 2025",
+   "precision": "day",
+   "sort_key": 20251029,
+   "developers": [
+    "Colossal Order"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2427743/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427743/53c4776113f01d6821a75d3bd7d1a030a50380a8/capsule_231x87.jpg?t=1764600381",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 53,
+    "total": 587
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2427746,
+   "name": "Cities: Skylines II - Cold Wave Channel",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Oct 29, 2025",
+   "precision": "day",
+   "sort_key": 20251029,
+   "developers": [
+    "Paradox Interactive"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2427746/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427746/2103bd6a8449d10948b694f40b4bf5a365a2f703/capsule_231x87.jpg?t=1764600787",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 73,
+    "total": 45
    },
    "leaving_ea": null
   },
@@ -1476,7 +1518,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 131
+    "total": 134
    },
    "leaving_ea": null
   },
@@ -1862,8 +1904,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 84,
-    "total": 82
+    "pct": 85,
+    "total": 84
    },
    "leaving_ea": null
   },
@@ -3305,7 +3347,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 74,
-    "total": 302
+    "total": 303
    },
    "leaving_ea": null
   },
@@ -3489,8 +3531,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 422
+    "pct": 71,
+    "total": 424
    },
    "leaving_ea": null
   },
@@ -4145,7 +4187,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 931
+    "total": 934
    },
    "leaving_ea": null
   },
@@ -4834,7 +4876,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 1320
+    "total": 1337
    },
    "leaving_ea": null
   },
@@ -5106,7 +5148,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 76,
-    "total": 802
+    "total": 809
    },
    "leaving_ea": null
   },
@@ -5222,8 +5264,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 89,
-    "total": 53
+    "pct": 87,
+    "total": 55
    },
    "leaving_ea": null
   },
@@ -6207,6 +6249,45 @@
    "leaving_ea": null
   },
   {
+   "appid": 3930240,
+   "name": "Across the Obelisk: The Shattered Remnant",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Jun 17, 2026",
+   "precision": "day",
+   "sort_key": 20260617,
+   "developers": [
+    "Dreamsite Games"
+   ],
+   "publishers": [
+    "Paradox Arc"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3930240/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930240/7270624fe59c9221cd5098294736ff69c898a99f/capsule_231x87.jpg?t=1789460044",
+   "parent": {
+    "appid": 1385380,
+    "name": "Across the Obelisk"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Negative",
+    "pct": 39,
+    "total": 18
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3874260,
    "name": "Anno 117: Pax Romana \u2013 Blooming Cities Pack",
    "type": "dlc",
@@ -6765,7 +6846,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3219010/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/99952a0ddcfd4d3e77bd2589347204a0d7ea2265/capsule_231x87.jpg?t=1787907655",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/99952a0ddcfd4d3e77bd2589347204a0d7ea2265/capsule_231x87.jpg?t=1789393832",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7141,8 +7222,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 78,
-    "total": 27
+    "pct": 75,
+    "total": 28
    },
    "leaving_ea": null
   },
@@ -7856,9 +7937,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 542
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 575
    },
    "leaving_ea": null
   },
@@ -7935,6 +8016,300 @@
     "desc": "Mixed",
     "pct": 56,
     "total": 16
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3725980,
+   "name": "Cities: Skylines II - Downtown Market Set",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 15, 2026",
+   "precision": "day",
+   "sort_key": 20260915,
+   "developers": [
+    "Iceflake Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3725980/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725980/f0d2c17b78fb8317c1678748908bf504ffbc5f33/capsule_231x87.jpg?t=1789487808",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "4 user reviews",
+    "pct": 100,
+    "total": 4
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3579840,
+   "name": "Cities: Skylines II - Expansion Pass 2",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Sep 15, 2026",
+   "precision": "day",
+   "sort_key": 20260915,
+   "developers": [
+    "Iceflake Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3579840/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3579840/0967582ebdec5fbad9464680bc80da7d5f653d92/capsule_231x87.jpg?t=1789489828",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 5067870,
+   "name": "Sid Meier's Civilization\u00ae VII: Babylon Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 15, 2026",
+   "precision": "day",
+   "sort_key": 20260915,
+   "developers": [
+    "Firaxis Games"
+   ],
+   "publishers": [
+    "2K"
+   ],
+   "dev_groups": [
+    "Firaxis Games"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5067870/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067870/e004b32fc4d084bdbc9979273c20ff84410be842/capsule_231x87.jpg?t=1789480502",
+   "parent": {
+    "appid": 1295660,
+    "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 5067840,
+   "name": "Sid Meier's Civilization\u00ae VII: Elizabeth I Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 15, 2026",
+   "precision": "day",
+   "sort_key": 20260915,
+   "developers": [
+    "Firaxis Games"
+   ],
+   "publishers": [
+    "2K"
+   ],
+   "dev_groups": [
+    "Firaxis Games"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5067840/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067840/97d5052d947d76def19cc171b6d5e7471cf382f2/capsule_231x87.jpg?t=1789480486",
+   "parent": {
+    "appid": 1295660,
+    "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 5067880,
+   "name": "Sid Meier's Civilization\u00ae VII: England Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 15, 2026",
+   "precision": "day",
+   "sort_key": 20260915,
+   "developers": [
+    "Firaxis Games"
+   ],
+   "publishers": [
+    "2K"
+   ],
+   "dev_groups": [
+    "Firaxis Games"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5067880/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067880/01111116f7cfe4106b7a20ca483a63b371556242/capsule_231x87.jpg?t=1789480497",
+   "parent": {
+    "appid": 1295660,
+    "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 5067860,
+   "name": "Sid Meier's Civilization\u00ae VII: Gauls Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 15, 2026",
+   "precision": "day",
+   "sort_key": 20260915,
+   "developers": [
+    "Firaxis Games"
+   ],
+   "publishers": [
+    "2K"
+   ],
+   "dev_groups": [
+    "Firaxis Games"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5067860/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067860/024dee459a8f506224514af9f665f33c99a170af/capsule_231x87.jpg?t=1789480499",
+   "parent": {
+    "appid": 1295660,
+    "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 5067850,
+   "name": "Sid Meier's Civilization\u00ae VII: George Washington Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 15, 2026",
+   "precision": "day",
+   "sort_key": 20260915,
+   "developers": [
+    "Firaxis Games"
+   ],
+   "publishers": [
+    "2K"
+   ],
+   "dev_groups": [
+    "Firaxis Games"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5067850/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067850/98ccb4099bcb7f43788a78240dada6b8c34d222a/capsule_231x87.jpg?t=1789480497",
+   "parent": {
+    "appid": 1295660,
+    "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 5032530,
+   "name": "Sid Meier's Civilization\u00ae VII: Hall of History Collection",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 15, 2026",
+   "precision": "day",
+   "sort_key": 20260915,
+   "developers": [
+    "Firaxis Games"
+   ],
+   "publishers": [
+    "2K"
+   ],
+   "dev_groups": [
+    "Firaxis Games"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5032530/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032530/0042b727901eff592a0ec5602a14683895ab29fc/capsule_231x87.jpg?t=1789480991",
+   "parent": {
+    "appid": 1295660,
+    "name": "Sid Meier's Civilization VII"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 80,
+    "total": 10
    },
    "leaving_ea": null
   },
@@ -8397,6 +8772,41 @@
    "leaving_ea": null
   },
   {
+   "appid": 4565610,
+   "name": "Heart of the Machine - Kinship",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "upcoming",
+   "date_string": "Oct 12, 2026",
+   "precision": "day",
+   "sort_key": 20261012,
+   "developers": [
+    "Arcen Games"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4565610/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565610/60cb1a428d7603d36915c3003fd12fdd04714ef8/capsule_231x87.jpg?t=1789477273",
+   "parent": {
+    "appid": 2001070,
+    "name": "Heart of the Machine"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 2644100,
    "name": "Allogloom",
    "type": "game",
@@ -8490,6 +8900,40 @@
    ],
    "url": "https://store.steampowered.com/app/3219030/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1788453298",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3846830,
+   "name": "Total War: SHOGUN 2 - Complete Edition",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Oct 13, 2026",
+   "precision": "day",
+   "sort_key": 20261013,
+   "developers": [
+    "Creative Assembly",
+    "MATABOO"
+   ],
+   "publishers": [
+    "SEGA"
+   ],
+   "dev_groups": [
+    "Creative Assembly"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3846830/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/3aac12897252e0b0726d8a882a90ed3c83a0ccfa/capsule_231x87.jpg?t=1789489801",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8591,6 +9035,41 @@
    "url": "https://store.steampowered.com/app/3743140/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1788857881",
    "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4544310,
+   "name": "Cities: Skylines II - Park Adventures",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Q4 2026",
+   "precision": "quarter",
+   "sort_key": 20261098,
+   "developers": [
+    "Iceflake Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4544310/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544310/c4b3cd027b650257299dbf0c1125c0472856144b/capsule_231x87.jpg?t=1789487767",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
    "has_demo": false,
    "blog_url": null,
    "review": null,
@@ -9045,6 +9524,181 @@
    "url": "https://store.steampowered.com/app/1853440/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1787766896",
    "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4544350,
+   "name": "Cities: Skylines II - Corner Street Beats",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Q1 2027",
+   "precision": "quarter",
+   "sort_key": 20270198,
+   "developers": [
+    "Iceflake Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4544350/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544350/ae47c2aad453dc3b49b5966498770dbf225152f7/capsule_231x87.jpg?t=1789487790",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4544320,
+   "name": "Cities: Skylines II - Creator Pack: First Response",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "upcoming",
+   "date_string": "Q1 2027",
+   "precision": "quarter",
+   "sort_key": 20270198,
+   "developers": [
+    "Arthaix"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4544320/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544320/2d30306deeb13151496bc5bece8e6c8ca900765a/capsule_231x87.jpg?t=1789487785",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4544340,
+   "name": "Cities: Skylines II - Creator Pack: Modern Suburbs",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "upcoming",
+   "date_string": "Q1 2027",
+   "precision": "quarter",
+   "sort_key": 20270198,
+   "developers": [
+    "Trist1322"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4544340/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544340/bb933eb2277866ca3efd2b948fe119eeee1bffbc/capsule_231x87.jpg?t=1789487788",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4544360,
+   "name": "Cities: Skylines II - City Vacations",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Q2 2027",
+   "precision": "quarter",
+   "sort_key": 20270498,
+   "developers": [
+    "Iceflake Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4544360/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544360/aa13fa165752d5ab2bc1e85b8fc579bb54d299eb/capsule_231x87.jpg?t=1789487793",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4544370,
+   "name": "Cities: Skylines II - Creator Pack: Map Pack",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "upcoming",
+   "date_string": "Q2 2027",
+   "precision": "quarter",
+   "sort_key": 20270498,
+   "developers": [
+    "Uncle Ron"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4544370/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544370/b1f0ca70952ec5fd93ddf2bac7e0a2f38e2cbe98/capsule_231x87.jpg?t=1789487796",
+   "parent": {
+    "appid": 949230,
+    "name": "Cities: Skylines II"
+   },
    "has_demo": false,
    "blog_url": null,
    "review": null,
