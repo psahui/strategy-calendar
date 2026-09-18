@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17T21:26:42+00:00",
- "cutoff": "2025-09-17",
+ "generated_at": "2026-09-18T20:57:19+00:00",
+ "cutoff": "2025-09-18",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,42 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 2885870,
-   "name": "Strange Antiquities",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Sep 17, 2025",
-   "precision": "day",
-   "sort_key": 20250917,
-   "developers": [
-    "Bad Viking"
-   ],
-   "publishers": [
-    "Iceberg Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Iceberg Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/2885870/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2885870/d21f711aacd73cf8aa99c7ec3c92f114afad8609/capsule_231x87.jpg?t=1778730364",
-   "parent": null,
-   "has_demo": true,
-   "blog_url": null,
-   "review": {
-    "desc": "Overwhelmingly Positive",
-    "pct": 95,
-    "total": 3549
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3407390,
    "name": "ENDLESS Legend\u2122 2",
@@ -7814,7 +7778,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2075800/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1788256323",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1789484366",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
