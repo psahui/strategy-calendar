@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18T20:57:19+00:00",
- "cutoff": "2025-09-18",
+ "generated_at": "2026-09-19T20:45:59+00:00",
+ "cutoff": "2025-09-19",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -88,13 +88,9 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 2908
+    "total": 3248
    },
-   "leaving_ea": {
-    "date_string": "Sep 17, 2026",
-    "precision": "day",
-    "sort_key": 20260917
-   }
+   "leaving_ea": null
   },
   {
    "appid": 3760760,
@@ -131,8 +127,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 83,
-    "total": 12
+    "pct": 86,
+    "total": 14
    },
    "leaving_ea": null
   },
@@ -173,7 +169,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 43,
-    "total": 387
+    "total": 389
    },
    "leaving_ea": null
   },
@@ -249,8 +245,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 330
+    "pct": 70,
+    "total": 331
    },
    "leaving_ea": null
   },
@@ -789,7 +785,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 55,
-    "total": 12980
+    "total": 13014
    },
    "leaving_ea": null
   },
@@ -867,7 +863,7 @@
    "review": {
     "desc": "Very Negative",
     "pct": 11,
-    "total": 120
+    "total": 122
    },
    "leaving_ea": null
   },
@@ -939,7 +935,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 5988
+    "total": 5996
    },
    "leaving_ea": null
   },
@@ -979,7 +975,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 68,
-    "total": 2182
+    "total": 2181
    },
    "leaving_ea": null
   },
@@ -1168,7 +1164,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 67,
-    "total": 30677
+    "total": 30762
    },
    "leaving_ea": null
   },
@@ -1206,8 +1202,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 56,
-    "total": 18
+    "pct": 53,
+    "total": 19
    },
    "leaving_ea": null
   },
@@ -1246,7 +1242,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 92
+    "total": 93
    },
    "leaving_ea": null
   },
@@ -1478,7 +1474,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 92,
-    "total": 3563
+    "total": 3708
    },
    "leaving_ea": null
   },
@@ -1515,7 +1511,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 55,
-    "total": 2237
+    "total": 2416
    },
    "leaving_ea": null
   },
@@ -1635,7 +1631,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 192
+    "total": 194
    },
    "leaving_ea": null
   },
@@ -1672,7 +1668,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 12756
+    "total": 12796
    },
    "leaving_ea": null
   },
@@ -1711,8 +1707,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 35,
-    "total": 256
+    "pct": 34,
+    "total": 260
    },
    "leaving_ea": null
   },
@@ -1905,7 +1901,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 32,
-    "total": 1853
+    "total": 1854
    },
    "leaving_ea": null
   },
@@ -1941,7 +1937,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 99,
-    "total": 157
+    "total": 159
    },
    "leaving_ea": null
   },
@@ -2021,7 +2017,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 42,
-    "total": 262
+    "total": 263
    },
    "leaving_ea": null
   },
@@ -2419,7 +2415,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 55,
-    "total": 726
+    "total": 730
    },
    "leaving_ea": null
   },
@@ -2460,8 +2456,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 60,
-    "total": 445
+    "pct": 59,
+    "total": 448
    },
    "leaving_ea": null
   },
@@ -2657,8 +2653,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 74,
-    "total": 95
+    "pct": 73,
+    "total": 96
    },
    "leaving_ea": null
   },
@@ -2817,8 +2813,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 61,
-    "total": 313
+    "pct": 60,
+    "total": 318
    },
    "leaving_ea": null
   },
@@ -2934,7 +2930,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 80,
-    "total": 9899
+    "total": 9923
    },
    "leaving_ea": null
   },
@@ -3235,7 +3231,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 13591
+    "total": 13657
    },
    "leaving_ea": null
   },
@@ -3569,9 +3565,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "5 user reviews",
-    "pct": 80,
-    "total": 5
+    "desc": "6 user reviews",
+    "pct": 83,
+    "total": 6
    },
    "leaving_ea": null
   },
@@ -3607,7 +3603,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 2122
+    "total": 2129
    },
    "leaving_ea": null
   },
@@ -3646,8 +3642,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 63,
-    "total": 115
+    "pct": 62,
+    "total": 117
    },
    "leaving_ea": null
   },
@@ -3803,7 +3799,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 41,
-    "total": 104
+    "total": 105
    },
    "leaving_ea": null
   },
@@ -3994,8 +3990,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 66,
-    "total": 77
+    "pct": 67,
+    "total": 78
    },
    "leaving_ea": null
   },
@@ -4150,7 +4146,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 203
+    "total": 205
    },
    "leaving_ea": null
   },
@@ -4226,9 +4222,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "1 user reviews",
+    "desc": "2 user reviews",
     "pct": 100,
-    "total": 1
+    "total": 2
    },
    "leaving_ea": null
   },
@@ -4456,8 +4452,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 93,
-    "total": 2318
+    "pct": 94,
+    "total": 2339
    },
    "leaving_ea": null
   },
@@ -4496,7 +4492,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 59,
-    "total": 670
+    "total": 671
    },
    "leaving_ea": null
   },
@@ -4685,7 +4681,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 81,
-    "total": 5811
+    "total": 5831
    },
    "leaving_ea": null
   },
@@ -4763,8 +4759,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 92,
-    "total": 65
+    "pct": 91,
+    "total": 66
    },
    "leaving_ea": null
   },
@@ -4880,7 +4876,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 92,
-    "total": 71
+    "total": 72
    },
    "leaving_ea": null
   },
@@ -4920,7 +4916,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 81,
-    "total": 52
+    "total": 53
    },
    "leaving_ea": null
   },
@@ -5036,7 +5032,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 46,
-    "total": 836
+    "total": 839
    },
    "leaving_ea": null
   },
@@ -5150,7 +5146,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 40,
-    "total": 168
+    "total": 170
    },
    "leaving_ea": null
   },
@@ -5229,7 +5225,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 24,
-    "total": 680
+    "total": 682
    },
    "leaving_ea": null
   },
@@ -5349,7 +5345,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 41,
-    "total": 169
+    "total": 170
    },
    "leaving_ea": null
   },
@@ -5385,7 +5381,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 22605
+    "total": 22775
    },
    "leaving_ea": null
   },
@@ -5460,7 +5456,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 33,
-    "total": 1116
+    "total": 1117
    },
    "leaving_ea": null
   },
@@ -5655,7 +5651,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 1228
+    "total": 1233
    },
    "leaving_ea": null
   },
@@ -5693,8 +5689,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 46
+    "pct": 71,
+    "total": 48
    },
    "leaving_ea": null
   },
@@ -5729,8 +5725,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 59,
-    "total": 291
+    "pct": 60,
+    "total": 293
    },
    "leaving_ea": {
     "date_string": "2027",
@@ -5772,8 +5768,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 52,
-    "total": 134
+    "pct": 53,
+    "total": 138
    },
    "leaving_ea": null
   },
@@ -5966,7 +5962,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 30,
-    "total": 725
+    "total": 729
    },
    "leaving_ea": null
   },
@@ -6006,7 +6002,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 48,
-    "total": 508
+    "total": 510
    },
    "leaving_ea": null
   },
@@ -6127,8 +6123,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 83
+    "pct": 66,
+    "total": 85
    },
    "leaving_ea": null
   },
@@ -6243,9 +6239,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 41
+    "desc": "Mixed",
+    "pct": 70,
+    "total": 43
    },
    "leaving_ea": null
   },
@@ -6399,9 +6395,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "1 user reviews",
+    "desc": "2 user reviews",
     "pct": 100,
-    "total": 1
+    "total": 2
    },
    "leaving_ea": null
   },
@@ -6440,8 +6436,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 29,
-    "total": 147
+    "pct": 28,
+    "total": 149
    },
    "leaving_ea": null
   },
@@ -6777,7 +6773,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 625
+    "total": 644
    },
    "leaving_ea": null
   },
@@ -6892,7 +6888,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 77,
-    "total": 145
+    "total": 147
    },
    "leaving_ea": null
   },
@@ -6922,7 +6918,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/2939040/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939040/6cf800ab39f21ea0815f28a35b49c3c968c8353e/capsule_231x87.jpg?t=1785171354",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939040/6cf800ab39f21ea0815f28a35b49c3c968c8353e/capsule_231x87.jpg?t=1789748618",
    "parent": {
     "appid": 1176470,
     "name": "Terra Invicta"
@@ -7176,14 +7172,14 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1368140/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/9317363cb16926256a8e15b2dd91eee8203e4f11/capsule_231x87.jpg?t=1787906322",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/9317363cb16926256a8e15b2dd91eee8203e4f11/capsule_231x87.jpg?t=1789670492",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 86,
-    "total": 3361
+    "total": 3454
    },
    "leaving_ea": null
   },
@@ -7414,7 +7410,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 879
+    "total": 884
    },
    "leaving_ea": null
   },
@@ -7443,7 +7439,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2764460/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1787905620",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1789668493",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7603,8 +7599,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 48,
-    "total": 33
+    "pct": 51,
+    "total": 37
    },
    "leaving_ea": null
   },
@@ -7677,8 +7673,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 68,
-    "total": 69
+    "pct": 69,
+    "total": 70
    },
    "leaving_ea": null
   },
@@ -7784,8 +7780,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 82,
-    "total": 18656
+    "pct": 83,
+    "total": 20661
    },
    "leaving_ea": null
   },
@@ -7824,7 +7820,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 34,
-    "total": 181
+    "total": 187
    },
    "leaving_ea": null
   },
@@ -8007,7 +8003,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3579840/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3579840/0967582ebdec5fbad9464680bc80da7d5f653d92/capsule_231x87.jpg?t=1789489828",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3579840/0967582ebdec5fbad9464680bc80da7d5f653d92/capsule_231x87.jpg?t=1789565110",
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
@@ -8043,7 +8039,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5067870/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067870/e004b32fc4d084bdbc9979273c20ff84410be842/capsule_231x87.jpg?t=1789480502",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067870/e004b32fc4d084bdbc9979273c20ff84410be842/capsule_231x87.jpg?t=1789647828",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8115,7 +8111,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5067880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067880/01111116f7cfe4106b7a20ca483a63b371556242/capsule_231x87.jpg?t=1789480497",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067880/01111116f7cfe4106b7a20ca483a63b371556242/capsule_231x87.jpg?t=1789647866",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8151,7 +8147,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5067860/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067860/024dee459a8f506224514af9f665f33c99a170af/capsule_231x87.jpg?t=1789480499",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067860/024dee459a8f506224514af9f665f33c99a170af/capsule_231x87.jpg?t=1789647820",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8223,7 +8219,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5032530/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032530/0042b727901eff592a0ec5602a14683895ab29fc/capsule_231x87.jpg?t=1789480991",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032530/0042b727901eff592a0ec5602a14683895ab29fc/capsule_231x87.jpg?t=1789727560",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8377,7 +8373,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/2403830/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1789111429",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1789788742",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8596,7 +8592,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3493540/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1788429089",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1789729374",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
