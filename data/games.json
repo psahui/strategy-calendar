@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-20T20:53:05+00:00",
- "cutoff": "2025-09-20",
+ "generated_at": "2026-09-21T22:01:05+00:00",
+ "cutoff": "2025-09-21",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -476,8 +476,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 66,
-    "total": 92
+    "pct": 67,
+    "total": 91
    },
    "leaving_ea": null
   },
@@ -632,7 +632,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 1675
+    "total": 1680
    },
    "leaving_ea": null
   },
@@ -669,7 +669,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 13516
+    "total": 13615
    },
    "leaving_ea": null
   },
@@ -748,8 +748,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 84,
-    "total": 76
+    "pct": 85,
+    "total": 78
    },
    "leaving_ea": null
   },
@@ -1745,8 +1745,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 74,
-    "total": 46
+    "pct": 76,
+    "total": 45
    },
    "leaving_ea": null
   },
@@ -1861,7 +1861,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 96,
-    "total": 3975
+    "total": 3985
    },
    "leaving_ea": null
   },
@@ -2578,7 +2578,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 106
+    "total": 107
    },
    "leaving_ea": null
   },
@@ -2967,8 +2967,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 53,
-    "total": 47
+    "pct": 54,
+    "total": 46
    },
    "leaving_ea": null
   },
@@ -3194,8 +3194,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 89,
-    "total": 778
+    "pct": 90,
+    "total": 782
    },
    "leaving_ea": null
   },
@@ -3530,8 +3530,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 48
+    "pct": 72,
+    "total": 47
    },
    "leaving_ea": null
   },
@@ -4718,9 +4718,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "6 user reviews",
+    "desc": "7 user reviews",
     "pct": 100,
-    "total": 6
+    "total": 7
    },
    "leaving_ea": null
   },
@@ -4835,8 +4835,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 61,
-    "total": 147
+    "pct": 62,
+    "total": 146
    },
    "leaving_ea": null
   },
@@ -5492,7 +5492,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 73,
-    "total": 1547
+    "total": 1570
    },
    "leaving_ea": null
   },
@@ -5805,7 +5805,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 291
+    "total": 292
    },
    "leaving_ea": null
   },
@@ -6164,7 +6164,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 60,
-    "total": 286
+    "total": 287
    },
    "leaving_ea": null
   },
@@ -6699,8 +6699,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 688
+    "pct": 70,
+    "total": 693
    },
    "leaving_ea": null
   },
@@ -6737,7 +6737,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 24997
+    "total": 25023
    },
    "leaving_ea": null
   },
@@ -6809,7 +6809,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 89,
-    "total": 374
+    "total": 383
    },
    "leaving_ea": null
   },
@@ -7290,12 +7290,12 @@
    "url": "https://store.steampowered.com/app/896250/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896250/64618068899d3976521373ee56e2ae857a3e7f5b/capsule_231x87.jpg?t=1787037396",
    "parent": null,
-   "has_demo": false,
+   "has_demo": true,
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 171
+    "total": 174
    },
    "leaving_ea": null
   },
@@ -7446,7 +7446,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 97,
-    "total": 4943
+    "total": 5126
    },
    "leaving_ea": null
   },
@@ -7745,7 +7745,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 137
+    "total": 138
    },
    "leaving_ea": null
   },
@@ -7774,7 +7774,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2075800/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1789484366",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1790002768",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8336,7 +8336,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3201730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1789656532",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1789716651",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8352,7 +8352,7 @@
    "name": "Brave New Wonders",
    "type": "game",
    "kind": "game",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 20, 2026",
    "precision": "day",
    "sort_key": 20260920,
@@ -8373,11 +8373,15 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/2403830/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1789788742",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1790022131",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 78,
+    "total": 18
+   },
    "leaving_ea": null
   },
   {
@@ -9033,7 +9037,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4544310/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544310/c4b3cd027b650257299dbf0c1125c0472856144b/capsule_231x87.jpg?t=1789487767",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544310/c4b3cd027b650257299dbf0c1125c0472856144b/capsule_231x87.jpg?t=1790006392",
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
