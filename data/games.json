@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-21T22:01:05+00:00",
- "cutoff": "2025-09-21",
+ "generated_at": "2026-09-22T21:23:41+00:00",
+ "cutoff": "2025-09-22",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -8039,7 +8039,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5067870/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067870/e004b32fc4d084bdbc9979273c20ff84410be842/capsule_231x87.jpg?t=1789647828",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067870/e004b32fc4d084bdbc9979273c20ff84410be842/capsule_231x87.jpg?t=1790086867",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8075,7 +8075,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5067840/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067840/97d5052d947d76def19cc171b6d5e7471cf382f2/capsule_231x87.jpg?t=1789480486",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067840/97d5052d947d76def19cc171b6d5e7471cf382f2/capsule_231x87.jpg?t=1790086872",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8111,7 +8111,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5067880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067880/01111116f7cfe4106b7a20ca483a63b371556242/capsule_231x87.jpg?t=1789647866",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067880/01111116f7cfe4106b7a20ca483a63b371556242/capsule_231x87.jpg?t=1790088121",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8147,7 +8147,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5067860/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067860/024dee459a8f506224514af9f665f33c99a170af/capsule_231x87.jpg?t=1789647820",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067860/024dee459a8f506224514af9f665f33c99a170af/capsule_231x87.jpg?t=1790087678",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8183,7 +8183,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5067850/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067850/98ccb4099bcb7f43788a78240dada6b8c34d222a/capsule_231x87.jpg?t=1789480497",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067850/98ccb4099bcb7f43788a78240dada6b8c34d222a/capsule_231x87.jpg?t=1790086870",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8219,7 +8219,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5032530/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032530/0042b727901eff592a0ec5602a14683895ab29fc/capsule_231x87.jpg?t=1789727560",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032530/0042b727901eff592a0ec5602a14683895ab29fc/capsule_231x87.jpg?t=1790088117",
    "parent": {
     "appid": 1295660,
     "name": "Sid Meier's Civilization VII"
@@ -8382,6 +8382,41 @@
     "pct": 78,
     "total": 18
    },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4868680,
+   "name": "Across the Obelisk: Deadly Sins Season Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 22, 2026",
+   "precision": "day",
+   "sort_key": 20260922,
+   "developers": [
+    "Frag Games"
+   ],
+   "publishers": [
+    "Paradox Arc"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4868680/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868680/93f23bc89697437f9f86fe24ee14c68036fe7022/capsule_231x87.jpg?t=1790078859",
+   "parent": {
+    "appid": 1385380,
+    "name": "Across the Obelisk"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -8565,6 +8600,42 @@
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 5125950,
+   "name": "Jurassic World Evolution 3: Prehistoric East",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Sep 29, 2026",
+   "precision": "day",
+   "sort_key": 20260929,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5125950/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790071158",
+   "parent": {
+    "appid": 2958130,
+    "name": "Jurassic World Evolution 3"
    },
    "has_demo": false,
    "blog_url": null,
