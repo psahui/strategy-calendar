@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T21:23:41+00:00",
- "cutoff": "2025-09-22",
+ "generated_at": "2026-09-23T21:33:26+00:00",
+ "cutoff": "2025-09-23",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -56,124 +56,6 @@
  ],
  "items": [
   {
-   "appid": 3407390,
-   "name": "ENDLESS Legend\u2122 2",
-   "type": "game",
-   "kind": "game",
-   "status": "early_access",
-   "date_string": "Sep 22, 2025",
-   "precision": "day",
-   "sort_key": 20250922,
-   "developers": [
-    "AMPLITUDE Studios"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Amplitude Studios"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3407390/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/9f2ee6ecca69fa997206c328e095d77b431b0501/capsule_231x87.jpg?t=1788434636",
-   "parent": null,
-   "has_demo": true,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 84,
-    "total": 3248
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3760760,
-   "name": "ENDLESS Legend\u2122 2 - Supporter Pack",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Sep 22, 2025",
-   "precision": "day",
-   "sort_key": 20250922,
-   "developers": [
-    "AMPLITUDE Studios"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Amplitude Studios"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3760760/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760760/2fbf761bfd22e2cc4a63035c2b2631ea99caa424/capsule_231x87.jpg?t=1780927183",
-   "parent": {
-    "appid": 3407390,
-    "name": "ENDLESS Legend\u2122 2"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Positive",
-    "pct": 86,
-    "total": 14
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3417850,
-   "name": "Stellaris: Shadows of the Shroud",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Sep 22, 2025",
-   "precision": "day",
-   "sort_key": 20250922,
-   "developers": [
-    "Paradox Development Studio",
-    "Abrakam"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Paradox Development Studio"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3417850/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417850/894ae0c7f83466e10a68e8f4102703d61bcdf2bd/capsule_231x87.jpg?t=1768991185",
-   "parent": {
-    "appid": 281990,
-    "name": "Stellaris"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 43,
-    "total": 389
-   },
-   "leaving_ea": null
-  },
-  {
    "appid": 1330430,
    "name": "Celestial Empire",
    "type": "game",
@@ -206,7 +88,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 89,
-    "total": 728
+    "total": 731
    },
    "leaving_ea": null
   },
@@ -899,7 +781,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 494
+    "total": 499
    },
    "leaving_ea": null
   },
@@ -3266,8 +3148,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 74,
-    "total": 303
+    "pct": 75,
+    "total": 307
    },
    "leaving_ea": null
   },
@@ -3303,7 +3185,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 311
+    "total": 313
    },
    "leaving_ea": null
   },
@@ -3380,7 +3262,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 119
+    "total": 120
    },
    "leaving_ea": null
   },
@@ -3452,7 +3334,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 424
+    "total": 427
    },
    "leaving_ea": null
   },
@@ -4796,7 +4678,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 1337
+    "total": 1352
    },
    "leaving_ea": null
   },
@@ -5068,7 +4950,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 76,
-    "total": 809
+    "total": 816
    },
    "leaving_ea": null
   },
@@ -5184,8 +5066,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 87,
-    "total": 55
+    "pct": 88,
+    "total": 56
    },
    "leaving_ea": null
   },
@@ -7738,7 +7620,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2768380/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1789414101",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1789938170",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7859,7 +7741,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 575
+    "total": 592
    },
    "leaving_ea": null
   },
@@ -7934,8 +7816,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 70,
-    "total": 33
+    "pct": 68,
+    "total": 40
    },
    "leaving_ea": null
   },
@@ -7972,9 +7854,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "4 user reviews",
-    "pct": 100,
-    "total": 4
+    "desc": "Mixed",
+    "pct": 67,
+    "total": 12
    },
    "leaving_ea": null
   },
@@ -8010,7 +7892,11 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 100,
+    "total": 13
+   },
    "leaving_ea": null
   },
   {
@@ -8190,7 +8076,11 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 100,
+    "total": 1
+   },
    "leaving_ea": null
   },
   {
@@ -8227,9 +8117,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 80,
-    "total": 10
+    "desc": "Mixed",
+    "pct": 57,
+    "total": 51
    },
    "leaving_ea": null
   },
@@ -8258,14 +8148,14 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4535730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/c11919862e731a440f125ffadcc04d31aed637a3/capsule_231x87.jpg?t=1789702995",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/c11919862e731a440f125ffadcc04d31aed637a3/capsule_231x87.jpg?t=1790081444",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 100,
-    "total": 10
+    "pct": 97,
+    "total": 36
    },
    "leaving_ea": null
   },
@@ -8424,7 +8314,7 @@
    "name": "Terminator: Dark Fate - Defiance: Evolution",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 22, 2026",
    "precision": "day",
    "sort_key": 20260922,
@@ -8444,14 +8334,18 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4157110/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157110/406636070633de2036a0f003c498d7244564b782/capsule_231x87.jpg?t=1789858779",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157110/406636070633de2036a0f003c498d7244564b782/capsule_231x87.jpg?t=1790154954",
    "parent": {
     "appid": 1839950,
     "name": "Terminator: Dark Fate - Defiance"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 44,
+    "total": 66
+   },
    "leaving_ea": null
   },
   {
@@ -8906,7 +8800,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2644100/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1789384198",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1790119673",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -9275,7 +9169,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87_alt_assets_0.jpg?t=1789668120",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1789668120",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9339,7 +9233,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2189430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87_alt_assets_0.jpg?t=1789670005",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/0c6c8a5df85dd95c5af85c63b4bcde9b7784e608/capsule_231x87.jpg?t=1789670005",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
