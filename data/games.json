@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23T21:33:26+00:00",
- "cutoff": "2025-09-23",
+ "generated_at": "2026-09-24T21:34:18+00:00",
+ "cutoff": "2025-09-24",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,83 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 1330430,
-   "name": "Celestial Empire",
-   "type": "game",
-   "kind": "game",
-   "status": "early_access",
-   "date_string": "Sep 23, 2025",
-   "precision": "day",
-   "sort_key": 20250923,
-   "developers": [
-    "President Studio"
-   ],
-   "publishers": [
-    "PlayWay S.A.",
-    "President Studio"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Indie radar"
-   ],
-   "url": "https://store.steampowered.com/app/1330430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1330430/4afc9778b697e291037d9951d65d5e7d17535d97/capsule_231x87.jpg?t=1787134532",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 89,
-    "total": 731
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3562730,
-   "name": "Victoria 3: National Awakening - Immersion Pack",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Sep 23, 2025",
-   "precision": "day",
-   "sort_key": 20250923,
-   "developers": [
-    "Paradox Development Studio"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Paradox Development Studio"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3562730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562730/2d204208a8a2916da467b769e3842bd43f28f6f8/capsule_231x87.jpg?t=1781519815",
-   "parent": {
-    "appid": 529340,
-    "name": "Victoria 3"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mostly Positive",
-    "pct": 70,
-    "total": 331
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3731510,
    "name": "Cities: Skylines - Content Creator Pack: Map Pack 4",
@@ -7216,8 +7139,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 97
+    "pct": 70,
+    "total": 107
    },
    "leaving_ea": null
   },
@@ -7363,8 +7286,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 85,
-    "total": 41
+    "pct": 87,
+    "total": 45
    },
    "leaving_ea": null
   },
@@ -7441,8 +7364,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 62,
-    "total": 39
+    "pct": 63,
+    "total": 38
    },
    "leaving_ea": null
   },
@@ -7777,7 +7700,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 75,
-    "total": 116
+    "total": 122
    },
    "leaving_ea": null
   },
@@ -8193,9 +8116,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "5 user reviews",
-    "pct": 40,
-    "total": 5
+    "desc": "Mixed",
+    "pct": 53,
+    "total": 17
    },
    "leaving_ea": null
   },
@@ -8231,9 +8154,9 @@
    "has_demo": true,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 100,
-    "total": 14
+    "desc": "Very Positive",
+    "pct": 96,
+    "total": 122
    },
    "leaving_ea": null
   },
@@ -8353,7 +8276,7 @@
    "name": "Total War: WARHAMMER III - Boris Todbringer \u2013 Lords of the End Times",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 24, 2026",
    "precision": "day",
    "sort_key": 20260924,
@@ -8376,14 +8299,18 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1788963374",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1790258443",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 58,
+    "total": 57
+   },
    "leaving_ea": null
   },
   {
@@ -8391,7 +8318,7 @@
    "name": "Total War: WARHAMMER III - Nagash \u2013 Lords of the End Times",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 24, 2026",
    "precision": "day",
    "sort_key": 20260924,
@@ -8414,14 +8341,18 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/c6537689f71765734721a64effbf24a31d075405/capsule_231x87.jpg?t=1788963317",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/c6537689f71765734721a64effbf24a31d075405/capsule_231x87.jpg?t=1790258328",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 81,
+    "total": 156
+   },
    "leaving_ea": null
   },
   {
@@ -8429,7 +8360,7 @@
    "name": "Total War: WARHAMMER III - Thanquol \u2013 Lords of the End Times",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 24, 2026",
    "precision": "day",
    "sort_key": 20260924,
@@ -8452,14 +8383,18 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589660/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/e41b1bc23f7cd3a2ccccddb9bb33456b319bb34f/capsule_231x87.jpg?t=1788963228",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/e41b1bc23f7cd3a2ccccddb9bb33456b319bb34f/capsule_231x87.jpg?t=1790258411",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 67
+   },
    "leaving_ea": null
   },
   {
@@ -8467,7 +8402,7 @@
    "name": "Total War: WARHAMMER III - The Glottkin \u2013 Lords of the End Times",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 24, 2026",
    "precision": "day",
    "sort_key": 20260924,
@@ -8490,14 +8425,18 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589680/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1788963261",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1790258376",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 70,
+    "total": 27
+   },
    "leaving_ea": null
   },
   {
@@ -8526,43 +8465,11 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5125950/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790071158",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790238813",
    "parent": {
     "appid": 2958130,
     "name": "Jurassic World Evolution 3"
    },
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 3493540,
-   "name": "Transport Fever 3",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "Sep 29, 2026",
-   "precision": "day",
-   "sort_key": 20260929,
-   "developers": [
-    "Urban Games"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/3493540/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1789729374",
-   "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": null,
@@ -8776,38 +8683,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 2644100,
-   "name": "Allogloom",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "Oct 13, 2026",
-   "precision": "day",
-   "sort_key": 20261013,
-   "developers": [
-    "Galactic Ghosty"
-   ],
-   "publishers": [
-    "Iceberg Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Iceberg Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/2644100/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1790119673",
-   "parent": null,
-   "has_demo": true,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
    "appid": 4782620,
    "name": "ICBM: Escalation - Assassin's Mace",
    "type": "dlc",
@@ -8837,39 +8712,6 @@
     "appid": 2647680,
     "name": "ICBM: Escalation"
    },
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 3219030,
-   "name": "Planet Zoo 2",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "Oct 13, 2026",
-   "precision": "day",
-   "sort_key": 20261013,
-   "developers": [
-    "Frontier Developments"
-   ],
-   "publishers": [
-    "Frontier Developments"
-   ],
-   "dev_groups": [
-    "Frontier Developments"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3219030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1788453298",
-   "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": null,
@@ -9241,40 +9083,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 4043740,
-   "name": "Hero's Hour 2",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    "Benjamin \"ThingOnItsOwn\" Hauer",
-    "Unleash The Giraffe",
-    "LautaroArino"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/4043740/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043740/243e353f9620c1cffd12cba5e733ff4a2ab9274d/capsule_231x87.jpg?t=1787908062",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
    "appid": 1447250,
    "name": "Junxions",
    "type": "game",
@@ -9428,38 +9236,6 @@
    ],
    "url": "https://store.steampowered.com/app/2439030/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1789668487",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 1853440,
-   "name": "Tropico 7",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "Jan 28, 2027",
-   "precision": "day",
-   "sort_key": 20270128,
-   "developers": [
-    " Gaming Minds Studios"
-   ],
-   "publishers": [
-    "Kalypso Media"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Kalypso Media"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/1853440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1787766896",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
