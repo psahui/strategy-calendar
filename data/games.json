@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-24T21:34:18+00:00",
- "cutoff": "2025-09-24",
+ "generated_at": "2026-09-25T21:38:24+00:00",
+ "cutoff": "2025-09-25",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,123 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3731510,
-   "name": "Cities: Skylines - Content Creator Pack: Map Pack 4",
-   "type": "dlc",
-   "kind": "minor_dlc",
-   "status": "released",
-   "date_string": "Sep 24, 2025",
-   "precision": "day",
-   "sort_key": 20250924,
-   "developers": [
-    "\u2018Uncle Ron\u2019"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/3731510/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731510/aac81eba84c090f4e22ead6b410135aa08b9ff76/capsule_231x87.jpg?t=1758701242",
-   "parent": {
-    "appid": 255710,
-    "name": "Cities: Skylines"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Positive",
-    "pct": 80,
-    "total": 15
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3731500,
-   "name": "Cities: Skylines - Content Creator Pack: Shops of Shibuya",
-   "type": "dlc",
-   "kind": "minor_dlc",
-   "status": "released",
-   "date_string": "Sep 24, 2025",
-   "precision": "day",
-   "sort_key": 20250924,
-   "developers": [
-    "\u2018Stop it D\u2019"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/3731500/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731500/55e116ee78c80c246b12e97db2e71f3bfdfee387/capsule_231x87.jpg?t=1759753573",
-   "parent": {
-    "appid": 255710,
-    "name": "Cities: Skylines"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 50,
-    "total": 10
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3731530,
-   "name": "Cities: Skylines - Harumi Nights FM",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Sep 24, 2025",
-   "precision": "day",
-   "sort_key": 20250924,
-   "developers": [
-    "Paradox Interactive"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/3731530/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731530/83a675c908d9959894042dc36bf9dccaf5c93caf/capsule_231x87.jpg?t=1758701245",
-   "parent": {
-    "appid": 255710,
-    "name": "Cities: Skylines"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "8 user reviews",
-    "pct": 75,
-    "total": 8
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3976880,
    "name": "Age of Wonders 4: Cosmic Wanderer",
@@ -6938,7 +6821,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4519150/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519150/67a81a80c1e33f518a22a31e970686e595c7943d/capsule_231x87.jpg?t=1785412780",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519150/67a81a80c1e33f518a22a31e970686e595c7943d/capsule_231x87.jpg?t=1790060584",
    "parent": {
     "appid": 2808550,
     "name": "Sudden Strike 5"
@@ -6949,42 +6832,6 @@
     "desc": "Mostly Positive",
     "pct": 75,
     "total": 28
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 1368140,
-   "name": "Corsair Cove",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Jul 31, 2026",
-   "precision": "day",
-   "sort_key": 20260731,
-   "developers": [
-    "Limbic Entertainment"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/1368140/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/9317363cb16926256a8e15b2dd91eee8203e4f11/capsule_231x87.jpg?t=1789670492",
-   "parent": null,
-   "has_demo": true,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 86,
-    "total": 3454
    },
    "leaving_ea": null
   },
@@ -7256,42 +7103,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 4158610,
-   "name": "TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age",
-   "type": "game",
-   "kind": "game",
-   "status": "early_access",
-   "date_string": "Aug 18, 2026",
-   "precision": "day",
-   "sort_key": 20260818,
-   "developers": [
-    "Wield Interactive"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/4158610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/8b981b02bd94ed912962f812d45ecb21c762a54c/capsule_231x87.jpg?t=1788941197",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Positive",
-    "pct": 87,
-    "total": 45
-   },
-   "leaving_ea": null
-  },
-  {
    "appid": 4961870,
    "name": "Planet Coaster 2: Silver Screen Pack",
    "type": "dlc",
@@ -7551,42 +7362,6 @@
     "desc": "Very Positive",
     "pct": 91,
     "total": 138
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 2075800,
-   "name": "STAR WARS Zero Company\u2122",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Aug 27, 2026",
-   "precision": "day",
-   "sort_key": 20260827,
-   "developers": [
-    "Bit Reactor"
-   ],
-   "publishers": [
-    "Electronic Arts"
-   ],
-   "dev_groups": [
-    "Bit Reactor"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/2075800/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1790002768",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 83,
-    "total": 20661
    },
    "leaving_ea": null
   },
@@ -8123,44 +7898,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 3201730,
-   "name": "Flamecraft",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Sep 17, 2026",
-   "precision": "day",
-   "sort_key": 20260917,
-   "developers": [
-    "Monster Couch"
-   ],
-   "publishers": [
-    "Monster Couch",
-    "Cardboard Alchemy"
-   ],
-   "dev_groups": [
-    "Monster Couch"
-   ],
-   "pub_groups": [
-    "Monster Couch"
-   ],
-   "collections": [
-    "Digital board games",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3201730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1789716651",
-   "parent": null,
-   "has_demo": true,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 96,
-    "total": 122
-   },
-   "leaving_ea": null
-  },
-  {
    "appid": 2403830,
    "name": "Brave New Wonders",
    "type": "game",
@@ -8186,7 +7923,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/2403830/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1790022131",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1790304316",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8465,7 +8202,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5125950/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790238813",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790331050",
    "parent": {
     "appid": 2958130,
     "name": "Jurassic World Evolution 3"
@@ -8752,6 +8489,41 @@
    "leaving_ea": null
   },
   {
+   "appid": 5224130,
+   "name": "Darkenstein 3D: Total Trampage",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Oct 14, 2026",
+   "precision": "day",
+   "sort_key": 20261014,
+   "developers": [
+    "Rowye"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/5224130/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224130/53e959b4bfe7356d3ac97dc0a76e85ec5f5650ac/capsule_231x87.jpg?t=1790334019",
+   "parent": {
+    "appid": 2195910,
+    "name": "Darkenstein 3D"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 2295060,
    "name": "Beyond These Stars",
    "type": "game",
@@ -8979,7 +8751,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1490930/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1789668858",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1790366812",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9011,7 +8783,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1789668120",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87_alt_assets_1.jpg?t=1789668120",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9043,7 +8815,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1672320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1789668857",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1790366965",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9075,7 +8847,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2189430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/0c6c8a5df85dd95c5af85c63b4bcde9b7784e608/capsule_231x87.jpg?t=1789670005",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87_alt_assets_1.jpg?t=1789670005",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
