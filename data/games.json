@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-25T21:38:24+00:00",
- "cutoff": "2025-09-25",
+ "generated_at": "2026-09-26T21:14:44+00:00",
+ "cutoff": "2025-09-26",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -90,8 +90,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 60,
-    "total": 15
+    "pct": 56,
+    "total": 16
    },
    "leaving_ea": null
   },
@@ -242,9 +242,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Very Positive",
-    "pct": 89,
-    "total": 61
+    "desc": "Mostly Positive",
+    "pct": 78,
+    "total": 68
    },
    "leaving_ea": null
   },
@@ -473,7 +473,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 55,
-    "total": 13014
+    "total": 13148
    },
    "leaving_ea": null
   },
@@ -510,9 +510,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "4 user reviews",
-    "pct": 75,
-    "total": 4
+    "desc": "5 user reviews",
+    "pct": 80,
+    "total": 5
    },
    "leaving_ea": null
   },
@@ -550,8 +550,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Negative",
-    "pct": 11,
-    "total": 122
+    "pct": 10,
+    "total": 126
    },
    "leaving_ea": null
   },
@@ -623,7 +623,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 5996
+    "total": 6009
    },
    "leaving_ea": null
   },
@@ -662,8 +662,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 68,
-    "total": 2181
+    "pct": 67,
+    "total": 2208
    },
    "leaving_ea": null
   },
@@ -851,8 +851,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 30762
+    "pct": 60,
+    "total": 33525
    },
    "leaving_ea": null
   },
@@ -929,8 +929,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 54,
-    "total": 93
+    "pct": 40,
+    "total": 127
    },
    "leaving_ea": null
   },
@@ -1162,7 +1162,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 92,
-    "total": 3708
+    "total": 3770
    },
    "leaving_ea": null
   },
@@ -1198,8 +1198,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 55,
-    "total": 2416
+    "pct": 56,
+    "total": 2497
    },
    "leaving_ea": null
   },
@@ -1318,8 +1318,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 194
+    "pct": 71,
+    "total": 196
    },
    "leaving_ea": null
   },
@@ -1356,7 +1356,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 12796
+    "total": 12843
    },
    "leaving_ea": null
   },
@@ -1395,8 +1395,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 34,
-    "total": 260
+    "pct": 33,
+    "total": 267
    },
    "leaving_ea": null
   },
@@ -1588,8 +1588,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 32,
-    "total": 1854
+    "pct": 30,
+    "total": 1974
    },
    "leaving_ea": null
   },
@@ -1625,7 +1625,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 99,
-    "total": 159
+    "total": 160
    },
    "leaving_ea": null
   },
@@ -1705,7 +1705,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 42,
-    "total": 263
+    "total": 268
    },
    "leaving_ea": null
   },
@@ -1900,8 +1900,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 85,
-    "total": 106
+    "pct": 81,
+    "total": 113
    },
    "leaving_ea": null
   },
@@ -1938,9 +1938,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Very Positive",
-    "pct": 84,
-    "total": 93
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 100
    },
    "leaving_ea": null
   },
@@ -2021,7 +2021,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 44,
-    "total": 263
+    "total": 266
    },
    "leaving_ea": null
   },
@@ -2103,7 +2103,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 55,
-    "total": 730
+    "total": 735
    },
    "leaving_ea": null
   },
@@ -2144,8 +2144,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 59,
-    "total": 448
+    "pct": 60,
+    "total": 452
    },
    "leaving_ea": null
   },
@@ -2187,7 +2187,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 426
+    "total": 430
    },
    "leaving_ea": null
   },
@@ -2341,8 +2341,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 96
+    "pct": 71,
+    "total": 98
    },
    "leaving_ea": null
   },
@@ -2501,8 +2501,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 60,
-    "total": 318
+    "pct": 61,
+    "total": 319
    },
    "leaving_ea": null
   },
@@ -2579,9 +2579,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Very Positive",
-    "pct": 83,
-    "total": 167
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 175
    },
    "leaving_ea": null
   },
@@ -2618,7 +2618,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 80,
-    "total": 9923
+    "total": 9942
    },
    "leaving_ea": null
   },
@@ -2767,8 +2767,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 77,
-    "total": 69
+    "pct": 76,
+    "total": 71
    },
    "leaving_ea": null
   },
@@ -2806,8 +2806,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 63
+    "pct": 66,
+    "total": 64
    },
    "leaving_ea": null
   },
@@ -2845,9 +2845,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 88,
-    "total": 17
+    "desc": "Mostly Positive",
+    "pct": 79,
+    "total": 19
    },
    "leaving_ea": null
   },
@@ -2919,7 +2919,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 13657
+    "total": 13708
    },
    "leaving_ea": null
   },
@@ -3290,8 +3290,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 91,
-    "total": 2129
+    "pct": 92,
+    "total": 2136
    },
    "leaving_ea": null
   },
@@ -3330,8 +3330,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 62,
-    "total": 117
+    "pct": 61,
+    "total": 119
    },
    "leaving_ea": null
   },
@@ -3486,8 +3486,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 41,
-    "total": 105
+    "pct": 40,
+    "total": 107
    },
    "leaving_ea": null
   },
@@ -3524,9 +3524,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Very Positive",
-    "pct": 80,
-    "total": 61
+    "desc": "Mostly Positive",
+    "pct": 77,
+    "total": 64
    },
    "leaving_ea": null
   },
@@ -3563,9 +3563,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 28
+    "desc": "Mixed",
+    "pct": 67,
+    "total": 30
    },
    "leaving_ea": null
   },
@@ -3602,9 +3602,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 74,
-    "total": 23
+    "desc": "Mixed",
+    "pct": 68,
+    "total": 25
    },
    "leaving_ea": null
   },
@@ -3678,8 +3678,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 78
+    "pct": 64,
+    "total": 83
    },
    "leaving_ea": null
   },
@@ -3717,9 +3717,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 82,
-    "total": 17
+    "desc": "Mostly Positive",
+    "pct": 70,
+    "total": 20
    },
    "leaving_ea": null
   },
@@ -3757,9 +3757,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mixed",
-    "pct": 50,
-    "total": 113
+    "desc": "Mostly Negative",
+    "pct": 37,
+    "total": 153
    },
    "leaving_ea": null
   },
@@ -3834,7 +3834,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 205
+    "total": 209
    },
    "leaving_ea": null
   },
@@ -3872,8 +3872,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 45,
-    "total": 51
+    "pct": 43,
+    "total": 53
    },
    "leaving_ea": null
   },
@@ -4140,8 +4140,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 94,
-    "total": 2339
+    "pct": 93,
+    "total": 2356
    },
    "leaving_ea": null
   },
@@ -4180,7 +4180,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 59,
-    "total": 671
+    "total": 676
    },
    "leaving_ea": null
   },
@@ -4369,7 +4369,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 81,
-    "total": 5831
+    "total": 5849
    },
    "leaving_ea": null
   },
@@ -4563,8 +4563,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 92,
-    "total": 72
+    "pct": 85,
+    "total": 81
    },
    "leaving_ea": null
   },
@@ -4602,9 +4602,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Very Positive",
-    "pct": 81,
-    "total": 53
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 60
    },
    "leaving_ea": null
   },
@@ -4642,9 +4642,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mixed",
-    "pct": 44,
-    "total": 25
+    "desc": "Mostly Negative",
+    "pct": 37,
+    "total": 30
    },
    "leaving_ea": null
   },
@@ -4719,8 +4719,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 46,
-    "total": 839
+    "pct": 42,
+    "total": 918
    },
    "leaving_ea": null
   },
@@ -4832,9 +4832,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mixed",
-    "pct": 40,
-    "total": 170
+    "desc": "Mostly Negative",
+    "pct": 38,
+    "total": 175
    },
    "leaving_ea": null
   },
@@ -4912,8 +4912,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 24,
-    "total": 682
+    "pct": 23,
+    "total": 690
    },
    "leaving_ea": null
   },
@@ -4953,7 +4953,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 85,
-    "total": 96
+    "total": 98
    },
    "leaving_ea": null
   },
@@ -5032,8 +5032,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 41,
-    "total": 170
+    "pct": 40,
+    "total": 171
    },
    "leaving_ea": null
   },
@@ -5069,7 +5069,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 22775
+    "total": 22912
    },
    "leaving_ea": null
   },
@@ -5143,8 +5143,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 33,
-    "total": 1117
+    "pct": 32,
+    "total": 1172
    },
    "leaving_ea": null
   },
@@ -5339,7 +5339,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 54,
-    "total": 1233
+    "total": 1242
    },
    "leaving_ea": null
   },
@@ -5414,7 +5414,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 60,
-    "total": 293
+    "total": 295
    },
    "leaving_ea": {
     "date_string": "2027",
@@ -5456,8 +5456,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 53,
-    "total": 138
+    "pct": 52,
+    "total": 140
    },
    "leaving_ea": null
   },
@@ -5609,8 +5609,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 49,
-    "total": 77
+    "pct": 45,
+    "total": 84
    },
    "leaving_ea": null
   },
@@ -5649,8 +5649,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Negative",
-    "pct": 30,
-    "total": 729
+    "pct": 27,
+    "total": 820
    },
    "leaving_ea": null
   },
@@ -5689,8 +5689,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 48,
-    "total": 510
+    "pct": 47,
+    "total": 518
    },
    "leaving_ea": null
   },
@@ -5811,8 +5811,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 66,
-    "total": 85
+    "pct": 64,
+    "total": 89
    },
    "leaving_ea": null
   },
@@ -6125,7 +6125,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 28,
-    "total": 149
+    "total": 151
    },
    "leaving_ea": null
   },
@@ -6461,7 +6461,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 644
+    "total": 648
    },
    "leaving_ea": null
   },
@@ -6535,8 +6535,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 58,
-    "total": 12
+    "pct": 62,
+    "total": 13
    },
    "leaving_ea": null
   },
@@ -6575,8 +6575,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 77,
-    "total": 147
+    "pct": 76,
+    "total": 148
    },
    "leaving_ea": null
   },
@@ -7062,7 +7062,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 884
+    "total": 894
    },
    "leaving_ea": null
   },
@@ -7215,8 +7215,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 51,
-    "total": 37
+    "pct": 50,
+    "total": 38
    },
    "leaving_ea": null
   },
@@ -7289,8 +7289,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 69,
-    "total": 70
+    "pct": 68,
+    "total": 72
    },
    "leaving_ea": null
   },
@@ -7400,7 +7400,7 @@
    "review": {
     "desc": "Mostly Negative",
     "pct": 34,
-    "total": 187
+    "total": 189
    },
    "leaving_ea": null
   },
