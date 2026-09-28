@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-27T21:24:26+00:00",
- "cutoff": "2025-09-27",
+ "generated_at": "2026-09-28T23:19:57+00:00",
+ "cutoff": "2025-09-28",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -164,8 +164,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 91
+    "pct": 66,
+    "total": 92
    },
    "leaving_ea": null
   },
@@ -320,7 +320,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 1680
+    "total": 1692
    },
    "leaving_ea": null
   },
@@ -357,7 +357,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 13615
+    "total": 13737
    },
    "leaving_ea": null
   },
@@ -397,7 +397,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 71
+    "total": 72
    },
    "leaving_ea": null
   },
@@ -1549,7 +1549,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 96,
-    "total": 3985
+    "total": 3999
    },
    "leaving_ea": null
   },
@@ -2265,8 +2265,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 79,
-    "total": 107
+    "pct": 80,
+    "total": 109
    },
    "leaving_ea": null
   },
@@ -2691,8 +2691,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 86,
-    "total": 251
+    "pct": 87,
+    "total": 253
    },
    "leaving_ea": null
   },
@@ -2882,8 +2882,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 90,
-    "total": 782
+    "pct": 89,
+    "total": 793
    },
    "leaving_ea": null
   },
@@ -3104,7 +3104,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 545
+    "total": 547
    },
    "leaving_ea": null
   },
@@ -3218,8 +3218,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 47
+    "pct": 71,
+    "total": 48
    },
    "leaving_ea": null
   },
@@ -4332,8 +4332,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 84,
-    "total": 188
+    "pct": 82,
+    "total": 191
    },
    "leaving_ea": null
   },
@@ -5179,8 +5179,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 1570
+    "pct": 74,
+    "total": 1585
    },
    "leaving_ea": null
   },
@@ -5492,7 +5492,7 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 93,
+    "pct": 94,
     "total": 292
    },
    "leaving_ea": null
@@ -5571,7 +5571,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 59
+    "total": 60
    },
    "leaving_ea": null
   },
@@ -5852,7 +5852,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 60,
-    "total": 287
+    "total": 293
    },
    "leaving_ea": null
   },
@@ -6312,8 +6312,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 82,
-    "total": 65
+    "pct": 81,
+    "total": 67
    },
    "leaving_ea": null
   },
@@ -6388,7 +6388,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 70,
-    "total": 693
+    "total": 698
    },
    "leaving_ea": null
   },
@@ -6425,7 +6425,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 25023
+    "total": 25053
    },
    "leaving_ea": null
   },
@@ -6497,7 +6497,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 89,
-    "total": 383
+    "total": 389
    },
    "leaving_ea": null
   },
@@ -6947,7 +6947,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 174
+    "total": 173
    },
    "leaving_ea": null
   },
@@ -7098,7 +7098,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 97,
-    "total": 5126
+    "total": 5227
    },
    "leaving_ea": null
   },
@@ -7361,7 +7361,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 138
+    "total": 141
    },
    "leaving_ea": null
   },
@@ -7887,14 +7887,14 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/2403830/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1790304316",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1790619637",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 78,
-    "total": 18
+    "desc": "Very Positive",
+    "pct": 86,
+    "total": 66
    },
    "leaving_ea": null
   },
@@ -8000,7 +8000,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1790258443",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/2fa745412751bf6bf2bc20789af11dbba4e3722d/capsule_231x87.jpg?t=1790329189",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8042,7 +8042,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/c6537689f71765734721a64effbf24a31d075405/capsule_231x87.jpg?t=1790258328",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/c6537689f71765734721a64effbf24a31d075405/capsule_231x87.jpg?t=1790328830",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8084,7 +8084,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589660/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/e41b1bc23f7cd3a2ccccddb9bb33456b319bb34f/capsule_231x87.jpg?t=1790258411",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/e41b1bc23f7cd3a2ccccddb9bb33456b319bb34f/capsule_231x87.jpg?t=1790329088",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8126,7 +8126,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3589680/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1790258376",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/38b0dada2334c903dacd2edbf0c1039e3bf591f6/capsule_231x87.jpg?t=1790329309",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -8747,7 +8747,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1789668120",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1790596842",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
