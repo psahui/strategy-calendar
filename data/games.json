@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-28T23:19:57+00:00",
- "cutoff": "2025-09-28",
+ "generated_at": "2026-09-29T22:20:12+00:00",
+ "cutoff": "2025-09-29",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7930,7 +7930,11 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 50,
+    "total": 2
+   },
    "leaving_ea": null
   },
   {
@@ -8174,6 +8178,45 @@
    "has_demo": false,
    "blog_url": null,
    "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3979620,
+   "name": "Transport Fever 3: Deluxe Upgrade",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 29, 2026",
+   "precision": "day",
+   "sort_key": 20260929,
+   "developers": [
+    "Urban Games"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3979620/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979620/0470822e5e28ba0c5dcbb7e31d4f656024a7380e/capsule_231x87.jpg?t=1790697558",
+   "parent": {
+    "appid": 3493540,
+    "name": "Transport Fever 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 50,
+    "total": 2
+   },
    "leaving_ea": null
   },
   {
