@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-29T22:20:12+00:00",
- "cutoff": "2025-09-29",
+ "generated_at": "2026-09-30T22:20:41+00:00",
+ "cutoff": "2025-09-30",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -587,7 +587,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 499
+    "total": 504
    },
    "leaving_ea": null
   },
@@ -776,8 +776,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 53,
-    "total": 587
+    "pct": 52,
+    "total": 603
    },
    "leaving_ea": null
   },
@@ -814,9 +814,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 45
+    "desc": "Mixed",
+    "pct": 66,
+    "total": 50
    },
    "leaving_ea": null
   },
@@ -1126,7 +1126,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 134
+    "total": 135
    },
    "leaving_ea": null
   },
@@ -2955,7 +2955,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 75,
-    "total": 307
+    "total": 310
    },
    "leaving_ea": null
   },
@@ -2991,7 +2991,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 313
+    "total": 317
    },
    "leaving_ea": null
   },
@@ -3067,8 +3067,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 88,
-    "total": 120
+    "pct": 89,
+    "total": 122
    },
    "leaving_ea": null
   },
@@ -3795,7 +3795,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 934
+    "total": 937
    },
    "leaving_ea": null
   },
@@ -4483,8 +4483,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 88,
-    "total": 1352
+    "pct": 87,
+    "total": 1375
    },
    "leaving_ea": null
   },
@@ -4756,7 +4756,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 76,
-    "total": 816
+    "total": 825
    },
    "leaving_ea": null
   },
@@ -5729,9 +5729,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "8 user reviews",
+    "desc": "9 user reviews",
     "pct": 100,
-    "total": 8
+    "total": 9
    },
    "leaving_ea": null
   },
@@ -6830,8 +6830,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 75,
-    "total": 28
+    "pct": 76,
+    "total": 29
    },
    "leaving_ea": null
   },
@@ -6870,9 +6870,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "4 user reviews",
-    "pct": 50,
-    "total": 4
+    "desc": "5 user reviews",
+    "pct": 60,
+    "total": 5
    },
    "leaving_ea": null
   },
@@ -7354,7 +7354,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2768380/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1789938170",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1790695898",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7438,8 +7438,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 69,
-    "total": 592
+    "pct": 68,
+    "total": 600
    },
    "leaving_ea": null
   },
@@ -7468,7 +7468,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3828500/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1788261469",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/bcbba367d107ea4fe83903cca22e6a817072d700/capsule_231x87.jpg?t=1790695705",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7514,8 +7514,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 68,
-    "total": 40
+    "pct": 67,
+    "total": 45
    },
    "leaving_ea": null
   },
@@ -7554,7 +7554,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 67,
-    "total": 12
+    "total": 15
    },
    "leaving_ea": null
   },
@@ -7592,8 +7592,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 100,
-    "total": 13
+    "pct": 83,
+    "total": 18
    },
    "leaving_ea": null
   },
@@ -7816,8 +7816,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 57,
-    "total": 51
+    "pct": 60,
+    "total": 57
    },
    "leaving_ea": null
   },
@@ -7971,8 +7971,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 44,
-    "total": 66
+    "pct": 40,
+    "total": 163
    },
    "leaving_ea": null
   },
@@ -8149,7 +8149,7 @@
    "name": "Jurassic World Evolution 3: Prehistoric East",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 29, 2026",
    "precision": "day",
    "sort_key": 20260929,
@@ -8170,14 +8170,18 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5125950/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790451681",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790763631",
    "parent": {
     "appid": 2958130,
     "name": "Jurassic World Evolution 3"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 50,
+    "total": 36
+   },
    "leaving_ea": null
   },
   {
@@ -8220,11 +8224,50 @@
    "leaving_ea": null
   },
   {
+   "appid": 5210200,
+   "name": "Combat Mission: Cold War - Battle Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 30, 2026",
+   "precision": "day",
+   "sort_key": 20260930,
+   "developers": [
+    "Slitherine"
+   ],
+   "publishers": [
+    "Matrix Games"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Slitherine / Matrix"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/5210200/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5210200/5cd55ce8b7f02cc22a7cf17fa09ce58d89f52d4d/capsule_231x87.jpg?t=1790788870",
+   "parent": {
+    "appid": 1551160,
+    "name": "Combat Mission Cold War"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 50,
+    "total": 2
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 4232900,
    "name": "Crusader Kings III: By God Alone",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Sep 30, 2026",
    "precision": "day",
    "sort_key": 20260930,
@@ -8245,10 +8288,49 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4232900/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232900/973bab29f22b78713cd9107d90bc66059d252a2e/capsule_231x87.jpg?t=1781701168",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232900/973bab29f22b78713cd9107d90bc66059d252a2e/capsule_231x87.jpg?t=1790773036",
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 129
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4758460,
+   "name": "Flashpoint Campaigns: Cold War - Lowland Lions",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Sep 30, 2026",
+   "precision": "day",
+   "sort_key": 20260930,
+   "developers": [
+    "On Target Simulations"
+   ],
+   "publishers": [
+    "Matrix Games"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Slitherine / Matrix"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/4758460/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4758460/0822fa335bb15f41ca44337be746db8537ece30b/capsule_231x87.jpg?t=1790777034",
+   "parent": {
+    "appid": 3170350,
+    "name": "Flashpoint Campaigns: Cold War"
    },
    "has_demo": false,
    "blog_url": null,
@@ -8451,7 +8533,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4782620/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782620/317a1e49d761ec46011aa41b2668f36f80be7fcc/capsule_231x87.jpg?t=1788773679",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782620/317a1e49d761ec46011aa41b2668f36f80be7fcc/capsule_231x87.jpg?t=1790776413",
    "parent": {
     "appid": 2647680,
     "name": "ICBM: Escalation"
@@ -8555,7 +8637,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1789669169",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1790677551",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8702,70 +8784,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 1537440,
-   "name": "Bosslords",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    "RocketMoose Studios"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/1537440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1789668121",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 1490930,
-   "name": "Capital Command",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    "Hellride Games"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/1490930/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1790366812",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
    "appid": 2409320,
    "name": "Drill Keeper",
    "type": "game",
@@ -8790,71 +8808,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1790596842",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 1672320,
-   "name": "Fragile Existence",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    "Fragile Continuum"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/1672320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1790366965",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 2189430,
-   "name": "Gilded Destiny",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    "Aquila Interactive"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/2189430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/0c6c8a5df85dd95c5af85c63b4bcde9b7784e608/capsule_231x87.jpg?t=1789670005",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87_alt_assets_2.jpg?t=1790596842",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8982,7 +8936,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/969330/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1789670074",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1790688153",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -9127,6 +9081,38 @@
    "leaving_ea": null
   },
   {
+   "appid": 5101030,
+   "name": "Strategic Command: Korea",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Q1 2027",
+   "precision": "quarter",
+   "sort_key": 20270198,
+   "developers": [
+    "Fury Software"
+   ],
+   "publishers": [
+    "Matrix Games"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Slitherine / Matrix"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/5101030/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101030/7650b91ac03717e10e7b3fcd1901d10372fe92a3/capsule_231x87.jpg?t=1790784306",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 4544360,
    "name": "Cities: Skylines II - City Vacations",
    "type": "dlc",
@@ -9229,6 +9215,70 @@
    "leaving_ea": null
   },
   {
+   "appid": 1537440,
+   "name": "Bosslords",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2027",
+   "precision": "year",
+   "sort_key": 20279898,
+   "developers": [
+    "RocketMoose Studios"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1537440/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1790773207",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 1490930,
+   "name": "Capital Command",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2027",
+   "precision": "year",
+   "sort_key": 20279898,
+   "developers": [
+    "Hellride Games"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1490930/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1790773204",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 1670650,
    "name": "Espiocracy",
    "type": "game",
@@ -9254,6 +9304,70 @@
    ],
    "url": "https://store.steampowered.com/app/1670650/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1789670066",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 1672320,
+   "name": "Fragile Existence",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2027",
+   "precision": "year",
+   "sort_key": 20279898,
+   "developers": [
+    "Fragile Continuum"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1672320/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1790773266",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 2189430,
+   "name": "Gilded Destiny",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2027",
+   "precision": "year",
+   "sort_key": 20279898,
+   "developers": [
+    "Aquila Interactive"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2189430/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87_alt_assets_2.jpg?t=1790773236",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
