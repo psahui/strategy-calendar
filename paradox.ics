@@ -7,13 +7,35 @@ X-PUBLISHED-TTL:P1D
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
 UID:app-4314660@psahui.github.io
-DTSTAMP:20260930T222041Z
+DTSTAMP:20261001T224432Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Victoria 3: State and Revolution - Immersion Pack (DLC)
 DESCRIPTION:Paradox Development Studio / Paradox Interactive\nSteam: h
  ttps://store.steampowered.com/app/4314660/
 URL:https://store.steampowered.com/app/4314660/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-3698990@psahui.github.io
+DTSTAMP:20261001T224432Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Europa Universalis V: Across the Pillars (DLC)
+DESCRIPTION:Paradox Tinto / Paradox Interactive\nSteam: https://store.
+ steampowered.com/app/3698990/
+URL:https://store.steampowered.com/app/3698990/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-5094370@psahui.github.io
+DTSTAMP:20261001T224432Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Age of Wonders 4: The Silver Seas (DLC)
+DESCRIPTION:Triumph Studios / Paradox Interactive\nSteam: https://stor
+ e.steampowered.com/app/5094370/
+URL:https://store.steampowered.com/app/5094370/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

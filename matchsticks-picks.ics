@@ -6,19 +6,19 @@ X-WR-CALNAME:Strategy Releases — Matchsticks Picks
 X-PUBLISHED-TTL:P1D
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:app-4847610@psahui.github.io
-DTSTAMP:20260930T222041Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:Wingspan Bird Pack: Birds of Continental Europe (DLC)
-DESCRIPTION:Monster Couch / Monster Couch\, Stonemaier Games\nSteam: h
- ttps://store.steampowered.com/app/4847610/
-URL:https://store.steampowered.com/app/4847610/
+UID:app-3219030@psahui.github.io
+DTSTAMP:20261001T224432Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Planet Zoo 2
+DESCRIPTION:Frontier Developments / Frontier Developments\nSteam: http
+ s://store.steampowered.com/app/3219030/
+URL:https://store.steampowered.com/app/3219030/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:app-3846830@psahui.github.io
-DTSTAMP:20260930T222041Z
+DTSTAMP:20261001T224432Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Total War: SHOGUN 2 - Complete Edition
@@ -29,13 +29,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:app-4314660@psahui.github.io
-DTSTAMP:20260930T222041Z
+DTSTAMP:20261001T224432Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Victoria 3: State and Revolution - Immersion Pack (DLC)
 DESCRIPTION:Paradox Development Studio / Paradox Interactive\nSteam: h
  ttps://store.steampowered.com/app/4314660/
 URL:https://store.steampowered.com/app/4314660/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:app-5094370@psahui.github.io
+DTSTAMP:20261001T224432Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Age of Wonders 4: The Silver Seas (DLC)
+DESCRIPTION:Triumph Studios / Paradox Interactive\nSteam: https://stor
+ e.steampowered.com/app/5094370/
+URL:https://store.steampowered.com/app/5094370/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

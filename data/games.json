@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-30T22:20:41+00:00",
- "cutoff": "2025-09-30",
+ "generated_at": "2026-10-01T22:44:32+00:00",
+ "cutoff": "2025-10-01",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,46 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3976880,
-   "name": "Age of Wonders 4: Cosmic Wanderer",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Sep 30, 2025",
-   "precision": "day",
-   "sort_key": 20250930,
-   "developers": [
-    "Triumph Studios"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Triumph Studios"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3976880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976880/ed8a7cc5a0fc82c5ee83d3c46fed1a704277054d/capsule_231x87.jpg?t=1765887717",
-   "parent": {
-    "appid": 1669000,
-    "name": "Age of Wonders 4"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 56,
-    "total": 16
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 2088550,
    "name": "Dying Breed",
@@ -5934,126 +5894,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 3087390,
-   "name": "Sid Meier's Civilization\u00ae VII: Lakshmibai Pack",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Jun 18, 2026",
-   "precision": "day",
-   "sort_key": 20260618,
-   "developers": [
-    "Firaxis Games"
-   ],
-   "publishers": [
-    "2K"
-   ],
-   "dev_groups": [
-    "Firaxis Games"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3087390/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087390/22e4f565454dbb2be99984bb12b6efec56f29930/capsule_231x87.jpg?t=1759250797",
-   "parent": {
-    "appid": 1295660,
-    "name": "Sid Meier's Civilization VII"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "3 user reviews",
-    "pct": 33,
-    "total": 3
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3087420,
-   "name": "Sid Meier's Civilization\u00ae VII: Qajar Pack",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Jun 18, 2026",
-   "precision": "day",
-   "sort_key": 20260618,
-   "developers": [
-    "Firaxis Games"
-   ],
-   "publishers": [
-    "2K"
-   ],
-   "dev_groups": [
-    "Firaxis Games"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3087420/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087420/cbb896395cf74691f8d0e586b56a25e161097af7/capsule_231x87.jpg?t=1759250797",
-   "parent": {
-    "appid": 1295660,
-    "name": "Sid Meier's Civilization VII"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "3 user reviews",
-    "pct": 0,
-    "total": 3
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3087400,
-   "name": "Sid Meier's Civilization\u00ae VII: Silla Pack",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Jun 18, 2026",
-   "precision": "day",
-   "sort_key": 20260618,
-   "developers": [
-    "Firaxis Games"
-   ],
-   "publishers": [
-    "2K"
-   ],
-   "dev_groups": [
-    "Firaxis Games"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3087400/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087400/55860f704418f810f8c8f66b7ff82097d33baaa9/capsule_231x87.jpg?t=1759250797",
-   "parent": {
-    "appid": 1295660,
-    "name": "Sid Meier's Civilization VII"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "4 user reviews",
-    "pct": 0,
-    "total": 4
-   },
-   "leaving_ea": null
-  },
-  {
    "appid": 4729720,
    "name": "WEGO World War II: Desert War",
    "type": "game",
@@ -6985,9 +6825,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 70,
-    "total": 107
+    "desc": "Mixed",
+    "pct": 68,
+    "total": 115
    },
    "leaving_ea": null
   },
@@ -7137,8 +6977,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 78,
-    "total": 37
+    "pct": 79,
+    "total": 38
    },
    "leaving_ea": null
   },
@@ -7175,8 +7015,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 63,
-    "total": 38
+    "pct": 64,
+    "total": 39
    },
    "leaving_ea": null
   },
@@ -7475,7 +7315,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 75,
-    "total": 122
+    "total": 124
    },
    "leaving_ea": null
   },
@@ -7856,8 +7696,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 53,
-    "total": 17
+    "pct": 58,
+    "total": 19
    },
    "leaving_ea": null
   },
@@ -8013,8 +7853,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 58,
-    "total": 57
+    "pct": 53,
+    "total": 316
    },
    "leaving_ea": null
   },
@@ -8054,9 +7894,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Very Positive",
-    "pct": 81,
-    "total": 156
+    "desc": "Mixed",
+    "pct": 67,
+    "total": 832
    },
    "leaving_ea": null
   },
@@ -8097,8 +7937,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 79,
-    "total": 67
+    "pct": 71,
+    "total": 344
    },
    "leaving_ea": null
   },
@@ -8138,9 +7978,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 70,
-    "total": 27
+    "desc": "Mixed",
+    "pct": 69,
+    "total": 156
    },
    "leaving_ea": null
   },
@@ -8181,6 +8021,42 @@
     "desc": "Mixed",
     "pct": 50,
     "total": 36
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3493540,
+   "name": "Transport Fever 3",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Sep 29, 2026",
+   "precision": "day",
+   "sort_key": 20260929,
+   "developers": [
+    "Urban Games"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3493540/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/c7e55c21b933d7960ab0400fc0f905c4e00ec6ac/capsule_231x87_alt_assets_0.jpg?t=1790777411",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 70,
+    "total": 3219
    },
    "leaving_ea": null
   },
@@ -8338,11 +8214,127 @@
    "leaving_ea": null
   },
   {
+   "appid": 5094350,
+   "name": "Age of Wonders 4: Expansion Pass 4",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Oct 1, 2026",
+   "precision": "day",
+   "sort_key": 20261001,
+   "developers": [
+    "Triumph Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Triumph Studios"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5094350/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094350/701aa40eb77d6378a6075d55a1922d1e7cf8b036/capsule_231x87.jpg?t=1790880445",
+   "parent": {
+    "appid": 1669000,
+    "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 100,
+    "total": 12
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 5094360,
+   "name": "Age of Wonders 4: Singer of Storms",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "released",
+   "date_string": "Oct 1, 2026",
+   "precision": "day",
+   "sort_key": 20261001,
+   "developers": [
+    "Triumph Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Triumph Studios"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5094360/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094360/d1c96bcfb2c9a9761402175a760e3238086decc1/capsule_231x87.jpg?t=1790870163",
+   "parent": {
+    "appid": 1669000,
+    "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 100,
+    "total": 1
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 3901610,
+   "name": "Factory Default: Build, Trade, Repeat",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Oct 1, 2026",
+   "precision": "day",
+   "sort_key": 20261001,
+   "developers": [
+    "Chett Fitzgerald"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/3901610/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901610/8bad37ae0461c7db785c498a3251007fe5e1c76a/capsule_231x87.jpg?t=1790852437",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "3 user reviews",
+    "pct": 67,
+    "total": 3
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 4847610,
    "name": "Wingspan Bird Pack: Birds of Continental Europe",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 1, 2026",
    "precision": "day",
    "sort_key": 20261001,
@@ -8364,14 +8356,18 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4847610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847610/9821193680bf170accd64d1346dc9d42f98281f8/capsule_231x87.jpg?t=1789024638",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847610/9821193680bf170accd64d1346dc9d42f98281f8/capsule_231x87.jpg?t=1790874389",
    "parent": {
     "appid": 1054490,
     "name": "Wingspan"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "1 user reviews",
+    "pct": 100,
+    "total": 1
+   },
    "leaving_ea": null
   },
   {
@@ -8509,6 +8505,38 @@
    "leaving_ea": null
   },
   {
+   "appid": 2644100,
+   "name": "Allogloom",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Oct 13, 2026",
+   "precision": "day",
+   "sort_key": 20261013,
+   "developers": [
+    "Galactic Ghosty"
+   ],
+   "publishers": [
+    "Iceberg Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Iceberg Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2644100/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1790119673",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 4782620,
    "name": "ICBM: Escalation - Assassin's Mace",
    "type": "dlc",
@@ -8538,6 +8566,39 @@
     "appid": 2647680,
     "name": "ICBM: Escalation"
    },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3219030,
+   "name": "Planet Zoo 2",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Oct 13, 2026",
+   "precision": "day",
+   "sort_key": 20261013,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3219030/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1788453298",
+   "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": null,
@@ -8637,7 +8698,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1790677551",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1790845427",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8674,6 +8735,41 @@
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 3698990,
+   "name": "Europa Universalis V: Across the Pillars",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Oct 28, 2026",
+   "precision": "day",
+   "sort_key": 20261028,
+   "developers": [
+    "Paradox Tinto"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Paradox Tinto"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/3698990/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698990/c7e9e47e1d08e3cb19ff1a17cc64f626f76bfd73/capsule_231x87.jpg?t=1790859517",
+   "parent": {
+    "appid": 3450310,
+    "name": "Europa Universalis V"
    },
    "has_demo": false,
    "blog_url": null,
@@ -8752,6 +8848,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 5094370,
+   "name": "Age of Wonders 4: The Silver Seas",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Nov 3, 2026",
+   "precision": "day",
+   "sort_key": 20261103,
+   "developers": [
+    "Triumph Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Triumph Studios"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5094370/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094370/10d806e4ff43ab73575ee9922fdbc7f0a8bbd0a2/capsule_231x87.jpg?t=1790870487",
+   "parent": {
+    "appid": 1669000,
+    "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 1447650,
    "name": "Space Station Designer",
    "type": "game",
@@ -8808,7 +8940,41 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87_alt_assets_2.jpg?t=1790596842",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87_alt_assets_2.jpg?t=1790845658",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4043740,
+   "name": "Hero's Hour 2",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2026",
+   "precision": "year",
+   "sort_key": 20269898,
+   "developers": [
+    "Benjamin \"ThingOnItsOwn\" Hauer",
+    "Unleash The Giraffe",
+    "LautaroArino"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4043740/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043740/243e353f9620c1cffd12cba5e733ff4a2ab9274d/capsule_231x87.jpg?t=1790846498",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8840,7 +9006,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1447250/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1789669086",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1790846715",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8872,7 +9038,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1727760/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1789668488",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1790845609",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8936,7 +9102,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/969330/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1790688153",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1790845818",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8968,8 +9134,76 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2439030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1789668487",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1790845607",
    "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 1853440,
+   "name": "Tropico 7",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Jan 28, 2027",
+   "precision": "day",
+   "sort_key": 20270128,
+   "developers": [
+    " Gaming Minds Studios"
+   ],
+   "publishers": [
+    "Kalypso Media"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Kalypso Media"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1853440/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1790769494",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 5094380,
+   "name": "Age of Wonders 4: Court of the Archfey",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Q1 2027",
+   "precision": "quarter",
+   "sort_key": 20270198,
+   "developers": [
+    "Triumph Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Triumph Studios"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5094380/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094380/3723bad8aa32cad2c576f102eee3d4bdc8f45444/capsule_231x87.jpg?t=1790870218",
+   "parent": {
+    "appid": 1669000,
+    "name": "Age of Wonders 4"
+   },
    "has_demo": false,
    "blog_url": null,
    "review": null,
@@ -9113,6 +9347,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 5094390,
+   "name": "Age of Wonders 4: Forge of the Firstborn",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Q2 2027",
+   "precision": "quarter",
+   "sort_key": 20270498,
+   "developers": [
+    "Triumph Studios"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Triumph Studios"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5094390/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094390/8a6eae01f2ebb746477d4b57363cf6c549b20d76/capsule_231x87.jpg?t=1790870301",
+   "parent": {
+    "appid": 1669000,
+    "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 4544360,
    "name": "Cities: Skylines II - City Vacations",
    "type": "dlc",
@@ -9239,7 +9509,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1537440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1790773207",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1790845660",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9271,7 +9541,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1490930/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1790773204",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1790845641",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9303,7 +9573,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1670650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1789670066",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1790847141",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9335,7 +9605,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1672320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1790773266",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1790845639",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9367,7 +9637,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2189430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87_alt_assets_2.jpg?t=1790773236",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87_alt_assets_2.jpg?t=1790847075",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9432,7 +9702,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1777480/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1789671122",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1790846502",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
