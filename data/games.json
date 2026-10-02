@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-01T22:44:32+00:00",
- "cutoff": "2025-10-01",
+ "generated_at": "2026-10-02T22:18:17+00:00",
+ "cutoff": "2025-10-02",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -6676,6 +6676,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 1368140,
+   "name": "Corsair Cove",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Jul 31, 2026",
+   "precision": "day",
+   "sort_key": 20260731,
+   "developers": [
+    "Limbic Entertainment"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/1368140/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/9317363cb16926256a8e15b2dd91eee8203e4f11/capsule_231x87.jpg?t=1790863447",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 86,
+    "total": 3591
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 4847570,
    "name": "Wingspan Bird Pack: Additional Asian Avians",
    "type": "dlc",
@@ -6780,7 +6816,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/896250/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896250/64618068899d3976521373ee56e2ae857a3e7f5b/capsule_231x87.jpg?t=1787037396",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896250/64618068899d3976521373ee56e2ae857a3e7f5b/capsule_231x87.jpg?t=1790695837",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -6895,7 +6931,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2437670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/0ca90f63379f337e80b7cfcdc5d9d4b8928cff2f/capsule_231x87.jpg?t=1788131223",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437670/0ca90f63379f337e80b7cfcdc5d9d4b8928cff2f/capsule_231x87.jpg?t=1790695580",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -6931,7 +6967,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2764460/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1789668493",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1790846471",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -6941,6 +6977,46 @@
     "total": 5227
    },
    "leaving_ea": null
+  },
+  {
+   "appid": 4158610,
+   "name": "TFC2: The Fertile Crescent 2 - Collapse of The Bronze Age",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Aug 18, 2026",
+   "precision": "day",
+   "sort_key": 20260818,
+   "developers": [
+    "Wield Interactive"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/4158610/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158610/9d978abe58269820c7f4d7eb7ba4106580b961f1/capsule_231x87.jpg?t=1790696091",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 87,
+    "total": 45
+   },
+   "leaving_ea": {
+    "date_string": "Nov 6, 2026",
+    "precision": "day",
+    "sort_key": 20261106
+   }
   },
   {
    "appid": 4961870,
@@ -7202,6 +7278,42 @@
     "desc": "Very Positive",
     "pct": 91,
     "total": 141
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 2075800,
+   "name": "STAR WARS Zero Company\u2122",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Aug 27, 2026",
+   "precision": "day",
+   "sort_key": 20260827,
+   "developers": [
+    "Bit Reactor"
+   ],
+   "publishers": [
+    "Electronic Arts"
+   ],
+   "dev_groups": [
+    "Bit Reactor"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2075800/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/56484e8832119b4b37b3fa3a6a5ec23209cd835c/capsule_231x87.jpg?t=1790340688",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 83,
+    "total": 22426
    },
    "leaving_ea": null
   },
@@ -7702,6 +7814,44 @@
    "leaving_ea": null
   },
   {
+   "appid": 3201730,
+   "name": "Flamecraft",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Sep 17, 2026",
+   "precision": "day",
+   "sort_key": 20260917,
+   "developers": [
+    "Monster Couch"
+   ],
+   "publishers": [
+    "Monster Couch",
+    "Cardboard Alchemy"
+   ],
+   "dev_groups": [
+    "Monster Couch"
+   ],
+   "pub_groups": [
+    "Monster Couch"
+   ],
+   "collections": [
+    "Digital board games",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3201730/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1790243561",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 96,
+    "total": 178
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 2403830,
    "name": "Brave New Wonders",
    "type": "game",
@@ -7748,7 +7898,7 @@
    "precision": "day",
    "sort_key": 20260922,
    "developers": [
-    "Frag Games"
+    " Moonmana Ltd."
    ],
    "publishers": [
     "Paradox Arc"
@@ -7763,7 +7913,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4868680/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868680/93f23bc89697437f9f86fe24ee14c68036fe7022/capsule_231x87.jpg?t=1790078859",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868680/93f23bc89697437f9f86fe24ee14c68036fe7022/capsule_231x87.jpg?t=1790844887",
    "parent": {
     "appid": 1385380,
     "name": "Across the Obelisk"
