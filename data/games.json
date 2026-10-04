@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-03T21:22:55+00:00",
- "cutoff": "2025-10-03",
+ "generated_at": "2026-10-04T21:34:00+00:00",
+ "cutoff": "2025-10-04",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -7774,6 +7774,42 @@
    "leaving_ea": null
   },
   {
+   "appid": 4535730,
+   "name": "Throttle Trace",
+   "type": "game",
+   "kind": "game",
+   "status": "early_access",
+   "date_string": "Sep 15, 2026",
+   "precision": "day",
+   "sort_key": 20260915,
+   "developers": [
+    "Unordered Games"
+   ],
+   "publishers": [
+    "MicroProse Software"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "MicroProse"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/4535730/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/c11919862e731a440f125ffadcc04d31aed637a3/capsule_231x87.jpg?t=1790081444",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 98,
+    "total": 40
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3874280,
    "name": "Anno 117: Pax Romana - Echoes of Kassandra Pack",
    "type": "dlc",
@@ -8160,7 +8196,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5125950/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790763631",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790874158",
    "parent": {
     "appid": 2958130,
     "name": "Jurassic World Evolution 3"
