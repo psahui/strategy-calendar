@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T00:06:45+00:00",
- "cutoff": "2025-10-05",
+ "generated_at": "2026-10-06T22:40:43+00:00",
+ "cutoff": "2025-10-06",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -80,7 +80,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2088550/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088550/86c2c9cfd62128bd6e42264c27cde42d49c30cc3/capsule_231x87.jpg?t=1783618743",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088550/86c2c9cfd62128bd6e42264c27cde42d49c30cc3/capsule_231x87.jpg?t=1789686537",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -310,7 +310,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/2958130/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/767bbed48a0426d14562f4aba32bd30abefb79ec/capsule_231x87.jpg?t=1786453396",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/767bbed48a0426d14562f4aba32bd30abefb79ec/capsule_231x87.jpg?t=1790687062",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -1502,7 +1502,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/1710820/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1710820/485de60922a80f1e28b9f70a51f08eea16887d99/capsule_231x87.jpg?t=1788131158",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1710820/485de60922a80f1e28b9f70a51f08eea16887d99/capsule_231x87.jpg?t=1790787490",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -2216,7 +2216,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4131660/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131660/5984ef938d7a0fe63efa02cbb0a3729cbf03370e/capsule_231x87.jpg?t=1767795005",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131660/5984ef938d7a0fe63efa02cbb0a3729cbf03370e/capsule_231x87.jpg?t=1789567002",
    "parent": {
     "appid": 2958130,
     "name": "Jurassic World Evolution 3"
@@ -3057,7 +3057,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/1400660/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400660/91e66b552678b579ed332e627b354a04abe38072/capsule_231x87.jpg?t=1788131270",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400660/91e66b552678b579ed332e627b354a04abe38072/capsule_231x87.jpg?t=1790695945",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -4249,7 +4249,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/1297570/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297570/e095063d85993f5b01e81599e38fa5a576a5a6a8/capsule_231x87.jpg?t=1776095662",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297570/e095063d85993f5b01e81599e38fa5a576a5a6a8/capsule_231x87.jpg?t=1789594474",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -5133,7 +5133,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2599690/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2599690/beaa4985c0839c176ee45d800b99bb01f09edb46/capsule_231x87.jpg?t=1788131054",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2599690/beaa4985c0839c176ee45d800b99bb01f09edb46/capsule_231x87.jpg?t=1790695417",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8316,9 +8316,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "2 user reviews",
-    "pct": 50,
-    "total": 2
+    "desc": "Mostly Positive",
+    "pct": 73,
+    "total": 11
    },
    "leaving_ea": null
   },
@@ -9196,40 +9196,6 @@
    ],
    "url": "https://store.steampowered.com/app/2409320/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87.jpg?t=1791197721",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 4043740,
-   "name": "Hero's Hour 2",
-   "type": "game",
-   "kind": "game",
-   "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
-   "developers": [
-    "Benjamin \"ThingOnItsOwn\" Hauer",
-    "Unleash The Giraffe",
-    "LautaroArino"
-   ],
-   "publishers": [
-    "Hooded Horse"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Hooded Horse"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/4043740/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043740/243e353f9620c1cffd12cba5e733ff4a2ab9274d/capsule_231x87.jpg?t=1790846498",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
