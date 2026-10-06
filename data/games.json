@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-04T21:34:00+00:00",
- "cutoff": "2025-10-04",
+ "generated_at": "2026-10-06T00:06:45+00:00",
+ "cutoff": "2025-10-05",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -124,8 +124,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 66,
-    "total": 92
+    "pct": 67,
+    "total": 93
    },
    "leaving_ea": null
   },
@@ -280,7 +280,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 1692
+    "total": 1700
    },
    "leaving_ea": null
   },
@@ -317,7 +317,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 13737
+    "total": 13897
    },
    "leaving_ea": null
   },
@@ -357,7 +357,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 72
+    "total": 75
    },
    "leaving_ea": null
   },
@@ -396,8 +396,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 85,
-    "total": 78
+    "pct": 84,
+    "total": 80
    },
    "leaving_ea": null
   },
@@ -426,7 +426,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/532790/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532790/88ffb5c9f4564c0760c45e6e4de10ebf60b85a5f/capsule_231x87.jpg?t=1782398753",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532790/88ffb5c9f4564c0760c45e6e4de10ebf60b85a5f/capsule_231x87.jpg?t=1789993933",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -576,7 +576,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2289750/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289750/1a3a0d403ae0e924f56f5008d4b914e1c0d81343/capsule_231x87.jpg?t=1787906593",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289750/1a3a0d403ae0e924f56f5008d4b914e1c0d81343/capsule_231x87.jpg?t=1790845657",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -805,7 +805,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3450310/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3450310/b38d9e6151305e42163707ded29f2e6fb0d81f52/capsule_231x87.jpg?t=1783587668",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3450310/b38d9e6151305e42163707ded29f2e6fb0d81f52/capsule_231x87.jpg?t=1790859917",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -841,7 +841,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3698980/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698980/57caebc9f09e60da44a254855783bfeaf61cb207/capsule_231x87.jpg?t=1778073166",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698980/57caebc9f09e60da44a254855783bfeaf61cb207/capsule_231x87.jpg?t=1790859783",
    "parent": {
     "appid": 3450310,
     "name": "Europa Universalis V"
@@ -1115,7 +1115,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2489330/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489330/caaa3b4a34615707722863e102e007034eaa036a/capsule_231x87.jpg?t=1788454848",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489330/caaa3b4a34615707722863e102e007034eaa036a/capsule_231x87.jpg?t=1790845377",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -1152,7 +1152,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3215050/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215050/b62e94f90e2cf76c482fdd102f48feb70b76616b/capsule_231x87.jpg?t=1788554398",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215050/1833327187347cf6bca8b95b89232c17e18842ca/capsule_231x87_alt_assets_1.jpg?t=1790873980",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -1229,7 +1229,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3889470/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889470/5f3d1350722b1da3519d8cf925998b6fb6c9046e/capsule_231x87.jpg?t=1788276940",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889470/5f3d1350722b1da3519d8cf925998b6fb6c9046e/capsule_231x87.jpg?t=1788857698",
    "parent": {
     "appid": 3215050,
     "name": "Surviving Mars: Relaunched"
@@ -1309,7 +1309,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3274580/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274580/0b34bfd6e03427941c82f5ab3d0d9446c8fe6b52/capsule_231x87_alt_assets_4.jpg?t=1788366062",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274580/2a50b884fd1739a68165fc41af8130197f6c57a4/capsule_231x87.jpg?t=1790864543",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -1393,8 +1393,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 76,
-    "total": 45
+    "pct": 74,
+    "total": 46
    },
    "leaving_ea": null
   },
@@ -1509,7 +1509,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 96,
-    "total": 3999
+    "total": 4018
    },
    "leaving_ea": null
   },
@@ -1578,7 +1578,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3170350/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170350/8db6aa5ca62ca7dadb026d903fd1caa831e74eba/capsule_231x87.jpg?t=1779182634",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170350/8db6aa5ca62ca7dadb026d903fd1caa831e74eba/capsule_231x87.jpg?t=1790777144",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -1971,7 +1971,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3858050/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858050/eb1b520a652869f6177b933873cb815013fe81ba/capsule_231x87.jpg?t=1783075790",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858050/eb1b520a652869f6177b933873cb815013fe81ba/capsule_231x87.jpg?t=1790003994",
    "parent": {
     "appid": 1142710,
     "name": "Total War: WARHAMMER III"
@@ -2019,9 +2019,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
+    "desc": "Very Positive",
     "pct": 86,
-    "total": 49
+    "total": 50
    },
    "leaving_ea": null
   },
@@ -2224,9 +2224,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
+    "desc": "Very Positive",
     "pct": 80,
-    "total": 109
+    "total": 112
    },
    "leaving_ea": null
   },
@@ -2571,7 +2571,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/1176470/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/fce27a17721e0d8f2fff4ee712a497ed66bb1432/capsule_231x87.jpg?t=1787905879",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/fce27a17721e0d8f2fff4ee712a497ed66bb1432/capsule_231x87.jpg?t=1790846802",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -2843,7 +2843,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 89,
-    "total": 793
+    "total": 798
    },
    "leaving_ea": null
   },
@@ -2872,7 +2872,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2432860/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432860/f3da7e906c7a3126ad95691f10ee9e8eb8650e09/capsule_231x87.jpg?t=1787906771",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432860/f3da7e906c7a3126ad95691f10ee9e8eb8650e09/capsule_231x87.jpg?t=1790845599",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -3064,7 +3064,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 547
+    "total": 548
    },
    "leaving_ea": null
   },
@@ -3244,7 +3244,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2001070/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001070/d11da157519436d71fc631aa3e1c5e74e7fcccbb/capsule_231x87.jpg?t=1787907559",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001070/d11da157519436d71fc631aa3e1c5e74e7fcccbb/capsule_231x87.jpg?t=1790845613",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -4094,7 +4094,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2426530/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/eb6a96094730fc462d2d640b2467d2d1d93186be/capsule_231x87.jpg?t=1787906231",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426530/cb4ea4165e58e3d297a05ab52f5404d1f0eb1366/capsule_231x87.jpg?t=1791200767",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -4293,7 +4293,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 82,
-    "total": 191
+    "total": 194
    },
    "leaving_ea": null
   },
@@ -4322,7 +4322,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/538030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538030/482bba7eec0556716f0d36f9dc8858b473587f5c/capsule_231x87.jpg?t=1787906841",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538030/482bba7eec0556716f0d36f9dc8858b473587f5c/capsule_231x87.jpg?t=1790845606",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -4514,7 +4514,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4232880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232880/f8f57880c03df10b6c6a20dc1f9534e0885935c5/capsule_231x87.jpg?t=1781701197",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232880/f8f57880c03df10b6c6a20dc1f9534e0885935c5/capsule_231x87.jpg?t=1790774599",
    "parent": {
     "appid": 1158310,
     "name": "Crusader Kings III"
@@ -4640,7 +4640,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 68,
-    "total": 238
+    "total": 241
    },
    "leaving_ea": null
   },
@@ -5022,7 +5022,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3105440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1788579886",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/740f5a03b7c20044f00041079d77b899a6a435c4/capsule_231x87.jpg?t=1790846494",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -5140,7 +5140,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 74,
-    "total": 1585
+    "total": 1611
    },
    "leaving_ea": null
   },
@@ -5176,9 +5176,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "6 user reviews",
+    "desc": "7 user reviews",
     "pct": 100,
-    "total": 6
+    "total": 7
    },
    "leaving_ea": null
   },
@@ -5453,7 +5453,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 94,
-    "total": 292
+    "total": 294
    },
    "leaving_ea": null
   },
@@ -5811,8 +5811,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 60,
-    "total": 293
+    "pct": 61,
+    "total": 298
    },
    "leaving_ea": null
   },
@@ -6228,7 +6228,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 70,
-    "total": 698
+    "total": 700
    },
    "leaving_ea": null
   },
@@ -6265,7 +6265,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 25053
+    "total": 25084
    },
    "leaving_ea": null
   },
@@ -6336,8 +6336,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 89,
-    "total": 389
+    "pct": 88,
+    "total": 397
    },
    "leaving_ea": null
   },
@@ -6822,8 +6822,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 91,
-    "total": 173
+    "pct": 90,
+    "total": 176
    },
    "leaving_ea": null
   },
@@ -6974,7 +6974,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 97,
-    "total": 5227
+    "total": 5378
    },
    "leaving_ea": null
   },
@@ -7276,8 +7276,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 91,
-    "total": 141
+    "pct": 90,
+    "total": 143
    },
    "leaving_ea": null
   },
@@ -7850,6 +7850,43 @@
    "leaving_ea": null
   },
   {
+   "appid": 3407390,
+   "name": "ENDLESS Legend\u2122 2",
+   "type": "game",
+   "kind": "game",
+   "status": "released",
+   "date_string": "Sep 17, 2026",
+   "precision": "day",
+   "sort_key": 20260917,
+   "developers": [
+    "AMPLITUDE Studios"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Amplitude Studios"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/3407390/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/9f2ee6ecca69fa997206c328e095d77b431b0501/capsule_231x87.jpg?t=1790846870",
+   "parent": null,
+   "has_demo": true,
+   "blog_url": null,
+   "review": {
+    "desc": "Very Positive",
+    "pct": 84,
+    "total": 4040
+   },
+   "leaving_ea": null
+  },
+  {
    "appid": 3201730,
    "name": "Flamecraft",
    "type": "game",
@@ -7919,8 +7956,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 86,
-    "total": 66
+    "pct": 85,
+    "total": 87
    },
    "leaving_ea": null
   },
@@ -8747,7 +8784,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4782620/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782620/317a1e49d761ec46011aa41b2668f36f80be7fcc/capsule_231x87.jpg?t=1790776413",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782620/317a1e49d761ec46011aa41b2668f36f80be7fcc/capsule_231x87.jpg?t=1791209985",
    "parent": {
     "appid": 2647680,
     "name": "ICBM: Escalation"
@@ -9034,6 +9071,38 @@
    "leaving_ea": null
   },
   {
+   "appid": 4245200,
+   "name": "Warhammer Blood Bowl - The Official Video Game",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Q4 2026",
+   "precision": "quarter",
+   "sort_key": 20261098,
+   "developers": [
+    "Cyanide Studio"
+   ],
+   "publishers": [
+    "Slitherine Ltd."
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Slitherine / Matrix"
+   ],
+   "collections": [
+    "Wargames"
+   ],
+   "url": "https://store.steampowered.com/app/4245200/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245200/305913edc87cc18d2ec250a50a83ced02cafcb12/capsule_231x87.jpg?t=1791204980",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
    "appid": 5094370,
    "name": "Age of Wonders 4: The Silver Seas",
    "type": "dlc",
@@ -9111,7 +9180,7 @@
    "precision": "year",
    "sort_key": 20269898,
    "developers": [
-    "ShoulderByte GmbH"
+    "ShoulderByte"
    ],
    "publishers": [
     "Hooded Horse"
@@ -9126,7 +9195,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/956af7f38cc33940a82bd3f60a49e67fcf2b21ad/capsule_231x87.jpg?t=1790845658",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87.jpg?t=1791197721",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9823,7 +9892,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2189430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/0c6c8a5df85dd95c5af85c63b4bcde9b7784e608/capsule_231x87.jpg?t=1790847075",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87.jpg?t=1791208919",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
