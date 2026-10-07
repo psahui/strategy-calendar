@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T22:40:43+00:00",
- "cutoff": "2025-10-06",
+ "generated_at": "2026-10-07T23:08:58+00:00",
+ "cutoff": "2025-10-07",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -546,8 +546,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 91,
-    "total": 504
+    "pct": 92,
+    "total": 507
    },
    "leaving_ea": null
   },
@@ -697,8 +697,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 43,
-    "total": 14
+    "pct": 47,
+    "total": 15
    },
    "leaving_ea": null
   },
@@ -1086,7 +1086,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 135
+    "total": 136
    },
    "leaving_ea": null
   },
@@ -2914,8 +2914,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 75,
-    "total": 310
+    "pct": 76,
+    "total": 311
    },
    "leaving_ea": null
   },
@@ -2951,7 +2951,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 317
+    "total": 318
    },
    "leaving_ea": null
   },
@@ -3100,7 +3100,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 71,
-    "total": 427
+    "total": 428
    },
    "leaving_ea": null
   },
@@ -3755,7 +3755,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 937
+    "total": 939
    },
    "leaving_ea": null
   },
@@ -4444,7 +4444,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 1375
+    "total": 1389
    },
    "leaving_ea": null
   },
@@ -4716,7 +4716,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 76,
-    "total": 825
+    "total": 831
    },
    "leaving_ea": null
   },
@@ -5849,9 +5849,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Negative",
-    "pct": 39,
-    "total": 18
+    "desc": "Mixed",
+    "pct": 42,
+    "total": 19
    },
    "leaving_ea": null
   },
@@ -7270,7 +7270,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2768380/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1790695898",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1791321518",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7391,7 +7391,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 68,
-    "total": 600
+    "total": 613
    },
    "leaving_ea": null
   },
@@ -7466,8 +7466,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 45
+    "pct": 68,
+    "total": 50
    },
    "leaving_ea": null
   },
@@ -7505,8 +7505,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 15
+    "pct": 69,
+    "total": 16
    },
    "leaving_ea": null
   },
@@ -7769,7 +7769,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 60,
-    "total": 57
+    "total": 62
    },
    "leaving_ea": null
   },
@@ -8034,8 +8034,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 40,
-    "total": 163
+    "pct": 41,
+    "total": 193
    },
    "leaving_ea": null
   },
@@ -8242,8 +8242,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 50,
-    "total": 36
+    "pct": 51,
+    "total": 61
    },
    "leaving_ea": null
   },
@@ -8355,9 +8355,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "2 user reviews",
-    "pct": 50,
-    "total": 2
+    "desc": "4 user reviews",
+    "pct": 25,
+    "total": 4
    },
    "leaving_ea": null
   },
@@ -8395,9 +8395,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 129
+    "desc": "Mixed",
+    "pct": 52,
+    "total": 476
    },
    "leaving_ea": null
   },
@@ -8433,7 +8433,11 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 100,
+    "total": 2
+   },
    "leaving_ea": null
   },
   {
@@ -8598,7 +8602,7 @@
    "name": "Distant Worlds 2: Shadows Rising",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 7, 2026",
    "precision": "day",
    "sort_key": 20261007,
@@ -8618,14 +8622,18 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3989670/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989670/a384316a508caa6f02cdf37c15a353b080f5c08a/capsule_231x87.jpg?t=1784732626",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989670/0ea3af58abdd9a8c78dc7c22c918dc8bc39fbdc1/capsule_231x87_alt_assets_0.jpg?t=1791382064",
    "parent": {
     "appid": 1531540,
     "name": "Distant Worlds 2"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "7 user reviews",
+    "pct": 100,
+    "total": 7
+   },
    "leaving_ea": null
   },
   {
@@ -8653,7 +8661,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3031880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1788962410",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1791385559",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8685,7 +8693,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3743140/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1789649198",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1791277265",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8752,7 +8760,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2644100/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1790119673",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1791398563",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8921,7 +8929,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1790845427",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1791278593",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8958,6 +8966,111 @@
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4771390,
+   "name": "Cities: Skylines - Blueprint Beats",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Oct 28, 2026",
+   "precision": "day",
+   "sort_key": 20261028,
+   "developers": [
+    "Paradox Interactive"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4771390/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771390/32cca1bc6350cfccf3fe4e674ac7e32bdb0af334/capsule_231x87.jpg?t=1791385170",
+   "parent": {
+    "appid": 255710,
+    "name": "Cities: Skylines"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4771370,
+   "name": "Cities: Skylines - Content Creator Pack: Holiday Getaways",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "upcoming",
+   "date_string": "Oct 28, 2026",
+   "precision": "day",
+   "sort_key": 20261028,
+   "developers": [
+    "Tomas13TO"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4771370/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771370/b17c505be48362fe5ff07a6ae789ef01c1a74012/capsule_231x87.jpg?t=1791385162",
+   "parent": {
+    "appid": 255710,
+    "name": "Cities: Skylines"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4771380,
+   "name": "Cities: Skylines - Content Creator Pack: Mansions & Manors",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "upcoming",
+   "date_string": "Oct 28, 2026",
+   "precision": "day",
+   "sort_key": 20261028,
+   "developers": [
+    "Feindbold"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4771380/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771380/7dbecbfa0a7024dc9bf23ab76f488ad7f024b2db/capsule_231x87.jpg?t=1791385169",
+   "parent": {
+    "appid": 255710,
+    "name": "Cities: Skylines"
    },
    "has_demo": false,
    "blog_url": null,
@@ -9095,7 +9208,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4245200/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245200/305913edc87cc18d2ec250a50a83ced02cafcb12/capsule_231x87.jpg?t=1791204980",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245200/305913edc87cc18d2ec250a50a83ced02cafcb12/capsule_231x87.jpg?t=1791282181",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9195,7 +9308,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87.jpg?t=1791197721",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87.jpg?t=1791314875",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9227,7 +9340,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1447250/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1790846715",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1791279820",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9259,7 +9372,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1727760/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1790845609",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1791283417",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9323,7 +9436,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/969330/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1790845818",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1791278922",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -9355,7 +9468,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2439030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1790845607",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1791283374",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9387,7 +9500,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1853440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1790769494",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1791288458",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9730,7 +9843,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1537440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1790845660",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1791279121",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9762,7 +9875,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1490930/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1790845641",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1791284095",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9794,7 +9907,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1670650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1790847141",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1791279144",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9826,7 +9939,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1672320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1790845639",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1791284022",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9858,7 +9971,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2189430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87.jpg?t=1791208919",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87.jpg?t=1791279050",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9923,7 +10036,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1777480/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1790846502",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1791278738",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
