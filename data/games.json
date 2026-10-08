@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T23:08:58+00:00",
- "cutoff": "2025-10-07",
+ "generated_at": "2026-10-08T23:24:32+00:00",
+ "cutoff": "2025-10-08",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,80 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 2088550,
-   "name": "Dying Breed",
-   "type": "game",
-   "kind": "game",
-   "status": "early_access",
-   "date_string": "Oct 7, 2025",
-   "precision": "day",
-   "sort_key": 20251007,
-   "developers": [
-    "Sarnayer"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/2088550/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088550/86c2c9cfd62128bd6e42264c27cde42d49c30cc3/capsule_231x87.jpg?t=1789686537",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 234
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 2978630,
-   "name": "WARNO - SOUTHAG",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Oct 7, 2025",
-   "precision": "day",
-   "sort_key": 20251007,
-   "developers": [
-    "Eugen Systems"
-   ],
-   "publishers": [],
-   "dev_groups": [
-    "Eugen Systems"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Wargames",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/2978630/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2978630/capsule_231x87.jpg?t=1759998958",
-   "parent": {
-    "appid": 1611600,
-    "name": "WARNO"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 67,
-    "total": 93
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 4013420,
    "name": "Across the Obelisk: Golden Season Pack",
@@ -6862,8 +6788,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 68,
-    "total": 115
+    "pct": 66,
+    "total": 119
    },
    "leaving_ea": null
   },
@@ -7054,7 +6980,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 38
+    "total": 39
    },
    "leaving_ea": null
   },
@@ -7427,7 +7353,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 75,
-    "total": 124
+    "total": 125
    },
    "leaving_ea": null
   },
@@ -7844,8 +7770,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 58,
-    "total": 19
+    "pct": 60,
+    "total": 20
    },
    "leaving_ea": null
   },
@@ -8076,8 +8002,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 53,
-    "total": 316
+    "pct": 52,
+    "total": 374
    },
    "leaving_ea": null
   },
@@ -8118,8 +8044,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 832
+    "pct": 63,
+    "total": 1035
    },
    "leaving_ea": null
   },
@@ -8160,8 +8086,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 344
+    "pct": 72,
+    "total": 419
    },
    "leaving_ea": null
   },
@@ -8202,8 +8128,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 69,
-    "total": 156
+    "pct": 67,
+    "total": 192
    },
    "leaving_ea": null
   },
@@ -8279,7 +8205,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 70,
-    "total": 3219
+    "total": 5781
    },
    "leaving_ea": null
   },
@@ -8475,8 +8401,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 100,
-    "total": 12
+    "pct": 92,
+    "total": 25
    },
    "leaving_ea": null
   },
@@ -8514,9 +8440,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "1 user reviews",
-    "pct": 100,
-    "total": 1
+    "desc": "3 user reviews",
+    "pct": 67,
+    "total": 3
    },
    "leaving_ea": null
   },
@@ -8550,9 +8476,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "3 user reviews",
-    "pct": 67,
-    "total": 3
+    "desc": "Positive",
+    "pct": 86,
+    "total": 14
    },
    "leaving_ea": null
   },
@@ -8591,9 +8517,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "1 user reviews",
-    "pct": 100,
-    "total": 1
+    "desc": "2 user reviews",
+    "pct": 50,
+    "total": 2
    },
    "leaving_ea": null
   },
@@ -8693,7 +8619,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3743140/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1791277265",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1791472980",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8760,7 +8686,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2644100/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1791398563",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1791429182",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8932,42 +8858,6 @@
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1791278593",
    "parent": null,
    "has_demo": true,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 4314660,
-   "name": "Victoria 3: State and Revolution - Immersion Pack",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "upcoming",
-   "date_string": "Oct 22, 2026",
-   "precision": "day",
-   "sort_key": 20261022,
-   "developers": [
-    "Paradox Development Studio"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Paradox Development Studio"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/4314660/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314660/c34ecba8ac2f62fcb16fa38460b96b7416b8a0e6/capsule_231x87.jpg?t=1788451070",
-   "parent": {
-    "appid": 529340,
-    "name": "Victoria 3"
-   },
-   "has_demo": false,
    "blog_url": null,
    "review": null,
    "leaving_ea": null
@@ -9245,6 +9135,42 @@
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4314660,
+   "name": "Victoria 3: State and Revolution - Immersion Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Nov 5, 2026",
+   "precision": "day",
+   "sort_key": 20261105,
+   "developers": [
+    "Paradox Development Studio"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Paradox Development Studio"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4314660/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314660/c34ecba8ac2f62fcb16fa38460b96b7416b8a0e6/capsule_231x87.jpg?t=1791467979",
+   "parent": {
+    "appid": 529340,
+    "name": "Victoria 3"
    },
    "has_demo": false,
    "blog_url": null,
