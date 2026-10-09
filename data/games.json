@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-08T23:24:32+00:00",
- "cutoff": "2025-10-08",
+ "generated_at": "2026-10-09T22:42:34+00:00",
+ "cutoff": "2025-10-09",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,45 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 4013420,
-   "name": "Across the Obelisk: Golden Season Pack",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Oct 8, 2025",
-   "precision": "day",
-   "sort_key": 20251008,
-   "developers": [
-    "Moonmana Ltd."
-   ],
-   "publishers": [
-    "Paradox Arc"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/4013420/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013420/4c2cc7f16e0752c97a82c0849d8ae1ce88743e3b/capsule_231x87.jpg?t=1759924782",
-   "parent": {
-    "appid": 1385380,
-    "name": "Across the Obelisk"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "9 user reviews",
-    "pct": 67,
-    "total": 9
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3562810,
    "name": "Victoria 3: Songs of the Homeland - Music Pack",
@@ -2947,7 +2908,7 @@
     "Digital board games"
    ],
    "url": "https://store.steampowered.com/app/2994150/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994150/fffb846e14d3e1eec85d381348b3fb812087448d/capsule_231x87.jpg?t=1776182690",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994150/fffb846e14d3e1eec85d381348b3fb812087448d/capsule_231x87.jpg?t=1790081569",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -3674,7 +3635,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/2147380/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147380/73d4f56e3d44a4dbfc8c824815a2dc716d2b3fd3/capsule_231x87_alt_assets_1.jpg?t=1782316253",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147380/73d4f56e3d44a4dbfc8c824815a2dc716d2b3fd3/capsule_231x87_alt_assets_1.jpg?t=1791211089",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -4363,7 +4324,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/1369700/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369700/888e8b703ef2ecec588f35082ee6c98620fdfc81/capsule_231x87.jpg?t=1787043483",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369700/888e8b703ef2ecec588f35082ee6c98620fdfc81/capsule_231x87.jpg?t=1789131708",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -4635,7 +4596,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2808550/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808550/b5cb2ffa14cb80c59764619511b6eb52aff35377/capsule_231x87.jpg?t=1785412566",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808550/b5cb2ffa14cb80c59764619511b6eb52aff35377/capsule_231x87.jpg?t=1790060517",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -4671,7 +4632,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4108030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108030/ac4cca81196e335dde6e2a3533031a6b5cbc6a06/capsule_231x87.jpg?t=1776952830",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108030/ac4cca81196e335dde6e2a3533031a6b5cbc6a06/capsule_231x87.jpg?t=1790060577",
    "parent": {
     "appid": 2808550,
     "name": "Sudden Strike 5"
@@ -6632,8 +6593,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 86,
-    "total": 3591
+    "pct": 85,
+    "total": 3658
    },
    "leaving_ea": null
   },
@@ -6893,7 +6854,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2764460/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1790846471",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/f0a29d6c91be4e91e9fa2f384dd5ae695bfd6b5b/capsule_231x87.jpg?t=1791551267",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7239,7 +7200,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 22426
+    "total": 22932
    },
    "leaving_ea": null
   },
@@ -7801,7 +7762,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3407390/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/9f2ee6ecca69fa997206c328e095d77b431b0501/capsule_231x87.jpg?t=1790846870",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/9f2ee6ecca69fa997206c328e095d77b431b0501/capsule_231x87.jpg?t=1791279113",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7846,7 +7807,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 96,
-    "total": 178
+    "total": 190
    },
    "leaving_ea": null
   },
@@ -8198,7 +8159,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3493540/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/c7e55c21b933d7960ab0400fc0f905c4e00ec6ac/capsule_231x87_alt_assets_0.jpg?t=1790777411",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/c7e55c21b933d7960ab0400fc0f905c4e00ec6ac/capsule_231x87_alt_assets_0.jpg?t=1791359026",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8824,6 +8785,41 @@
    "parent": {
     "appid": 2195910,
     "name": "Darkenstein 3D"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4865610,
+   "name": "Heroes of Science and Fiction - Xenauri faction",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Oct 15, 2026",
+   "precision": "day",
+   "sort_key": 20261015,
+   "developers": [
+    "Oxymoron Games"
+   ],
+   "publishers": [
+    "Oxymoron Games"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Indie radar"
+   ],
+   "url": "https://store.steampowered.com/app/4865610/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865610/1ac9932a3842829f0c57983c0233e02ea07fabd6/capsule_231x87.jpg?t=1791545886",
+   "parent": {
+    "appid": 2147380,
+    "name": "Heroes of Science and Fiction"
    },
    "has_demo": false,
    "blog_url": null,
@@ -9738,6 +9734,38 @@
    ],
    "url": "https://store.steampowered.com/app/4413130/",
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413130/6e33065b145801620dc7430b1b9472a092eae4ab/capsule_231x87.jpg?t=1787640174",
+   "parent": null,
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4879420,
+   "name": "BELTFED",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "2027",
+   "precision": "year",
+   "sort_key": 20279898,
+   "developers": [
+    "Hello World Studios"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/4879420/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879420/bbc55495bb883a6d819b7f118469d1ebe3e9153a/capsule_231x87.jpg?t=1791555271",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
