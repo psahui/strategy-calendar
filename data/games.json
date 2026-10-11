@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T21:49:06+00:00",
- "cutoff": "2025-10-10",
+ "generated_at": "2026-10-11T22:03:09+00:00",
+ "cutoff": "2025-10-11",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -6108,7 +6108,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/710230/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710230/d789637e15b21d27ede5bfb5e6ecac284b72be71/capsule_231x87.jpg?t=1784039019",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710230/d789637e15b21d27ede5bfb5e6ecac284b72be71/capsule_231x87.jpg?t=1790696153",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7691,8 +7691,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 98,
-    "total": 40
+    "pct": 95,
+    "total": 44
    },
    "leaving_ea": null
   },
@@ -8651,7 +8651,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2644100/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/8e810c7e279705cca998af4365eceb0ffc5764b7/capsule_231x87.jpg?t=1791429182",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/b5d5c7743c895014c4ae3444d54c50f7710496d5/capsule_231x87.jpg?t=1791693990",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
