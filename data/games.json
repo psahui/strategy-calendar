@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T00:46:41+00:00",
- "cutoff": "2025-10-12",
+ "generated_at": "2026-10-13T22:50:45+00:00",
+ "cutoff": "2025-10-13",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -8204,8 +8204,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 73,
-    "total": 11
+    "pct": 75,
+    "total": 12
    },
    "leaving_ea": null
   },
@@ -8771,6 +8771,86 @@
    "has_demo": false,
    "blog_url": null,
    "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4515770,
+   "name": "Planet Zoo 2: Bonus Content Pack",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Oct 13, 2026",
+   "precision": "day",
+   "sort_key": 20261013,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4515770/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515770/b258e4855653c096940a228c49107be4ea32c493/capsule_231x87.jpg?t=1791900145",
+   "parent": {
+    "appid": 3219030,
+    "name": "Planet Zoo 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "8 user reviews",
+    "pct": 50,
+    "total": 8
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 4515760,
+   "name": "Planet Zoo 2: Deluxe Upgrade Pack",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Oct 13, 2026",
+   "precision": "day",
+   "sort_key": 20261013,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4515760/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515760/f6346ac8bcf93d5f0f96ccf8703824b72f8c9ccf/capsule_231x87.jpg?t=1791900015",
+   "parent": {
+    "appid": 3219030,
+    "name": "Planet Zoo 2"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "9 user reviews",
+    "pct": 44,
+    "total": 9
+   },
    "leaving_ea": null
   },
   {
