@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T22:03:09+00:00",
- "cutoff": "2025-10-11",
+ "generated_at": "2026-10-13T00:46:41+00:00",
+ "cutoff": "2025-10-12",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -167,7 +167,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 1700
+    "total": 1710
    },
    "leaving_ea": null
   },
@@ -204,7 +204,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 13897
+    "total": 14004
    },
    "leaving_ea": null
   },
@@ -244,7 +244,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 75
+    "total": 76
    },
    "leaving_ea": null
   },
@@ -546,7 +546,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 78,
-    "total": 192
+    "total": 193
    },
    "leaving_ea": null
   },
@@ -1396,7 +1396,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 96,
-    "total": 4018
+    "total": 4038
    },
    "leaving_ea": null
   },
@@ -2112,8 +2112,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 80,
-    "total": 112
+    "pct": 81,
+    "total": 113
    },
    "leaving_ea": null
   },
@@ -2730,7 +2730,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 89,
-    "total": 798
+    "total": 799
    },
    "leaving_ea": null
   },
@@ -2951,7 +2951,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 548
+    "total": 553
    },
    "leaving_ea": null
   },
@@ -4179,8 +4179,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 82,
-    "total": 194
+    "pct": 83,
+    "total": 196
    },
    "leaving_ea": null
   },
@@ -4526,8 +4526,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 68,
-    "total": 241
+    "pct": 69,
+    "total": 242
    },
    "leaving_ea": null
   },
@@ -5027,7 +5027,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 74,
-    "total": 1611
+    "total": 1632
    },
    "leaving_ea": null
   },
@@ -5417,8 +5417,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 88,
-    "total": 60
+    "pct": 89,
+    "total": 62
    },
    "leaving_ea": null
   },
@@ -5609,7 +5609,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4677530/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4677530/9323a684054253b679e0d82c13cdf7853dc84880/capsule_231x87.jpg?t=1785776758",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4677530/9323a684054253b679e0d82c13cdf7853dc84880/capsule_231x87.jpg?t=1790926697",
    "parent": {
     "appid": 1054490,
     "name": "Wingspan"
@@ -5698,8 +5698,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 61,
-    "total": 298
+    "pct": 60,
+    "total": 301
    },
    "leaving_ea": null
   },
@@ -6115,7 +6115,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 70,
-    "total": 700
+    "total": 704
    },
    "leaving_ea": null
   },
@@ -6152,7 +6152,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 25084
+    "total": 25100
    },
    "leaving_ea": null
   },
@@ -6224,7 +6224,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 397
+    "total": 400
    },
    "leaving_ea": null
   },
@@ -6710,7 +6710,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 176
+    "total": 179
    },
    "leaving_ea": null
   },
@@ -6861,7 +6861,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 97,
-    "total": 5378
+    "total": 5595
    },
    "leaving_ea": null
   },
@@ -7164,7 +7164,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 143
+    "total": 145
    },
    "leaving_ea": null
   },
@@ -7768,8 +7768,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 84,
-    "total": 4040
+    "pct": 83,
+    "total": 4199
    },
    "leaving_ea": null
   },
@@ -7844,7 +7844,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 85,
-    "total": 87
+    "total": 94
    },
    "leaving_ea": null
   },
@@ -7873,7 +7873,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4868680/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868680/93f23bc89697437f9f86fe24ee14c68036fe7022/capsule_231x87.jpg?t=1790844887",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868680/93f23bc89697437f9f86fe24ee14c68036fe7022/capsule_231x87.jpg?t=1791790723",
    "parent": {
     "appid": 1385380,
     "name": "Across the Obelisk"
@@ -8195,7 +8195,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3979620/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979620/0470822e5e28ba0c5dcbb7e31d4f656024a7380e/capsule_231x87.jpg?t=1790697558",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979620/0470822e5e28ba0c5dcbb7e31d4f656024a7380e/capsule_231x87.jpg?t=1791797491",
    "parent": {
     "appid": 3493540,
     "name": "Transport Fever 3"
@@ -8564,7 +8564,7 @@
    "name": "Battleplan",
    "type": "game",
    "kind": "game",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 12, 2026",
    "precision": "day",
    "sort_key": 20261012,
@@ -8584,11 +8584,15 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3743140/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/6b049cc18998fdf35d73c52713adda8c529fad2e/capsule_231x87.jpg?t=1791472980",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743140/eddd75ac10a1c971a15adde5ddab68d9bd13f169/capsule_231x87_alt_assets_1.jpg?t=1791816634",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mixed",
+    "pct": 66,
+    "total": 67
+   },
    "leaving_ea": null
   },
   {
@@ -8596,7 +8600,7 @@
    "name": "Heart of the Machine - Kinship",
    "type": "dlc",
    "kind": "minor_dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 12, 2026",
    "precision": "day",
    "sort_key": 20261012,
@@ -8616,14 +8620,57 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4565610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565610/60cb1a428d7603d36915c3003fd12fdd04714ef8/capsule_231x87.jpg?t=1789477273",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565610/60cb1a428d7603d36915c3003fd12fdd04714ef8/capsule_231x87.jpg?t=1791826528",
    "parent": {
     "appid": 2001070,
     "name": "Heart of the Machine"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 100,
+    "total": 2
+   },
+   "leaving_ea": null
+  },
+  {
+   "appid": 5236690,
+   "name": "Heart of the Machine - Supporter Pack",
+   "type": "dlc",
+   "kind": "minor_dlc",
+   "status": "released",
+   "date_string": "Oct 12, 2026",
+   "precision": "day",
+   "sort_key": 20261012,
+   "developers": [
+    "Arcen Games"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/5236690/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5236690/6d4a09a0537ea0db5a2e01606c046f21b046ed04/capsule_231x87.jpg?t=1791824125",
+   "parent": {
+    "appid": 2001070,
+    "name": "Heart of the Machine"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": {
+    "desc": "2 user reviews",
+    "pct": 100,
+    "total": 2
+   },
    "leaving_ea": null
   },
   {
@@ -8719,7 +8766,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3219030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1790942385",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1791804561",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8820,7 +8867,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/4865610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865610/1ac9932a3842829f0c57983c0233e02ea07fabd6/capsule_231x87.jpg?t=1791545886",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865610/1ac9932a3842829f0c57983c0233e02ea07fabd6/capsule_231x87.jpg?t=1791795531",
    "parent": {
     "appid": 2147380,
     "name": "Heroes of Science and Fiction"
@@ -9098,7 +9145,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4245200/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245200/305913edc87cc18d2ec250a50a83ced02cafcb12/capsule_231x87.jpg?t=1791282181",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245200/305913edc87cc18d2ec250a50a83ced02cafcb12/capsule_231x87.jpg?t=1791819429",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
