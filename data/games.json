@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T22:50:45+00:00",
- "cutoff": "2025-10-13",
+ "generated_at": "2026-10-14T21:45:36+00:00",
+ "cutoff": "2025-10-14",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -8678,7 +8678,7 @@
    "name": "Allogloom",
    "type": "game",
    "kind": "game",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 13, 2026",
    "precision": "day",
    "sort_key": 20261013,
@@ -8698,11 +8698,15 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2644100/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/b5d5c7743c895014c4ae3444d54c50f7710496d5/capsule_231x87.jpg?t=1791693990",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/b5d5c7743c895014c4ae3444d54c50f7710496d5/capsule_231x87.jpg?t=1791900070",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Positive",
+    "pct": 100,
+    "total": 32
+   },
    "leaving_ea": null
   },
   {
@@ -8710,7 +8714,7 @@
    "name": "ICBM: Escalation - Assassin's Mace",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 13, 2026",
    "precision": "day",
    "sort_key": 20261013,
@@ -8730,14 +8734,18 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4782620/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782620/317a1e49d761ec46011aa41b2668f36f80be7fcc/capsule_231x87.jpg?t=1791209985",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782620/317a1e49d761ec46011aa41b2668f36f80be7fcc/capsule_231x87.jpg?t=1791902020",
    "parent": {
     "appid": 2647680,
     "name": "ICBM: Escalation"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "8 user reviews",
+    "pct": 50,
+    "total": 8
+   },
    "leaving_ea": null
   },
   {
@@ -8745,7 +8753,7 @@
    "name": "Planet Zoo 2",
    "type": "game",
    "kind": "game",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 13, 2026",
    "precision": "day",
    "sort_key": 20261013,
@@ -8766,11 +8774,15 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3219030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1791804561",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/d4ea06b2e49dbf8c9b3b2f96540613de960b48e1/capsule_231x87.jpg?t=1791984269",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 1860
+   },
    "leaving_ea": null
   },
   {
@@ -8858,7 +8870,7 @@
    "name": "Total War: SHOGUN 2 - Complete Edition",
    "type": "game",
    "kind": "game",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 13, 2026",
    "precision": "day",
    "sort_key": 20261013,
@@ -8880,11 +8892,15 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3846830/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/3aac12897252e0b0726d8a882a90ed3c83a0ccfa/capsule_231x87.jpg?t=1789489801",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/3aac12897252e0b0726d8a882a90ed3c83a0ccfa/capsule_231x87.jpg?t=1791903651",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "Overwhelmingly Negative",
+    "pct": 17,
+    "total": 2463
+   },
    "leaving_ea": null
   },
   {
@@ -8892,7 +8908,7 @@
    "name": "Darkenstein 3D: Total Trampage",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 14, 2026",
    "precision": "day",
    "sort_key": 20261014,
@@ -8912,7 +8928,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/5224130/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224130/53e959b4bfe7356d3ac97dc0a76e85ec5f5650ac/capsule_231x87.jpg?t=1790334019",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224130/53e959b4bfe7356d3ac97dc0a76e85ec5f5650ac/capsule_231x87.jpg?t=1791971967",
    "parent": {
     "appid": 2195910,
     "name": "Darkenstein 3D"
@@ -9393,7 +9409,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1447250/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1791279820",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1792006440",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
