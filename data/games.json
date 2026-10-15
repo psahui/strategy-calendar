@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T21:45:36+00:00",
- "cutoff": "2025-10-14",
+ "generated_at": "2026-10-15T21:28:19+00:00",
+ "cutoff": "2025-10-15",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -434,7 +434,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 92,
-    "total": 507
+    "total": 514
    },
    "leaving_ea": null
   },
@@ -584,8 +584,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 47,
-    "total": 15
+    "pct": 44,
+    "total": 16
    },
    "leaving_ea": null
   },
@@ -624,7 +624,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 52,
-    "total": 603
+    "total": 606
    },
    "leaving_ea": null
   },
@@ -2802,7 +2802,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 76,
-    "total": 311
+    "total": 313
    },
    "leaving_ea": null
   },
@@ -2986,8 +2986,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 428
+    "pct": 72,
+    "total": 430
    },
    "leaving_ea": null
   },
@@ -3642,7 +3642,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 939
+    "total": 941
    },
    "leaving_ea": null
   },
@@ -4331,7 +4331,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 1389
+    "total": 1401
    },
    "leaving_ea": null
   },
@@ -4603,7 +4603,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 76,
-    "total": 831
+    "total": 842
    },
    "leaving_ea": null
   },
@@ -5713,7 +5713,7 @@
    "precision": "day",
    "sort_key": 20260617,
    "developers": [
-    "Dreamsite Games"
+    "Ni-X"
    ],
    "publishers": [
     "Paradox Arc"
@@ -5728,7 +5728,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3930240/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930240/7270624fe59c9221cd5098294736ff69c898a99f/capsule_231x87.jpg?t=1789460044",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930240/7270624fe59c9221cd5098294736ff69c898a99f/capsule_231x87.jpg?t=1790078991",
    "parent": {
     "appid": 1385380,
     "name": "Across the Obelisk"
@@ -6145,7 +6145,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/16900/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/0c720dc9a4fdfe67f2a66ecc5de28e0a887e0988/capsule_231x87.jpg?t=1788130999",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/0c720dc9a4fdfe67f2a66ecc5de28e0a887e0988/capsule_231x87.jpg?t=1790695476",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -6181,7 +6181,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3219010/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/99952a0ddcfd4d3e77bd2589347204a0d7ea2265/capsule_231x87.jpg?t=1789393832",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219010/99952a0ddcfd4d3e77bd2589347204a0d7ea2265/capsule_231x87.jpg?t=1791282956",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7157,7 +7157,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/2768380/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1791321518",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768380/af385d8625e8ff3e4791488ec0356ca340733351/capsule_231x87.jpg?t=1791896912",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7277,8 +7277,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 68,
-    "total": 613
+    "pct": 67,
+    "total": 622
    },
    "leaving_ea": null
   },
@@ -7353,8 +7353,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 68,
-    "total": 50
+    "pct": 67,
+    "total": 52
    },
    "leaving_ea": null
   },
@@ -7392,8 +7392,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 69,
-    "total": 16
+    "pct": 65,
+    "total": 17
    },
    "leaving_ea": null
   },
@@ -7655,8 +7655,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 60,
-    "total": 62
+    "pct": 59,
+    "total": 63
    },
    "leaving_ea": null
   },
@@ -7921,8 +7921,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 41,
-    "total": 193
+    "pct": 40,
+    "total": 205
    },
    "leaving_ea": null
   },
@@ -8130,7 +8130,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 51,
-    "total": 61
+    "total": 65
    },
    "leaving_ea": null
   },
@@ -8283,8 +8283,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 52,
-    "total": 476
+    "pct": 48,
+    "total": 597
    },
    "leaving_ea": null
   },
@@ -8517,9 +8517,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "7 user reviews",
-    "pct": 100,
-    "total": 7
+    "desc": "Mostly Positive",
+    "pct": 76,
+    "total": 33
    },
    "leaving_ea": null
   },
@@ -8866,44 +8866,6 @@
    "leaving_ea": null
   },
   {
-   "appid": 3846830,
-   "name": "Total War: SHOGUN 2 - Complete Edition",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Oct 13, 2026",
-   "precision": "day",
-   "sort_key": 20261013,
-   "developers": [
-    "Creative Assembly",
-    "MATABOO"
-   ],
-   "publishers": [
-    "SEGA"
-   ],
-   "dev_groups": [
-    "Creative Assembly"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3846830/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/3aac12897252e0b0726d8a882a90ed3c83a0ccfa/capsule_231x87.jpg?t=1791903651",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Overwhelmingly Negative",
-    "pct": 17,
-    "total": 2463
-   },
-   "leaving_ea": null
-  },
-  {
    "appid": 5224130,
    "name": "Darkenstein 3D: Total Trampage",
    "type": "dlc",
@@ -9001,111 +8963,6 @@
    "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1791551257",
    "parent": null,
    "has_demo": true,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 4771390,
-   "name": "Cities: Skylines - Blueprint Beats",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "upcoming",
-   "date_string": "Oct 28, 2026",
-   "precision": "day",
-   "sort_key": 20261028,
-   "developers": [
-    "Paradox Interactive"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/4771390/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771390/32cca1bc6350cfccf3fe4e674ac7e32bdb0af334/capsule_231x87.jpg?t=1791385170",
-   "parent": {
-    "appid": 255710,
-    "name": "Cities: Skylines"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 4771370,
-   "name": "Cities: Skylines - Content Creator Pack: Holiday Getaways",
-   "type": "dlc",
-   "kind": "minor_dlc",
-   "status": "upcoming",
-   "date_string": "Oct 28, 2026",
-   "precision": "day",
-   "sort_key": 20261028,
-   "developers": [
-    "Tomas13TO"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/4771370/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771370/b17c505be48362fe5ff07a6ae789ef01c1a74012/capsule_231x87.jpg?t=1791385162",
-   "parent": {
-    "appid": 255710,
-    "name": "Cities: Skylines"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 4771380,
-   "name": "Cities: Skylines - Content Creator Pack: Mansions & Manors",
-   "type": "dlc",
-   "kind": "minor_dlc",
-   "status": "upcoming",
-   "date_string": "Oct 28, 2026",
-   "precision": "day",
-   "sort_key": 20261028,
-   "developers": [
-    "Feindbold"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/4771380/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771380/7dbecbfa0a7024dc9bf23ab76f488ad7f024b2db/capsule_231x87.jpg?t=1791385169",
-   "parent": {
-    "appid": 255710,
-    "name": "Cities: Skylines"
-   },
-   "has_demo": false,
    "blog_url": null,
    "review": null,
    "leaving_ea": null
