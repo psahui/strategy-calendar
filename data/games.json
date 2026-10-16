@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T21:28:19+00:00",
- "cutoff": "2025-10-15",
+ "generated_at": "2026-10-16T21:16:52+00:00",
+ "cutoff": "2025-10-16",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -6749,8 +6749,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 66,
-    "total": 119
+    "pct": 65,
+    "total": 120
    },
    "leaving_ea": null
   },
@@ -6939,9 +6939,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 79,
-    "total": 39
+    "desc": "Positive",
+    "pct": 80,
+    "total": 40
    },
    "leaving_ea": null
   },
@@ -7313,8 +7313,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 75,
-    "total": 125
+    "pct": 76,
+    "total": 128
    },
    "leaving_ea": null
   },
@@ -7731,8 +7731,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 60,
-    "total": 20
+    "pct": 62,
+    "total": 21
    },
    "leaving_ea": null
   },
@@ -7800,7 +7800,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3201730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1790243561",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/82abf20b05b1d17d110379722be9b928577c6ee3/capsule_231x87.jpg?t=1791985618",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7837,7 +7837,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/2403830/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1790619637",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1791995604",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7964,7 +7964,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 52,
-    "total": 374
+    "total": 410
    },
    "leaving_ea": null
   },
@@ -8005,8 +8005,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 63,
-    "total": 1035
+    "pct": 62,
+    "total": 1144
    },
    "leaving_ea": null
   },
@@ -8048,7 +8048,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 419
+    "total": 465
    },
    "leaving_ea": null
   },
@@ -8089,8 +8089,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 192
+    "pct": 64,
+    "total": 219
    },
    "leaving_ea": null
   },
@@ -8164,9 +8164,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mixed",
-    "pct": 70,
-    "total": 5781
+    "desc": "Mostly Positive",
+    "pct": 71,
+    "total": 6868
    },
    "leaving_ea": null
   },
@@ -8353,7 +8353,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5094350/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094350/701aa40eb77d6378a6075d55a1922d1e7cf8b036/capsule_231x87.jpg?t=1790880445",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094350/701aa40eb77d6378a6075d55a1922d1e7cf8b036/capsule_231x87.jpg?t=1792050867",
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
@@ -8362,8 +8362,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 92,
-    "total": 25
+    "pct": 89,
+    "total": 28
    },
    "leaving_ea": null
   },
@@ -8393,7 +8393,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5094360/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094360/d1c96bcfb2c9a9761402175a760e3238086decc1/capsule_231x87.jpg?t=1790870163",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094360/d1c96bcfb2c9a9761402175a760e3238086decc1/capsule_231x87.jpg?t=1792051216",
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
@@ -8438,8 +8438,8 @@
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 86,
-    "total": 14
+    "pct": 85,
+    "total": 20
    },
    "leaving_ea": null
   },
@@ -8905,7 +8905,7 @@
    "name": "Heroes of Science and Fiction - Xenauri faction",
    "type": "dlc",
    "kind": "dlc",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 15, 2026",
    "precision": "day",
    "sort_key": 20261015,
@@ -8925,14 +8925,18 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/4865610/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865610/1ac9932a3842829f0c57983c0233e02ea07fabd6/capsule_231x87.jpg?t=1791795531",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865610/1ac9932a3842829f0c57983c0233e02ea07fabd6/capsule_231x87.jpg?t=1792072900",
    "parent": {
     "appid": 2147380,
     "name": "Heroes of Science and Fiction"
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "4 user reviews",
+    "pct": 100,
+    "total": 4
+   },
    "leaving_ea": null
   },
   {
@@ -8940,7 +8944,7 @@
    "name": "Beyond These Stars",
    "type": "game",
    "kind": "game",
-   "status": "upcoming",
+   "status": "released",
    "date_string": "Oct 16, 2026",
    "precision": "day",
    "sort_key": 20261016,
@@ -8960,11 +8964,15 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1791551257",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1792185225",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "7 user reviews",
+    "pct": 86,
+    "total": 7
+   },
    "leaving_ea": null
   },
   {
@@ -9131,7 +9139,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5094370/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094370/10d806e4ff43ab73575ee9922fdbc7f0a8bbd0a2/capsule_231x87.jpg?t=1790870487",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094370/10d806e4ff43ab73575ee9922fdbc7f0a8bbd0a2/capsule_231x87.jpg?t=1792051351",
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
@@ -9394,7 +9402,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1853440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1791288458",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1792134372",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9427,7 +9435,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5094380/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094380/3723bad8aa32cad2c576f102eee3d4bdc8f45444/capsule_231x87.jpg?t=1790870218",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094380/3723bad8aa32cad2c576f102eee3d4bdc8f45444/capsule_231x87.jpg?t=1792051389",
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
@@ -9600,7 +9608,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5094390/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094390/8a6eae01f2ebb746477d4b57363cf6c549b20d76/capsule_231x87.jpg?t=1790870301",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094390/8a6eae01f2ebb746477d4b57363cf6c549b20d76/capsule_231x87.jpg?t=1792051417",
    "parent": {
     "appid": 1669000,
     "name": "Age of Wonders 4"
@@ -9930,7 +9938,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/2581850/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1788275034",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581850/6d9c9b568dfc4915be7b92bd7ad8b42ff0e14551/capsule_231x87.jpg?t=1792156511",
    "parent": null,
    "has_demo": false,
    "blog_url": null,

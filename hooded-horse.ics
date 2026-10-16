@@ -5,15 +5,4 @@ PRODID:-//Matchsticks for my Eyes//Strategy Release Calendar//EN
 X-WR-CALNAME:Strategy Releases — Hooded Horse
 X-PUBLISHED-TTL:P1D
 REFRESH-INTERVAL;VALUE=DURATION:P1D
-BEGIN:VEVENT
-UID:app-2295060@psahui.github.io
-DTSTAMP:20261015T212819Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Beyond These Stars
-DESCRIPTION:Balancing Monkey Games / Hooded Horse\nSteam: https://stor
- e.steampowered.com/app/2295060/
-URL:https://store.steampowered.com/app/2295060/
-TRANSP:TRANSPARENT
-END:VEVENT
 END:VCALENDAR
