@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T21:16:52+00:00",
- "cutoff": "2025-10-16",
+ "generated_at": "2026-10-17T20:40:20+00:00",
+ "cutoff": "2025-10-17",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,46 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3562810,
-   "name": "Victoria 3: Songs of the Homeland - Music Pack",
-   "type": "dlc",
-   "kind": "minor_dlc",
-   "status": "released",
-   "date_string": "Oct 16, 2025",
-   "precision": "day",
-   "sort_key": 20251016,
-   "developers": [
-    "Paradox Development Studio"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Paradox Development Studio"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3562810/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562810/9fd5ee5141993fc8cd8799c5a3e76d39bff78304/capsule_231x87.jpg?t=1781519930",
-   "parent": {
-    "appid": 529340,
-    "name": "Victoria 3"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mostly Positive",
-    "pct": 76,
-    "total": 68
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 3874110,
    "name": "Root: Hirelings & Landmarks",
@@ -6594,7 +6554,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 85,
-    "total": 3658
+    "total": 3693
    },
    "leaving_ea": null
   },
@@ -6897,7 +6857,7 @@
    "review": {
     "desc": "Positive",
     "pct": 87,
-    "total": 45
+    "total": 47
    },
    "leaving_ea": {
     "date_string": "Nov 6, 2026",
@@ -7200,7 +7160,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 22932
+    "total": 23418
    },
    "leaving_ea": null
   },
@@ -7807,7 +7767,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 96,
-    "total": 190
+    "total": 199
    },
    "leaving_ea": null
   },
@@ -8548,7 +8508,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3031880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1791662175",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1791970211",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8851,7 +8811,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/4515760/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515760/f6346ac8bcf93d5f0f96ccf8703824b72f8c9ccf/capsule_231x87.jpg?t=1791900015",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515760/f6346ac8bcf93d5f0f96ccf8703824b72f8c9ccf/capsule_231x87.jpg?t=1791978911",
    "parent": {
     "appid": 3219030,
     "name": "Planet Zoo 2"
