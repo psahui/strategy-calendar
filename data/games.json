@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T20:50:20+00:00",
- "cutoff": "2025-10-18",
+ "generated_at": "2026-10-19T22:24:59+00:00",
+ "cutoff": "2025-10-19",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -6177,7 +6177,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3279440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/8bc14fe756d8a672e7052834e408e97d9e237f18/capsule_231x87.jpg?t=1784830926",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279440/8bc14fe756d8a672e7052834e408e97d9e237f18/capsule_231x87.jpg?t=1790695768",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -7645,14 +7645,14 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/4535730/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/c11919862e731a440f125ffadcc04d31aed637a3/capsule_231x87.jpg?t=1790081444",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535730/c11919862e731a440f125ffadcc04d31aed637a3/capsule_231x87.jpg?t=1792415012",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": {
     "desc": "Positive",
-    "pct": 95,
-    "total": 44
+    "pct": 96,
+    "total": 46
    },
    "leaving_ea": null
   },
@@ -7797,7 +7797,7 @@
     "Indie radar"
    ],
    "url": "https://store.steampowered.com/app/2403830/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1791995604",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1792421846",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8924,7 +8924,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1792185225",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1792210100",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -8999,42 +8999,6 @@
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": null,
-   "leaving_ea": null
-  },
-  {
-   "appid": 4232910,
-   "name": "Crusader Kings III: Silk & Silver",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "upcoming",
-   "date_string": "Q4 2026",
-   "precision": "quarter",
-   "sort_key": 20261098,
-   "developers": [
-    "Paradox Development Studio"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Paradox Development Studio"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/4232910/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232910/9e8434374da73eef7fb48fadaa1e2bf8bc62cb26/capsule_231x87.jpg?t=1776773242",
-   "parent": {
-    "appid": 1158310,
-    "name": "Crusader Kings III"
    },
    "has_demo": false,
    "blog_url": null,
@@ -9139,6 +9103,42 @@
    "parent": {
     "appid": 529340,
     "name": "Victoria 3"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4232910,
+   "name": "Crusader Kings III: Silk & Silver",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Nov 17, 2026",
+   "precision": "day",
+   "sort_key": 20261117,
+   "developers": [
+    "Paradox Development Studio"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Paradox Development Studio"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4232910/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232910/9e8434374da73eef7fb48fadaa1e2bf8bc62cb26/capsule_231x87.jpg?t=1792414632",
+   "parent": {
+    "appid": 1158310,
+    "name": "Crusader Kings III"
    },
    "has_demo": false,
    "blog_url": null,
@@ -9362,9 +9362,9 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1853440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1792134372",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853440/41afee7504dec99c9825bb1d82a1eecedd561c8d/capsule_231x87.jpg?t=1792422518",
    "parent": null,
-   "has_demo": false,
+   "has_demo": true,
    "blog_url": null,
    "review": null,
    "leaving_ea": null
