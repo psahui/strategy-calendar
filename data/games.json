@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T22:24:59+00:00",
- "cutoff": "2025-10-19",
+ "generated_at": "2026-10-20T21:41:11+00:00",
+ "cutoff": "2025-10-20",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -127,7 +127,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 91,
-    "total": 1710
+    "total": 1725
    },
    "leaving_ea": null
   },
@@ -164,7 +164,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 93,
-    "total": 14004
+    "total": 14090
    },
    "leaving_ea": null
   },
@@ -204,7 +204,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 76
+    "total": 77
    },
    "leaving_ea": null
   },
@@ -505,8 +505,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 78,
-    "total": 193
+    "pct": 77,
+    "total": 194
    },
    "leaving_ea": null
   },
@@ -1356,7 +1356,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 96,
-    "total": 4038
+    "total": 4148
    },
    "leaving_ea": null
   },
@@ -2073,7 +2073,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 81,
-    "total": 113
+    "total": 114
    },
    "leaving_ea": null
   },
@@ -2690,7 +2690,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 89,
-    "total": 799
+    "total": 801
    },
    "leaving_ea": null
   },
@@ -2911,7 +2911,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 79,
-    "total": 553
+    "total": 555
    },
    "leaving_ea": null
   },
@@ -4910,9 +4910,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "8 user reviews",
+    "desc": "9 user reviews",
     "pct": 100,
-    "total": 8
+    "total": 9
    },
    "leaving_ea": null
   },
@@ -4987,7 +4987,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 74,
-    "total": 1632
+    "total": 1641
    },
    "leaving_ea": null
   },
@@ -5300,7 +5300,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 94,
-    "total": 294
+    "total": 295
    },
    "leaving_ea": null
   },
@@ -5659,7 +5659,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 60,
-    "total": 301
+    "total": 302
    },
    "leaving_ea": null
   },
@@ -5999,8 +5999,8 @@
    "blog_url": null,
    "review": {
     "desc": "Very Positive",
-    "pct": 81,
-    "total": 67
+    "pct": 80,
+    "total": 66
    },
    "leaving_ea": null
   },
@@ -6075,7 +6075,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 70,
-    "total": 704
+    "total": 705
    },
    "leaving_ea": null
   },
@@ -6112,7 +6112,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 84,
-    "total": 25100
+    "total": 25122
    },
    "leaving_ea": null
   },
@@ -6184,7 +6184,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 88,
-    "total": 400
+    "total": 407
    },
    "leaving_ea": null
   },
@@ -6821,7 +6821,7 @@
    "review": {
     "desc": "Overwhelmingly Positive",
     "pct": 97,
-    "total": 5595
+    "total": 5767
    },
    "leaving_ea": null
   },
@@ -7124,7 +7124,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 145
+    "total": 147
    },
    "leaving_ea": null
   },
@@ -7729,7 +7729,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 83,
-    "total": 4199
+    "total": 4315
    },
    "leaving_ea": null
   },
@@ -7804,7 +7804,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 85,
-    "total": 94
+    "total": 96
    },
    "leaving_ea": null
   },
@@ -8508,7 +8508,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3031880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1791970211",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1792406016",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -8549,9 +8549,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mixed",
-    "pct": 66,
-    "total": 67
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 266
    },
    "leaving_ea": null
   },
@@ -8588,9 +8588,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "2 user reviews",
-    "pct": 100,
-    "total": 2
+    "desc": "Positive",
+    "pct": 96,
+    "total": 24
    },
    "leaving_ea": null
   },
@@ -8627,9 +8627,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "2 user reviews",
+    "desc": "4 user reviews",
     "pct": 100,
-    "total": 2
+    "total": 4
    },
    "leaving_ea": null
   },
