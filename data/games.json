@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T21:41:11+00:00",
- "cutoff": "2025-10-20",
+ "generated_at": "2026-10-21T21:47:05+00:00",
+ "cutoff": "2025-10-21",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,46 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 3874110,
-   "name": "Root: Hirelings & Landmarks",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Oct 20, 2025",
-   "precision": "day",
-   "sort_key": 20251020,
-   "developers": [
-    "Dire Wolf"
-   ],
-   "publishers": [
-    "Dire Wolf"
-   ],
-   "dev_groups": [
-    "Dire Wolf"
-   ],
-   "pub_groups": [
-    "Dire Wolf"
-   ],
-   "collections": [
-    "Digital board games",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3874110/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3874110/f3f6187fe1e571f96ddb580220886d2264c5a856/capsule_231x87.jpg?t=1761071230",
-   "parent": {
-    "appid": 965580,
-    "name": "Root"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Positive",
-    "pct": 92,
-    "total": 12
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 2195910,
    "name": "Darkenstein 3D",
@@ -8164,8 +8124,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 75,
-    "total": 12
+    "pct": 77,
+    "total": 13
    },
    "leaving_ea": null
   },
@@ -8663,9 +8623,9 @@
    "has_demo": true,
    "blog_url": null,
    "review": {
-    "desc": "Positive",
-    "pct": 100,
-    "total": 32
+    "desc": "Very Positive",
+    "pct": 99,
+    "total": 89
    },
    "leaving_ea": null
   },
@@ -8702,9 +8662,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "8 user reviews",
-    "pct": 50,
-    "total": 8
+    "desc": "Mostly Negative",
+    "pct": 37,
+    "total": 19
    },
    "leaving_ea": null
   },
@@ -8739,9 +8699,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 1860
+    "desc": "Mixed",
+    "pct": 61,
+    "total": 5590
    },
    "leaving_ea": null
   },
@@ -8779,9 +8739,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "8 user reviews",
-    "pct": 50,
-    "total": 8
+    "desc": "Mixed",
+    "pct": 45,
+    "total": 49
    },
    "leaving_ea": null
   },
@@ -8819,9 +8779,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "9 user reviews",
-    "pct": 44,
-    "total": 9
+    "desc": "Mostly Negative",
+    "pct": 37,
+    "total": 84
    },
    "leaving_ea": null
   },
@@ -8857,7 +8817,11 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": null,
+   "review": {
+    "desc": "7 user reviews",
+    "pct": 100,
+    "total": 7
+   },
    "leaving_ea": null
   },
   {
@@ -8995,7 +8959,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4544310/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544310/c4b3cd027b650257299dbf0c1125c0472856144b/capsule_231x87.jpg?t=1790006392",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544310/c4b3cd027b650257299dbf0c1125c0472856144b/capsule_231x87.jpg?t=1792590508",
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
@@ -9178,32 +9142,37 @@
    "leaving_ea": null
   },
   {
-   "appid": 2409320,
-   "name": "Drill Keeper",
-   "type": "game",
-   "kind": "game",
+   "appid": 4241440,
+   "name": "Stellaris: Willpower",
+   "type": "dlc",
+   "kind": "dlc",
    "status": "upcoming",
-   "date_string": "2026",
-   "precision": "year",
-   "sort_key": 20269898,
+   "date_string": "Nov 23, 2026",
+   "precision": "day",
+   "sort_key": 20261123,
    "developers": [
-    "ShoulderByte"
+    "Paradox Development Studio",
+    "Abrakam"
    ],
    "publishers": [
-    "Hooded Horse"
+    "Paradox Interactive"
    ],
    "dev_groups": [
-    "Other developers"
+    "Paradox Development Studio"
    ],
    "pub_groups": [
-    "Hooded Horse"
+    "Paradox Interactive"
    ],
    "collections": [
-    "Strategy (general)"
+    "Strategy (general)",
+    "Matchsticks Picks"
    ],
-   "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87.jpg?t=1791314875",
-   "parent": null,
+   "url": "https://store.steampowered.com/app/4241440/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241440/5995fd9d365c0cd706ed7a558ffbd1a38968f063/capsule_231x87.jpg?t=1792590922",
+   "parent": {
+    "appid": 281990,
+    "name": "Stellaris"
+   },
    "has_demo": false,
    "blog_url": null,
    "review": null,
@@ -9430,7 +9399,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4544350/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544350/ae47c2aad453dc3b49b5966498770dbf225152f7/capsule_231x87.jpg?t=1789487790",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544350/ae47c2aad453dc3b49b5966498770dbf225152f7/capsule_231x87.jpg?t=1792590437",
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
@@ -9465,7 +9434,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4544320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544320/2d30306deeb13151496bc5bece8e6c8ca900765a/capsule_231x87.jpg?t=1789487785",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544320/2d30306deeb13151496bc5bece8e6c8ca900765a/capsule_231x87.jpg?t=1792590460",
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
@@ -9500,10 +9469,84 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4544340/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544340/bb933eb2277866ca3efd2b948fe119eeee1bffbc/capsule_231x87.jpg?t=1789487788",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544340/bb933eb2277866ca3efd2b948fe119eeee1bffbc/capsule_231x87.jpg?t=1792590448",
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4241450,
+   "name": "Stellaris: Scenario Pack 1",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Q1 2027",
+   "precision": "quarter",
+   "sort_key": 20270198,
+   "developers": [
+    "Paradox Development Studio",
+    "Forgotten Empires"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Paradox Development Studio"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4241450/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241450/8d5825cfd8352e0f0c1a503ab8263653545f9608/capsule_231x87.jpg?t=1792590974",
+   "parent": {
+    "appid": 281990,
+    "name": "Stellaris"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 4355700,
+   "name": "Stellaris: Scenario Pack 2",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Q1 2027",
+   "precision": "quarter",
+   "sort_key": 20270198,
+   "developers": [
+    "Paradox Development Studio",
+    "Forgotten Empires"
+   ],
+   "publishers": [
+    "Paradox Interactive"
+   ],
+   "dev_groups": [
+    "Paradox Development Studio"
+   ],
+   "pub_groups": [
+    "Paradox Interactive"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/4355700/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355700/55106c885ded10dfb256052ec155ca7dae632ae7/capsule_231x87.jpg?t=1792590977",
+   "parent": {
+    "appid": 281990,
+    "name": "Stellaris"
    },
    "has_demo": false,
    "blog_url": null,
@@ -9603,7 +9646,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4544360/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544360/aa13fa165752d5ab2bc1e85b8fc579bb54d299eb/capsule_231x87.jpg?t=1789487793",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544360/aa13fa165752d5ab2bc1e85b8fc579bb54d299eb/capsule_231x87.jpg?t=1792590434",
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
@@ -9638,11 +9681,43 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4544370/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544370/b1f0ca70952ec5fd93ddf2bac7e0a2f38e2cbe98/capsule_231x87.jpg?t=1789487796",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544370/b1f0ca70952ec5fd93ddf2bac7e0a2f38e2cbe98/capsule_231x87.jpg?t=1792590427",
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
    },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 2409320,
+   "name": "Drill Keeper",
+   "type": "game",
+   "kind": "game",
+   "status": "upcoming",
+   "date_string": "Q3 2027",
+   "precision": "quarter",
+   "sort_key": 20270798,
+   "developers": [
+    "ShoulderByte"
+   ],
+   "publishers": [
+    "Hooded Horse"
+   ],
+   "dev_groups": [
+    "Other developers"
+   ],
+   "pub_groups": [
+    "Hooded Horse"
+   ],
+   "collections": [
+    "Strategy (general)"
+   ],
+   "url": "https://store.steampowered.com/app/2409320/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87.jpg?t=1792518823",
+   "parent": null,
    "has_demo": false,
    "blog_url": null,
    "review": null,
