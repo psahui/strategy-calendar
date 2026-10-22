@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T21:47:05+00:00",
- "cutoff": "2025-10-21",
+ "generated_at": "2026-10-22T21:42:01+00:00",
+ "cutoff": "2025-10-22",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -56,273 +56,6 @@
  ],
  "items": [
   {
-   "appid": 2195910,
-   "name": "Darkenstein 3D",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Oct 21, 2025",
-   "precision": "day",
-   "sort_key": 20251021,
-   "developers": [
-    "Rowye"
-   ],
-   "publishers": [
-    "MicroProse Software"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "MicroProse"
-   ],
-   "collections": [
-    "Wargames"
-   ],
-   "url": "https://store.steampowered.com/app/2195910/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195910/capsule_231x87.jpg?t=1778141743",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 91,
-    "total": 1725
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 2958130,
-   "name": "Jurassic World Evolution 3",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Oct 21, 2025",
-   "precision": "day",
-   "sort_key": 20251021,
-   "developers": [
-    "Frontier Developments"
-   ],
-   "publishers": [
-    "Frontier Developments"
-   ],
-   "dev_groups": [
-    "Frontier Developments"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/2958130/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/767bbed48a0426d14562f4aba32bd30abefb79ec/capsule_231x87.jpg?t=1790687062",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 93,
-    "total": 14090
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3651190,
-   "name": "Jurassic World Evolution 3: Badlands Set",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Oct 21, 2025",
-   "precision": "day",
-   "sort_key": 20251021,
-   "developers": [
-    "Frontier Developments"
-   ],
-   "publishers": [
-    "Frontier Developments"
-   ],
-   "dev_groups": [
-    "Frontier Developments"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3651190/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651190/9f3454c0e8c81a2552e66df00bfc7462d4bf0f99/capsule_231x87.jpg?t=1773671707",
-   "parent": {
-    "appid": 2958130,
-    "name": "Jurassic World Evolution 3"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mostly Positive",
-    "pct": 79,
-    "total": 77
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3651200,
-   "name": "Jurassic World Evolution 3: Deluxe Upgrade Pack",
-   "type": "dlc",
-   "kind": "minor_dlc",
-   "status": "released",
-   "date_string": "Oct 21, 2025",
-   "precision": "day",
-   "sort_key": 20251021,
-   "developers": [
-    "Frontier Developments"
-   ],
-   "publishers": [
-    "Frontier Developments"
-   ],
-   "dev_groups": [
-    "Frontier Developments"
-   ],
-   "pub_groups": [
-    "Other publishers"
-   ],
-   "collections": [
-    "Strategy (general)",
-    "Matchsticks Picks"
-   ],
-   "url": "https://store.steampowered.com/app/3651200/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651200/ba05bfd85de16c8278892f949689df9e534e0ff4/capsule_231x87.jpg?t=1773671647",
-   "parent": {
-    "appid": 2958130,
-    "name": "Jurassic World Evolution 3"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 84,
-    "total": 80
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 532790,
-   "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Oct 21, 2025",
-   "precision": "day",
-   "sort_key": 20251021,
-   "developers": [
-    "The Chinese Room"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/532790/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532790/88ffb5c9f4564c0760c45e6e4de10ebf60b85a5f/capsule_231x87.jpg?t=1789993933",
-   "parent": null,
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 55,
-    "total": 13067
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 3992600,
-   "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2 - Expansion Pass",
-   "type": "dlc",
-   "kind": "minor_dlc",
-   "status": "released",
-   "date_string": "Oct 21, 2025",
-   "precision": "day",
-   "sort_key": 20251021,
-   "developers": [
-    "The Chinese Room"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/3992600/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992600/b215a2966123abda7ea87c0e5dbf54bf6fc01a9f/capsule_231x87.jpg?t=1781251352",
-   "parent": {
-    "appid": 532790,
-    "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "5 user reviews",
-    "pct": 80,
-    "total": 5
-   },
-   "leaving_ea": null
-  },
-  {
-   "appid": 1048511,
-   "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2 - Santa Monica Memories",
-   "type": "dlc",
-   "kind": "dlc",
-   "status": "released",
-   "date_string": "Oct 21, 2025",
-   "precision": "day",
-   "sort_key": 20251021,
-   "developers": [
-    "The Chinese Room"
-   ],
-   "publishers": [
-    "Paradox Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Paradox Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/1048511/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048511/6a154619b232aa5684eb2ac4da28d051efebee3f/capsule_231x87.jpg?t=1761062408",
-   "parent": {
-    "appid": 532790,
-    "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2"
-   },
-   "has_demo": false,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Negative",
-    "pct": 10,
-    "total": 127
-   },
-   "leaving_ea": null
-  },
-  {
    "appid": 1342690,
    "name": "Radiolight",
    "type": "game",
@@ -354,7 +87,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 92,
-    "total": 514
+    "total": 518
    },
    "leaving_ea": null
   },
@@ -544,7 +277,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 52,
-    "total": 606
+    "total": 608
    },
    "leaving_ea": null
   },
@@ -893,7 +626,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 69,
-    "total": 136
+    "total": 135
    },
    "leaving_ea": null
   },
@@ -2722,7 +2455,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 76,
-    "total": 313
+    "total": 314
    },
    "leaving_ea": null
   },
@@ -2907,7 +2640,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 72,
-    "total": 430
+    "total": 432
    },
    "leaving_ea": null
   },
@@ -3562,7 +3295,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 90,
-    "total": 941
+    "total": 946
    },
    "leaving_ea": null
   },
@@ -4251,7 +3984,7 @@
    "review": {
     "desc": "Very Positive",
     "pct": 87,
-    "total": 1401
+    "total": 1411
    },
    "leaving_ea": null
   },
@@ -4522,8 +4255,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mostly Positive",
-    "pct": 76,
-    "total": 842
+    "pct": 75,
+    "total": 850
    },
    "leaving_ea": null
   },
@@ -7197,8 +6930,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 622
+    "pct": 66,
+    "total": 638
    },
    "leaving_ea": null
   },
@@ -7273,8 +7006,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 67,
-    "total": 52
+    "pct": 65,
+    "total": 54
    },
    "leaving_ea": null
   },
@@ -7312,8 +7045,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 65,
-    "total": 17
+    "pct": 63,
+    "total": 19
    },
    "leaving_ea": null
   },
@@ -7576,7 +7309,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 59,
-    "total": 63
+    "total": 64
    },
    "leaving_ea": null
   },
@@ -7841,8 +7574,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 40,
-    "total": 205
+    "pct": 41,
+    "total": 209
    },
    "leaving_ea": null
   },
@@ -8049,8 +7782,8 @@
    "blog_url": null,
    "review": {
     "desc": "Mixed",
-    "pct": 51,
-    "total": 65
+    "pct": 49,
+    "total": 67
    },
    "leaving_ea": null
   },
@@ -8204,7 +7937,7 @@
    "review": {
     "desc": "Mixed",
     "pct": 48,
-    "total": 597
+    "total": 642
    },
    "leaving_ea": null
   },
@@ -8241,9 +7974,9 @@
    "has_demo": false,
    "blog_url": null,
    "review": {
-    "desc": "2 user reviews",
+    "desc": "3 user reviews",
     "pct": 100,
-    "total": 2
+    "total": 3
    },
    "leaving_ea": null
   },
@@ -8439,7 +8172,7 @@
    "review": {
     "desc": "Mostly Positive",
     "pct": 76,
-    "total": 33
+    "total": 38
    },
    "leaving_ea": null
   },
@@ -8928,6 +8661,42 @@
    "parent": {
     "appid": 3450310,
     "name": "Europa Universalis V"
+   },
+   "has_demo": false,
+   "blog_url": null,
+   "review": null,
+   "leaving_ea": null
+  },
+  {
+   "appid": 5362340,
+   "name": "Planet Coaster 2: Spooktacular Pack",
+   "type": "dlc",
+   "kind": "dlc",
+   "status": "upcoming",
+   "date_string": "Oct 29, 2026",
+   "precision": "day",
+   "sort_key": 20261029,
+   "developers": [
+    "Frontier Developments"
+   ],
+   "publishers": [
+    "Frontier Developments"
+   ],
+   "dev_groups": [
+    "Frontier Developments"
+   ],
+   "pub_groups": [
+    "Other publishers"
+   ],
+   "collections": [
+    "Strategy (general)",
+    "Matchsticks Picks"
+   ],
+   "url": "https://store.steampowered.com/app/5362340/",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5362340/c257e8fed3d690138f976d794a0bea1c310e516b/capsule_231x87.jpg?t=1792673989",
+   "parent": {
+    "appid": 2688950,
+    "name": "Planet Coaster 2"
    },
    "has_demo": false,
    "blog_url": null,
