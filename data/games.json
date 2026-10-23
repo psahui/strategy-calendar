@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T21:42:01+00:00",
- "cutoff": "2025-10-22",
+ "generated_at": "2026-10-23T21:28:20+00:00",
+ "cutoff": "2025-10-23",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -6400,11 +6400,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 65,
-    "total": 120
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -6591,11 +6587,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Positive",
-    "pct": 80,
-    "total": 40
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -6629,11 +6621,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 64,
-    "total": 39
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -6964,11 +6952,7 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Mostly Positive",
-    "pct": 76,
-    "total": 128
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -7036,7 +7020,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/3725980/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725980/f0d2c17b78fb8317c1678748908bf504ffbc5f33/capsule_231x87.jpg?t=1789487808",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725980/89b07ebac94f29d898313ea4892d15a81587b2ba/capsule_231x87.jpg?t=1792590282",
    "parent": {
     "appid": 949230,
     "name": "Cities: Skylines II"
@@ -7382,11 +7366,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 62,
-    "total": 21
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -7415,7 +7395,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/3407390/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/9f2ee6ecca69fa997206c328e095d77b431b0501/capsule_231x87.jpg?t=1791279113",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/9f2ee6ecca69fa997206c328e095d77b431b0501/capsule_231x87.jpg?t=1792743903",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -7614,11 +7594,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 52,
-    "total": 410
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -7656,11 +7632,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 62,
-    "total": 1144
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -7698,11 +7670,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Mostly Positive",
-    "pct": 72,
-    "total": 465
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -7740,11 +7708,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Mixed",
-    "pct": 64,
-    "total": 219
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -7773,7 +7737,7 @@
     "Matchsticks Picks"
    ],
    "url": "https://store.steampowered.com/app/5125950/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1790874158",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125950/dd7b3f1eef4c2e2da2256f7d6bcbaa3ebdb22c67/capsule_231x87.jpg?t=1792574620",
    "parent": {
     "appid": 2958130,
     "name": "Jurassic World Evolution 3"
@@ -7816,11 +7780,7 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Mostly Positive",
-    "pct": 71,
-    "total": 6868
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -8013,11 +7973,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Positive",
-    "pct": 89,
-    "total": 28
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -8053,11 +8009,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "3 user reviews",
-    "pct": 67,
-    "total": 3
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -8089,11 +8041,7 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Positive",
-    "pct": 85,
-    "total": 20
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -8130,11 +8078,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "2 user reviews",
-    "pct": 50,
-    "total": 2
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -8589,11 +8533,7 @@
    },
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "4 user reviews",
-    "pct": 100,
-    "total": 4
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -8621,15 +8561,11 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2295060/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1792210100",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/c060f4df90e23f39db22875fcf89d40a73a82e8f/capsule_231x87.jpg?t=1792778043",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
-   "review": {
-    "desc": "7 user reviews",
-    "pct": 86,
-    "total": 7
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -8972,7 +8908,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1447250/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1792006440",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1447250/0e9e681c9f74116a1f4f00a2141206dbbf96a1dc/capsule_231x87.jpg?t=1792743361",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9036,7 +8972,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/969330/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1791278922",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969330/985978b1bb836bf9b262c374143bdf42d7b306fe/capsule_231x87.jpg?t=1792743735",
    "parent": null,
    "has_demo": true,
    "blog_url": null,
@@ -9068,7 +9004,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2439030/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1791283374",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439030/ccb5b58810f136e085fa5f0cb7f69c0770a6debe/capsule_231x87.jpg?t=1792743374",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9485,7 +9421,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2409320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87.jpg?t=1792518823",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409320/089685f1b766d6da09a576b34ea5ef2de8ce4ed2/capsule_231x87.jpg?t=1792735986",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9549,7 +9485,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/4879420/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879420/bbc55495bb883a6d819b7f118469d1ebe3e9153a/capsule_231x87.jpg?t=1791555271",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879420/bbc55495bb883a6d819b7f118469d1ebe3e9153a/capsule_231x87.jpg?t=1792743931",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9581,7 +9517,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1537440/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1791279121",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537440/af2aab4fe5c31776301bd3b1a186057cb3b1557b/capsule_231x87.jpg?t=1792743910",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9613,7 +9549,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1490930/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1791284095",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490930/cba891fdd7f819076653cc1c8ddcb287d1840e56/capsule_231x87.jpg?t=1792743526",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9645,7 +9581,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1670650/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1791279144",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1670650/cdd7ff55c8270db7d2960f69e37c14415087b420/capsule_231x87.jpg?t=1792742997",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9677,7 +9613,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1672320/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1791284022",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672320/9c8ff9c6c89a643623d7160b5da93e229b69cf8e/capsule_231x87.jpg?t=1792743524",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9709,7 +9645,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/2189430/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87.jpg?t=1791279050",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189430/5306dcc8526c32451771cfa16039063b9a96843a/capsule_231x87.jpg?t=1792742969",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9774,7 +9710,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1727760/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1791550817",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1727760/098f5fd8d410b5de82f55c3261a4f0561cdeaa10/capsule_231x87.jpg?t=1792743377",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
@@ -9806,7 +9742,7 @@
     "Strategy (general)"
    ],
    "url": "https://store.steampowered.com/app/1777480/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1791278738",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777480/b3cd4dc2a84c113ec6f936dae2d0a79819d9902f/capsule_231x87.jpg?t=1792743720",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
