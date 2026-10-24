@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T21:28:20+00:00",
- "cutoff": "2025-10-23",
+ "generated_at": "2026-10-24T20:55:04+00:00",
+ "cutoff": "2025-10-24",
  "publisher_groups": [
   "Paradox Interactive",
   "Hooded Horse",
@@ -55,42 +55,6 @@
   "Matchsticks Picks"
  ],
  "items": [
-  {
-   "appid": 1342690,
-   "name": "Radiolight",
-   "type": "game",
-   "kind": "game",
-   "status": "released",
-   "date_string": "Oct 23, 2025",
-   "precision": "day",
-   "sort_key": 20251023,
-   "developers": [
-    "Krystof Knesl"
-   ],
-   "publishers": [
-    "Iceberg Interactive"
-   ],
-   "dev_groups": [
-    "Other developers"
-   ],
-   "pub_groups": [
-    "Iceberg Interactive"
-   ],
-   "collections": [
-    "Strategy (general)"
-   ],
-   "url": "https://store.steampowered.com/app/1342690/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342690/3a37eeea8dd75f4e3e1604dbe50d3498907a0c15/capsule_231x87.jpg?t=1772794468",
-   "parent": null,
-   "has_demo": true,
-   "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 92,
-    "total": 518
-   },
-   "leaving_ea": null
-  },
   {
    "appid": 2289750,
    "name": "Super Fantasy Kingdom",
@@ -6244,11 +6208,7 @@
    "parent": null,
    "has_demo": true,
    "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 85,
-    "total": 3693
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -6543,11 +6503,7 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Positive",
-    "pct": 87,
-    "total": 47
-   },
+   "review": null,
    "leaving_ea": {
     "date_string": "Nov 6, 2026",
     "precision": "day",
@@ -6838,11 +6794,7 @@
    "parent": null,
    "has_demo": false,
    "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 83,
-    "total": 23418
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -7437,11 +7389,7 @@
    "parent": null,
    "has_demo": true,
    "blog_url": null,
-   "review": {
-    "desc": "Very Positive",
-    "pct": 96,
-    "total": 199
-   },
+   "review": null,
    "leaving_ea": null
   },
   {
@@ -8145,7 +8093,7 @@
     "Wargames"
    ],
    "url": "https://store.steampowered.com/app/3031880/",
-   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1792406016",
+   "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/8416d25fdaea7768497e09b3e741b7f92024b9df/capsule_231x87.jpg?t=1792616215",
    "parent": null,
    "has_demo": false,
    "blog_url": null,
